@@ -1,7 +1,8 @@
 ---
 title: Rise of the GOO
 ---
-This is a test. I sure hope it works!
+Branwyn,
 
-### Sessions
-[[Session 1 - The Party Fights Sewer Rats]]
+I have left this website. Come back later if you want to meet up with me.
+
+~ Monty
