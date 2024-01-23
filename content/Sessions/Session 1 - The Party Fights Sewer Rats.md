@@ -1,3 +1,10 @@
+---
+tags:
+  - session
+published: 2022-09-09
+---
+
+
 Date - 9/9/22
 ### Logline
 *Five adventurers enter a city-wide competition in an attempt to have any wish granted. The group finds themselves exploring a sewer for their first challenge.*
