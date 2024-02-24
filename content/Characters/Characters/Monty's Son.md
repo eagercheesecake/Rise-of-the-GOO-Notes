@@ -4,8 +4,8 @@ tags:
 ---
 Not much is known about Monty's son. He assists Monty's business, and doesn't talk much, if at all.
 
-**First Seen:** Session 1
-**Status:** Alive
+- **First Seen:** Session 1
+- **Status:** Alive
 
 |     Character      | Relation |
 | :----------------: | :------: |

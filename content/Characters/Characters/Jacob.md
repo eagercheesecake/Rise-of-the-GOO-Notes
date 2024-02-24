@@ -4,8 +4,8 @@ tags:
 ---
 Jacob is a citizen of Montrissad who worked at the shop [[Gertrude Spugel|Gertrude]] visits to get her bear treats, and a player in the Amaris Games.
 
-**First Seen:** Session 1
-**Status:** Dead
+- **First Seen:** Session 1
+- **Status:** Dead
 
 |           Character           |     Relation      |
 | :---------------------------: | :---------------: |

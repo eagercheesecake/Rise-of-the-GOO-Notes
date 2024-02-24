@@ -4,11 +4,8 @@ tags:
 ---
 Monty MacMasters, which is likely a pseudonym, is a being that has appeared in many cities selling magical wares and artifacts. Not much concrete information about him is known.
 
-**First Seen:** Session 1
-**Status:** Alive
-
-Also known as:
-- 
+- **First Seen:** Session 1
+- **Status:** Alive
 
 |        Character        |  Relation   |
 | :---------------------: | :---------: |

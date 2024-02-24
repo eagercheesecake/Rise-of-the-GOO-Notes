@@ -4,8 +4,8 @@ tags:
 ---
 King Aslan is the lion king of Amaris. He is in charge of running this year's Amaris Games.
 
-**First Seen:** Session 1
-**Status:** Alive
+- **First Seen:** Session 1
+- **Status:** Alive
 
 |           Character           |     Relation      |
 | :---------------------------: | :---------------: |
