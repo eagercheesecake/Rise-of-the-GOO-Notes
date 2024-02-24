@@ -15,5 +15,5 @@ Not much is known about Monty's son. He assists Monty's business, and doesn't ta
 |  Session  |  Status  |
 | :-------: | :------: |
 | Session 1 | Appeared |
-### [[Session 1 - The Party Fights Sewer Rats]]
+### [[Session 01 - The Party Fights Sewer Rats]]
 Monty's son is running a street booth for Monty's business. [[Branwyn of Coryphea|Branwyn]] approaches him trying to sell her cloak, but he points her to Monty's shop.

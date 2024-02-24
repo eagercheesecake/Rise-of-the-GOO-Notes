@@ -14,5 +14,5 @@ King Aslan is the lion king of Amaris. He is in charge of running this year's Am
 | :--: | :--: |
 | Session 1 | Appeared |
 | Session 2 | Appeared |
-## [[Session 1 - The Party Fights Sewer Rats]]
+## [[Session 01 - The Party Fights Sewer Rats]]
 King Aslan announces this year's games will involve teamwork.

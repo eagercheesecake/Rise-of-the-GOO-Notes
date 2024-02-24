@@ -20,5 +20,5 @@ Also known as:
 | :-------: | :------: |
 | Session 1 | Appeared |
 | Session 2 | Appeared |
-### [[Session 1 - The Party Fights Sewer Rats]]
+### [[Session 01 - The Party Fights Sewer Rats]]
 Branwyn comes to Monty trying to sell her cloak. Monty tries to rip her off, but fails. Instead, he offers to sponsor her in the Games, promising her gold and treasures. She leaves to think on it, and Monty provides her a letter which will get her a room at the inn. The next day, she returns and accepts his offer.

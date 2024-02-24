@@ -15,7 +15,7 @@ Gertrude resides in the Forest of Throw, near Montrissad, where she runs a local
 |  Session  |  Status  |
 | :-------: | :------: |
 | Session 1 | Appeared |
-## [[Session 1 - The Party Fights Sewer Rats]]
+## [[Session 01 - The Party Fights Sewer Rats]]
 Gertrude comes to Montrissad to buy treats for her bears. In the treat shop, she meets [[Jacob]], who is working at the shop. He tells her [[King Aslan]] took all the treats for the Games. They both express frustration toward the king, and Gertrude convinces Jacob to join the Games and make something of himself.
 
 Gertrude proceeds to the inn to find a room, and questions some knights as to why the King bought out all the bear treats, guilting them with her age and blackmailing them. She learns the bears are being used in the melee. She decides with a coin flip to stay in Montrissad and save them. She goes to see the announcement of the Games, however, unable to afford a room at the inn, spends the night in the stables.

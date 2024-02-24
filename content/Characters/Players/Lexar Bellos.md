@@ -17,7 +17,7 @@ Lexar is a tiefling warlock, and a local to Montrissad, and a member of the Cult
 | :--: | :--: |
 | Session 1 | Appeared |
 | Session 2 | Appeared |
-## [[Session 1 - The Party Fights Sewer Rats]]
+## [[Session 01 - The Party Fights Sewer Rats]]
 Lexar tries to get to the stage where the games would be announced, wanting to be in the front of the crowd. On his way, he mediates a fight between a banker and an old man who had just crashed into each other, suggesting a game, culminating in the banker knocking the old man out.
 
 After seeing the announcement of the Games, Lexar goes to the inn to meet with [[Kaldrake Sootspot|Kaldrake]], promising to meet up with him the next day after the rest of the rules are announced to discuss strategy. The next day, upon learning they must form teams, the pair team up, and [[Moiloc Kodlaksdottër|Moiloc]] asks to join as well. The group proceeds to the docks to begin looking for sigils.

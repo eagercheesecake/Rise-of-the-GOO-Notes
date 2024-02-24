@@ -17,7 +17,7 @@ Branwyn is an half-elf ranger woman, and child of Mora, originally coming from C
 | :-------: | :------: |
 | Session 1 | Appeared |
 | Session 2 | Appeared |
-### [[Session 1 - The Party Fights Sewer Rats]]
+### [[Session 01 - The Party Fights Sewer Rats]]
 Branwyn finds [[Monty's Son]] on the streets of Montrissad, who points her to Monty to sell her cloak. On her way to Monty's, she is attacked by a teenage thief, and knocks him out, leaving him some gold as an apology. Monty tries to rip her off in the sale, but fails, and instead offers to sponsor her in the Games. Branwyn shows the letter to [[Jim MacMasters]] at the inn and gets a room.
 
 The next day, Branwyn returns to Monty and accepts his proposition. He tells her to call him if she needs anything. She returns to the inn and asks Jim where [[Moiloc Kodlaksdottër|Moiloc]] was, remembering her from the night before as a possible candidate for a teammate. He tells her she went to the docks, and she proceeds there, meeting up with Moiloc, [[Kaldrake Sootspot|Kaldrake]], and [[Lexar Bellos|Lexar]], asking to join their team.

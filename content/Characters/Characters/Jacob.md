@@ -13,5 +13,5 @@ Jacob is a citizen of Montrissad who worked at the shop [[Gertrude Spugel|Gertru
 |  Session  |  Status  |
 | :-------: | :------: |
 | Session 1 | Appeared |
-## [[Session 1 - The Party Fights Sewer Rats]]
+## [[Session 01 - The Party Fights Sewer Rats]]
 Jacob is convinced by Gertrude to join the Amaris Games to make something of himself.
