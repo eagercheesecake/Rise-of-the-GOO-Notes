@@ -4,7 +4,7 @@ tags:
 date: 2023-12-02
 ---
 ### Logline
-Kaldrake enters Fort Bosco to get what he needs for his journey to Lothric. Branwyn and Brewster struggle to look for the Resistance in a town which is hostile to non-humans.
+*Kaldrake enters Fort Bosco to get what he needs for his journey to Lothric. Branwyn and Brewster struggle to look for the Resistance in a town which is hostile to non-humans.*
 ### Synopsis
 Brewster, Branwyn, and Moiloc arrive to Lothric, and gain the attention of some beggars in the slums outside the border. Once entering, they gain papers, taking on disguises and fake names. Inside the city, they try and confront a shadowy figure which had been tailing them. Following it into the sewers, they find a dismembered arm, and decide to return to the surface, where they get a room at an inn and proceed to the bathhouse to wash off the sewers. They find a magical mask which can make the current wearer look like the previous wearer, and Brewster scares two children trying to get them to wear it. They eventually decide to use it on a man on the street, who notices and takes the mask. Branwyn and Brewster go to get it back, but end up killing the man and escaping into the sewers. Meanwhile, Kaldrake meets the Serene Mother inside Fort Bosco, where he is made to kill a non-human prisoner before collecting what he needs for his journey to Lothric. Jones is unable to resist the Serene Mother's commands, and Kaldrake ends up having to leave without him, instead taking Lortzgab, who he found as a prisoner about to be executed.
 # Day 32

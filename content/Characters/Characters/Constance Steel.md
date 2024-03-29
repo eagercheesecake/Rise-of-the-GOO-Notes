@@ -1,0 +1,1 @@
+Bald, scar over eye, bright steel armor

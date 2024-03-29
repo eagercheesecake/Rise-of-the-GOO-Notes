@@ -4,7 +4,7 @@ tags:
 date: 2023-12-31
 ---
 ### Logline
-Kaldrake rewrites history. Branwyn and Brewster find a familiar monster in the sewers of Lothric. Moiloc searches for the Resistance.
+*Kaldrake rewrites history. Branwyn and Brewster find a familiar monster in the sewers of Lothric. Moiloc searches for the Resistance.*
 ### Synopsis
 Kaldrake receives a vision of a drow named Gulvayas killing Martin and his father, awakening to find that reality has changed. He awakens to find he has arrived at Lothric, and he enters with Belnades. They proceed to Gwyneth's manor to meet with her. Moiloc continues to explore the city looking for the Resistance, and explores the Goldstrauss Bank. Branwyn and Brewster find corpse flayers in the sewers under Lothric, and eventually find a safe way back to the surface, where they reunite with Moiloc before bathing. While bathing, Moiloc discovers the shadowy figure following them is a spirit sent by Shurima, and she commands it to tell them how to proceed. It is able to provide an image of the Resistance's hideout, and Moiloc, Brewster, and Branwyn enter the secret passage within the house in the vision, finally reuniting with the Resistance.
 # Day 32

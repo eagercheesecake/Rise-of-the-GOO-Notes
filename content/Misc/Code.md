@@ -1,0 +1,2 @@
+- Navigate to quartz folder
+- `npx quartz sync --no-pull`
