@@ -2,7 +2,9 @@
 tags:
   - character
 ---
-Gwyneth is an elven wizard, and Kaldrake's sister
+![[Pasted image 20240328214204.png|inlL|250]]
+
+Gwyneth is an elven wizard, and Kaldrake's sister. 
 
 - **First Seen:** Session 1
 - **Status:** Alive

@@ -2,6 +2,8 @@
 tags:
   - "#character"
 ---
+![[Pasted image 20240328214725.png|250]]
+
 Shurima the Corpsemaker is an old man, worshipped by Moiloc. He is a keeper of secrets.
 
 **First Seen:** Session 1
