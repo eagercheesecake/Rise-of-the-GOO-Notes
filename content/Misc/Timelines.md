@@ -4,6 +4,7 @@
 - Moiloc hasn't seen elves before
 - The ydril circle is open facing the shore at Brasov
 - Ouroborus is seen being transformed by Shurima
+- Moiloc finds a mysterious mirror in the basement of a building in Dunn
 - Jones meets with Kaldrake on the High Pontate, and is left behind at Fort Bosco
 - Brewster and Branwyn kill one baker
 - Moiloc finds wanted posters for Branwyn and the child Brewster is disguised as
@@ -27,9 +28,12 @@ Timeline reset after Kaldrake is grabbed while following Belnades hideout
 - Lexar survives the Wavecrasher
 - Lortzgab is not seen at Fort Bosco
 - Moiloc has seen one elf before
+- The ydril circle is closed in Brasov
+- Ouroborus is seen being transformed by Shurima
+- Moiloc does not find the mysterious mirror in Dunn
 - Jones meets with Kaldrake on the High Pontate, and is left behind at Fort Bosco
-- Brewster and Branwyn kill both bakers
-- Moiloc finds a wanted poster for Violet
+- Brewster and Branwyn only kill one baker
+- Moiloc finds wanted posters for Violet and Branwyn
 - Gwyneth is not at her manor, Kaldrake teleports out of the manor after meeting Bisco
 - Belnades is not seen
 Current timeline

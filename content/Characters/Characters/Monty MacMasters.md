@@ -16,6 +16,13 @@ Monty MacMasters, which is likely a pseudonym, is a being that has appeared in m
 |  Session  |  Status  |
 | :-------: | :------: |
 | Session 1 | Appeared |
-| Session 2 | Appeared |
+| Session 2 |  Absent  |
+| Session 3 |  Absent  |
+| Session 4 | Appeared |
 ### [[Session 01 - The Party Fights Sewer Rats]]
 Branwyn comes to Monty trying to sell her cloak. Monty tries to rip her off, but fails. Instead, he offers to sponsor her in the Games, promising her gold and treasures. She leaves to think on it, and Monty provides her a letter which will get her a room at the inn. The next day, she returns and accepts his offer.
+
+## [[Session 04 - The Party Puts Out a Fire]]
+Monty is woken up by Branwyn, who tells him that the Hatched Pig Inn has burned down. He seems to be used to it, just one in a stream of attacks. However, he does start crunching numbers to figure out how this will affect his financials.
+
+[[Moiloc Kodlaksdottër|Moiloc]] enters, and Monty expresses discontent in how the Kodlak Isles have been treated, bonding with Moiloc. Monty attempts to make a deal with Moiloc that he'd help her if she gets him in conversation with her father, and Branwyn tries to warn her that this may not be a good idea. Moiloc agrees to the deal after Monty promises he's a friend to her country. Monty allows Moiloc and Branwyn to sleep in one of his spare rooms.

@@ -33,7 +33,7 @@ In the cells, Branwyn asks for the tabard, and the woman refuses. Moiloc uses Co
 Kaldrake awakes as [[Gulvayas Hakon|Gulvayas]] in a large office. Someone knocks, and he places the mask on his face, disguising himself as [[Martin Sootspot|Martin]]. An elven woman, [[Morrigan]], enters who looks a lot like Branwyn, wearing a tree pendant, a religious symbol. She says her preparations are ready, nobody will see it coming. The pair have crazy sexual tension. Their goal is to gain control of the Aetherium. Gulvayas takes a vial of blue liquid, telling Morrigan to drink it to prevent [[Baedos]]’s control. A gnome enters, saying the other High Mages have been gathered.
 
 A pluck of the red string attached to Kaldrake sends him to Gulvayas at a meeting with the High Mages. Gulvayas announces his plans to become Archwizard and Master of the Aetherium. The High Mages rise in protest, but Morrigan entangles them with black vines, and drinks the vial. The Mages coalesce into Gulvayas, dragged toward him with the same red string Kaldrake uses to interact with his visions. Morrigan collapses, confused, saying she loved Martin. Gulvayas removes his disguise as she dies, revealing his lie.
-# Day 32
+# Day 33
 ## Village
 Kaldrake appears at a foggy village. Humanoid, smokey forms shift in and out of reality. He proceeds to the inn, but still doesn’t see tangible people. He sees a sign at the crossroads and heads that way. The fog seems to coalesce around him as he moves. He realizes he is in the ethereal plane, between the material and astral planes. He recalls that only a wizard's planar portal would allow escape, but there should be a god that lays dominion over this plane who could help.
 

@@ -18,6 +18,7 @@ Lexar is a tiefling warlock, and a local to Montrissad, and a member of the Cult
 | Session 1 | Appeared |
 | Session 2 | Appeared |
 | Session 3 | Appeared |
+| Session 4 | Appeared |
 ## [[Session 01 - The Party Fights Sewer Rats]]
 Lexar tries to get to the stage where the games would be announced, wanting to be in the front of the crowd. On his way, he mediates a fight between a banker and an old man who had just crashed into each other, suggesting a game, culminating in the banker knocking the old man out.
 
@@ -30,3 +31,7 @@ They return to the inn, where [[Gertrude Spugel|Gertrude]] overhears them lament
 Upon arriving to the arena, Gertrude tells everyone that she saw the arena yesterday, noting it was a large, manufactured forest. Lexar and Branwyn decide to try and sneak into the arena through the back to rescue the bears without having to join the melee. Lexar shows a guard his behelit, which scares the guard into letting them in, and he is able to use his behelit to open a door in the back of the arena. They go through a series of puzzles behind the door. At one point Branwyn is charmed by a bucket of water, and Lexar dunks her head into the bucket to break the trance, and in another room Lexar is downed in a test of common sense and Branwyn saves him. After the puzzles, they reach a room in the arena where they find a king's seal, and proceed to the stands of the arena.
 ## [[Session 03 - The Party Saves the Bears]]
 Branwyn and Lexar watch the melee from the stands, getting lizards on a stick as a snack. Once the others win, they toss some lizards down to them in celebration. The group then returns to the inn for the night.
+## [[Session 04 - The Party Puts Out a Fire]]
+Lexar returns to his house for the night, with the seal he and Branwyn won. His loud neighbors keep him up. In the middle of the night, Kaldrake arrives, yelling through the door that he has Pine, and Lexar lets them in. Gertrude arrives soon after, and Lexar and Kaldrake try to hide to keep her from noticing they're home, but she catches them and they let her in. She steals Lexar's bed.
+
+A little orphan boy arrives soon after, telling the trio to go to [[Monty MacMasters|Monty's]] if they every want to see their friends again. Thinking this is a threat, they go to Monty's, but he just tells them that their friends are staying there, so they return to Lexar's house, planning to return in the morning.

@@ -17,6 +17,7 @@ Gertrude resides in the Forest of Throw, near Montrissad, where she runs a local
 | Session 1 | Appeared |
 | Session 2 | Appeared |
 | Session 3 | Appeared |
+| Session 4 | Appeared |
 ## [[Session 01 - The Party Fights Sewer Rats]]
 Gertrude comes to Montrissad to buy treats for her bears. In the treat shop, she meets [[Jacob]], who is working at the shop. He tells her [[King Aslan]] took all the treats for the Games. They both express frustration toward the king, and Gertrude convinces Jacob to join the Games and make something of himself.
 
@@ -33,3 +34,11 @@ Upon entering the arena, they see it has changed to a large area of water with a
 The group takes down a couple other ships on their way to the island, and Gertrude sets the island on fire when they land. She finds druidic messages that point underground, and Gertrude has Moiloc dig in the designated spot, exposing a cave. Upon entering, they find a [[Pine|bear cub]] with a very injured mother. Gertrude saves the cub, and has Kaldrake put the mother out of her misery. Continuing down the cave, they find a ladder leading to the top of the tower.
 
 At the top, the trio touches a flag which teleports them back to the entrance. They watch the tower crumble on the burning island, and see the last names disappear from the board listing the living players, including Jacob's name. Gertrude mourns Lexar and Branwyn before seeing them cheering her on from the stands. The group is awarded with a king's seal for winning, and each person gets to take an item from the treasure room. Gertrude gets Glasses of the Eagle, which increases her sight. The group returns to the inn, and Gertrude and the bear, which she names Pine, sleep in Moiloc's room.
+## [[Session 04 - The Party Puts Out a Fire]]
+Gertrude wakes up after being shot by a paralysis dart. She is unable to move while Moiloc defeats the attacker and takes Pine. After the paralysis wears off, Gertrude descends into the tavern and finds the inn burning down, filled with attackers. She joins the others, including [[Jim MacMasters|Jim]], with fending off the attackers, and heals Jim after he collapses. She takes Pine back from Moiloc.
+
+Kaldrake is able to break a window to escape. Gertrude gives Pine to Kaldrake, asking him to protect Pine, and he leaves. Gertrude leaves through the window after checking in with the others, to find Kaldrake already gone. She also notices that no inn patrons, guards, or citizens seem to be nearby. She uses skywriting to write "Fire, nobody leaving inn, no guards either. Suspicious! Sincerely, Gertrude." This causes some guards and citizens to arrive and help put out the fire.
+
+While putting out the fire, citizens tell Gertrude that something like this happens every Games. Gertrude notices the people have cold, dead faces. However, she is unable to remember any of this experience after the fire is put out and the citizens return to sleep. She decides to go to Lexar's house to sleep for the night.
+
+Gertrude arrives at Lexar's, and Lexar and Kaldrake try to hide to keep her from noticing they're home, but she catches them and they let her in. She steals Lexar's bed. A little orphan boy arrives soon after, telling the trio to go to [[Monty MacMasters|Monty's]] if they every want to see their friends again. Thinking this is a threat, they go to Monty's, but he just tells them that their friends are staying there, so they return to Lexar's house, planning to return in the morning.

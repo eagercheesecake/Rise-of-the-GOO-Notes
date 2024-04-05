@@ -18,6 +18,7 @@ Kaldrake comes from Martin's Isle, from a long bloodline of powerful elven wizar
 | Session 1 | Appeared |
 | Session 2 | Appeared |
 | Session 3 | Appeared |
+| Session 4 | Appeared |
 ## [[Session 01 - The Party Fights Sewer Rats]]
 Kaldrake gets to the inn in Montrissad and reserves a room. After the announcement of the Games, he meets with [[Lexar Bellos|Lexar]] at the inn, since Gwyneth had sent Lexar a letter asking him to protect Kaldrake. They agree to cooperate, and when the rules are announced, quickly decide to form a team. Soon after, [[Moiloc Kodlaksdottër|Moiloc]] asks to join the team as well, and is accepted. Lexar suggests the group begins by searching the docks, as he had noticed some knights there in the previous days.
 
@@ -32,3 +33,11 @@ Upon entering the arena, they see it has changed to a large area of water with a
 The group takes down a couple other ships on their way to the island, and Gertrude sets the island on fire when they land. She finds druidic messages that point underground, and Gertrude has Moiloc dig in the designated spot, exposing a cave. Upon entering, they find a [[Pine|bear cub]] with a very injured mother. Gertrude saves the cub, and has Kaldrake put the mother out of her misery. Continuing down the cave, they find a ladder leading to the top of the tower.
 
 At the top, the trio touches a flag which teleports them back to the entrance. They watch the tower crumble on the burning island, and see the last names disappear from the board listing the living players. The group is awarded with a king's seal for winning, and each person gets to take an item from the treasure room. Kaldrake gets Bracers of the Ogre, which increases his strength. The group returns to the inn for the night.
+## [[Session 04 - The Party Puts Out a Fire]]
+Kaldrake wakes up after being shot by a paralysis dart, unable to move. The attacker stabs Kaldrake repeatedly, but the pain frees him from his paralysis. Kaldrake purees the attacker with his morning star. Branwyn comes to check on him, and the pair smell burning, and go downstairs.
+
+They find the tavern burning down and filled with more attackers. Kaldrake fights his way through a few attackers, and eventually breaks a window and exits the building through it. Gertrude hands Pine to Kaldrake, telling him to keep Pine safe. Before Gertrude exits the building, Kaldrake sees some thieves leaving into an alleyway with a sack and decides to follow them.
+
+Kaldrake and Pine follow the thief down an alley and into a warehouse. In the entrance, he finds many burlap sacks. He opens one, and finds it full of freshly-harvested hearts. He opens a second bag and finds the same. He continues into the next room to find three thieves with their hoods down, revealing green skin and sharp teeth, feasting on a body. Kaldrake leaves the warehouse without being noticed, and sits in the alley to collect himself. He sees a message from Gertrude in the sky noting that the Inn is on fire, but sighs as it doesn't help him. Kaldrake decides to go to Lexar's house to stay the night and recover from the night.
+
+Kaldrake arrives at Lexar's house, yelling through the door that he has Pine, and Lexar lets them in. Gertrude arrives soon after, and Lexar and Kaldrake try to hide to keep her from noticing they're home, but she catches them and they let her in. She steals Lexar's bed. A little orphan boy arrives soon after, telling the trio to go to [[Monty MacMasters|Monty's]] if they every want to see their friends again. Thinking this is a threat, they go to Monty's, but he just tells them that their friends are staying there, so they return to Lexar's house, planning to return in the morning.
