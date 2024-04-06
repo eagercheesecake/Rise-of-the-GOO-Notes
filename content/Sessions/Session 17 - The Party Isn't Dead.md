@@ -1,0 +1,88 @@
+---
+tags:
+  - session
+date: 2024-04-05
+---
+# Day 34
+## Lothric
+Kaldrake and the [[Styx|pilgrim]] approach the walls of Lothric. As they approach, Kaldrake suddenly noticed that the pilgrim is gone. Kaldrake looks at the paper the pilgrim had given him, and finds it’s a map to a house in the gold district. He hears muffled screams from the slums, and notices some of the nearby shacks have their doors bashed open.
+
+In one of the houses, he sees blood, viscera, and detached limbs. In the middle of the room is a corpse tender, shoving body parts into itself. It shrieks at Kaldrake.
+
+> [!danger] Fight
+> Kaldrake attacks the corpse tender with his battle axe, cutting off one of its mandibles. It screams, making Kaldrake’s stomach churn, and he misses his next attack. He attacks again, cutting off a bit of its head. The corpse tender attacks, and Kaldrake ripostes, killing it.
+
+The corpse tender’s guts spill onto the floor, and Kaldrake, being squeamish, throws up. He leaves, and sees another house that has been broken into. He tries to sneakily look into it, hears more squelching, and gags. He decides to leave for the front gate and try to enter Lothric again.
+
+As he approaches the gate, he notices it is shut. The guards outside are standing defensively, as if something has happened. Kaldrake shows them his papers and they let him in, saying they’re defending against the monsters. Kaldrake says he had killed one, and points them to where the corpse is. He asks if he can help, they say they won’t accept help from a pansy elf. Kaldrake says he’ll have them killed, they say they won’t respect him since Gwyneth hasn’t been seen in weeks. Kaldrake says to respect these nuts, and this intimidates the guards, and they apologize.
+
+Kaldrake hears the church bells ring as he enters, but nobody comes out. He decides to enter the cathedral, met with silence. He notices shadows in the alleyways watching him. The fountain in the cathedral is not running. On the walls next to the doors of the cathedral are nailed two corpse eaters, still alive. He opens the doors into an empty cathedral. One [[Simon|bald figure]] at the end of the cathedral is on his knees in front of the statue of Eru, wearing a hat and white robes.
+
+Kaldrake notices the eight stained glass windows tell a story. He sees a tiered city, with walls stacked on top of each other. In the next window is the city crumbling. Next, a throne that is empty, then shattered. The other side shows eight figures surrounding a globe? Then sixteen. Then the figures meld together into two. The last window shows a faceless being.
+
+Kaldrake approaches the figure, and notices his feet are cut up. Kaldrake sits in a pew and prays to Eru. He feels a warmth envelop his body as Eru blesses him. Kaldrake mentions that nobody else is probably coming, and the figure speaks up, saying it is likely due to the zombies, and that Eru must be very important to Kaldrake since he made his way to the cathedral. The figure says the zombies just appeared last night, and people are saying they came from the sewers. Kaldrake mentions that’s he’s a Sootspot, looking for Gwyneth after she left weeks ago. Kaldrake asks about the service, and the figure says there won’t be service for a while. Pontiff Sulyvahn went missing the last night, at the same time the zombies emerged from the sewers, taking hundreds of people. Some of the zombies are smarter than the mindless drones roaming around, and it’s possible that they could target Sulyvahn. Kaldrake and the figure discuss what may have happened, and the figure mentions that the Advisor of Strength may know.
+
+The man introduces himself as Simon, one of the cardinals. Kaldrake notices he isn’t wearing garb typical of a cardinal, but also notices that he doesn’t seem to care that much that Kaldrake is an elf. Simon leads Kaldrake through the Cathedral, down a stone hallway, and into an octagonal room. In the center of the room is a pedestal with a basin of water on it. Simon says he will leave, and suggests Kaldrake look into the water. He leaves, locking the door behind him.
+
+Kaldrake remembers that this is a reflection room, a place where faithful go to seek answers from their god. The basins are made out of special rock only found in Aurul Mountains, where Whitehall is found. Occasionally people get lost in the visions and drown, or are possessed. He dunks his head into the water.
+## Resistance Hideout
+Branwyn and Moiloc wake up to screams, hearing Feris yelling to keep something out. They get up and leave their room, and Brewster leaves his lab as well. In the main area, several tents have been torn down. There are bloody drag marks on the ground. One teenage rebel is breathing heavily against the wall, clutching an open wound. Branwyn uses Cure Wounds on the rebel, and he stabilizes. He tells them to hurry, that corpse eaters overran the base. They took the children, into the depths of the sewers.
+
+They continue to the entrance to the sewers and see Feris decapitate a corpse eater. He is missing some fingers on his hand, and is surrounded by a handful of dead rebel members. On the floor are also a couple of dead corpse eaters and tenders, and a corpse eater that was too big to get in, hacked to pieces, same as the corpse gollum. Streak marks of blood head into the sewers. Moiloc approaches Feris, who is leaning on his sword with all of his weight, and Lays Hands on him to heal him. He thanks her, and says to check on the prisoners. On their way to the prisoners, Brewster notes that the streaks of blood is heading in the direction of the room with crates of blood and viscera.
+
+In the cell, there is a corpse eater eating the boy, and the woman is alive, but panicking. 
+
+> [!danger] Fight
+> Branwyn and Moiloc attack the corpse eater with their weapons. Brewster casts Chill Touch, but misses. Moiloc misses her next attack, and Branwyn misses her first attack, but manages to shoot it for her second, killing it.
+
+Moiloc helps the woman up. She tells the woman to get out while she can, and Brewster tells Moiloc to hold off, motioning for her to exit the cell. When she does, Brewster closes the door. Moiloc says she’ll let her out if she gives them information, and she giver her a small map pointing to a loose stone in the Cathedral fountain.
+
+The group proceeds into the sewers, following the blood trails, into a dead end. There is a door on their left, and the room appears to be an entrance chamber. Moiloc puts her ear on the door, but doesn’t hear anything. She tries to ram it open, but it doesn’t budge. She steps back and runs into it, and it doesn’t open. Branwyn offers Moiloc a hand axe, but she says she wants to try one more time. She takes a running start, and breaks it down.
+
+On the other side of the door is a rickety bridge leading to a giant fort in the sewers. Brewster and Moiloc notice something is off about the fortress. Branwyn notices sigils carved into the stone, but doesn’t recognize them. Brewster can’t recognize them either, but is able to confirm that the bridge is sturdy. It seems too sturdy for an area like this. The area is also lit, so Moiloc can see, and leads the way across the bridge. She looks down, and cannot see the bottom of the pit. Brewster follows, and Branwyn tails the group. This pit reminds Brewster of Whitehall, to the point where Brewster thinks this rock feature can’t be in Lothric. Branwyn notes that vines and stonework don’t look Wallachian.
+
+On the right is a door, and a ladder leading down to a smaller rampart, where there are two tents. Moiloc uses Divine Sense and doesn’t sense any undead. Brewster knows they are below the castle in Lothric, Castle Blackrock., but there should be a dungeon here.
+
+Brewster and Moiloc proceed to the tents, and notice the fire pit is still warm. In one tent is a fur rug, a wooden shelf with some herbs, and a book. The other tent has only a sleeping bag. Brewster looks into the book. It’s a journal, but the clasp is locked. It seems very old, and they decide to take it with them. In one of the herb vials is a ring. The vial contains crushed petals, and no matter how much he shakes it, it sits on the top. It is made out of a carved piece of wood. Brewster takes the cork off the bottle, and puts in his right ring finger. It slides up his finger and begins to squeeze. Brewster calls Moiloc, and asks her to pull it off. The withered finger separates, the bone disconnects, and it falls onto the ground and withers away.
+
+The flowers are griffon lily, native to Coryphea, and can prevent rot. Brewster takes them, and uses a cup to scoop up the ring. Moiloc checks both doors, and they are locked. Brewster shows Branwyn the flowers from Coryphea, and asks her not to ask about the finger. Moiloc says the finger into the wind. Branwyn identifies the petals, but has no additional information.
+
+Moiloc opens the nearby door to see a seemingly endless hallway. She then tries to knock down one of the doors, but it seems far too sturdy. The other is rotten and falls of easily. Inside in a storeroom. Most food in the room is mid-rot, but Moiloc finds a small, pristine box, and finds a bright purple, pristine dagger, made of solid amethyst. The pommel has a face on it. She wraps it in traveling clothes, and tells the others that she found nothing. Branwyn notices that she is lying.
+
+Brewster notices Illusion magic - everywhere. Even the trio has an aura of illusion magic. However, the blood trail is definitely real. The long hallway is narrow. Moiloc leads, followed by Brewster, Puck, and Branwyn. Once Branwyn enters, the door disappears.
+## Lothric
+Kaldrake presses his face into the water. He feels himself floating in space, hanging from the roof of a cavern. There is a purple crystal chained to the ceiling of the cavern. He pulls back, and sees a flooded underground city. The crystal is above a state building. He phases up, through the ceiling, and notices he is above brown mountains - forest to the south, desert to the east.
+
+Kaldrake reawakens from the basin, and sputters, having breathed in some of the water, He feels himself being drawn back to the basin, but is able to resist the charm. However, he feels like he’ll learn more if he looks back in. He puts his head back into the basin, and sees Grima’s Grove, although he doesn’t recognize it. It is burning, with flamingos on the ground, and Grima’s body. An old woman steps out of the house. Kaldrake is pushed to a new scene, and sees his friends, walking through a long cave tunnel, going down. He hears the beating of drums and smells the decaying of flesh. Kaldrake then is taken to a waterfall area, and sees the cave entrance, then the Lothric sewers, then back to the basin. He launches up, distraught that he has to return to the sewers.
+
+The door to the reflection room is now unlocked, and Simon is gone. Kaldrake thanks him anyway, hoping he can hear, and beelines to the sewers. On his way out, he thanks the Eru statue. He makes his way into the sewers, and across the bridge, dropping a ring into the pit as he passes. He doesn’t hear anything as it falls.
+
+He stops by both of the tents. The tent that once only contained a bedroll, also now contains a chest. He recognizes the lock, and fits the key he took from Gwenyth’s room. Inside is two potions of greater healing, a scroll of Disintegrate, and a scroll of Greater Invisibility. Also inside is a letter addressed to him. He unfurls the letter, and feels as if he’s being sucked in. He crumples the letter, and feels the magic break. Unfurling it again, he finds a Charm sigil, meant to keep him in place for a considerable amount of time. He proceeds to the long cavern. He yells out the names of the others, but hears no response.
+## Hallway
+Branwyn feels that they are getting lower as they proceed down the hallway, and feels like they’ve gone in circles. After a while, the hallway begins to widen, and they begin to hear drums. Branwyn recognizes them as ritual drums, but can’t place the exact ritual. They proceed, and Moiloc finds that a wall appears in front of her. A wall also appears behind the group. Brewster notices steam coming off the ground, and the room is beginning to boil. Brewster points out a hatch on the ceiling, and the room returns to normal. The front wall falls and reveals a vast ritual room, full of kneeling corpse eaters facing a pedestal, and chanting hooded figures. In the corner is a regal-looking priest, in an opulent bejeweled priest, chained to the pedestal: Pontiff Sulyvahn.
+
+Above Sulyvahn is Lexar. His horns have grown, and he is holding a large dagger as large as his forearm. He has a new goatee. The blood trail goes to the pedestal, and around the Pontiff is a pile of corpses, at least a thousand. A few are freshly bleeding, many tiefling children.
+
+Branwyn notices a stone bridge which seems to lead back into the sewers. Moiloc suggests they leave, saying they can’t take all these corpse eaters. Brewster mentions that in order to stop they ritual, they don’t need to take on all the monsters - just Sulyvahn.
+
+Branwyn shoots at Sulyvahn, and is on path to hit Sulyvahn dead center. However, it bounces off of a field of force. Lexar locks gaze with Branwyn, and she hears him in her mind saying she better start running. Moiloc immediately casts Fireball at the horde of corpse eaters, taking out a good thirty of them. Lexar stabs his dagger into the Pontiff’s chest, and a magical explosion blows the trio into the wall. The cavern begins to crumble, and a green smoke begins to engulf Lexar. Being bashed into the wall massively wounds the trio. Kaldrake feels the ground shake beneath his feet.
+
+Lexar grows into a being, 20 feet tall, and smiles at the group. He turns to smoke, and permeates through the rock above him. The corpse eaters shamble to their feet, and begin to swarm the party. The group runs back down the hallway.
+
+Branwyn casts Spike Growth on the hallway behind them. They are barely slowed down. Brewster casts Web to slow them further. Branwyn considers causing a cave-in, which could be done by Fireball, and tells Moiloc to cast it. She casts it, and the group hears rocks crumble, but the rest of the cave begins to crumble as well. Kaldrake also notices this on his end, and skids to a stop, turning around and running the other way. Moiloc uses her immovable rod to support the cave, and the cave-in stops at that point.
+
+Kaldrake escapes the cave, and crosses the bridge, as she hears Moiloc say goodbye to her immovable rod. Green smoke begins to fill the cavern, and everyone feels something clamp on their head and begin to crush them. Moiloc is stopped on the bridge, unable to move. She is hoisted into the air, lifted up, as a clawed, purple hand materializes around her head. A giant Lexar fills the cavern, beaming at them. He laughs, saying this is fun, and Moiloc screams that she’s always hated him, stabbing him in the hand. Moiloc begins losing consciousness. Branwyn fires an arrow, and it goes wide. Lexar’s laugh fills the cavern, mocking her.
+
+Brewster realizes that that Lexar has become an aspect of Olidamuru. At this point, there’s not much they can do. Kaldrake says she’ll give him her heart. Lexar says he knows he doesn’t have one, and he’s not even a real elf. He doesn’t even have a soul. He shouldn’t exist. Lexar snaps his fingers, and Kaldrake disappears.
+## Martin’s Isle
+Kaldrake wakes back up in his childhood bed.
+## Fortress
+Lexar’s hand grips Moiloc’s head tighter and tighter. Lexar mentions that he’s bored, and says they can have Moiloc back, if they do something for him. He snaps Kaldrake back. He says he’ll free her if they bring him the Queen. Branwyn suggests a better trade being something they do willingly. She admits she’s a green dreamer, which seems to amuse Lexar. She mentions that she has a ring, given to her by a kind man, and offers to give it to him. He would be able to reap the chaos that ensues knowing he caused it, and that the demise was self-inflicted, as she agreed to it.
+
+Lexar asks her to take it off and put it back on, and he’ll give her back. Branwyn asks if she’ll be returned safely, and he is shaky about his response.
+
+Branwyn takes the ring off, and the sound of laughter fills the cavern. Her head begins to pound, and she hears Mora’s voice, saying she’s coming for her. Lexar seems satisfied, and throws Moiloc at the group. Kaldrake grabs Moiloc before she can slip into the cavern, and pulls her up. Lexar laughs, saying he has some business to attend to, and he disappears.
+
+The castle begins to collapse above them, and the group runs out. They return to the Rebel hideout. In the lobby is Feris, tending to someone’s wounds. Violet is there, having lost an arm, as are Gorm and Tarren. They return to the dorms. Branwyn is crying, Moiloc is sure Kaldrake is a hallucination. Brewster casts Detect Magic to confirm Kaldrake is real, and he tells them everything.
+
+Branwyn cries as she realizes Mora killed Grima. Moiloc can tell Shurima is listening. Brewster is very familiar with the Hakkon family. He knows the monks of Whitehall fight the Hakkon. However, he doesn’t recognize the name Gulvayas. She tells Branwyn that Gwyneth reacted to hearing her name. She also tells Brewster about the portal to Whitehall and Daphne.
