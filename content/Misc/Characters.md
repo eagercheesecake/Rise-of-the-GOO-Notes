@@ -1,6 +1,4 @@
 Below are characters vaguely grouped in order of appearance. Characters may be found in more than one category as appropriate. Categories are collapsible.
-
-For characters grouped by name, see [[Characters]].
 # General
 ## Player Characters
 [[Branwyn of Coryphea]]
