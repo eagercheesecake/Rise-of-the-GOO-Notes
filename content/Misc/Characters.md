@@ -15,6 +15,7 @@ Below are characters vaguely grouped in order of appearance. Characters may be f
 [[Sekolah]]
 ## Other Recurring Characters
 [[Gulvayas Hakon]]
+[[Gwyneth Sootspot]]
 [[Martin Sootspot]]
 [[Mora]]
 [[Shurima the Corpsemaker]]
