@@ -19,7 +19,9 @@ Branwyn is an half-elf ranger woman, and child of Mora, originally coming from C
 | Session 2 | Appeared |
 | Session 3 | Appeared |
 | Session 4 | Appeared |
-### [[Session 01 - The Party Fights Sewer Rats]]
+| Session 5 | Appeared |
+| Session 6 | Appeared |
+## [[Session 01 - The Party Fights Sewer Rats]]
 Branwyn finds [[Monty's Son]] on the streets of Montrissad, who points her to Monty to sell her cloak. On her way to Monty's, she is attacked by a teenage thief, and knocks him out, leaving him some gold as an apology. Monty tries to rip her off in the sale, but fails, and instead offers to sponsor her in the Games. Branwyn shows the letter to [[Jim MacMasters|Jim]] at the inn and gets a room.
 
 The next day, Branwyn returns to Monty and accepts his proposition. He tells her to call him if she needs anything. She returns to the inn and asks Jim where [[Moiloc Kodlaksdottër|Moiloc]] was, remembering her from the night before as a possible candidate for a teammate. He tells her she went to the docks, and she proceeds there, meeting up with Moiloc, [[Kaldrake Sootspot|Kaldrake]], and [[Lexar Bellos|Lexar]], asking to join their team.
@@ -39,3 +41,19 @@ They find the tavern burning, and filled with more attackers. Branwyn and the ot
 The passage leads them to [[Monty MacMasters|Monty's]] office. Branwyn notices that the long hallway seems to have changed since the last time she was there, with doors in different positions. In the actual office, Branwyn tries to look around and gain intel on Monty, but gets charmed by a gem on display. Jim frees her by throwing a paperweight at her, telling her it's an item Monty uses in his negotiations. Branwyn asks for Monty, and Jim points to the door.
 
 Branwyn wakes up Monty and tells him about what happened. Monty attempts to make a deal with Moiloc that he'd help her if she gets him in conversation with her father, and Branwyn tries to warn her that this may not be a good idea. Moiloc agrees to the deal after Monty promises he's a friend to her country. Monty allows Moiloc and Branwyn to sleep in one of his spare rooms. Branwyn and Moiloc find shards of a mirror in Monty's office, but are unable to identify what they are, other than them being magical.
+## [[Session 05 - The Party Explores a Castle]]
+Teddy & the Roosevelts reunite at Monty's before leaving to turn in their seal. On their way, they find someone faking a station to turn in the seals and confront them, although they are able to escape. They successfully turn in the seal from the puzzle dungeon.
+
+The group decide to find an inn for the night. Upon arriving, [[Rynn]] steals money from Moiloc. Lexar, Kaldrake, and Branwyn give chase and corner her, but are unable to find what she had stolen, and let her go. Moiloc reveals she is a princess to the innkeeper and is able to get a free room, as the inn kicks [[Mayor McCheese]] out of his current room. Gertrude, Branwyn, and Kaldrake leave to find Gwyneth to remove Gertrude's curse.
+
+In Gwyneth's room, Kaldrake is sucked into a mysterious portal. Branwyn tells Gertrude to tell the others to send help before jumping into the portal herself. Kaldrake and Branwyn appear on the other side in a prison cell. The door is open, but explosive blasts are emanating through the crumbling castle. A guard tells them the drow are attacking, trying to kill Martin. They take down drow attackers, but the drow recognize Kaldrake as an elf. Branwyn disguises herself as a drow, and smears blood on Kaldrake, in order to disguise them as a drow taking an elven prisoner.
+
+They proceed to Kaldrake's parents' room, where more attackers nearly kill Branwyn. Kaldrake kills the attackers, and is able to find healing potions and bring her back to health. They find a teleportation mirror, and use it, reappearing in Monty's office. Branwyn searches the office, finding a letter saying there is danger in Phaeros, and stating that Mora has begun her move. This surprises Branwyn, who had thought that Mora had left this plane. Moiloc, Lexar, and David return at the same time Branwyn and Kaldrake do. The group takes in their opponents and head to their room.
+## [[Session 06 - The Party Has a Feast]]
+Branwyn, Kaldrake, and Gertrude decide to go to the chapel to see if they can remove Gertrude's curse and restore her memories. In the chapel they meet [[Father Sansor]], who says Gwyneth has been gone for a week, and directs them to her friend, [[Goro Hattori|Goro]]. Goro tells them she left for Martin's Isle, and gives them a key to her office. They return to the chapel and find the door is locked.
+
+After reuniting, Teddy & the Roosevelts sneak back into Gwyneth's tower. They find a keyhole on the bedframe in her room that causes the bed to ascend into potion room. Branwyn finds that Gwyneth had been keeping notes on Mora.
+
+The group proceed to the pre-game feast. The dessert of the feast turns out to be poisoned, causing the group to become sick.
+
+Branwyn escapes the feast, fighting the attacking guards on her way out, and makes her way to Gwyneth's tower, meeting up with Lexar, Kaldrake, Gertrude, Contigo, and Lortzgab. They jump out of the window to escape the corpse eaters seen overrunning the castle, landing in the moat, and returning to the Montrissad streets.

@@ -11,7 +11,7 @@ Moiloc is a princess from the Kodlak Islands. She has come to Montrissad on a di
 |              Character               | Relation |
 | :----------------------------------: | :------: |
 |                Kodlak                |  Father  |
-| [[Shurima the Corpsemaker\|Shurima]] | Sponsor  |
+| [[Shurima the Corpsemaker\|Shurima]] |  Patron  |
 
 |  Session  |  Status  |
 | :-------: | :------: |
@@ -19,6 +19,8 @@ Moiloc is a princess from the Kodlak Islands. She has come to Montrissad on a di
 | Session 2 | Appeared |
 | Session 3 | Appeared |
 | Session 4 | Appeared |
+| Session 5 | Appeared |
+| Session 6 | Appeared |
 ## [[Session 01 - The Party Fights Sewer Rats]]
 Moiloc comes to Montrissad to join the games, and begins looking for lodgings. On her way, she notices an ominous wrinkled man, Shurima, in the crowd, and follows him. She loses him, but finds the corpse of a priest and a red behelit in an alley, and takes the behelit.
 
@@ -43,3 +45,13 @@ Moiloc wakes up to a hooded figure shooting her with a dart. She pulls the dart 
 Moiloc finds the tavern burning, and filled with more attackers, one of which throws a dagger at her. She tries to convince them to fight outside, since the fire is dangerous, but they do not comply. Moiloc and the others fend off some attackers, and find [[Jim MacMasters|Jim]] behind the bar, who suggests they are outnumbered and need to escape. He tells Branwyn to pull a tap on the bar, and a secret passage opens, which Moiloc and Branwyn follow him into.
 
 The passage leads them to [[Monty MacMasters|Monty's]] office. Moiloc and Monty bond over the discontent in how the Kodlak Isles have been treated. Monty attempts to make a deal with Moiloc that he'd help her if she gets him in conversation with her father, and Branwyn tries to warn her that this may not be a good idea. Moiloc agrees to the deal after Monty promises he's a friend to her country. Monty allows Moiloc and Branwyn to sleep in one of his spare rooms. Branwyn and Moiloc find shards of a mirror in Monty's office, but are unable to identify what they are, other than them being magical.
+## [[Session 05 - The Party Explores a Castle]]
+Teddy & the Roosevelts reunite at Monty's before leaving to turn in their seal. On their wayl, they find someone faking a station to turn in the seals and confront them, although they are able to escape. They successfully turn in the seal from the puzzle dungeon.
+
+The group decide to find an inn for the night. Upon arriving, [[Rynn]] steals money from Moiloc. Moiloc reveals she is a princess to the innkeeper and is able to get a free room, as the inn kicks [[Mayor McCheese]] out of his current room. Lexar and Moiloc leave to recruit David to the games. David agrees to join, bringing some of his farmhands as well to form a team. They reunite with the others and take in their opponents and head to their room.
+## [[Session 06 - The Party Has a Feast]]
+Lexar and Moiloc stay behind in the castle courtyard while the others investigate the chapel. After talking to some fellow contestants, she decides to pray to Shurima for luck. She is shown a vision of her homeland being attacked by fish men, her father dead, and a village in flames. She begins crying, and Lexar attempts to console her.
+
+After reuniting, Teddy & the Roosevelts sneak back into Gwyneth's tower. They find a keyhole on the bedframe in her room that causes the bed to ascend into potion room. Moiloc finds a book that mentions [[Sekolah]], the god of the Sahuagin: the fish people who are attacking her home.
+
+The group proceed to the pre-game feast. The dessert of the feast turns out to be poisoned, causing the group to become sick. Moiloc stays and fights for some time, trying to save [[King Aslan]], but realizes she won't be able to do so and escapes, following some other escaped contestants into a buttery. Inside she finds [[Terren Hammerfist|Terren]] and [[Belnades]]. They escape through a hole in the wall of a hallway, and jump into the moat, escaping back to the streets of Montrissad.

@@ -18,6 +18,8 @@ Gertrude resides in the Forest of Throw, near Montrissad, where she runs a local
 | Session 2 | Appeared |
 | Session 3 | Appeared |
 | Session 4 | Appeared |
+| Session 5 | Appeared |
+| Session 6 | Appeared |
 ## [[Session 01 - The Party Fights Sewer Rats]]
 Gertrude comes to Montrissad to buy treats for her bears. In the treat shop, she meets [[Jacob]], who is working at the shop. He tells her [[King Aslan]] took all the treats for the Games. They both express frustration toward the king, and Gertrude convinces Jacob to join the Games and make something of himself.
 
@@ -42,3 +44,17 @@ Kaldrake is able to break a window to escape. Gertrude gives Pine to Kaldrake, a
 While putting out the fire, citizens tell Gertrude that something like this happens every Games. Gertrude notices the people have cold, dead faces. However, she is unable to remember any of this experience after the fire is put out and the citizens return to sleep. She decides to go to Lexar's house to sleep for the night.
 
 Gertrude arrives at Lexar's, and Lexar and Kaldrake try to hide to keep her from noticing they're home, but she catches them and they let her in. She steals Lexar's bed. A little orphan boy arrives soon after, telling the trio to go to [[Monty MacMasters|Monty's]] if they every want to see their friends again. Thinking this is a threat, they go to Monty's, but he just tells them that their friends are staying there, so they return to Lexar's house, planning to return in the morning.
+## [[Session 05 - The Party Explores a Castle]]
+Teddy & the Roosevelts reunite at Monty's before leaving to turn in their seal. Gertrude mentions her lost memories, and Kaldrake suggests that his sister may be able to help reverse the magic that made her forget. On their way to turn in a seal, they find someone faking a station to turn in the seals and confront them, although they are able to escape. They successfully turn in the seal from the puzzle dungeon. Gertrude suggests giving the other seal to her son, Gordon, but they decide to give it to Lexar's friend, [[David]], instead.
+
+The group decide to find an inn for the night. Moiloc reveals she is a princess to the innkeeper and is able to get a free room, as the inn kicks [[Mayor McCheese]] out of his current room. Gertrude, Branwyn, and Kaldrake leave to find Gwyneth to remove Gertrude's curse.
+
+In Gwyneth's room, Kaldrake is sucked into a mysterious portal. Branwyn tells Gertrude to warn the others, and enters the portal as well. Moiloc, Lexar, and David return at the same time Branwyn and Kaldrake do. The group takes in their opponents and head to their room.
+## [[Session 06 - The Party Has a Feast]]
+Branwyn, Kaldrake, and Gertrude decide to go to the chapel to see if they can remove Gertrude's curse and restore her memories. In the chapel they meet [[Father Sansor]], who says Gwyneth has been gone for a week, and directs them to her friend, [[Goro Hattori|Goro]]. Goro tells them she left for Martin's Isle, and gives them a key to her office. He also suggests that [[Bartholomew]] might be able to remove Gertrude's curse and restore her memories. They return to the chapel and find the door is locked.
+
+After reuniting, Teddy & the Roosevelts sneak back into Gwyneth's tower. They find a keyhole on the bedframe in her room that causes the bed to ascend into potion room, where Gertrude steals an acidic potion.
+
+The group proceed to the pre-game feast. Gertrude notices that [[King Aslan]] has two right hands. The dessert of the feast turns out to be poisoned, causing the group to become sick.
+
+Lexar and Gertrude escape the feast together after Lexar wakes up, fighting the attacking guards on their way out. They escape to Gwyneth's tower, where they find Lortzgab and Contigo. They jump out of the window to escape the corpse eaters seen overrunning the castle, landing in the moat, and returning to the Montrissad streets.
