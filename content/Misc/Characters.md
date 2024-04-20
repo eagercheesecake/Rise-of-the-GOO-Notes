@@ -36,7 +36,7 @@ Below are characters vaguely grouped in order of appearance. Characters may be f
 [[Lortzgab]]
 [[Man in Black Armor]]
 [[Rynn]]
-[[Terren Hammerfist]]
+[[Tarren Hammerfist]]
 ## Other Citizens
 [[Bartholomew]]
 [[Charlotte]]
@@ -64,7 +64,7 @@ Below are characters vaguely grouped in order of appearance. Characters may be f
 [[Lortzgab]]
 [[Moiloc Kodlaksdottër]]
 [[Skalazar]]
-[[Terren Hammerfist]]
+[[Tarren Hammerfist]]
 # Wallachia
 ## Inquisitors
 [[Andre]]
@@ -85,7 +85,7 @@ Below are characters vaguely grouped in order of appearance. Characters may be f
 [[Lothar (Brewster) Nash]]
 [[Ouroborus Tikktal]]
 [[Puck Nash]]
-[[Terren Hammerfist]]
+[[Tarren Hammerfist]]
 [[Violet]]
 ## Leaders
 [[Camilla Braeton]]
