@@ -1,13 +1,13 @@
 ---
 title: Rise of the GOO
 ---
-Note: Character information pages incomplete. Coming soon!
-
 ### Recent Updates
-- Added information for Session 16
-- Added a timelines page (*Kaldrake...*)
+- Added information for Session 17
+- Character information now up to date as of Session 6
+- Added Characters page to find characters more easily. See "Information" below. Almost all characters are listed, but as noted above, information in a character's page is only up to date as of Session 6
 ### Information
 [[Timelines]]
+[[Characters]]
 ### Sessions
 1. [[Session 01 - The Party Fights Sewer Rats|The Party Fights Sewer Rats]]
 2. [[Session 02 - The Party Gets Puzzled|The Party Gets Puzzled]]
@@ -24,4 +24,5 @@ Note: Character information pages incomplete. Coming soon!
 13. [[Session 13 - The Party Kills Innocents|The Party Kills Innocents]]
 14. [[Session 14 - The Party Retcons|The Party Retcons]]
 15. [[Session 15 - The Party Has a Meeting|The Party Has a Meeting]]
-16. [[Session 16 - The Party Follows Strangers|The Party Follows People]]
+16. [[Session 16 - The Party Follows Strangers|The Party Follows Strangers]]
+17. [[Session 17 - The Party Reunites|The Party Reunites]]

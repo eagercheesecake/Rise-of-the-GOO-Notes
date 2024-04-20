@@ -18,4 +18,4 @@ Pine is found during the melee with their dying mother. [[Kaldrake Sootspot|Kald
 ## [[Session 04 - The Party Puts Out a Fire]]
 Pine is shot by an attacker with a dart. Moiloc rescues Pine, removing the dart, and leaves the room when she smells burning. Moiloc hands Pine off to Gertrude once she arrives in the burning tavern. Gertrude passes Pine to Kaldrake as he escapes through a window.
 ## [[Session 06 - The Party Has a Feast]]
-Gertrude dresses Pine up in the garb provided for competitors of the Games.
+Gertrude dresses Pine up in the garb provided for competitors of the Games. He escapes with Gertrude after the attack at the feast.
