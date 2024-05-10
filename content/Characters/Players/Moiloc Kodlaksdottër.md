@@ -3,7 +3,7 @@ tags:
   - character
   - player
 ---
-![[Pasted image 20240420145204.png|250]]
+![[Moiloc.png|250]]
 Moiloc is a princess from the Kodlak Islands. She has come to Montrissad on a diplomatic journey. She is a fighter with a main character complex.
 
 - **First Seen:** Session 1
@@ -22,6 +22,7 @@ Moiloc is a princess from the Kodlak Islands. She has come to Montrissad on a di
 | Session 4 | Appeared |
 | Session 5 | Appeared |
 | Session 6 | Appeared |
+| Session 7 | Appeared |
 ## [[Session 01 - The Party Fights Sewer Rats]]
 Moiloc comes to Montrissad to join the games, and begins looking for lodgings. On her way, she notices an ominous wrinkled man, Shurima, in the crowd, and follows him. She loses him, but finds the corpse of a priest and a red behelit in an alley, and takes the behelit.
 
@@ -49,10 +50,18 @@ The passage leads them to [[Monty MacMasters|Monty's]] office. Moiloc and Monty 
 ## [[Session 05 - The Party Explores a Castle]]
 Teddy & the Roosevelts reunite at Monty's before leaving to turn in their seal. On their wayl, they find someone faking a station to turn in the seals and confront them, although they are able to escape. They successfully turn in the seal from the puzzle dungeon.
 
-The group decide to find an inn for the night. Upon arriving, [[Rynn]] steals money from Moiloc. Moiloc reveals she is a princess to the innkeeper and is able to get a free room, as the inn kicks [[Mayor McCheese]] out of his current room. Lexar and Moiloc leave to recruit David to the games. David agrees to join, bringing some of his farmhands as well to form a team. They reunite with the others and take in their opponents and head to their room.
+The group decide to find an inn for the night. Upon arriving, [[Rynn]] steals money from Moiloc. Moiloc reveals she is a princess to the innkeeper and is able to get a free room, as the inn kicks [[Mayor McCheese]] out of his current room. Lexar and Moiloc leave to recruit [[David]] to the games. David agrees to join, bringing some of his farmhands as well to form a team. They reunite with the others and take in their opponents and head to their room.
 ## [[Session 06 - The Party Has a Feast]]
 Lexar and Moiloc stay behind in the castle courtyard while the others investigate the chapel. After talking to some fellow contestants, she decides to pray to Shurima for luck. She is shown a vision of her homeland being attacked by fish men, her father dead, and a village in flames. She begins crying, and Lexar attempts to console her.
 
 After reuniting, Teddy & the Roosevelts sneak back into Gwyneth's tower. They find a keyhole on the bedframe in her room that causes the bed to ascend into potion room. Moiloc finds a book that mentions [[Sekolah]], the god of the Sahuagin: the fish people who are attacking her home.
 
 The group proceed to the pre-game feast. The dessert of the feast turns out to be poisoned, causing the group to become sick. Moiloc stays and fights for some time, trying to save [[King Aslan]], but realizes she won't be able to do so and escapes, following some other escaped contestants into a buttery. Inside she finds [[Tarren Hammerfist|Tarren]] and [[Belnades]]. They escape through a hole in the wall of a hallway, and jump into the moat, escaping back to the streets of Montrissad.
+## [[Session 07 - The Party Sets Sail]]
+Moiloc, Belnades, and Tarren proceed to Monty's through the monster-infested streets. They hide away inside a building, protecting themselves and some citizens from the corpse eaters. They are severely wounded while fighting through the streets, and upon arriving at Monty's, reunite with the rest of Teddy & the Roosevelts.
+
+The group runs across the street to [[Bartholomew|Bartholomew's]] apothecary to heal their wounds. In the main room, there is a large teleportation glyph on the floor. They attempt to use it to teleport to the docks to escape. They find themselves teleported to a house near the docks. They escape through a nearby sewer grate, and find [[Goro Hattori|Goro]], David, and King Aslan by the grate facing the docks, unable to progress since the grate is locked. However, Goro is able to use David's hammer to break the lock, and the group proceeds to Goro's ship, the Wavecrasher. After setting sail, the group hears something from under the decks, and descends to find [[Skalazar]], a stowaway on the ship. They decide to head to Brazov, in Wallachia.
+
+Moiloc prays to Shurima on the Wavecrasher, asking for more information on her father since she lied to [[King Aslan]] in an attempt to get him to meet with her father. Shurima tells her that her father is still alive, but might not be for long. He also tells her that the great old ones have awoken, and that there is one in each area. However, he says that Wallachia is under his control, so she should be safe. He closes by telling her that [[Olidamuru]] is the great old one wreaking havoc in Montrissad, and that there are two great old ones in the Kodlak Islands. Later, she and Lexar plan a party to help get David out of his funk.
+
+Gertrude, Branwyn, Moiloc, Contigo, Lortzgab, and Charlotte go to the Adventurer's Guild to get restocked. The Guild tells them that they can't help until they complete a contract with them. They agree to take a contract to exorcise a demon from a nearby chateau.

@@ -53,7 +53,7 @@ The flowers are griffon lily, native to Coryphea, and can prevent rot. Brewster 
 
 Moiloc opens the nearby door to see a seemingly endless hallway. She then tries to knock down one of the doors, but it seems far too sturdy. The other is rotten and falls of easily. Inside in a storeroom. Most food in the room is mid-rot, but Moiloc finds a small, pristine box, and finds a bright purple, pristine dagger, made of solid amethyst. The pommel has a face on it. She wraps it in traveling clothes, and tells the others that she found nothing. Branwyn notices that she is lying.
 
-Brewster notices Illusion magic - everywhere. Even the trio has an aura of illusion magic. However, the blood trail is definitely real. The long hallway is narrow. Moiloc leads, followed by Brewster, [[Puck]], and Branwyn. Once Branwyn enters, the door disappears.
+Brewster notices Illusion magic - everywhere. Even the trio has an aura of illusion magic. However, the blood trail is definitely real. The long hallway is narrow. Moiloc leads, followed by Brewster, [[Puck Nash|Puck]], and Branwyn. Once Branwyn enters, the door disappears.
 ## Lothric
 Kaldrake presses his face into the water. He feels himself floating in space, hanging from the roof of a cavern. There is a purple crystal chained to the ceiling of the cavern. He pulls back, and sees a flooded underground city. The crystal is above a state building. He phases up, through the ceiling, and notices he is above brown mountains - forest to the south, desert to the east.
 
@@ -89,4 +89,4 @@ Branwyn takes the ring off, and the sound of laughter fills the cavern. Her head
 
 The castle begins to collapse above them, and the group runs out. They return to the Rebel hideout. In the lobby is Feris, tending to someone’s wounds. [[Violet]] is there, having lost an arm, as are [[Gorm]] and [[Tarren Hammerfist]]. They return to the dorms. Branwyn is crying, Moiloc is sure Kaldrake is a hallucination. Brewster casts Detect Magic to confirm Kaldrake is real, and he tells them everything.
 
-Branwyn cries as she realizes Mora killed Grima. Moiloc can tell [[Shurima the Corpsemaker|Shurima]] is listening. Brewster is very familiar with the Hakkon family. He knows the monks of Whitehall fight the Hakkon. However, he doesn’t recognize the name [[Gulvayas Hakon|Gulvayas]]. She tells Branwyn that Gwyneth reacted to hearing her name. She also tells Brewster about the portal to Whitehall and [[Daphne]].
+Branwyn cries as she realizes Mora killed Grima. Moiloc can tell [[Shurima the Corpsemaker|Shurima]] is listening. Brewster is very familiar with the Hakkon family. He knows the monks of Whitehall fight the Hakkon. However, he doesn’t recognize the name [[Gulvayas Hakon|Gulvayas]]. He tells Branwyn that Gwyneth reacted to hearing her name. He also tells Brewster about the portal to Whitehall and [[Daphne]].

@@ -7,5 +7,8 @@ Olidamuru is a god worshipped by the Cult of Miasma. He is the god of revelry an
 |  Session  |  Status   |
 | :-------: | :-------: |
 | Session 6 | Mentioned |
+| Session 7 | Mentioned |
 ## [[Session 06 - The Party Has a Feast]]
 [[Lexar Bellos|Lexar]] prays to Olidamuru, who shows him a glowing orb which leads him to the nearby chapel.
+## [[Session 07 - The Party Sets Sail]]
+[[Shurima the Corpsemaker|Shurima]] tells [[Moiloc Kodlaksdottër|Moiloc]] that Olidamuru was the god who destroyed Montrissad.

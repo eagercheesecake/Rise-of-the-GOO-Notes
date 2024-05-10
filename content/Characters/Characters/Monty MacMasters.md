@@ -20,6 +20,8 @@ Monty MacMasters, which is likely a pseudonym, is a being that has appeared in m
 | Session 3 |  Absent   |
 | Session 4 | Appeared  |
 | Session 5 | Mentioned |
+| Session 6 |  Absent   |
+| Session 7 | Mentioned |
 ### [[Session 01 - The Party Fights Sewer Rats]]
 Branwyn comes to Monty trying to sell her cloak. Monty tries to rip her off, but fails. Instead, he offers to sponsor her in the Games, promising her gold and treasures. She leaves to think on it, and Monty provides her a letter which will get her a room at the inn. The next day, she returns and accepts his offer.
 
@@ -31,3 +33,5 @@ Monty is woken up by Branwyn, who tells him that the Hatched Pig Inn has burned 
 Branwyn mentions Monty when telling the others about what happened the previous night, saying she doesn't trust him.
 
 Later, Branwyn and Moiloc reappear in Monty's office after using a teleportation mirror to escape Kaldrake's homeland. Branwyn finds notes Monty has taken on the danger around Phaeros, including notes on [[Mora]].
+## [[Session 07 - The Party Sets Sail]]
+Teddy & the Roosevelts arrive at Monty's shop to find that he has left. He left a note saying he will meet them in Wallachia. Upon arriving to Wallachia, the group asks around for him, but nobody has seen him.

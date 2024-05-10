@@ -23,6 +23,7 @@ Kaldrake comes from Martin's Isle, from a long bloodline of powerful elven wizar
 | Session 4 | Appeared |
 | Session 5 | Appeared |
 | Session 6 | Appeared |
+| Session 7 | Appeared |
 ## [[Session 01 - The Party Fights Sewer Rats]]
 Kaldrake gets to the inn in Montrissad and reserves a room. After the announcement of the Games, he meets with [[Lexar Bellos|Lexar]] at the inn, since Gwyneth had sent Lexar a letter asking him to protect Kaldrake. They agree to cooperate, and when the rules are announced, quickly decide to form a team. Soon after, [[Moiloc Kodlaksdottër|Moiloc]] asks to join the team as well, and is accepted. Lexar suggests the group begins by searching the docks, as he had noticed some knights there in the previous days.
 
@@ -63,3 +64,11 @@ After reuniting, Teddy & the Roosevelts sneak back into Gwyneth's tower. They fi
 The group proceed to the pre-game feast. Gertrude notices that [[King Aslan]] has two right hands, and tells Kaldrake this. He seems to recall having two right hands means something, but can't place it. The dessert of the feast turns out to be poisoned, causing the group to become sick.
 
 Kaldrake escapes the feast, fighting the attacking guards on his way out, and makes his way to Gwyneth's tower, meeting up with Lexar, Branwyn, Gertrude, Contigo, and Lortzgab. They jump out of the window to escape the corpse eaters seen overrunning the castle, landing in the moat, and returning to the Montrissad streets.
+## [[Session 07 - The Party Sets Sail]]
+After escaping from the castle, the group begins proceeding through the monster-riddled streets to find Monty's. They run across townspeople barricading streets and homes from the corpse eaters, and take a young girl, [[Charlotte]], with them away from the chaos. On their way to Monty's, the party is heavily wounded by the monsters. They get to Monty's, and find it billowing with smoke. Inside is a small fire, which they put out. Branwyn notices that the door to Monty's magical hallway is gone, and finds runes where it once was. They find a letter from Monty saying he'll meet them in Wallachia. Soon after, Moiloc, [[Belnades]], and [[Tarren Hammerfist|Tarren]] enter as well, reuniting the party.
+
+The group runs across the street to [[Bartholomew|Bartholomew's]] apothecary to heal their wounds. In the main room, there is a large teleportation glyph on the floor. They attempt to use it to teleport to the docks to escape. They find themselves teleported to a house near the docks. They escape through a nearby sewer grate, and find Goro, David, and King Aslan by the grate facing the docks, unable to progress since the grate is locked. However, Goro is able to use David's hammer to break the lock, and the group proceeds to Goro's ship, the Wavecrasher. After setting sail, the group hears something from under the decks, and descends to find [[Skalazar]], a stowaway on the ship. They decide to head to Brazov, in Wallachia.
+
+On the ship, Kaldrake asks [[Belnades]] about Wallachia. She tells him that the area worships Eru and is primarily human. She also shows off her magic ability at Kaldrake's request. Kaldrake and Belnades form a close friendship over the course of the trip.
+
+After they arrive in Brazov, Goro pulls Kaldrake aside and asks if he can try and find a place to hide King Aslan. Belnades asks Kaldrake if he would like to join her and possibly join the Inquisitors. He accepts, and Lexar asks if he can join as well. Belnades brings [[Lexar Bellos|Lexar]] and [[Kaldrake Sootspot|Kaldrake]] to Father Gregor. She informs him that the Inquisitors failed their mission in Montrissad, but Lexar and Kaldrake may be looking to join. Kaldrake introduces himself as a Sootspot, which seems to upset Father Gregor. Father Gregor asks the pair to leave him and Belnades to talk for a bit, and points them to the barracks, where [[Ponce]] will meet them. They head to the barracks, and Ponce says their initiation will begin in the morning.

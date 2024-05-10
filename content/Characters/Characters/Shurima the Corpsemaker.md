@@ -21,6 +21,7 @@ Shurima the Corpsemaker is an old man, worshipped by Moiloc. He is a keeper of s
 | Session 4 |  Absent   |
 | Session 5 |  Absent   |
 | Session 6 | Mentioned |
+| Session 7 | Mentioned |
 ## [[Session 01 - The Party Fights Sewer Rats]]
 Moiloc follows Shurima into an alley where she finds a murdered priest. The next day, [[Gertrude Spugel|Gertrude]] questions him about a piece of paper he has, but he refuses to tell her what it is.
 
@@ -31,3 +32,5 @@ Moiloc begins praying to Shurima for safety during the grand melee.
 Shurima appears in Moiloc's dream, pushing his finger through her eye. When she wakes up, she finds a ring with an eye on it, and in her head hears him tell her to follow the path of her heart to find what she seeks.
 ## [[Session 06 - The Party Has a Feast]]
 Moiloc prays to Shurima in the courtyard of the castle before the pre-game feast. He shows her a vision of her homeland being attacked by fish men, her father dead, and a village in flames.
+## [[Session 07 - The Party Sets Sail]]
+Moiloc prays to Shurima on the Wavecrasher, asking for more information on her father since she lied to [[King Aslan]] in an attempt to get him to meet with her father. Shurima tells her that her father is still alive, but might not be for long. He also tells her that the great old ones have awoken, and that there is one in each area. However, he says that Wallachia is under his control, so she should be safe. He closes by telling her that [[Olidamuru]] is the great old one wreaking havoc in Montrissad, and that there are two great old ones in the Kodlak Islands.
