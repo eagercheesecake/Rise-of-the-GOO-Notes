@@ -1,4 +1,4 @@
-Ponce is a human Inquisitor from Brazov. He is a low-level Inquisitor, staying in the barracks at the monastery.
+Ponce is a human Inquisitor from Brasov. He is a low-level Inquisitor, staying in the barracks at the monastery.
 
 - **First Seen:** Session 7
 - **Status:** Alive

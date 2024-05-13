@@ -4,7 +4,7 @@ tags:
   - player
 ---
 ![[Moiloc.png|250]]
-Moiloc is a princess from the Kodlak Islands. She has come to Montrissad on a diplomatic journey. She is a fighter with a main character complex.
+Moiloc is a human princess from the Kodlak Islands. She has come to Montrissad on a diplomatic journey. She is a fighter with a main character complex.
 
 - **First Seen:** Session 1
 - **Status:** Alive
@@ -23,6 +23,7 @@ Moiloc is a princess from the Kodlak Islands. She has come to Montrissad on a di
 | Session 5 | Appeared |
 | Session 6 | Appeared |
 | Session 7 | Appeared |
+| Session 8 | Appeared |
 ## [[Session 01 - The Party Fights Sewer Rats]]
 Moiloc comes to Montrissad to join the games, and begins looking for lodgings. On her way, she notices an ominous wrinkled man, Shurima, in the crowd, and follows him. She loses him, but finds the corpse of a priest and a red behelit in an alley, and takes the behelit.
 
@@ -60,8 +61,14 @@ The group proceed to the pre-game feast. The dessert of the feast turns out to b
 ## [[Session 07 - The Party Sets Sail]]
 Moiloc, Belnades, and Tarren proceed to Monty's through the monster-infested streets. They hide away inside a building, protecting themselves and some citizens from the corpse eaters. They are severely wounded while fighting through the streets, and upon arriving at Monty's, reunite with the rest of Teddy & the Roosevelts.
 
-The group runs across the street to [[Bartholomew|Bartholomew's]] apothecary to heal their wounds. In the main room, there is a large teleportation glyph on the floor. They attempt to use it to teleport to the docks to escape. They find themselves teleported to a house near the docks. They escape through a nearby sewer grate, and find [[Goro Hattori|Goro]], David, and King Aslan by the grate facing the docks, unable to progress since the grate is locked. However, Goro is able to use David's hammer to break the lock, and the group proceeds to Goro's ship, the Wavecrasher. After setting sail, the group hears something from under the decks, and descends to find [[Skalazar]], a stowaway on the ship. They decide to head to Brazov, in Wallachia.
+The group runs across the street to [[Bartholomew|Bartholomew's]] apothecary to heal their wounds. In the main room, there is a large teleportation glyph on the floor. They attempt to use it to teleport to the docks to escape. They find themselves teleported to a house near the docks. They escape through a nearby sewer grate, and find [[Goro Hattori|Goro]], David, and King Aslan by the grate facing the docks, unable to progress since the grate is locked. However, Goro is able to use David's hammer to break the lock, and the group proceeds to Goro's ship, the Wavecrasher. After setting sail, the group hears something from under the decks, and descends to find [[Skalazar]], a stowaway on the ship. They decide to head to Brasov, in Wallachia.
 
 Moiloc prays to Shurima on the Wavecrasher, asking for more information on her father since she lied to [[King Aslan]] in an attempt to get him to meet with her father. Shurima tells her that her father is still alive, but might not be for long. He also tells her that the great old ones have awoken, and that there is one in each area. However, he says that Wallachia is under his control, so she should be safe. He closes by telling her that [[Olidamuru]] is the great old one wreaking havoc in Montrissad, and that there are two great old ones in the Kodlak Islands. Later, she and Lexar plan a party to help get David out of his funk.
 
 Gertrude, Branwyn, Moiloc, Contigo, Lortzgab, and Charlotte go to the Adventurer's Guild to get restocked. The Guild tells them that they can't help until they complete a contract with them. They agree to take a contract to exorcise a demon from a nearby chateau.
+## [[Session 08 - The Party Hates it Here]]
+Moiloc and Branwyn begin completing their contract with the Adventurer's Guild, searching for [[Arklow Laban]]. They stop by Michael's, and become suspicious that it is Monty's new shop. Branwyn and Moiloc find Kaldrake and Belnades leaving the monastery. Kaldrake assures them that he's safe, and that he doesn't agree with the Inquisitor's cause. Belnades informs them that Laban was a general in Wallachia's war with the Orkus Badlands.
+
+They meet [[Jessie Harkness|Jessie]] at the inn Laban is staying at, but Arklow doesn't respond to their knocking. However, they do learn that Jessie and Tarren are part of the Resistance, and they are having a meeting that night in the basement of the inn. Moiloc and Branwyn discuss how to save Kaldrake from the Inquisitors, considering killing some Inquisitors to save him, but are overheard by two Inquisitors in the inn. They chase after them, but the Inquisitors get away, and they decide to meet back up with Kaldrake directly, heading the direction they did, into the forest. They are able to reunite with Belnades and Kaldrake, and they ask if Wallachia is safe for them. Belnades ensures them that they'll be fine, and points them to [[Grima|Grima's]] Grove.
+
+They proceed to the Grove, but find themselves stuck in a magical loop of forest. Moiloc notices a strange aura from a tree, and introduces herself, saying she means no harm, breaking the illusion and revealing Grima's hut. Grima asks Moiloc about Shurima, but she only tells him about the attacks in the Kodlak Islands, which seems to satisfy him. He also tells them to seek the rebels in Dunn and kill [[Queen Cypha]]. For the night, he allows them to sleep in his grove.
