@@ -22,6 +22,7 @@ Gertrude resides in the Forest of Throw, near Montrissad, where she runs a local
 | Session 6 | Appeared  |
 | Session 7 | Appeared  |
 | Session 8 | Mentioned |
+| Session 9 | Appeared  |
 ## [[Session 01 - The Party Fights Sewer Rats]]
 Gertrude comes to Montrissad to buy treats for her bears. In the treat shop, she meets [[Jacob]], who is working at the shop. He tells her [[King Aslan]] took all the treats for the Games. They both express frustration toward the king, and Gertrude convinces Jacob to join the Games and make something of himself.
 
@@ -70,3 +71,11 @@ As they approach Brasov, Gertrude befriends an albatross, and asks what is the a
 Gertrude, Branwyn, Moiloc, [[Contigo]], [[Lortzgab]], and Charlotte go to the Adventurer's Guild to get restocked. The Guild tells them that they can't help until they complete a contract with them. They agree to take a contract to exorcise a demon from a nearby chateau.
 ## [[Session 08 - The Party Hates it Here]]
 Gertrude is notably absent from the ship when Moiloc and Branwyn wake up.
+## [[Session 09 - The Party Downsizes]]
+Gertrude wakes up in her home forest, noticing Pine is missing. She enters her cabin, and finds her favorite bear, Emerald, dead on the floor. Gertrude tries to leave, but finds the door is locked, and the windows are unable to be broken. She begins to hear the laughter of her family members. She blacks out, and when she wakes up she finds herself in a forest in front of a magical tree. The tree seems to be saying the word "[[Maokai]]." After investigating the other trees, Gertrude says Maokai back, and the tree picks her up.
+
+The tree lowers her into its trunk, where Maokai is appearing as a green orb. Maokai reaches out to Gertrude, declaring her his chosen one. He provides her of a vision of all of her bears dying, saying it's a premonition of what will come if she does not act. He asks Gertrude to bring him Mora's heart, saying it was her who banished him. Her heart is said to be below Maedrosi. He says her heart can help him return Phaeros to nature, which will include leveling buildings or anything unnatural. Gertrude declines to help, but Maokai says she does not have a choice, and she gives in. He gives her skin made of bark, and returns her to Pine. Gertrude uses skywriting to broadcast her location, and goes to sleep in the forest.
+
+Gertrude wakes up and asks a nearby squirrel if they had seen Pine, but the squirrel had not seen any bears. Gertrude decides to go back to Brasov. Upon arriving, the guards say no non-humans are allowed. She turns into a pigeon and flies over Brasov, seeing Skalazar in shackles swabbing the deck of an Inquisitor ship. She then turns into a rat, and finds Goro and David in the prisoner's hold of the ship. She scratches the letter G into the side of the ship to let them know she was nearby, and returns to outside Brasov. She worries that she may have insulted Maokai, and apologizes to the forest.
+
+Gertrude is not seen after this. It is assumed by Teddy & the Roosevelts that she went back home.

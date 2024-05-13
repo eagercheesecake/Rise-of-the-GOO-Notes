@@ -6,7 +6,9 @@ tags:
 Lexar is a tiefling warlock, and a local to Montrissad, and a member of the Cult of Miasma, which worships Olidamuru, and the very concept of fun and games. He wears a dark cloak from his cult, and joins the Games due to his worship of them.
 
 - **First Seen:** Session 1
-- **Status:** Alive
+- **Status:** Dead
+- **Cause of Death:** Killed by Inquisitors on Wavecrasher
+- **Time of Death:** Session 9
 
 | Character | Relation |
 | :--: | :--: |
@@ -22,6 +24,8 @@ Lexar is a tiefling warlock, and a local to Montrissad, and a member of the Cult
 | Session 5 | Appeared |
 | Session 6 | Appeared |
 | Session 7 | Appeared |
+| Session 8 | Appeared |
+| Session 9 | Appeared |
 ## [[Session 01 - The Party Fights Sewer Rats]]
 Lexar tries to get to the stage where the games would be announced, wanting to be in the front of the crowd. On his way, he mediates a fight between a banker and an old man who had just crashed into each other, suggesting a game, culminating in the banker knocking the old man out.
 
@@ -64,3 +68,5 @@ Belnades wakes Lexar up for his initiation. He leaves as Kaldrake enters, tellin
 When Lexar wakes up, the Inquisitors had thrown him in a pit of spikes. He finds that he has somehow survived, and Olidamuru had gifted him a quazit servant, [[Jiren]], who informs him that he is Olidamuru's chosen one. Lexar leaves the pit at begins to return to Brasov.
 
 As Lexar approaches Brasov, he sees it is being sieged by the Inquisitors, with many non-humans being taken prisoner, including Belnades and Goro. He and Jiren are able to untie and save them. Goro mentions that Skalazar has brought the Wavecrasher to a nearby shore, and they escape Brasov and proceed in that direction.
+## [[Session 09 - The Party Downsizes]]
+Lexar, Goro, and Belnades proceed to where Skalazar parked the Wavecrasher. Upon arriving, they see an Inquisitor ship coming in to attack. Belnades tries to attack with a fire spell, but misses and lights the Wavecrasher on fire instead. The trio boards as the Inquisitor ship rams the Wavecrasher, causing it to sink. Inquisitors board and attack, killing Lexar.

@@ -7,10 +7,11 @@ Charlotte is a young half-elf girl from Montrissad. She is taken in by Branwyn a
 | :------------------------------: | :------: |
 | [[Branwyn of Coryphea\|Branwyn]] | Guardian |
 
-|  Session  |  Status  |
-| :-------: | :------: |
-| Session 7 | Appeared |
-| Session 8 | Appeared |
+|  Session  |  Status   |
+| :-------: | :-------: |
+| Session 7 | Appeared  |
+| Session 8 | Appeared  |
+| Session 9 | Mentioned |
 ## [[Session 07 - The Party Sets Sail]]
 [[Branwyn of Coryphea|Branwyn]] saves Charlotte from corpse eaters on the streets of Montrissad, taking her with them to escape. They head to [[Monty MacMasters|Monty's]], and find it billowing with smoke. Inside is a small fire, which they put out. Branwyn notices that the door to Monty's magical hallway is gone, and finds runes where it once was. They find a letter from Monty saying he'll meet them in Wallachia. Soon after, [[Moiloc Kodlaksdottër|Moiloc]], [[Belnades]], and [[Tarren Hammerfist|Tarren]] enter as well, reuniting the party.
 
@@ -19,3 +20,5 @@ The group runs across the street to [[Bartholomew|Bartholomew's]] apothecary to 
 [[Gertrude Spugel|Gertrude]], Branwyn, Moiloc, [[Contigo]], [[Lortzgab]], and Charlotte go to the Adventurer's Guild to get restocked. Branwyn tells Charlotte to stay close, knowing the Inquisitors recruit orphans off the street. The Guild tells them that they can't help until they complete a contract with them. They agree to take a contract to exorcise a demon from a nearby chateau.
 ## [[Session 08 - The Party Hates it Here]]
 Branwyn leaves Charlotte on the ship under Goro's protection. At some point around when the Inquisitors begin their siege on Brasov, Goro sends Charlotte to [[Jessie Harkness|Jessie]] to protect her.
+## [[Session 09 - The Party Downsizes]]
+Tarren tells Branwyn that Charlotte is safe with Jessie in the nearby cave.

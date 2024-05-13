@@ -25,6 +25,7 @@ Kaldrake comes from Martin's Isle, from a long bloodline of powerful elven wizar
 | Session 6 | Appeared |
 | Session 7 | Appeared |
 | Session 8 | Appeared |
+| Session 9 | Appeared |
 ## [[Session 01 - The Party Fights Sewer Rats]]
 Kaldrake gets to the inn in Montrissad and reserves a room. After the announcement of the Games, he meets with [[Lexar Bellos|Lexar]] at the inn, since Gwyneth had sent Lexar a letter asking him to protect Kaldrake. They agree to cooperate, and when the rules are announced, quickly decide to form a team. Soon after, [[Moiloc Kodlaksdottër|Moiloc]] asks to join the team as well, and is accepted. Lexar suggests the group begins by searching the docks, as he had noticed some knights there in the previous days.
 
@@ -81,3 +82,5 @@ On their way to the caravan, they run into Moiloc and Branwyn. Kaldrake assures 
 As Belnades and Kaldrake approach the caravan, Belnades tells him the caravan was transporting ydril. Kaldrake investigates and determines it was looted. Belnades tells him about the Resistance prisoner the Inquisitors have, calling her a dirty tiefling, and Kaldrake attempts to talk her down from her internalized hatred of tieflings. They once again meet up with Moiloc and Branwyn, who ask if Wallachia is safe for them. Belnades ensures them that it is and points them to [[Grima|Grima's]] Grove. Kaldrake and Belnades return to the monastery, and Kaldrake requests to interrogate the prisoner alone.
 
 The prisoner introduces herself as [[Violet]]. She is initially hostile to Kaldrake, but warms up once Kaldrake frees her. As they escape the monastery, they pass by Father Gregor's office, and Violet refuses to pass up the opportunity to kill him. She has Kaldrake go in as a distraction, turns invisible, and kills Father Gregor while he is talking with Kaldrake. They break through the stained glass window in Gregor's office and escape to the forest, heading to the Resistance hideout in Dunn. On their way, they come across a caravan of armed Inquisitors heading to Brasov.
+## [[Session 09 - The Party Downsizes]]
+Violet and Kaldrake continue on their journey to Dunn, hiding from Inquisitor guards who are looking for rebels along the way. Once they arrive, Violet introduces Kaldrake to some other rebels, before leaving her to tell the rebels what had happened. Kaldrake finds a lavish tent with a large bed to sleep in for the night.

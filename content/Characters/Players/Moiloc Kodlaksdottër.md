@@ -24,6 +24,7 @@ Moiloc is a human princess from the Kodlak Islands. She has come to Montrissad o
 | Session 6 | Appeared |
 | Session 7 | Appeared |
 | Session 8 | Appeared |
+| Session 9 | Appeared |
 ## [[Session 01 - The Party Fights Sewer Rats]]
 Moiloc comes to Montrissad to join the games, and begins looking for lodgings. On her way, she notices an ominous wrinkled man, Shurima, in the crowd, and follows him. She loses him, but finds the corpse of a priest and a red behelit in an alley, and takes the behelit.
 
@@ -72,3 +73,7 @@ Moiloc and Branwyn begin completing their contract with the Adventurer's Guild, 
 They meet [[Jessie Harkness|Jessie]] at the inn Laban is staying at, but Arklow doesn't respond to their knocking. However, they do learn that Jessie and Tarren are part of the Resistance, and they are having a meeting that night in the basement of the inn. Moiloc and Branwyn discuss how to save Kaldrake from the Inquisitors, considering killing some Inquisitors to save him, but are overheard by two Inquisitors in the inn. They chase after them, but the Inquisitors get away, and they decide to meet back up with Kaldrake directly, heading the direction they did, into the forest. They are able to reunite with Belnades and Kaldrake, and they ask if Wallachia is safe for them. Belnades ensures them that they'll be fine, and points them to [[Grima|Grima's]] Grove.
 
 They proceed to the Grove, but find themselves stuck in a magical loop of forest. Moiloc notices a strange aura from a tree, and introduces herself, saying she means no harm, breaking the illusion and revealing Grima's hut. Grima asks Moiloc about Shurima, but she only tells him about the attacks in the Kodlak Islands, which seems to satisfy him. He also tells them to seek the rebels in Dunn and kill [[Queen Cypha]]. For the night, he allows them to sleep in his grove.
+## [[Session 09 - The Party Downsizes]]
+Branwyn wakes up Moiloc, saying Grima has asked them to leave the Grove. They decide to return to Dunn and try and meet back up with Tarren and Jessie under the inn for their meeting. They sneak into Brasov and the inn.
+
+Branwyn disguises herself as Tarren to try and gain the Resistance's trust and enter the meeting. However, it turns out Tarren is already in the meeting, so they realize this isn't the real Tarren. They set of explosives, blowing Branwyn back, and as Moiloc illuminates her fire sword, Tarren realizes what had happened and stops attacking Branwyn. The rest of the Resistance had fled when Branwyn knocked, and Tarren points the pair to a tunnel leading to Dunn.

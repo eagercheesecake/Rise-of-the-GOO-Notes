@@ -12,6 +12,7 @@ Belnades is an Inquisitor who joined the Montrissad Games. She is a tiefling who
 | Session 6 | Appeared |
 | Session 7 | Appeared |
 | Session 8 | Appeared |
+| Session 9 | Appeared |
 ## [[Session 06 - The Party Has a Feast]]
 [[Moiloc Kodlaksdottër|Moiloc]] finds Belnades and [[Tarren Hammerfist|Tarren]] as they escape the attack at the pre-game feast. They escape through a hole in the wall of a hallway, and jump into the moat, escaping back to the streets of Montrissad.
 ## [[Session 07 - The Party Sets Sail]]
@@ -28,3 +29,5 @@ Belnades wakes up Kaldrake for his initiation. She is wearing an eyepatch, and s
 On their way to the caravan, they run into Moiloc and Branwyn, who ask about their contract with [[Arklow Laban]]. Belnades explains that he was a general in the war with the Orkus Badlands, as well as the governor.
 
 As Belnades and Kaldrake approach the caravan, Belnades tells him the caravan was transporting ydril. Kaldrake investigates and determines it was looted. Belnades tells him about the Resistance prisoner the Inquisitors have, calling her a dirty tiefling, and Kaldrake attempts to talk her down from her internalized hatred of tieflings. They once again meet up with Moiloc and Branwyn, who ask if Wallachia is safe for them. Belnades ensures them that it is and points them to [[Grima|Grima's]] Grove. Kaldrake and Belnades return to the monastery, and Kaldrake requests to interrogate the prisoner alone.
+## [[Session 09 - The Party Downsizes]]
+Lexar, Goro, and Belnades proceed to where Skalazar parked the Wavecrasher. Upon arriving, they see an Inquisitor ship coming in to attack. Belnades tries to attack with a fire spell, but misses and lights the Wavecrasher on fire instead. The trio boards as the Inquisitor ship rams the Wavecrasher, causing it to sink. Inquisitors board and attack, and Belnades helps fight back.
