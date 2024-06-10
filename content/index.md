@@ -2,8 +2,8 @@
 title: Rise of the GOO
 ---
 ### Recent Updates
-- Added information for Session 18
-- Character information now up to date as of Session 9
+- Added information for Session 19
+- Character information now up to date as of Session 10
 ### Information
 [[Timelines]]
 [[Characters]]
@@ -26,3 +26,4 @@ title: Rise of the GOO
 16. [[Session 16 - The Party Follows Strangers|The Party Follows Strangers]]
 17. [[Session 17 - The Party Reunites|The Party Reunites]]
 18. [[Session 18 - The Party Gets Trapped|The Party Gets Trapped]]
+19. [[Session 19 - The Party Turns Around|The Party Turns Around]]
