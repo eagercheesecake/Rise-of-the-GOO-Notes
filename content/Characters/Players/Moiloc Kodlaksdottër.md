@@ -7,24 +7,25 @@ tags:
 Moiloc is a human princess from the Kodlak Islands. She has come to Montrissad on a diplomatic journey. She is a fighter with a main character complex.
 
 - **First Seen:** Session 1
-- **Status:** Alive
+- **Status:** Alive (Revived)
 
 |              Character               | Relation |
 | :----------------------------------: | :------: |
 |                Kodlak                |  Father  |
 | [[Shurima the Corpsemaker\|Shurima]] |  Patron  |
 
-|  Session  |  Status  |
-| :-------: | :------: |
-| Session 1 | Appeared |
-| Session 2 | Appeared |
-| Session 3 | Appeared |
-| Session 4 | Appeared |
-| Session 5 | Appeared |
-| Session 6 | Appeared |
-| Session 7 | Appeared |
-| Session 8 | Appeared |
-| Session 9 | Appeared |
+|  Session   |  Status  |
+| :--------: | :------: |
+| Session 1  | Appeared |
+| Session 2  | Appeared |
+| Session 3  | Appeared |
+| Session 4  | Appeared |
+| Session 5  | Appeared |
+| Session 6  | Appeared |
+| Session 7  | Appeared |
+| Session 8  | Appeared |
+| Session 9  | Appeared |
+| Session 10 | Appeared |
 ## [[Session 01 - The Party Fights Sewer Rats]]
 Moiloc comes to Montrissad to join the games, and begins looking for lodgings. On her way, she notices an ominous wrinkled man, Shurima, in the crowd, and follows him. She loses him, but finds the corpse of a priest and a red behelit in an alley, and takes the behelit.
 
@@ -77,3 +78,13 @@ They proceed to the Grove, but find themselves stuck in a magical loop of forest
 Branwyn wakes up Moiloc, saying Grima has asked them to leave the Grove. They decide to return to Dunn and try and meet back up with Tarren and Jessie under the inn for their meeting. They sneak into Brasov and the inn.
 
 Branwyn disguises herself as Tarren to try and gain the Resistance's trust and enter the meeting. However, it turns out Tarren is already in the meeting, so they realize this isn't the real Tarren. They set of explosives, blowing Branwyn back, and as Moiloc illuminates her fire sword, Tarren realizes what had happened and stops attacking Branwyn. The rest of the Resistance had fled when Branwyn knocked, and Tarren points the pair to a tunnel leading to Dunn.
+## [[Session 10 - The Party Gets Bit]]
+Moiloc gets torn up armor from [[Haru Hattori|Haru]] to replace her lost armor. She follows Branwyn to the cave to check on Charlotte, and helps Jessie tend to a child with a scraped knee. Jessie suggests that Moiloc might want to check out a lab in Dunn that is conducting experiments on ydril. Moiloc tells Charlotte to stay in the cave and read, coming off pushy since she is bad with children, and tells Branwyn about the lab.
+
+Moiloc meets [[Lothar (Brewster) Nash|Brewster]] and [[Dr. Nubgrub]] at the lab. Brewster notices Moiloc's tattered armor, and casts Mending on it. Moiloc tells Brewster the long tale of how she lost her armor, only for Brewster to tell her that's nothing compared to his whole family being enslaved. He identifies Moiloc's behelit as a key that responds to some sort of phrase. He asks where she got the behelit, and she tells him about Shurima. Brewster mentions that Shurima used to be a country until it was destroyed 400-500 years ago. Moiloc admits to worshipping Shurima, which surprises Branwyn, who feels betrayed by this. Moiloc promises to tell Brewster anything else about Shurima if something happens, and they leave. On their way out, Moiloc hears a jingling from her pouch, and finds a wax seal stamp depicting the Wallachian coat of arms. She feels this is a gift from Shurima.
+
+They return to the raider's tent to sleep, and find Kaldrake on a large bed with seven other raiders. Branwyn wakes up Kaldrake, and they leave the tent to catch up. Branwyn confronts Moiloc on her secrecy about her oath to Shurima, and she says she hasn't killed anyone for him yet. She admits that she has been telling Shurima secrets. She tells them about the wax seal and admits she isn't a diplomat, but is working to take down adverse nations. Kaldrake suggests they start fresh to erase the tension, and they go to sleep for the night.
+
+The next morning, Violet asks them to bring Brewster to the Chateau to collect information related to ydril. Moiloc shows Brewster the seal Shurima gave her, and he identifies it as the Braeton family crest. They find the Chateau full of vampires and butchered corpses. The group is attacked by bats and vampires while exploring the upper floor. Moiloc finds a new set of chainmail armor in an armory.
+
+The group finds [[Camilla Braeton|Camilla]] and [[Carmine Braeton|Carmine Braeton's]] coffins in the cellars. Camilla's is destroyed, and Carmine's is blocked shut with an immovable rod, which Moiloc deactivates and removes. Carmine explodes out of the coffin in a burst of energy, beginning to fight the others. During the fight, Moiloc is killed, but Branwyn finds a scroll of Revivify on Carmine's body, and chooses to revive Moiloc rather than Kaldrake.

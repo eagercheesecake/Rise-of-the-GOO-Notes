@@ -7,7 +7,7 @@ tags:
 Kaldrake comes from Martin's Isle, from a long bloodline of powerful elven wizards, but is unable to do magic himself. He is a pretty toned fighter, with dirty blonde hair. He comes to Montrissad to prove himself as a capable fighter in the Games.
 
 - **First Seen:** Session 1
-- **Status:** Alive
+- **Status:** Alive (Revived)
 
 |             Character             |     Relation      |
 | :-------------------------------: | :---------------: |
@@ -15,17 +15,18 @@ Kaldrake comes from Martin's Isle, from a long bloodline of powerful elven wizar
 |    [[Martin Sootspot\|Martin]]    | Great-Grandfather |
 | [[Balthazar Sootspot\|Balthazar]] |      Father       |
 
-|  Session  |  Status  |
-| :-------: | :------: |
-| Session 1 | Appeared |
-| Session 2 | Appeared |
-| Session 3 | Appeared |
-| Session 4 | Appeared |
-| Session 5 | Appeared |
-| Session 6 | Appeared |
-| Session 7 | Appeared |
-| Session 8 | Appeared |
-| Session 9 | Appeared |
+|  Session   |  Status  |
+| :--------: | :------: |
+| Session 1  | Appeared |
+| Session 2  | Appeared |
+| Session 3  | Appeared |
+| Session 4  | Appeared |
+| Session 5  | Appeared |
+| Session 6  | Appeared |
+| Session 7  | Appeared |
+| Session 8  | Appeared |
+| Session 9  | Appeared |
+| Session 10 | Appeared |
 ## [[Session 01 - The Party Fights Sewer Rats]]
 Kaldrake gets to the inn in Montrissad and reserves a room. After the announcement of the Games, he meets with [[Lexar Bellos|Lexar]] at the inn, since Gwyneth had sent Lexar a letter asking him to protect Kaldrake. They agree to cooperate, and when the rules are announced, quickly decide to form a team. Soon after, [[Moiloc Kodlaksdottër|Moiloc]] asks to join the team as well, and is accepted. Lexar suggests the group begins by searching the docks, as he had noticed some knights there in the previous days.
 
@@ -84,3 +85,9 @@ As Belnades and Kaldrake approach the caravan, Belnades tells him the caravan wa
 The prisoner introduces herself as [[Violet]]. She is initially hostile to Kaldrake, but warms up once Kaldrake frees her. As they escape the monastery, they pass by Father Gregor's office, and Violet refuses to pass up the opportunity to kill him. She has Kaldrake go in as a distraction, turns invisible, and kills Father Gregor while he is talking with Kaldrake. They break through the stained glass window in Gregor's office and escape to the forest, heading to the Resistance hideout in Dunn. On their way, they come across a caravan of armed Inquisitors heading to Brasov.
 ## [[Session 09 - The Party Downsizes]]
 Violet and Kaldrake continue on their journey to Dunn, hiding from Inquisitor guards who are looking for rebels along the way. Once they arrive, Violet introduces Kaldrake to some other rebels, before leaving her to tell the rebels what had happened. Kaldrake finds a lavish tent with a large bed to sleep in for the night.
+## [[Session 10 - The Party Gets Bit]]
+Kaldrake is woken up by Branwyn, finding seven other raiders in the bed with him. They realize the bed is for more than sleeping, and leave the tent to catch each other up. Branwyn confronts Moiloc on her secrecy about her oath to Shurima, and she says she hasn't killed anyone for him yet. She admits that she has been telling Shurima secrets. She tells them about the wax seal and admits she isn't a diplomat, but is working to take down adverse nations. Kaldrake suggests they start fresh to erase the tension, and they go to sleep for the night.
+
+The next morning, Violet asks them to bring [[Lothar (Brewster) Nash|Brewster]] to the Chateau to collect information related to ydril. They find the Chateau full of vampires and butchered corpses. Inside, Kaldrake gets queasy at many points when being confronted with the viscera. He also is very suspicious of any gold they find in the Chateau, thinking it may be cursed. The group is attacked by bats and vampires while exploring the upper floor. Kaldrake finds a battle axe in an armory, and soon after is locked in a room with a vampire. He uses the battle axe to take down the vampire immediately, before the others are even able to notice they had been locked out of the room Kaldrake had entered. Kaldrake shows the ring on the vampire to Brewster, who identifies it as a cursed ring which turns the wearer into a vampire spawn, and noting it has the sigil of house Braeton on it. Kaldrake collects a few of these while exploring the rest of the Chateau. Kaldrake also finds a scroll of Fireball.
+
+The group is suspicious of the cellar, and Kaldrake finds a false wall revealing a room with two coffins belonging to  [[Camilla Braeton|Camilla]] and [[Carmine Braeton|Carmine Braeton]]. Camilla's is destroyed, and Carmine's is blocked shut with an immovable rod. Kaldrake finds blueprints relating to Dunn, which he gives to Brewster. Moiloc deactivates and removes the rod, and Carmine explodes out of the coffin in a burst of energy, beginning to fight the others. During the fight, Carmine bites Kaldrake, instantaneously killing him. Branwyn finds a scroll of Revivify but chooses to use it on Moiloc, who had also been killed, instead of Kaldrake. They collect Kaldrake's body to take back to Dunn. Branwyn makes Brewster promise to never let [[Dr. Nubgrub]] touch Kaldrake's body.
