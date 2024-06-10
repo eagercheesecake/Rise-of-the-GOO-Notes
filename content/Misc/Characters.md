@@ -100,9 +100,11 @@ Below are characters vaguely grouped in order of appearance. Characters may be f
 ## Other Residents
 [[Daphne]]
 [[Grima]]
+[[Helen]]
 [[Jiren]]
 [[Laogzed]]
 [[Simon]]
 [[Styx]]
 [[The Goat]]
 [[Tobias Grand]]
+[[Velma]]
