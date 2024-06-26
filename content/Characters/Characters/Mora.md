@@ -7,14 +7,20 @@ Mora is Branwyn's mother figure from her childhood, using her as a vessel for he
 |            Character             | Relation |
 | :------------------------------: | :------: |
 | [[Branwyn of Coryphea\|Branwyn]] |  Vessel  |
+|            [[Maokai]]            |  Patron  |
 
-|  Session  |  Status   |
-| :-------: | :-------: |
-| Session 5 | Mentioned |
-| Session 6 | Mentioned |
-| Session 7 | Mentioned |
-| Session 8 | Mentioned |
-| Session 9 | Mentioned |
+|  Session   |  Status   |  Session   |  Status   |
+| :--------: | :-------: | :--------: | :-------: |
+|            |           | Session 11 | Mentioned |
+|            |           | Session 12 |           |
+|            |           | Session 13 |           |
+|            |           | Session 14 |           |
+| Session 5  | Mentioned | Session 15 |           |
+| Session 6  | Mentioned | Session 16 |           |
+| Session 7  | Mentioned | Session 17 |           |
+| Session 8  | Mentioned | Session 18 |           |
+| Session 9  | Mentioned | Session 19 |           |
+| Session 10 |  Absent   | Session 20 |           |
 ## [[Session 05 - The Party Explores a Castle]]
 In [[Monty MacMasters|Monty's]] office, Branwyn finds notes on Mora beginning her move across Phaeros.
 ## [[Session 06 - The Party Has a Feast]]
@@ -27,3 +33,5 @@ Branwyn decodes Gwyneth's notes. They read that Mora disappeared when a blight t
 Maokai tells [[Gertrude Spugel|Gertrude]] that Mora banished him, and asks for her heart, located under Maedrosi. The heart could allow Maokai to return Phaeros to nature.
 
 Grima tells Branwyn that Mora is a witch who survives by taking the bodies of children. Branwyn confirms that the last time she saw Mora was when she was eighteen. Grima also says that Mora may have taken interest in Branwyn due to her abilities as a green dreamer.
+## [[Session 11 - The Party Loses a Corpse]]
+[[Shurima the Corpsemaker|Shurima]] tells [[Moiloc Kodlaksdottër|Moiloc]] that Mora is an avatar of Maokai, but they had a falling out. A necromancer turned Coryphea into Gravewatch, and Mora retaliated by killing him and his family. She made a deal with Maokai to gain power, assaulting the civilized world to get revenge on anyone who would harm nature, but her form cannot hold her power. She kidnaps and indoctrinates children to serve as her vessels, implanting memories and taking their souls to eventually inhabit their bodies.

@@ -13,16 +13,18 @@ Monty MacMasters, or Michael, both of which are likely pseudonyms, is a being th
 |   [[Jim MacMasters]]    |   Brother   |
 |     [[Monty's Son]]     |     Son     |
 
-|  Session  |  Status   |
-| :-------: | :-------: |
-| Session 1 | Appeared  |
-| Session 2 |  Absent   |
-| Session 3 |  Absent   |
-| Session 4 | Appeared  |
-| Session 5 | Mentioned |
-| Session 6 |  Absent   |
-| Session 7 | Mentioned |
-| Session 8 | Mentioned |
+|  Session   |  Status   |  Session   |  Status   |
+| :--------: | :-------: | :--------: | :-------: |
+| Session 1  | Appeared  | Session 11 | Mentioned |
+| Session 2  |  Absent   |            |           |
+| Session 3  |  Absent   |            |           |
+| Session 4  | Appeared  |            |           |
+| Session 5  | Mentioned |            |           |
+| Session 6  |  Absent   |            |           |
+| Session 7  | Mentioned |            |           |
+| Session 8  | Mentioned |            |           |
+| Session 9  |  Absent   |            |           |
+| Session 10 |  Absent   |            |           |
 ## [[Session 01 - The Party Fights Sewer Rats]]
 Branwyn comes to Monty trying to sell her cloak. Monty tries to rip her off, but fails. Instead, he offers to sponsor her in the Games, promising her gold and treasures. She leaves to think on it, and Monty provides her a letter which will get her a room at the inn. The next day, she returns and accepts his offer.
 
@@ -38,3 +40,5 @@ Later, Branwyn and Moiloc reappear in Monty's office after using a teleportation
 Teddy & the Roosevelts arrive at Monty's shop to find that he has left. He left a note saying he will meet them in Wallachia. Upon arriving to Wallachia, the group asks around for him, but nobody has seen him.
 ## [[Session 08 - The Party Hates it Here]]
 Branwyn suspects that Monty is the owner of Michael's Fine Threads, being described as a tall elf.
+## [[Session 11 - The Party Loses a Corpse]]
+Moiloc looks through the ruins of Michael's after Brasov is destroyed, and finds some gauntlets and gold were left. Branwyn and [[Lothar (Brewster) Nash|Brewster]] mention that they don't trust Monty. Brewster later Identifies these gauntlets as Gauntlets of Skullduggery, which may improve sleight of hand.

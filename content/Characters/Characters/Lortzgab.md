@@ -9,10 +9,18 @@ Lortzgab is a half-orc woman with a burn scar on her face. She is one of the com
 | [[Contigo]]  | Teammate |
 | [[Dandelon]] | Teammate |
 
-|  Session  |  Status  |
-| :-------: | :------: |
-| Session 6 | Appeared |
-| Session 7 | Appeared |
+|  Session   |  Status  |  Session   |  Status   |
+| :--------: | :------: | :--------: | :-------: |
+|            |          | Session 11 | Mentioned |
+|            |          |            |           |
+|            |          |            |           |
+|            |          |            |           |
+|            |          |            |           |
+| Session 6  | Appeared |            |           |
+| Session 7  | Appeared |            |           |
+| Session 8  |  Absent  |            |           |
+| Session 9  | Appeared |            |           |
+| Session 10 |  Absent  |            |           |
 ## [[Session 06 - The Party Has a Feast]]
 Lortzgab is seen with their teammates in the castle courtyard. Their group seems to suffer from some in-fighting, and they claim to also be on a mission as well as joining the Games.
 
@@ -25,3 +33,5 @@ The group runs across the street to [[Bartholomew|Bartholomew's]] apothecary to 
 After arriving in Brasov, Lortzgab stays close to Moiloc, saying that Wallachia specializes in extermination, questioning their safety. [[Gertrude Spugel|Gertrude]], [[Branwyn of Coryphea|Branwyn]], Moiloc, Contigo, Lortzgab, and Charlotte go to the Adventurer's Guild to get restocked. The Guild tells them that they can't help until they complete a contract with them. They agree to take a contract to exorcise a demon from a nearby chateau.
 ## [[Session 09 - The Party Downsizes]]
 Lortzgab is seen fighting onboard the Wavecrasher as it is boarded by the Inquisitors.
+## [[Session 11 - The Party Loses a Corpse]]
+Goro tells [[Kaldrake Sootspot|Kaldrake]] that Lortzgab was able to finish the teleportation circle and escape with King Aslan on the Wavecrasher.

@@ -104,7 +104,7 @@ Below are characters vaguely grouped in order of appearance. Characters may be f
 [[Jiren]]
 [[Laogzed]]
 [[Simon]]
-[[Styx]]
+[[Styx the Pathfinder]]
 [[The Goat]]
 [[Tobias Grand]]
 [[Velma]]

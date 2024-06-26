@@ -9,26 +9,27 @@ Shurima the Corpsemaker is an old man, worshipped by Moiloc. He is a keeper of s
 **First Seen:** Session 1
 **Status:** Alive
 
-|            Character             |  Relation  |
-| :------------------------------: | :--------: |
-| [[Moiloc Kodlaksdottër\|Moiloc]] | Worshipper |
+|            Character             | Relation |
+| :------------------------------: | :------: |
+| [[Moiloc Kodlaksdottër\|Moiloc]] |  Avatar  |
 
-|  Session   |  Status   |
-| :--------: | :-------: |
-| Session 1  | Appeared  |
-| Session 2  | Mentioned |
-| Session 3  | Appeared  |
-| Session 4  |  Absent   |
-| Session 5  |  Absent   |
-| Session 6  | Mentioned |
-| Session 7  | Mentioned |
-| Session 8  | Mentioned |
-| Session 9  |  Absent   |
-| Session 10 | Mentioned |
+|  Session   |  Status   |  Session   |  Status  |
+| :--------: | :-------: | :--------: | :------: |
+| Session 1  | Appeared  | Session 11 | Appeared |
+| Session 2  | Mentioned | Session 12 |          |
+| Session 3  | Appeared  | Session 13 |          |
+| Session 4  |  Absent   | Session 14 |          |
+| Session 5  |  Absent   | Session 15 |          |
+| Session 6  | Mentioned | Session 16 |          |
+| Session 7  | Mentioned | Session 17 |          |
+| Session 8  | Mentioned | Session 18 |          |
+| Session 9  |  Absent   | Session 19 |          |
+| Session 10 | Mentioned | Session 20 |          |
+
 ## [[Session 01 - The Party Fights Sewer Rats]]
 Moiloc follows Shurima into an alley where she finds a murdered priest. The next day, [[Gertrude Spugel|Gertrude]] questions him about a piece of paper he has, but he refuses to tell her what it is.
 
-He is next seen in the sewers during the first Game the party attempts. He is shoving bodies into a sack. He promises to teleport the party out before the rats kill them if they give him their sigil. He also mentions that they need behelits to escape, saying that he has five. Branwyn steals the sigil from [[Lexar Bellos|Lexar]] and gives it to him, and he teleports them out of the sewers.
+He is next seen in the sewers during the first Game the party attempts. He is shoving bodies into a sack. He promises to teleport the party out before the rats kill them if they give him their sigil. He also mentions that they need behelits to escape, saying that he has five. [[Branwyn]] steals the sigil from [[Lexar Bellos|Lexar]] and gives it to him, and he teleports them out of the sewers.
 ## [[Session 02 - The Party Gets Puzzled]]
 Moiloc begins praying to Shurima for safety during the grand melee.
 ## [[Session 03 - The Party Saves the Bears]]
@@ -41,3 +42,9 @@ Moiloc prays to Shurima on the Wavecrasher, asking for more information on her f
 [[Grima]] expresses interest in Shurima. Moiloc tells Grima about the attacks on the Kodlak Islands instead, which seems to satisfy him.
 ## [[Session 10 - The Party Gets Bit]]
 Moiloc tells [[Lothar (Brewster) Nash|Brewster]] about Shurima. Brewster is confused that she's referring to a person, and tells her that Shurima is the name of a country destroyed about 400-500 centuries ago by [[Umr-At-Tawil]]. Leaving the lab, Moiloc finds a wax seal stamp depicting the Wallachian coat of arms on it in her pouch, and she feels like this is a gift from Shurima. Branwyn confronts Moiloc on worshipping Shurima, and she says she hasn't killed anyone for him yet and tells him secrets.
+## [[Session 11 - The Party Loses a Corpse]]
+Shurima whispers to Moiloc not to enter a library in the Chateau, as he is having a nothic minion collect something for him.
+
+Later, in Dunn, Shurima is seen exiting carriages bearing [[Queen Cypha|Queen Cypha's]] markings. He somehow sacrifices some of the soldiers with him to free [[Ouroborus Tikktal]] from her chains. He then magically drains energy from the remaining soldiers, transforming Ouroborus into a black, undead dragon, and disappearing. Moiloc is able to use Shurima's name to open the door to the magical carriage, and finds a set of dark, snake armor inside. Brewster Identifies the armor as being magical, but not harmful.
+
+Moiloc puts it on, immediately teleporting to Shurima's office, where he offers her a feast of seemingly impossible-to-obtain food. He says he provides armor to all of his avatars, but refuses to tell her about the dragon. He tells her about [[Mora]] after she signs a contract saying she won't tell Branwyn. He says she is an avatar of Maokai, and made a deal with him after a necromancer turned Coryphea into Gravewatch. She killed the necromancer and his family, and assaulted the civilized world to get revenge on anyone who would harm nature, but her form cannot hold her power. She kidnaps and indoctrinates children to serve as her vessels, implanting memories and taking their souls to eventually inhabit their bodies. Shurima then sends her back to her friends at Dunn.

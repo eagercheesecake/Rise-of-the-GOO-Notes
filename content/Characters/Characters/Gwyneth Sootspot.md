@@ -15,15 +15,18 @@ Gwyneth is an elven wizard, and Kaldrake's sister.
 |    [[Martin Sootspot\|Martin]]    | Great-Grandfather |
 | [[Balthazar Sootspot\|Balthazar]] |      Father       |
 
-|  Session  |  Status   |
-| :-------: | :-------: |
-| Session 1 | Appeared  |
-| Session 2 |  Absent   |
-| Session 3 |  Absent   |
-| Session 4 |  Absent   |
-| Session 5 | Mentioned |
-| Session 6 | Mentioned |
-| Session 7 | Mentioned |
+|  Session   |  Status   |  Session   |  Status   |
+| :--------: | :-------: | :--------: | :-------: |
+| Session 1  | Appeared  | Session 11 | Mentioned |
+| Session 2  |  Absent   |            |           |
+| Session 3  |  Absent   |            |           |
+| Session 4  |  Absent   |            |           |
+| Session 5  | Mentioned |            |           |
+| Session 6  | Mentioned |            |           |
+| Session 7  | Mentioned |            |           |
+| Session 8  |  Absent   |            |           |
+| Session 9  |  Absent   |            |           |
+| Session 10 |  Absent   |            |           |
 ## [[Session 01 - The Party Fights Sewer Rats]]
 Kaldrake mentions that her sister is the person who commissioned [[Lexar Bellos|Lexar]] to protect her during the Games. Before the first melee, [[Gertrude Spugel|Gertrude]] sees Gwyneth performing fire magic in front of the arena.
 ## [[Session 05 - The Party Explores a Castle]]
@@ -32,3 +35,5 @@ Kaldrake suggests that Gwyneth may be able to remove Gertrude's curse that is re
 [[Father Sansor]] says Gwyneth left about a week ago, and points them to her friend, [[Goro Hattori|Goro]]. Goro tells them she left for Martin's Isle, and gives them a key to her office. [[Branwyn of Coryphea|Branwyn]] finds notes that Gwyneth was taking on [[Mora]]. They also find a keyhole in her doorframe that causes the bed to rise into a potion room. The party later uses this room to escape the siege on Montrissad.
 ## [[Session 07 - The Party Sets Sail]]
 Branwyn decodes Gwyneth's notes on Mora. They read that Mora disappeared when a blight turned Grovewatch into Gravewatch, but has been seen again recently near Maedrosi.
+## [[Session 11 - The Party Loses a Corpse]]
+[[Jones]] tells Kaldrake that Gwyneth took Kaldrake to the High Pontate, mentioning that she is the new Grand Vizier. Later, [[Arklow Laban]] says Gwyneth had returned to Lothric. After escaping the ship, Goro comments on how much Gwyneth had changed since working with him in Montrissad.

@@ -24,3 +24,5 @@ At some point, [[Goro Hattori|Goro]] rescues David and [[King Aslan]] from the c
 At the end of the journey, Lexar and Moiloc throw a party to get David out of his funk. Lexar uses his Unseen Servant to have David win a game of shuffleboard. However, David stays unresponsive. Despite this, Skalazar befriends David and Lexar, bonding over the party.
 ## [[Session 09 - The Party Downsizes]]
 David is seen fighting onboard the Wavecrasher as it is taken over by the Inquisitors. Gertrude later sees David imprisoned on an Inquisitor ship at the Brasov docks.
+## [[Session 11 - The Party Loses a Corpse]]
+Kaldrake finds David on the High Pontate, and gets [[Arklow Laban]] to set him free. The group returns to Wallachia, and sets up camp after beginning to walk to Fort Bosco for horses.

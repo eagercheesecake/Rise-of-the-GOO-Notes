@@ -14,17 +14,18 @@ Branwyn is an half-elf ranger woman, and child of Mora, originally coming from C
 |       [[Mora\|Mora]]        |  Mother  |
 |        [[Charlotte]]        |   Ward   |
 
-|  Session  |  Status  |
-| :-------: | :------: |
-| Session 1 | Appeared |
-| Session 2 | Appeared |
-| Session 3 | Appeared |
-| Session 4 | Appeared |
-| Session 5 | Appeared |
-| Session 6 | Appeared |
-| Session 7 | Appeared |
-| Session 8 | Appeared |
-| Session 9 | Appeared |
+|  Session   |  Status  |  Session   |  Status  |
+| :--------: | :------: | :--------: | :------: |
+| Session 1  | Appeared | Session 11 | Appeared |
+| Session 2  | Appeared | Session 12 | Appeared |
+| Session 3  | Appeared | Session 13 | Appeared |
+| Session 4  | Appeared | Session 14 | Appeared |
+| Session 5  | Appeared | Session 15 | Appeared |
+| Session 6  | Appeared | Session 16 | Appeared |
+| Session 7  | Appeared | Session 17 | Appeared |
+| Session 8  | Appeared | Session 18 | Appeared |
+| Session 9  | Appeared | Session 19 | Appeared |
+| Session 10 | Appeared | Session 20 | Appeared |
 ## [[Session 01 - The Party Fights Sewer Rats]]
 Branwyn finds [[Monty's Son]] on the streets of Montrissad, who points her to Monty to sell her cloak. On her way to Monty's, she is attacked by a teenage thief, and knocks him out, leaving him some gold as an apology. Monty tries to rip her off in the sale, but fails, and instead offers to sponsor her in the Games. Branwyn shows the letter to [[Jim MacMasters|Jim]] at the inn and gets a room.
 
@@ -83,3 +84,9 @@ Branwyn reunites with Jessie in a cave in Dunn. Charlotte promises that Loktar i
 They return to the raider's tent to sleep, and find Kaldrake on a large bed with seven other raiders. Branwyn wakes up Kaldrake, and they leave the tent to catch up. Branwyn confronts Moiloc on her secrecy about her oath to Shurima, and she says she hasn't killed anyone for him yet. She admits that she has been telling Shurima secrets. She tells them about the wax seal and admits she isn't a diplomat, but is working to take down adverse nations. The next morning, Violet asks them to bring Brewster to the Chateau to collect information related to ydril.
 
 They find the Chateau full of vampires and butchered corpses. The group is attacked by bats and vampires while exploring the upper floor. The group finds [[Camilla Braeton|Camilla]] and [[Carmine Braeton|Carmine Braeton's]] coffins in the cellars. Camilla's is destroyed, and Carmine's is blocked shut with an immovable rod, which Moiloc deactivates and removes. Carmine explodes out of the coffin in a burst of energy, beginning to fight the others. Carmine is able to kill or down everyone else in the party, and charms Branwyn, causing her to consider Carmine a friend. This charm is broken when Carmine goes to kill Branwyn after everyone else is downed, and Branwyn immediately is able to kill him and revive Brewster. They find a scroll of Revivify on Carmine's body, and have to choose between reviving Moiloc and Kaldrake. Branwyn decides to use it on Moiloc, and they take Kaldrake's body back to Dunn. Branwyn makes Brewster promise to never let Dr. Nubgrub touch Kaldrake's body.
+## [[Session 11 - The Party Loses a Corpse]]
+The group notices three-toed footprints leading to the library of the Chateau while they go to leave. Moiloc tells them that Shurima says they shouldn't enter, and goes in alone. Brewster and Branwyn ask her to grab Celestial books for research, but she is unable to do so. The group decides to just leave the Chateau. They decide to go to Dunn to get Kaldrake's body to safety.
+
+On their way, they see Queen Cypha's carriages and soldiers proceeding to Brasov. They question going to Brasov to warn Gorm, but decide they are unable to. They set up camp for the night and take shifts to watch over Kaldrake's corpse. In the morning, they find that Kaldrake's corpse is gone. They see boot tracks leading toward Brasov, and decide to head there to look for Kaldrake. Branwyn finds a rowboat, and a larger boat in the distance, but decides it would be difficult to get to the boat if the crew is adversarial. They proceed back to Dunn after finding evidence that the Queen's soldiers may be going there next.
+
+At Dunn, the group sees the Queen's caravans approach, and are surprised to see Shurima exit. He somehow sacrifices some of the soldiers with him to free [[Ouroborus Tikktal]] from her chains. He then magically drains energy from the remaining soldiers, transforming Ouroborus into a black, undead dragon, and disappearing. Moiloc is able to use Shurima's name to open the door to the magical carriage, and finds a set of dark, snake armor inside. Moiloc disappears to Shurima upon putting on the armor, and he promises to tell her about Mora, but makes her sign a contract promising she won't tell Branwyn any of it. When Moiloc re-appears, they question her, but she says nothing.

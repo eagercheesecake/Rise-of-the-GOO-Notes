@@ -15,18 +15,18 @@ Kaldrake comes from Martin's Isle, from a long bloodline of powerful elven wizar
 |    [[Martin Sootspot\|Martin]]    | Great-Grandfather |
 | [[Balthazar Sootspot\|Balthazar]] |      Father       |
 
-|  Session   |  Status  |
-| :--------: | :------: |
-| Session 1  | Appeared |
-| Session 2  | Appeared |
-| Session 3  | Appeared |
-| Session 4  | Appeared |
-| Session 5  | Appeared |
-| Session 6  | Appeared |
-| Session 7  | Appeared |
-| Session 8  | Appeared |
-| Session 9  | Appeared |
-| Session 10 | Appeared |
+|  Session   |  Status  |  Session   |  Status  |
+| :--------: | :------: | :--------: | :------: |
+| Session 1  | Appeared | Session 11 | Appeared |
+| Session 2  | Appeared | Session 12 | Appeared |
+| Session 3  | Appeared | Session 13 | Appeared |
+| Session 4  | Appeared | Session 14 | Appeared |
+| Session 5  | Appeared | Session 15 | Appeared |
+| Session 6  | Appeared | Session 16 | Appeared |
+| Session 7  | Appeared | Session 17 | Appeared |
+| Session 8  | Appeared | Session 18 | Appeared |
+| Session 9  | Appeared | Session 19 | Appeared |
+| Session 10 | Appeared | Session 20 | Appeared |
 ## [[Session 01 - The Party Fights Sewer Rats]]
 Kaldrake gets to the inn in Montrissad and reserves a room. After the announcement of the Games, he meets with [[Lexar Bellos|Lexar]] at the inn, since Gwyneth had sent Lexar a letter asking him to protect Kaldrake. They agree to cooperate, and when the rules are announced, quickly decide to form a team. Soon after, [[Moiloc Kodlaksdottër|Moiloc]] asks to join the team as well, and is accepted. Lexar suggests the group begins by searching the docks, as he had noticed some knights there in the previous days.
 
@@ -66,7 +66,7 @@ After reuniting, Teddy & the Roosevelts sneak back into Gwyneth's tower. They fi
 
 The group proceed to the pre-game feast. Gertrude notices that [[King Aslan]] has two right hands, and tells Kaldrake this. He seems to recall having two right hands means something, but can't place it. The dessert of the feast turns out to be poisoned, causing the group to become sick.
 
-Kaldrake escapes the feast, fighting the attacking guards on his way out, and makes his way to Gwyneth's tower, meeting up with Lexar, Branwyn, Gertrude, Contigo, and Lortzgab. They jump out of the window to escape the corpse eaters seen overrunning the castle, landing in the moat, and returning to the Montrissad streets.
+Kaldrake escapes the feast, fighting the attacking guards on his way out, and makes his way to Gwyneth's tower, meeting up with Lexar, Branwyn, Gertrude, Contigo, and [[Lortzgab]]. They jump out of the window to escape the corpse eaters seen overrunning the castle, landing in the moat, and returning to the Montrissad streets.
 ## [[Session 07 - The Party Sets Sail]]
 After escaping from the castle, the group begins proceeding through the monster-riddled streets to find Monty's. They run across townspeople barricading streets and homes from the corpse eaters, and take a young girl, [[Charlotte]], with them away from the chaos. On their way to Monty's, the party is heavily wounded by the monsters. They get to Monty's, and find it billowing with smoke. Inside is a small fire, which they put out. Branwyn notices that the door to Monty's magical hallway is gone, and finds runes where it once was. They find a letter from Monty saying he'll meet them in Wallachia. Soon after, Moiloc, [[Belnades]], and [[Tarren Hammerfist|Tarren]] enter as well, reuniting the party.
 
@@ -91,3 +91,11 @@ Kaldrake is woken up by Branwyn, finding seven other raiders in the bed with him
 The next morning, Violet asks them to bring [[Lothar (Brewster) Nash|Brewster]] to the Chateau to collect information related to ydril. They find the Chateau full of vampires and butchered corpses. Inside, Kaldrake gets queasy at many points when being confronted with the viscera. He also is very suspicious of any gold they find in the Chateau, thinking it may be cursed. The group is attacked by bats and vampires while exploring the upper floor. Kaldrake finds a battle axe in an armory, and soon after is locked in a room with a vampire. He uses the battle axe to take down the vampire immediately, before the others are even able to notice they had been locked out of the room Kaldrake had entered. Kaldrake shows the ring on the vampire to Brewster, who identifies it as a cursed ring which turns the wearer into a vampire spawn, and noting it has the sigil of house Braeton on it. Kaldrake collects a few of these while exploring the rest of the Chateau. Kaldrake also finds a scroll of Fireball.
 
 The group is suspicious of the cellar, and Kaldrake finds a false wall revealing a room with two coffins belonging to  [[Camilla Braeton|Camilla]] and [[Carmine Braeton|Carmine Braeton]]. Camilla's is destroyed, and Carmine's is blocked shut with an immovable rod. Kaldrake finds blueprints relating to Dunn, which he gives to Brewster. Moiloc deactivates and removes the rod, and Carmine explodes out of the coffin in a burst of energy, beginning to fight the others. During the fight, Carmine bites Kaldrake, instantaneously killing him. Branwyn finds a scroll of Revivify but chooses to use it on Moiloc, who had also been killed, instead of Kaldrake. They collect Kaldrake's body to take back to Dunn. Branwyn makes Brewster promise to never let [[Dr. Nubgrub]] touch Kaldrake's body.
+## [[Session 11 - The Party Loses a Corpse]]
+After leaving the Chateau, the group decides to try and return Kaldrake's body to Dunn for safety. However, while they are camping for the night, Kaldrake's body is stolen and taken to the High Pontate, where Kaldrake finds himself revived. He talks to a guard, [[Jones]]. Jones shows immense respect and fear for Kaldrake and the Sootspot family. He informs Kaldrake that he is on the High Pontate, and that Gwyneth took him there, also noting that she is the new Grand Vizier. He also says Brasov has been destroyed, and they have declared war on Amaris. He then directs Kaldrake to [[Arklow Laban]], saying he is in charge.
+
+Kaldrake meets with Arklow after being revived. Arklow proudly tells stories about his military victories, and says he's been revived 14 times, so Kaldrake being revived isn't a big deal, but Kaldrake's revival was more difficult, and required the destruction of Brasov as a sacrifice to a djinn. This order came from someone even above Gwyneth. Kaldrake returns to Arklow later, asking if he can take some prisoners, and Arklow allows it. Belnades still seems to hold some resentment against Kaldrake for his actions after rescuing Violet. While going to leave, Kaldrake sees Goro, Belnades, Skalazar, and David, and is told Lexar has died and Lortzgab escaped with King Aslan. Kaldrake asks Arklow if he can take these prisoners, and Arklow agrees. He also tells Jones that he sees himself in him, and takes Jones with him as well. Kaldrake takes Jones's armor and shield, having lost his own.
+
+The group returns to Wallachia, and when Kaldrake mentions Dunn, Jones says Dunn should already be destroyed. Kaldrake takes Jones's map to try to find Lothric or Dunn. Jones mentions that Fort Bosco might be a good place to get horses. Kaldrake gets annoyed with Jones's idolization of him, and tells Jones to return to the High Pontate, and he'll be relieved of duty after that. Jones promises to fulfill his dreams once he is free from duty.
+
+On their way to Fort Bosco, Kaldrake tries to reconnect with Belnades, apologizing for the situation. Belnades agrees that Kaldrake caused this and left her to die. Kaldrake stands by the Inquisitors being in the wrong, and Belnades admits she isn't with them anymore, but she can't forgive Kaldrake yet. They are able to bond a bit as Kaldrake tells her how he died. Jones soon reappears, saying he has decided to help Kaldrake, and plans to kill all non-humans because they killed his uncle. He admits he has killed his adopted goblin brother, but that the brother attempted to kill his mom, so he deserved it. Kaldrake is not happy about any of this. The group sets up camp for the night.

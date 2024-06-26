@@ -14,18 +14,18 @@ Moiloc is a human princess from the Kodlak Islands. She has come to Montrissad o
 |                Kodlak                |  Father  |
 | [[Shurima the Corpsemaker\|Shurima]] |  Patron  |
 
-|  Session   |  Status  |
-| :--------: | :------: |
-| Session 1  | Appeared |
-| Session 2  | Appeared |
-| Session 3  | Appeared |
-| Session 4  | Appeared |
-| Session 5  | Appeared |
-| Session 6  | Appeared |
-| Session 7  | Appeared |
-| Session 8  | Appeared |
-| Session 9  | Appeared |
-| Session 10 | Appeared |
+|  Session   |  Status  |  Session   |  Status  |
+| :--------: | :------: | :--------: | :------: |
+| Session 1  | Appeared | Session 11 | Appeared |
+| Session 2  | Appeared | Session 12 | Appeared |
+| Session 3  | Appeared | Session 13 | Appeared |
+| Session 4  | Appeared | Session 14 | Appeared |
+| Session 5  | Appeared | Session 15 | Appeared |
+| Session 6  | Appeared | Session 16 | Appeared |
+| Session 7  | Appeared | Session 17 | Appeared |
+| Session 8  | Appeared | Session 18 | Appeared |
+| Session 9  | Appeared | Session 19 | Appeared |
+| Session 10 | Appeared | Session 20 | Appeared |
 ## [[Session 01 - The Party Fights Sewer Rats]]
 Moiloc comes to Montrissad to join the games, and begins looking for lodgings. On her way, she notices an ominous wrinkled man, Shurima, in the crowd, and follows him. She loses him, but finds the corpse of a priest and a red behelit in an alley, and takes the behelit.
 
@@ -88,3 +88,11 @@ They return to the raider's tent to sleep, and find Kaldrake on a large bed with
 The next morning, Violet asks them to bring Brewster to the Chateau to collect information related to ydril. Moiloc shows Brewster the seal Shurima gave her, and he identifies it as the Braeton family crest. They find the Chateau full of vampires and butchered corpses. The group is attacked by bats and vampires while exploring the upper floor. Moiloc finds a new set of chainmail armor in an armory.
 
 The group finds [[Camilla Braeton|Camilla]] and [[Carmine Braeton|Carmine Braeton's]] coffins in the cellars. Camilla's is destroyed, and Carmine's is blocked shut with an immovable rod, which Moiloc deactivates and removes. Carmine explodes out of the coffin in a burst of energy, beginning to fight the others. During the fight, Moiloc is killed, but Branwyn finds a scroll of Revivify on Carmine's body, and chooses to revive Moiloc rather than Kaldrake.
+## [[Session 11 - The Party Loses a Corpse]]
+Before leaving, Moiloc notices three-toed footprints leading from the basement back to the library. As Moiloc approaches the door, she hears Shurima whisper to her not to enter. She tells Brewster and Branwyn to wait behind, and enters alone. She attempts to grab some Celestial books at Branwyn and Brewster's request, but the nothic gets upset at her, and rushes to grab them first. The group decides to just leave the Chateau. They decide to go to Dunn to get Kaldrake's body to safety.
+
+On their way, they see Queen Cypha's carriages and soldiers proceeding to Brasov. They question going to Brasov to warn Gorm, but decide they are unable to. They set up camp for the night and take shifts to watch over Kaldrake's corpse. In the morning, they find that Kaldrake's corpse is gone. They see boot tracks leading toward Brasov, and decide to head there to look for Kaldrake. Brasov is completely destroyed from the explosion, and they can't find Kaldrake, although they do find a ydril circle surrounding the city, and a ship in the distance. Moiloc goes to Michael's, hoping Monty would be there, and found he left gauntlets and gold. They proceed back to Dunn after finding evidence that the Queen's soldiers may be going there next.
+
+Later, in Dunn, Shurima is seen exiting carriages bearing [[Queen Cypha|Queen Cypha's]] markings. He somehow sacrifices some of the soldiers with him to free [[Ouroborus Tikktal]] from her chains. He then magically drains energy from the remaining soldiers, transforming Ouroborus into a black, undead dragon, and disappearing. Brewster finds a chest inside the cave, and leads Moiloc in to smash it open, leading her with her eyes closed so she doesn't see the blood-soaked scene. She is able to open it, and he leads her out.
+
+Moiloc is able to use Shurima's name to open the door to the magical carriage, and finds a set of dark, snake armor inside. Brewster Identifies the armor as being magical, but not harmful. Moiloc puts it on, immediately teleporting to Shurima's office, where he offers her a feast of seemingly impossible-to-obtain food. He says he provides armor to all of his avatars, but refuses to tell her about the dragon. He tells her about [[Mora]] after she signs a contract saying she won't tell Branwyn. He says she is an avatar of Maokai, and made a deal with him after a necromancer turned Coryphea into Gravewatch. She killed the necromancer and his family, and assaulted the civilized world to get revenge on anyone who would harm nature, but her form cannot hold her power. She kidnaps and indoctrinates children to serve as her vessels, implanting memories and taking their souls to eventually inhabit their bodies. Shurima then sends her back to her friends at Dunn. When Moiloc re-appears, they question her, but she says nothing.

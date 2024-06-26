@@ -14,3 +14,5 @@ The group finds Skalazar hiding on the lower decks of the Wavecrasher after they
 [[Lexar Bellos|Lexar]] talks with Skalazar that night. Skalazar informs him that he was a former dock worker, but was fired after eating all the oranges. Lexar magically cleans Skalazar's clothes. Lexar then creates an illusory orange for Skalazar, dispelling the illusion as he leaves, confusing Skalazar. Despite this, at the party at the end of the ship, Skalazar befriends David and Lexar.
 ## [[Session 09 - The Party Downsizes]]
 Skalazar is seen fighting and steering the Wavecrasher as the Inquisitors board and attack. [[Gertrude Spugel|Gertrude]] later sees Skalazar imprisoned on an Inquisitor ship at the Brasov docks.
+## [[Session 11 - The Party Loses a Corpse]]
+Kaldrake finds Belnades on the High Pontate, and gets [[Arklow Laban]] to set him free. The group returns to Wallachia, and sets up camp after beginning to walk to Fort Bosco for horses.
