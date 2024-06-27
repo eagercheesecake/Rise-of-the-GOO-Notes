@@ -5,7 +5,7 @@ date: 2024-06-22
 ---
 # Day 37
 ## Forest
-After the storm elementals leave, the group continues down the forest path. After walking, [[Branwyn of Coryphea]] hears loud thudding in the forest, like something big is quickly approaching. They hide [[Helen]] behind a tree as a large troll comes through the tree line. [[Lothar (Brewster) Nash|Brewster]] recognizes that trolls are not native to Wallachia.
+After the storm elementals leave, the group continues down the forest path. After walking, [[Branwyn of Coryphea|Branwyn]] hears loud thudding in the forest, like something big is quickly approaching. They hide [[Helen]] behind a tree as a large troll comes through the tree line. [[Lothar (Brewster) Nash|Brewster]] recognizes that trolls are not native to Wallachia.
 
 > [!danger] Fight
 > [[Kaldrake Sootspot|Kaldrake]] cleaves into the troll deeply, causing it to heavily bleed, but its wound knits itself closed again. The troll misses Kaldrake with his club twice, then misses a bite. Branwyn shoots the troll in the shoulder, but misses her second shot. Brewster uses Melf’s Acid Arrow, shooting the troll in the chest, causing it to shriek. It doesn’t seem to heal. [[Moiloc Kodlaksdottër|Moiloc]] uses Bless, helping the team, and Kaldrake gets another hit off. The troll bites at Kaldrake, taking hold of him and slamming him twice with his club. Branwyn shoots at the troll twice more. Brewster misses an Eldritch Blast with his multitool. Moiloc uses her fire long sword, lobbing off the troll’s hand, which also doesn’t seem to regenerate. Kaldrake, still held by the troll, lightly attacks him. When the troll attacks back, Kaldrake is able to riposte, break free, and stab him in the throat, causing him to fall down with a giant thud.
