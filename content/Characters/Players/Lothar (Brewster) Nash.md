@@ -12,7 +12,7 @@ Brewster is a rock gnome who joined the Wallachian Resistance after being freed 
 
 |      Character      | Relation |
 | :-----------------: | :------: |
-|       Daphne        |  Friend  |
+|     [[Daphne]]      |  Friend  |
 | [[Puck Nash\|Puck]] | Servant  |
 
 |  Session   |  Status  |  Session   |  Status  |
@@ -41,3 +41,9 @@ On their way, they see [[Queen Cypha|Queen Cypha's]] carriages and soldiers proc
 At Dunn, the group sees the Queen's caravans approach, and are surprised to see Shurima exit. He somehow sacrifices some of the soldiers with him to free [[Ouroborus Tikktal]] from her chains. He then magically drains energy from the remaining soldiers, transforming Ouroborus into a black, undead dragon, and disappearing. Brewster rushes to check on the dragon, who wakes up and flies off. Inside the blood-soaked cave, Brewster finds [[King Endrio the Bold|King Endrio's]] cape. He also has Branwyn open the chest from Brasov, and gets a cloudy crystal of teleportation, but doesn't know the catchphrase.
 
 Moiloc is able to use Shurima's name to open the door to the magical carriage, and finds a set of dark, snake armor inside. Brewster Identifies the armor through Puck as being magical, but not harmful. He also recognizes it, but can't place where he knows it from. Moiloc puts it on, and disappears. While she is gone, Brewster Identifies Monty's gauntlets as helping with sleight of hand. When Moiloc returns, they question her, but she won't answer.
+## [[Session 12 - The Party Travels]]
+Branwyn gets scared unusual changes in the nearby forest, and the group decides to move on to Lothric. Soon after leaving, Branwyn begins to feel immense pain from her bite wound, and they pull over. Brewster notices the wound turning black, commenting that he's seen nothing like it before.
+
+Looking at Gwyneth's book on Mora, she finds that one of Mora's cabins is nearby. Branwyn makes a magic compass to track down the cabin, using Puck as the container for the ritual, and she and Brewster are magically transported to the woods surrounding the cabin. The cabin is burnt, and they find a humanoid with bark skin burnt on the foot of the cabin. Inside is ransacked, and as they approach the cabin, a snoutkai attacks the pair. They defeat it, and inside the bedroom they find the corpse of a child that looks identical to Branwyn, and another journal, with all non-blank pages ripped out. Brewster mentions that [[Daphne]] may be able to help identify what is happening with the duplicate body.
+
+Moiloc, Brewster, and Branwyn reunite in Dunn. They decide to continue to Lothric, and are attacked by yeth hounds on the way. They decide to continue moving through the night, taking shifts with one person driving the carriage at a time. During Brewster's shift, he sees a shirtless and battered Gorm walking the other direction, with purple cracks on his face. Goro refuses to join them, and Brewster carries on. Brewster magically forgets this interaction. Later that night, they arrive at Lothric.

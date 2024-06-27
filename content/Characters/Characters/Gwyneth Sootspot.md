@@ -18,15 +18,15 @@ Gwyneth is an elven wizard, and Kaldrake's sister.
 |  Session   |  Status   |  Session   |  Status   |
 | :--------: | :-------: | :--------: | :-------: |
 | Session 1  | Appeared  | Session 11 | Mentioned |
-| Session 2  |  Absent   |            |           |
-| Session 3  |  Absent   |            |           |
-| Session 4  |  Absent   |            |           |
-| Session 5  | Mentioned |            |           |
-| Session 6  | Mentioned |            |           |
-| Session 7  | Mentioned |            |           |
-| Session 8  |  Absent   |            |           |
-| Session 9  |  Absent   |            |           |
-| Session 10 |  Absent   |            |           |
+| Session 2  |  Absent   | Session 12 | Mentioned |
+| Session 3  |  Absent   | Session 13 |           |
+| Session 4  |  Absent   | Session 14 |           |
+| Session 5  | Mentioned | Session 15 |           |
+| Session 6  | Mentioned | Session 16 |           |
+| Session 7  | Mentioned | Session 17 |           |
+| Session 8  |  Absent   | Session 18 |           |
+| Session 9  |  Absent   | Session 19 |           |
+| Session 10 |  Absent   | Session 20 |           |
 ## [[Session 01 - The Party Fights Sewer Rats]]
 Kaldrake mentions that her sister is the person who commissioned [[Lexar Bellos|Lexar]] to protect her during the Games. Before the first melee, [[Gertrude Spugel|Gertrude]] sees Gwyneth performing fire magic in front of the arena.
 ## [[Session 05 - The Party Explores a Castle]]
@@ -37,3 +37,5 @@ Kaldrake suggests that Gwyneth may be able to remove Gertrude's curse that is re
 Branwyn decodes Gwyneth's notes on Mora. They read that Mora disappeared when a blight turned Grovewatch into Gravewatch, but has been seen again recently near Maedrosi.
 ## [[Session 11 - The Party Loses a Corpse]]
 [[Jones]] tells Kaldrake that Gwyneth took Kaldrake to the High Pontate, mentioning that she is the new Grand Vizier. Later, [[Arklow Laban]] says Gwyneth had returned to Lothric. After escaping the ship, Goro comments on how much Gwyneth had changed since working with him in Montrissad.
+## [[Session 12 - The Party Travels]]
+Branwyn looks in the book Gwyneth made on Mora and finds a note mentioning the location of one of Mora's cottages that Gwyneth had heard about. Later, Goro comments to Kaldrake that he has some business with Gwyneth. Goro and Gwyneth work together and try and nail down a timeline of Gwyneth's whereabouts.

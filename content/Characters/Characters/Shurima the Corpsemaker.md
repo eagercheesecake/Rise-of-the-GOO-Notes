@@ -4,27 +4,27 @@ tags:
 ---
 ![[Shurima.png|250]]
 
-Shurima the Corpsemaker is an old man, worshipped by Moiloc. He is a keeper of secrets.
+Shurima the Corpsemaker is a powerful old man, worshipped by Moiloc. He is a keeper of secrets.
 
-**First Seen:** Session 1
-**Status:** Alive
+- **First Seen:** Session 1
+- **Status:** Alive
 
 |            Character             | Relation |
 | :------------------------------: | :------: |
 | [[Moiloc Kodlaksdottër\|Moiloc]] |  Avatar  |
 
-|  Session   |  Status   |  Session   |  Status  |
-| :--------: | :-------: | :--------: | :------: |
-| Session 1  | Appeared  | Session 11 | Appeared |
-| Session 2  | Mentioned | Session 12 |          |
-| Session 3  | Appeared  | Session 13 |          |
-| Session 4  |  Absent   | Session 14 |          |
-| Session 5  |  Absent   | Session 15 |          |
-| Session 6  | Mentioned | Session 16 |          |
-| Session 7  | Mentioned | Session 17 |          |
-| Session 8  | Mentioned | Session 18 |          |
-| Session 9  |  Absent   | Session 19 |          |
-| Session 10 | Mentioned | Session 20 |          |
+|  Session   |  Status   |  Session   |  Status   |
+| :--------: | :-------: | :--------: | :-------: |
+| Session 1  | Appeared  | Session 11 | Appeared  |
+| Session 2  | Mentioned | Session 12 | Mentioned |
+| Session 3  | Appeared  | Session 13 |           |
+| Session 4  |  Absent   | Session 14 |           |
+| Session 5  |  Absent   | Session 15 |           |
+| Session 6  | Mentioned | Session 16 |           |
+| Session 7  | Mentioned | Session 17 |           |
+| Session 8  | Mentioned | Session 18 |           |
+| Session 9  |  Absent   | Session 19 |           |
+| Session 10 | Mentioned | Session 20 |           |
 
 ## [[Session 01 - The Party Fights Sewer Rats]]
 Moiloc follows Shurima into an alley where she finds a murdered priest. The next day, [[Gertrude Spugel|Gertrude]] questions him about a piece of paper he has, but he refuses to tell her what it is.
@@ -48,3 +48,5 @@ Shurima whispers to Moiloc not to enter a library in the Chateau, as he is havin
 Later, in Dunn, Shurima is seen exiting carriages bearing [[Queen Cypha|Queen Cypha's]] markings. He somehow sacrifices some of the soldiers with him to free [[Ouroborus Tikktal]] from her chains. He then magically drains energy from the remaining soldiers, transforming Ouroborus into a black, undead dragon, and disappearing. Moiloc is able to use Shurima's name to open the door to the magical carriage, and finds a set of dark, snake armor inside. Brewster Identifies the armor as being magical, but not harmful.
 
 Moiloc puts it on, immediately teleporting to Shurima's office, where he offers her a feast of seemingly impossible-to-obtain food. He says he provides armor to all of his avatars, but refuses to tell her about the dragon. He tells her about [[Mora]] after she signs a contract saying she won't tell Branwyn. He says she is an avatar of Maokai, and made a deal with him after a necromancer turned Coryphea into Gravewatch. She killed the necromancer and his family, and assaulted the civilized world to get revenge on anyone who would harm nature, but her form cannot hold her power. She kidnaps and indoctrinates children to serve as her vessels, implanting memories and taking their souls to eventually inhabit their bodies. Shurima then sends her back to her friends at Dunn.
+## [[Session 12 - The Party Travels]]
+In a basement of Dunn, Moiloc finds a mirror that shows areas significant to people she thinks of. When thinking of Shurima, the mirror shows a pillar in the desert.

@@ -12,17 +12,18 @@ Gertrude resides in the Forest of Throw, near Montrissad, where she runs a local
 | :--: | :--: |
 | [[Gordon Spugel\|Gordon]] | Son |
 
-|  Session  |  Status   |
-| :-------: | :-------: |
-| Session 1 | Appeared  |
-| Session 2 | Appeared  |
-| Session 3 | Appeared  |
-| Session 4 | Appeared  |
-| Session 5 | Appeared  |
-| Session 6 | Appeared  |
-| Session 7 | Appeared  |
-| Session 8 | Mentioned |
-| Session 9 | Appeared  |
+|  Session   |  Status   |  Session   |  Status   |
+| :--------: | :-------: | :--------: | :-------: |
+| Session 1  | Appeared  | Session 11 |  Absent   |
+| Session 2  | Appeared  | Session 12 | Mentioned |
+| Session 3  | Appeared  |            |           |
+| Session 4  | Appeared  |            |           |
+| Session 5  | Appeared  |            |           |
+| Session 6  | Appeared  |            |           |
+| Session 7  | Appeared  |            |           |
+| Session 8  | Mentioned |            |           |
+| Session 9  | Appeared  |            |           |
+| Session 10 |  Absent   |            |           |
 ## [[Session 01 - The Party Fights Sewer Rats]]
 Gertrude comes to Montrissad to buy treats for her bears. In the treat shop, she meets [[Jacob]], who is working at the shop. He tells her [[King Aslan]] took all the treats for the Games. They both express frustration toward the king, and Gertrude convinces Jacob to join the Games and make something of himself.
 
@@ -79,3 +80,5 @@ The tree lowers her into its trunk, where Maokai is appearing as a green orb. Ma
 Gertrude wakes up and asks a nearby squirrel if they had seen Pine, but the squirrel had not seen any bears. Gertrude decides to go back to Brasov. Upon arriving, the guards say no non-humans are allowed. She turns into a pigeon and flies over Brasov, seeing Skalazar in shackles swabbing the deck of an Inquisitor ship. She then turns into a rat, and finds Goro and David in the prisoner's hold of the ship. She scratches the letter G into the side of the ship to let them know she was nearby, and returns to outside Brasov. She worries that she may have insulted Maokai, and apologizes to the forest.
 
 Gertrude is not seen after this. It is assumed by Teddy & the Roosevelts that she went back home.
+## [[Session 12 - The Party Travels]]
+In a basement of Dunn, Moiloc finds a mirror that shows areas significant to people she thinks of. When thinking of Gertrude, she sees a bear rehabilitation camp.

@@ -6,14 +6,20 @@ David is a tall, handsome human man. He is one of Lexar's close friends from Mon
 |        Character        | Relation |
 | :---------------------: | :------: |
 | [[Lexar Bellos\|Lexar]] |  Friend  |
+|          David          | Husband  |
 
-|  Session  |  Status  |
-| :-------: | :------: |
-| Session 5 | Appeared |
-| Session 6 | Appeared |
-| Session 7 | Appeared |
-| Session 8 |  Absent  |
-| Session 9 | Appeared |
+|  Session   |  Status  |  Session   |  Status  |
+| :--------: | :------: | :--------: | :------: |
+|            |          | Session 11 | Appeared |
+|            |          | Session 12 | Appeared |
+|            |          |            |          |
+|            |          |            |          |
+| Session 5  | Appeared |            |          |
+| Session 6  | Appeared |            |          |
+| Session 7  | Appeared |            |          |
+| Session 8  |  Absent  |            |          |
+| Session 9  | Appeared |            |          |
+| Session 10 |  Absent  |            |          |
 ## [[Session 05 - The Party Explores a Castle]]
 Lexar and [[Moiloc Kodlaksdottër|Moiloc]] talk with David in an attempt to convince him and a team of farmhands to join the Games. David reluctantly agrees, and rides horseback with his team to the castle. David rides on his favorite horse, Dash Man. David enrolls with the team name David and the Horse Men.
 ## [[Session 06 - The Party Has a Feast]]
@@ -26,3 +32,5 @@ At the end of the journey, Lexar and Moiloc throw a party to get David out of hi
 David is seen fighting onboard the Wavecrasher as it is taken over by the Inquisitors. Gertrude later sees David imprisoned on an Inquisitor ship at the Brasov docks.
 ## [[Session 11 - The Party Loses a Corpse]]
 Kaldrake finds David on the High Pontate, and gets [[Arklow Laban]] to set him free. The group returns to Wallachia, and sets up camp after beginning to walk to Fort Bosco for horses.
+## [[Session 12 - The Party Travels]]
+In the morning, David and Goro go to hunt a deer for food for the day. David talks with Goro, telling him he had decided to leave the group to find his husband.

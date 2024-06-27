@@ -10,7 +10,7 @@ Belnades is an Inquisitor who joined the Montrissad Games. She is a tiefling who
 |  Session   |  Status  |  Session   |  Status  |
 | :--------: | :------: | :--------: | :------: |
 |            |          | Session 11 | Appeared |
-|            |          |            |          |
+|            |          | Session 12 | Appeared |
 |            |          |            |          |
 |            |          |            |          |
 |            |          |            |          |
@@ -39,3 +39,5 @@ As Belnades and Kaldrake approach the caravan, Belnades tells him the caravan wa
 Lexar, Goro, and Belnades proceed to where Skalazar parked the Wavecrasher. Upon arriving, they see an Inquisitor ship coming in to attack. Belnades tries to attack with a fire spell, but misses and lights the Wavecrasher on fire instead. The trio boards as the Inquisitor ship rams the Wavecrasher, causing it to sink. Inquisitors board and attack, and Belnades helps fight back.
 ## [[Session 11 - The Party Loses a Corpse]]
 Kaldrake finds Belnades on the High Pontate, and gets [[Arklow Laban]] to set her free. Belnades still seems to hold some resentment against Kaldrake for his actions after rescuing [[Violet]]. The group returns to Wallachia. On their way to Fort Bosco, Kaldrake tries to reconnect with Belnades, apologizing for the situation. Belnades agrees that Kaldrake caused this and left her to die. Kaldrake stands by the Inquisitors being in the wrong, and Belnades admits she isn't with them anymore, but she can't forgive Kaldrake yet. They are able to bond a bit as Kaldrake tells her how he died. They set up camp for the night.
+## [[Session 12 - The Party Travels]]
+Kaldrake checks on Belnades in the morning, who seems surprised that Gwyneth is the new Grand Vizier, saying they hadn't had one in fifteen years. Belnades agrees to stay in the group, to find out what has happened to cause this sudden change. On their way to Fort Bosco, the group is attacked by treants. Kaldrake is downed, but Belnades rushes to stabilize him. Belnades is downed as well, and stabilized by Jones. The next morning, Kaldrake fills Belnades in on how he was revived, and on a vision he had of [[Martin Sootspot]]. Belnades says the revival Kaldrake described shouldn't be possible for a djinn.

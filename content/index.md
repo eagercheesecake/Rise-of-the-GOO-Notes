@@ -3,7 +3,7 @@ title: Rise of the GOO
 ---
 ### Recent Updates
 - Added information for Session 20
-- Character information now up to date as of Session 11
+- Character information now up to date as of Session 12
 ### Information
 [[Timelines]]
 [[Characters]]

@@ -1,3 +1,7 @@
+---
+tags:
+  - character
+---
 Goro is an old dragonborn man. He is the castle blacksmith in Montrissad.
 
 - **First Seen:** Session 6
@@ -10,7 +14,7 @@ Goro is an old dragonborn man. He is the castle blacksmith in Montrissad.
 |  Session   |  Status  |  Session   |  Status  |
 | :--------: | :------: | :--------: | :------: |
 |            |          | Session 11 | Appeared |
-|            |          |            |          |
+|            |          | Session 12 | Appeared |
 |            |          |            |          |
 |            |          |            |          |
 |            |          |            |          |
@@ -31,3 +35,5 @@ Goro stays on the Wavecrasher to watch over King Aslan and Charlotte. At some po
 Lexar, Goro, and Belnades proceed to where Skalazar parked the Wavecrasher. Upon arriving, they see an Inquisitor ship coming in to attack. Belnades tries to attack with a fire spell, but misses and lights the Wavecrasher on fire instead. The trio boards as the Inquisitor ship rams the Wavecrasher, causing it to sink. Inquisitors board and attack, and Goro helps fight back. As Lexar dies, he sees Goro trying to pull King Aslan to safety. Gertrude later sees Goro imprisoned on an Inquisitor ship at the Brasov docks.
 ## [[Session 11 - The Party Loses a Corpse]]
 Kaldrake finds Goro on the High Pontate, and gets [[Arklow Laban]] to set him free. Goro tells Kaldrake about what happened on the Wavecrasher, noting that Lortzgab was able to escape with King Aslan. Kaldrake admits that he killed [[Father Gregor]], and feels somewhat responsible for his imprisonment, but Goro says he shouldn't feel responsible. The group returns to Wallachia, and sets up camp after beginning to walk to Fort Bosco for horses.
+## [[Session 12 - The Party Travels]]
+David and Goro go to hunt a deer for food for the day. David talks to Goro, saying he is leaving the group to find his husband. Goro later passes this information on to Kaldrake. Goro says he has business with Gwyneth, so he plans to stay. On their way to Fort Bosco, the group is attacked by treants. During the rest of the travel, Goro and Kaldrake work together to try and nail down a timeline on Gwyneth's movements.
