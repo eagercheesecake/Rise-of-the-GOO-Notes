@@ -3,6 +3,10 @@ tags:
   - session
 date: 2022-09-09
 ---
+
+| Previous Session |              Next Session               |
+| :--------------: | :-------------------------------------: |
+|                  | [[Session 02 - The Party Gets Puzzled]] |
 ### Logline
 *Five adventurers enter a city-wide competition in an attempt to have any wish granted. The group finds themselves exploring a sewer for their first challenge.*
 ### Synopsis

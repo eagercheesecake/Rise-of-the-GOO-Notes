@@ -3,6 +3,10 @@ tags:
   - session
 date: 2024-01-13
 ---
+
+|          Previous Session          |                 Next Session                 |
+| :--------------------------------: | :------------------------------------------: |
+| [[Session 14 - The Party Retcons]] | [[Session 16 - The Party Follows Strangers]] |
 ### Logline
 *Moiloc, Brewster, and Branwyn reunite with the resistance, learning of their plans. Kaldrake reunites with his sister and connects to his new powers.*
 ### Synopsis

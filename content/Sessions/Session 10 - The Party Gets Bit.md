@@ -3,6 +3,10 @@ tags:
   - session
 date: 2023-09-02
 ---
+
+|           Previous Session           |               Next Session                |
+| :----------------------------------: | :---------------------------------------: |
+| [[Session 09 - The Party Downsizes]] | [[Session 11 - The Party Loses a Corpse]] |
 ### Logline
 *Branwyn, Moiloc, and Kaldrake meet the others in the local Resistance. The trio brings a scientist from Dunn to the Chateau to investigate rumors of information related to ydril.*
 ### Synopsis

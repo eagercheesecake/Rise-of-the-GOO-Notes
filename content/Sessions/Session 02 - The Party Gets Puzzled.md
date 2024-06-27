@@ -3,6 +3,10 @@ tags:
   - "#session"
 date: 2022-10-01
 ---
+
+|               Previous Session               |                Next Session                |
+| :------------------------------------------: | :----------------------------------------: |
+| [[Session 01 - The Party Fights Sewer Rats]] | [[Session 03 - The Party Saves the Bears]] |
 ### Logline
 *Lexar and Branwyn find themselves in a mysterious puzzle dungeon. Gertrude, Moiloc, and Kaldrake enter the Grand Melee in an attempt to save the bears.*
 ### Synopsis

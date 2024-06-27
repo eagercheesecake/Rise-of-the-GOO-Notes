@@ -3,6 +3,10 @@ tags:
   - session
 date: 2023-04-29
 ---
+
+|           Previous Session           |             Next Session             |
+| :----------------------------------: | :----------------------------------: |
+| [[Session 07 - The Party Sets Sail]] | [[Session 09 - The Party Downsizes]] |
 ### Logline
 *Lexar and Kaldrake go through their initiation into the Inquisitors. Branwyn and Moiloc investigate the suspicious inner workings of Brasov after party members begin disappearing.*
 ### Synopsis

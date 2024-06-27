@@ -3,6 +3,10 @@ tags:
   - session
 date: 2023-12-31
 ---
+
+|              Previous Session              |               Next Session               |
+| :----------------------------------------: | :--------------------------------------: |
+| [[Session 13 - The Party Kills Innocents]] | [[Session 15 - The Party Has a Meeting]] |
 ### Logline
 *Kaldrake rewrites history. Branwyn and Brewster find a familiar monster in the sewers of Lothric. Moiloc searches for the Resistance.*
 ### Synopsis

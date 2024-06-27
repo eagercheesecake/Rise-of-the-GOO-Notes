@@ -3,6 +3,10 @@ tags:
   - session
 date: 2024-06-22
 ---
+
+|            Previous Session             | Next Session |
+| :-------------------------------------: | :----------: |
+| [[Session 19 - The Party Turns Around]] |              |
 # Day 37
 ## Forest
 After the storm elementals leave, the group continues down the forest path. After walking, [[Branwyn of Coryphea|Branwyn]] hears loud thudding in the forest, like something big is quickly approaching. They hide [[Helen]] behind a tree as a large troll comes through the tree line. [[Lothar (Brewster) Nash|Brewster]] recognizes that trolls are not native to Wallachia.

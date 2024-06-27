@@ -3,6 +3,10 @@ tags:
   - session
 date: 2023-10-28
 ---
+
+|             Previous Session              |                Next Session                |
+| :---------------------------------------: | :----------------------------------------: |
+| [[Session 11 - The Party Loses a Corpse]] | [[Session 13 - The Party Kills Innocents]] |
 ### Logline
 *The groups encounter obstacles on their way to Lothric, and are made to remember their roots.*
 ### Synopsis

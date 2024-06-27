@@ -3,6 +3,10 @@ tags:
   - session
 date: 2022-11-12
 ---
+
+|              Previous Session              |                 Next Session                 |
+| :----------------------------------------: | :------------------------------------------: |
+| [[Session 03 - The Party Saves the Bears]] | [[Session 05 - The Party Explores a Castle]] |
 ### Logline
 *Kaldrake, Moiloc, Branwyn, and Gertrude find themselves in danger when the Hatched Pig Inn is attacked. Lexar has a restless night.*
 ### Summary

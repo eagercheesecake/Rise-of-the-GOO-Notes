@@ -4,6 +4,7 @@ title: Rise of the GOO
 ### Recent Updates
 - Added information for Session 20
 - Character information now up to date as of Session 12
+- **NEW:** Sessions now show the previous/next session at the top for ease of navigation
 - **NEW:** Sessions now show what date they occurred at the top
 	- I don't know how I did that, Quartz must have updated
 ### Information

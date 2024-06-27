@@ -3,6 +3,10 @@ tags:
   - session
 date: 2023-09-16
 ---
+
+|          Previous Session           |            Next Session            |
+| :---------------------------------: | :--------------------------------: |
+| [[Session 10 - The Party Gets Bit]] | [[Session 12 - The Party Travels]] |
 ### Logline
 *Moiloc, Branwyn, and Brewster collect themselves after Kaldrake's death. Moiloc deepens her connection with Shurima. Meanwhile, the events in Brasov escalate, putting Dunn in danger.*
 ### Synopsis

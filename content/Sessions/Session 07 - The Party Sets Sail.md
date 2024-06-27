@@ -3,6 +3,10 @@ tags:
   - session
 date: 2023-03-04
 ---
+
+|            Previous Session            |               Next Session               |
+| :------------------------------------: | :--------------------------------------: |
+| [[Session 06 - The Party Has a Feast]] | [[Session 08 - The Party Hates it Here]] |
 ### Logline
 *The group makes their way out of Montrissad, meeting some new friends on the journey. Lexar and Kaldrake get taken in by the church. Moiloc, Gertrude, and Branwyn explore the town to replenish what they had lost.*
 ### Synopsis

@@ -3,6 +3,10 @@ tags:
   - session
 date: 2023-12-02
 ---
+
+|          Previous Session          |            Next Session            |
+| :--------------------------------: | :--------------------------------: |
+| [[Session 12 - The Party Travels]] | [[Session 14 - The Party Retcons]] |
 ### Logline
 *Kaldrake enters Fort Bosco to get what he needs for his journey to Lothric. Branwyn and Brewster struggle to look for the Resistance in a town which is hostile to non-humans.*
 ### Synopsis

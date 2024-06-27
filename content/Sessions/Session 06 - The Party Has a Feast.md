@@ -3,6 +3,10 @@ tags:
   - session
 date: 2023-02-18
 ---
+
+|               Previous Session               |             Next Session             |
+| :------------------------------------------: | :----------------------------------: |
+| [[Session 05 - The Party Explores a Castle]] | [[Session 07 - The Party Sets Sail]] |
 ### Logline
 *As the feast approaches, Kaldrake attempts to gather information on his sister. Lexar is contacted by his cult and confronted with a decision.*
 ### Synopsis

@@ -3,6 +3,10 @@ tags:
   - session
 date: 2024-02-24
 ---
+
+|             Previous Session             |            Next Session             |
+| :--------------------------------------: | :---------------------------------: |
+| [[Session 15 - The Party Has a Meeting]] | [[Session 17 - The Party Reunites]] |
 ### Logline
 *Brewster begins construction on the ydril machine. Branwyn and Moiloc get some mail. Kaldrake suffers the consequences of jumping into Gwyneth's pit.*
 ### Synopsis
