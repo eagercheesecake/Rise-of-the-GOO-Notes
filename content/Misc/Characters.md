@@ -71,7 +71,6 @@ Below are characters vaguely grouped in order of appearance. Characters may be f
 [[Andre]]
 [[Belnades]]
 [[Constance Steel]]
-[[Corrin the Impaler]]
 [[Edward Tallow]]
 [[Jones]]
 [[Ponce]]
@@ -96,7 +95,15 @@ Below are characters vaguely grouped in order of appearance. Characters may be f
 [[King Endrio the Bold]]
 [[Pontiff Sulyvahn]]
 [[Queen Cypha]]
+[[The Serene Mother]]
 [[Sister Marie the Confessor]]
+## Lothric Advisors
+[[Corrin the Impaler]]
+[[Gwyneth Sootspot]]
+[[Monty MacMasters]]
+[[Shurima the Corpsemaker]]
+## Cardinal Sphere
+[[The Serene Mother]]
 ## Other Residents
 [[Daphne]]
 [[Grima]]

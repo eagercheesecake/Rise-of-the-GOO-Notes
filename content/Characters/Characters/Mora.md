@@ -13,7 +13,7 @@ Mora is Branwyn's mother figure from her childhood, using her as a vessel for he
 | :--------: | :-------: | :--------: | :-------: |
 |            |           | Session 11 | Mentioned |
 |            |           | Session 12 | Mentioned |
-|            |           | Session 13 |           |
+|            |           | Session 13 | Mentioned |
 |            |           | Session 14 |           |
 | Session 5  | Mentioned | Session 15 |           |
 | Session 6  | Mentioned | Session 16 |           |
@@ -37,3 +37,5 @@ Grima tells Branwyn that Mora is a witch who survives by taking the bodies of ch
 [[Shurima the Corpsemaker|Shurima]] tells [[Moiloc Kodlaksdottër|Moiloc]] that Mora is an avatar of Maokai, but they had a falling out. A necromancer turned Coryphea into Gravewatch, and Mora retaliated by killing him and his family. She made a deal with Maokai to gain power, assaulting the civilized world to get revenge on anyone who would harm nature, but her form cannot hold her power. She kidnaps and indoctrinates children to serve as her vessels, implanting memories and taking their souls to eventually inhabit their bodies.
 ## [[Session 12 - The Party Travels]]
 Branwyn's shoulder wound begins to hurt immensely once they enter the forest outside of Dunn, and she smells smoke. Looking at Gwyneth's book on Mora, she finds that one of Mora's cabins is nearby. Branwyn makes a magic compass to track down the cabin, and she and [[Lothar (Brewster) Nash|Brewster]] are magically transported to the woods surrounding the cabin. The cabin is burnt, and they find a humanoid with bark skin burnt on the foot of the cabin. Inside is ransacked, and as they approach the cabin, a snoutkai attacks the pair. They defeat it, and inside the bedroom they find the corpse of a child that looks identical to Branwyn, and another journal, with all non-blank pages ripped out They lightly rub dust on the back page, and find a diary entry about Mora teaching the child to make soup.
+## [[Session 13 - The Party Kills Innocents]]
+Mora's cloak is seen inside a mysterious shop which sells magical trinkets. The shopkeeper explains that it's a replica, and helps the wearer with spellcasting. The shopkeeper dodges the question when Branwyn asks if he knows about Mora.

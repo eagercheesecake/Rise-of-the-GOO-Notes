@@ -7,8 +7,8 @@ Queen Cypha is the current queen of Wallachia, working in close collaboration wi
 |  Session   |  Status   |  Session   |  Status   |
 | :--------: | :-------: | :--------: | :-------: |
 |            |           | Session 11 | Mentioned |
-|            |           |            |           |
-|            |           |            |           |
+|            |           | Session 12 |  Absent   |
+|            |           | Session 13 | Mentioned |
 |            |           |            |           |
 |            |           |            |           |
 |            |           |            |           |
@@ -22,3 +22,5 @@ Queen Cypha is the current queen of Wallachia, working in close collaboration wi
 [[Lothar (Brewster) Nash|Brewster]] tells the party that Queen Cypha rose to power about 25 years ago after the fall of the Braeton family and assassination of [[King Endrio the Bold|King Endrio]]. He says she helped the Church gain more power in the region. Later, inside the Chateau, [[Kaldrake Sootspot|Kaldrake]] finds a Wallachian history book. Inside the book is a picture of Queen Cypha with the face torn out.
 ## [[Session 11 - The Party Loses a Corpse]]
 The group sees Queen Cypha's soldier caravans heading to Brasov. Later, they find the carriages had proceeded to Dunn. It is revealed that [[Shurima the Corpsemaker|Shurima]] is inside.
+## [[Session 13 - The Party Kills Innocents]]
+Brewster says Queen Cypha married King Endrio so the church could gain more power with the state. At Fort Bosco, Kaldrake learns that [[The Serene Mother]] will soon be hosting a tournament to select Queen Cypha's new champion. Later, [[Tobias Grand]] tells Moiloc about the Bounty Guild, which helps the Queen track down criminals.

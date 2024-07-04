@@ -12,8 +12,8 @@ Lortzgab is a half-orc woman with a burn scar on her face. She is one of the com
 |  Session   |  Status  |  Session   |  Status   |
 | :--------: | :------: | :--------: | :-------: |
 |            |          | Session 11 | Mentioned |
-|            |          |            |           |
-|            |          |            |           |
+|            |          | Session 12 |  Absent   |
+|            |          | Session 13 | Appeared  |
 |            |          |            |           |
 |            |          |            |           |
 | Session 6  | Appeared |            |           |
@@ -35,3 +35,5 @@ After arriving in Brasov, Lortzgab stays close to Moiloc, saying that Wallachia 
 Lortzgab is seen fighting onboard the Wavecrasher as it is boarded by the Inquisitors.
 ## [[Session 11 - The Party Loses a Corpse]]
 Goro tells [[Kaldrake Sootspot|Kaldrake]] that Lortzgab was able to finish the teleportation circle and escape with King Aslan on the Wavecrasher.
+## [[Session 13 - The Party Kills Innocents]]
+Since the Wavecrasher, Lortzgab had been taken prisoner at Fort Bosco. [[The Serene Mother]] has [[Jones]] bring her in while Kaldrake is visiting, likely to execute her. Kaldrake offers to fight Lortzgab, hoping to save her by saying he's above killing her at the last minute. The Serene Mother agrees to let them leave once Kaldrake says this, but goes to hit her with her greathammer, hoping to wound her enough that she wouldn't be of any use to Kaldrake. Kaldrake jumps in the way, saving Lortzgab, and runs off. After leaving the fort, Kaldrake realizes he didn't get horses, and re-enters under the guise of wanting to throw Lortzgab to the wolves. After buying the horses, they return to Kaldrake's group, and Goro gives Lortzgab some rabbit stew as Kaldrake fills her in on what's happened. The group decides to continue on their way to Lothric immediately.
