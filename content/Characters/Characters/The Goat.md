@@ -7,5 +7,8 @@ The Goat is a mysterious money lender in Lothric, who lends money to people work
 |  Session   |  Status   |
 | :--------: | :-------: |
 | Session 13 | Mentioned |
+| Session 14 | Mentioned |
 ## [[Session 13 - The Party Kills Innocents]]
 [[Moiloc Kodlaksdottër|Moiloc]] goes to the Cathedral in Lothric, and overhears people talking about the Goat. Since Eru is against moneylending, the bank refuses to give loans to people who work with the church. Instead, they go to the Goat to borrow money.
+## [[Session 14 - The Party Retcons]]
+Moiloc asks some questions about the Goat, and they say she shouldn't seek him out, and that she'd regret being in debt to him.

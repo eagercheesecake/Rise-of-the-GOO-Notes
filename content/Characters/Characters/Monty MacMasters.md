@@ -16,9 +16,9 @@ Monty MacMasters, or Michael, both of which are likely pseudonyms, is a being th
 |  Session   |  Status   |  Session   |  Status   |
 | :--------: | :-------: | :--------: | :-------: |
 | Session 1  | Appeared  | Session 11 | Mentioned |
-| Session 2  |  Absent   |            |           |
-| Session 3  |  Absent   |            |           |
-| Session 4  | Appeared  |            |           |
+| Session 2  |  Absent   | Session 12 |  Absent   |
+| Session 3  |  Absent   | Session 13 |  Absent   |
+| Session 4  | Appeared  | Session 14 | Mentioned |
 | Session 5  | Mentioned |            |           |
 | Session 6  |  Absent   |            |           |
 | Session 7  | Mentioned |            |           |
@@ -42,3 +42,5 @@ Teddy & the Roosevelts arrive at Monty's shop to find that he has left. He left 
 Branwyn suspects that Monty is the owner of Michael's Fine Threads, being described as a tall elf.
 ## [[Session 11 - The Party Loses a Corpse]]
 Moiloc looks through the ruins of Michael's after Brasov is destroyed, and finds some gauntlets and gold were left. Branwyn and [[Lothar (Brewster) Nash|Brewster]] mention that they don't trust Monty. Brewster later Identifies these gauntlets as Gauntlets of Skullduggery, which may improve sleight of hand.
+## [[Session 14 - The Party Retcons]]
+[[Gwyneth Sootspot|Gwyneth]] is meeting with Monty, the Advisor of Coin, when Kaldrake arrives to Lothric. Kaldrake reads Gwyneth's diary, and gets the impression that Gwyneth has a crush on the Advisor of Coin.

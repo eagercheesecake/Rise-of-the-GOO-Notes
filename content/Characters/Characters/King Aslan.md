@@ -10,9 +10,9 @@ King Aslan is the lion king of Amaris. He is in charge of running this year's Am
 |  Session   |  Status  |  Session   |  Status   |
 | :--------: | :------: | :--------: | :-------: |
 | Session 1  | Appeared | Session 11 | Mentioned |
-| Session 2  |  Absent  |            |           |
-| Session 3  |  Absent  |            |           |
-| Session 4  |  Absent  |            |           |
+| Session 2  |  Absent  | Session 12 |  Absent   |
+| Session 3  |  Absent  | Session 13 |  Absent   |
+| Session 4  |  Absent  | Session 14 | Mentioned |
 | Session 5  |  Absent  |            |           |
 | Session 6  | Appeared |            |           |
 | Session 7  | Appeared |            |           |

@@ -9,7 +9,7 @@ Queen Cypha is the current queen of Wallachia, working in close collaboration wi
 |            |           | Session 11 | Mentioned |
 |            |           | Session 12 |  Absent   |
 |            |           | Session 13 | Mentioned |
-|            |           |            |           |
+|            |           | Session 14 | Mentioned |
 |            |           |            |           |
 |            |           |            |           |
 |            |           |            |           |
@@ -24,3 +24,6 @@ Queen Cypha is the current queen of Wallachia, working in close collaboration wi
 The group sees Queen Cypha's soldier caravans heading to Brasov. Later, they find the carriages had proceeded to Dunn. It is revealed that [[Shurima the Corpsemaker|Shurima]] is inside.
 ## [[Session 13 - The Party Kills Innocents]]
 Brewster says Queen Cypha married King Endrio so the church could gain more power with the state. At Fort Bosco, Kaldrake learns that [[The Serene Mother]] will soon be hosting a tournament to select Queen Cypha's new champion. Later, [[Tobias Grand]] tells Moiloc about the Bounty Guild, which helps the Queen track down criminals.
+## [[Session 14 - The Party Retcons]]
+Kaldrake and [[Belnades]] are able to enter Lothric by saying they are guests of the Queen.
+## [[Session 15 - The Party Has a Meeting]]

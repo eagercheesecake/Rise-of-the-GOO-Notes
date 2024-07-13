@@ -16,7 +16,7 @@ Goro is an old dragonborn man. He is the castle blacksmith in Montrissad.
 |            |          | Session 11 | Appeared |
 |            |          | Session 12 | Appeared |
 |            |          | Session 13 | Appeared |
-|            |          |            |          |
+|            |          | Session 14 | Appeared |
 |            |          |            |          |
 | Session 6  | Appeared |            |          |
 | Session 7  | Appeared |            |          |
@@ -39,3 +39,5 @@ Kaldrake finds Goro on the High Pontate, and gets [[Arklow Laban]] to set him fr
 David and Goro go to hunt a deer for food for the day. David talks to Goro, saying he is leaving the group to find his husband. Goro later passes this information on to Kaldrake. Goro says he has business with Gwyneth, so he plans to stay. On their way to Fort Bosco, the group is attacked by treants. During the rest of the travel, Goro and Kaldrake work together to try and nail down a timeline on Gwyneth's movements.
 ## [[Session 13 - The Party Kills Innocents]]
 After Kaldrake returns from Fort Bosco, with Lortzgab and without Jones, Goro makes Lortzgab some dinner. He notices Lortzgab is upset, and suggests they sleep it off, but Kaldrake refuses, worried he may have another dream. They decide to continue to Lothric.
+## [[Session 14 - The Party Retcons]]
+While traveling to Lothric, Kaldrake somehow resets reality, causing them to arrive at Lothric much faster. Goro re-explains the events on the Wavecrasher once Kaldrake returns from his vision which reset reality, causing Kaldrake to realize some of the differences in reality. Goro and Skalazar are left outside Lothric, since they are not human.

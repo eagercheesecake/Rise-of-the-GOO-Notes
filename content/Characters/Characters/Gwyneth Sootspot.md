@@ -14,13 +14,14 @@ Gwyneth is an elven wizard, and Kaldrake's sister.
 |  [[Kaldrake Sootspot\|Kaldrake]]  |      Brother      |
 |    [[Martin Sootspot\|Martin]]    | Great-Grandfather |
 | [[Balthazar Sootspot\|Balthazar]] |      Father       |
+|             [[Bisco]]             |      Servant      |
 
 |  Session   |  Status   |  Session   |  Status   |
 | :--------: | :-------: | :--------: | :-------: |
 | Session 1  | Appeared  | Session 11 | Mentioned |
 | Session 2  |  Absent   | Session 12 | Mentioned |
 | Session 3  |  Absent   | Session 13 | Mentioned |
-| Session 4  |  Absent   | Session 14 |           |
+| Session 4  |  Absent   | Session 14 | Appeared  |
 | Session 5  | Mentioned | Session 15 |           |
 | Session 6  | Mentioned | Session 16 |           |
 | Session 7  | Mentioned | Session 17 |           |
@@ -41,3 +42,5 @@ Branwyn decodes Gwyneth's notes on Mora. They read that Mora disappeared when a 
 Branwyn looks in the book Gwyneth made on Mora and finds a note mentioning the location of one of Mora's cottages that Gwyneth had heard about. Later, Goro comments to Kaldrake that he has some business with Gwyneth. Goro and Gwyneth work together and try and nail down a timeline of Gwyneth's whereabouts.
 ## [[Session 13 - The Party Kills Innocents]]
 The guards at Fort Bosco talk about how much they like Gwyneth. [[The Serene Mother]] mentions that Gwyneth had been invited to the upcoming tournament to compete to be [[Queen Cypha|Queen Cypha's]] new champion. Meanwhile, in Lothric, [[Lothar (Brewster) Nash|Brewster]] finds a magical mask that transforms the wearer into the previous wearer. When he puts it on, he turns into Gwyneth.
+## [[Session 14 - The Party Retcons]]
+When Kaldrake arrives in Lothric, Gwyneth is meeting with the [[Monty MacMasters|Advisor of Coin]]. Kaldrake reads Gwyneth's diary, and realizes she has a crush on him.

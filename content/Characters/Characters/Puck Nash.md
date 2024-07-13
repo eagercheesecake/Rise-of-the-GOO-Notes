@@ -14,7 +14,7 @@ Puck is Brewster's homunculus servant. He takes the form of a smiling, flying ca
 |            |          | Session 11 | Appeared |
 |            |          | Session 12 | Appeared |
 |            |          | Session 13 | Appeared |
-|            |          |            |          |
+|            |          | Session 14 | Appeared |
 |            |          |            |          |
 |            |          |            |          |
 |            |          |            |          |
@@ -29,3 +29,5 @@ Brewster uses Puck to identify the armor [[Shurima the Corpsemaker|Shurima]] lef
 [[Branwyn of Coryphea|Branwyn]] uses Puck as a container to make a magic compass that leads to [[Mora|Mora's]] cabin. In the cabin, Puck helps Branwyn and Brewster defeat the snoutkai.
 ## [[Session 13 - The Party Kills Innocents]]
 Brewster has Puck fish an arm out of the sewers.
+## [[Session 14 - The Party Retcons]]
+Puck dumps some viscera into the nearby sewers, in an attempt to distract the oncoming corpse-eater. Later, while being attacked by corpse flayers, Brewster has Puck use a lever to close a portcullis, separating him and Branwyn from the monsters. Puck then un-summoned, and they were able to re-collect his gem through the bars.

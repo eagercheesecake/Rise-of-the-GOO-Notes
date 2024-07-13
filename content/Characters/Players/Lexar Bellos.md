@@ -19,8 +19,8 @@ Lexar is a tiefling warlock, and a local to Montrissad, and a member of the Cult
 | :--------: | :-------: | :--------: | :-------: |
 | Session 1  | Appeared  | Session 11 | Mentioned |
 | Session 2  | Appeared  | Session 12 | Mentioned |
-| Session 3  | Appeared  |            |           |
-| Session 4  | Appeared  |            |           |
+| Session 3  | Appeared  | Session 13 |  Absent   |
+| Session 4  | Appeared  | Session 14 | Mentioned |
 | Session 5  | Appeared  |            |           |
 | Session 6  | Appeared  |            |           |
 | Session 7  | Appeared  |            |           |
@@ -77,3 +77,5 @@ Kaldrake, Moiloc, and Branwyn reunite, confirming that none of them have seen Le
 Goro tells Kaldrake that Lexar died onboard the Wavecrasher.
 ## [[Session 12 - The Party Travels]]
 In a basement of Dunn, Moiloc finds a mirror that shows areas significant to people she thinks of. When thinking of Lexar, she sees Montrissad, burning.
+## [[Session 14 - The Party Retcons]]
+After Kaldrake resets reality, Goro mentions that Lexar was never on the Wavecrasher when it went down. In Lothric, [[Lothar (Brewster) Nash|Brewster]] and Branwyn find a knife identical to Lexar's in a room attached to the sewers, the room also containing barrels of viscera.

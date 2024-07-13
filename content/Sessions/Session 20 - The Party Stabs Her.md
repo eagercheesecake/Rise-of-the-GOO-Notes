@@ -7,6 +7,10 @@ date: 2024-06-22
 |            Previous Session             | Next Session |
 | :-------------------------------------: | :----------: |
 | [[Session 19 - The Party Turns Around]] |              |
+### Logline
+*The party continues to Col Man'Dar, traveling through planes along the journey. An encounter with an enemy reveals danger from within the party.*
+### Synopsis
+The party continues through the forest to Col Man'Dar, fighting trolls and other creatures. While traveling, they start inexplicably going through various planes, but forgetting their travels through the planes. Brewster makes a recording of this so they can remember. One night, Mora finds the group, who manages to hide from her as she magically determines they are going to Whitehall. The group continues to train Helen, but find a sigil on her back allowing Olidamuru to track them. Kaldrake stabs through the sigil, breaking the spell. The group is able to make it to Col Man'Dar's gates.
 # Day 37
 ## Forest
 After the storm elementals leave, the group continues down the forest path. After walking, [[Branwyn of Coryphea|Branwyn]] hears loud thudding in the forest, like something big is quickly approaching. They hide [[Helen]] behind a tree as a large troll comes through the tree line. [[Lothar (Brewster) Nash|Brewster]] recognizes that trolls are not native to Wallachia.

@@ -8,7 +8,7 @@ Skalazar is a humanoid gecko and former dock worker from Montrissad. He is found
 |            |          | Session 11 | Appeared |
 |            |          | Session 12 | Appeared |
 |            |          | Session 13 | Appeared |
-|            |          |            |          |
+|            |          | Session 14 | Appeared |
 |            |          |            |          |
 |            |          |            |          |
 | Session 7  | Appeared |            |          |
@@ -27,3 +27,5 @@ Kaldrake finds Belnades on the High Pontate, and gets [[Arklow Laban]] to set hi
 While Skalazar is traveling to Fort Bosco with the others, they are attacked by treants. He does not join the fight. He is left outside Fort Bosco with the other non-humans as Kaldrake enters to get horses and armor.
 ## [[Session 13 - The Party Kills Innocents]]
 Once Kaldrake returns from Fort Bosco, the group continues to Lothric.
+## [[Session 14 - The Party Retcons]]
+Kaldrake somehow resets reality, causing the group to arrive at Lothric much faster. Once arriving, Kaldrake and Belnades enter, leaving Goro and Skalazar outside the town, since they aren't human.

@@ -12,7 +12,7 @@ Belnades is an Inquisitor who joined the Montrissad Games. She is a tiefling who
 |            |          | Session 11 | Appeared |
 |            |          | Session 12 | Appeared |
 |            |          | Session 13 | Appeared |
-|            |          |            |          |
+|            |          | Session 14 | Appeared |
 |            |          |            |          |
 | Session 6  | Appeared |            |          |
 | Session 7  | Appeared |            |          |
@@ -43,3 +43,5 @@ Kaldrake finds Belnades on the High Pontate, and gets [[Arklow Laban]] to set he
 Kaldrake checks on Belnades in the morning, who seems surprised that Gwyneth is the new Grand Vizier, saying they hadn't had one in fifteen years. Belnades agrees to stay in the group, to find out what has happened to cause this sudden change. On their way to Fort Bosco, the group is attacked by treants. Kaldrake is downed, but Belnades rushes to stabilize him. Belnades is downed as well, and stabilized by Jones. The next morning, Kaldrake fills Belnades in on how he was revived, and on a vision he had of [[Martin Sootspot]]. Belnades says the revival Kaldrake described shouldn't be possible for a djinn. Belnades is left outside Fort Bosco with the other non-humans while Kaldrake enters.
 ## [[Session 13 - The Party Kills Innocents]]
 Once Kaldrake returns to the group from Fort Bosco, they proceed to Lothric.
+## [[Session 14 - The Party Retcons]]
+Kaldrake somehow resets reality, causing the group to appear at Lothric much faster, as well as some other changes to the past. Belnades and Kaldrake enter Lothric alone, since Belnades believes her Inquisitor garb will allow her safe entry. They say they are guests of the Queen, and Kaldrake's Sootspot status grants them free entry. They immediately proceed to Gwyneth's manor, and a guard mentions she is visiting the Minister of Coin, and isn't around. Kaldrake asks Belnades about the Hakon family, and Belnades confirms they are a family of drow known for their cruelty.
