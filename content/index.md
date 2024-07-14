@@ -31,3 +31,4 @@ title: Rise of the GOO
 18. [[Session 18 - The Party Gets Trapped|The Party Gets Trapped]]
 19. [[Session 19 - The Party Turns Around|The Party Turns Around]]
 20. [[Session 20 - The Party Stabs Her|The Party Stabs Her]]
+21. [[Session 21 - The Party Dies]]
