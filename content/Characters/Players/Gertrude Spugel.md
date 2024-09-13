@@ -69,7 +69,7 @@ The group runs across the street to [[Bartholomew|Bartholomew's]] apothecary to 
 
 As they approach Brasov, Gertrude befriends an albatross, and asks what is the area is like. The albatross informs her there are a lot of people there, but doesn't understand humanoid culture enough to comment on anything specific. She also writes letters to her sons and ex-husband telling them she's okay.
 
-Gertrude, Branwyn, Moiloc, [[Contigo]], [[Lortzgab]], and Charlotte go to the Adventurer's Guild to get restocked. The Guild tells them that they can't help until they complete a contract with them. They agree to take a contract to exorcise a demon from a nearby chateau.
+Gertrude, Branwyn, Moiloc, [[Contigo Muñoz]], [[Lortzgab]], and Charlotte go to the Adventurer's Guild to get restocked. The Guild tells them that they can't help until they complete a contract with them. They agree to take a contract to exorcise a demon from a nearby chateau.
 ## [[Session 08 - The Party Hates it Here]]
 Gertrude is notably absent from the ship when Moiloc and Branwyn wake up.
 ## [[Session 09 - The Party Downsizes]]

@@ -7,13 +7,16 @@ tags:
 Kaldrake comes from Martin's Isle, from a long bloodline of powerful elven wizards, but is unable to do magic himself. He is a pretty toned fighter, with dirty blonde hair. He comes to Montrissad to prove himself as a capable fighter in the Games.
 
 - **First Seen:** Session 1
-- **Status:** Alive (Revived)
+- **Status:** Dead
+- **Cause of Death:** Killed by hydra
+- **Time of Death:** Session 22
 
-|             Character             |     Relation      |
-| :-------------------------------: | :---------------: |
-|   [[Gwyneth Sootspot\|Gwyneth]]   |      Sister       |
-|    [[Martin Sootspot\|Martin]]    | Great-Grandfather |
-| [[Balthazar Sootspot\|Balthazar]] |      Father       |
+|                     Character                     |     Relation      |
+| :-----------------------------------------------: | :---------------: |
+|           [[Gwyneth Sootspot\|Gwyneth]]           |      Sister       |
+| [[Characters/Characters/Martin Sootspot\|Martin]] | Great-Grandfather |
+|         [[Balthazar Sootspot\|Balthazar]]         |      Father       |
+|  [[Characters/Players/Martin Sootspot\|Martin]]   |      Brother      |
 
 |  Session   |  Status  |  Session   |  Status  |
 | :--------: | :------: | :--------: | :------: |
@@ -104,7 +107,7 @@ Kaldrake wakes up to Jones cooking beans in the morning. Once Jones notices Kald
 
 Kaldrake also checks on Belnades, who seems surprised that Gwyneth is the new Grand Vizier, saying they hadn't had one in fifteen years. Belnades agrees to stay in the group, to find out what has happened to cause this sudden change. On their way to Fort Bosco, the group is attacked by treants. Kaldrake is downed, but Belnades rushes to stabilize him. Belnades is downed as well, and stabilized by Jones. During the rest of the travel, Goro and Kaldrake work together to try and nail down a timeline on Gwyneth's movements.
 
-While sleeping, Kaldrake experiences a vision where he is floating in space. He finds a dome on the moon, containing [[Martin Sootspot]], chained to the moon's surface. Kaldrake notices a hole where his heart should be, which fills with a brilliant red light, and Kaldrake wakes up in pain, noticing he doesn't have a heartbeat anymore. Kaldrake fills Belnades in on all of this, and about the djinn who revived him. When Belnades says this shouldn't be possible for a djinn, Kaldrake questions if Arklow lied to him. Kaldrake decides to enter Fort Bosco with just Jones, since the others aren't human and wouldn't be received well. Jones says they should respect Kaldrake's status as a Sootspot.
+While sleeping, Kaldrake experiences a vision where he is floating in space. He finds a dome on the moon, containing [[Characters/Characters/Martin Sootspot]], chained to the moon's surface. Kaldrake notices a hole where his heart should be, which fills with a brilliant red light, and Kaldrake wakes up in pain, noticing he doesn't have a heartbeat anymore. Kaldrake fills Belnades in on all of this, and about the djinn who revived him. When Belnades says this shouldn't be possible for a djinn, Kaldrake questions if Arklow lied to him. Kaldrake decides to enter Fort Bosco with just Jones, since the others aren't human and wouldn't be received well. Jones says they should respect Kaldrake's status as a Sootspot.
 ## [[Session 13 - The Party Kills Innocents]]
 Kaldrake and Jones approach Fort Bosco. Kaldrake tells the guard at the front gate that he's a Sootspot, and he lets them in. Another guard approaches them inside, saying [[The Serene Mother]] wants to see him. He also invites Kaldrake to join the upcoming tournament, but Kaldrake declines, saying he wants to get out of Fort Bosco as soon as possible. Inside the fort, Kaldrake meets The Serene Mother.
 
@@ -112,6 +115,6 @@ Kaldrake introduces himself, and the Serene Mother seems impressed by him being 
 
 Kaldrake goes back to the main hall to collect Jones and leave. Jones comes in with Lortzgab, who had been taken prisoner. Kaldrake requests to fight Lortzgab himself, in an attempt to save her, and last-minute says he's above killing her. He asks the Mother to let him leave with Lortzgab and Jones. She says he can't take Jones, since he's too obedient a servant, and goes to hit Lortzgab with her greathammer in an attempt to harm her so much that she wouldn't be of use to Kaldrake. Kaldrake blocks this attack, takes Jones's sword, and runs off with Lortzgab. After leaving, Kaldrake realizes he forgot to get horses. He takes Lortzgab back, under the guise of wanting to throw her to the wolves, and buys three horses before returning to his group and filling Lortzgab in on what's happened. Kaldrake refuses to sleep, in case he has another dream, and the group continues to Lothric.
 ## [[Session 14 - The Party Retcons]]
-While traveling through Lothric, Kaldrake notices they are going much faster than should be possible. He calls out to the others travelling with him, and they disappear as he says their names. When he says his own name, he disappears, reappearing in the same location. He realizes that he has taken the form of [[Gulvayas Hakon]], and seems to be experiencing events from the past, unable to change them. Kaldrake, as Gulvayas, kills [[Martin Sootspot|Martin]] and his father, and gains some of Gulvayas's memories. After reappearing from the vision, Kaldrake confers with Goro, and realizes that reality has changed. Lortzgab is gone from the group.
+While traveling through Lothric, Kaldrake notices they are going much faster than should be possible. He calls out to the others travelling with him, and they disappear as he says their names. When he says his own name, he disappears, reappearing in the same location. He realizes that he has taken the form of [[Gulvayas Hakon]], and seems to be experiencing events from the past, unable to change them. Kaldrake, as Gulvayas, kills [[Characters/Characters/Martin Sootspot|Martin]] and his father, and gains some of Gulvayas's memories. After reappearing from the vision, Kaldrake confers with Goro, and realizes that reality has changed. Lortzgab is gone from the group.
 
 During the vision, they had arrived to Lothric. Belnades and Kaldrake enter alone, leaving the others outside the city. They say they are guests of the Queen, and Kaldrake's Sootspot status grants them free entry. He meets Gwyneth's servant, [[Bisco]], and explores the manor, getting wooden automata to make him a sandwich and reading Gwyneth's diary.

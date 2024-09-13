@@ -6,7 +6,7 @@ Dandelon is an orc from Maedros. He is one of the competitors who made it into t
 |  Character   | Relation |
 | :----------: | :------: |
 | [[Boofoon]]  | Teammate |
-| [[Contigo]]  | Teammate |
+| [[Contigo Muñoz]]  | Teammate |
 | [[Lortzgab]] | Teammate |
 
 |  Session  |  Status  |

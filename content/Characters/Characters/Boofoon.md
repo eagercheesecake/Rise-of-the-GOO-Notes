@@ -7,7 +7,7 @@ Boofoon is a young half-elf with a red buzz cut. They are one of the competitors
 
 |  Character   | Relation |
 | :----------: | :------: |
-| [[Contigo]]  | Teammate |
+| [[Contigo Muñoz]]  | Teammate |
 | [[Lortzgab]] | Teammate |
 | [[Dandelon]] | Teammate |
 

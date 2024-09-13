@@ -6,7 +6,7 @@ Lortzgab is a half-orc woman with a burn scar on her face. She is one of the com
 |  Character   | Relation |
 | :----------: | :------: |
 | [[Boofoon]]  | Teammate |
-| [[Contigo]]  | Teammate |
+| [[Contigo Muñoz]]  | Teammate |
 | [[Dandelon]] | Teammate |
 
 |  Session   |  Status  |  Session   |  Status   |

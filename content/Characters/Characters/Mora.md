@@ -1,4 +1,4 @@
-Mora is Branwyn's mother figure from her childhood, using her as a vessel for her rebirth.
+Mora is Branwyn's mother figure from her childhood, using her as a vessel for her rebirth. She has also gone by Morrigan.
 
 - **First Seen:** N/A
 - **First Mentioned:** Session 5

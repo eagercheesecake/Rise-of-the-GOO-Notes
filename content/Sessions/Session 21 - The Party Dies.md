@@ -1,11 +1,18 @@
-|           Previous Session           | Next Session |
-| :----------------------------------: | :----------: |
-| [[Session 20 - The Party Stabs Her]] |              |
+---
+tags:
+  - session
+date: 2024-07-13
+---
+
+|           Previous Session           |                 Next Session                 |
+| :----------------------------------: | :------------------------------------------: |
+| [[Session 20 - The Party Stabs Her]] | [[Session 22 - The Party’s Not In This One]] |
 ### Logline
 *The party tries to uncover the reason for mysterious circumstances in Col Man'Dar.*
 ### Synopsis
-The group enters Col Man'Dar. They meet an old woman who offers them housing in exchange for picking up medicine. They proceed to the apothecary, where they meet a woman who claims her husband, John, has gone missing, and didn't show up for work at the mill. While looking for John, the group occasionally sees through some sort of illusion, seeing the town covered in blood. After being pointed to a clearing in the forest that John frequents, the group finds a hydra, and the entire party is downed while trying to escape.
+The group enters Col Man'Dar. They meet an old woman who offers them housing in exchange for picking up medicine. They proceed to the apothecary, where they meet a woman who claims her husband, John, has gone missing, and didn't show up for work at the mill. While looking for John, the group occasionally sees through some sort of illusion, seeing the town covered in blood. After being pointed to a clearing in the forest that John frequents, the group finds a hydra, and the entire party is downe while trying to escape.d while trying to escape.
 # Day 42
+### Col Man'Dar
 As the group approaches Col Man’Dar, around 7pm, [[Moiloc Kodlaksdottër|Moiloc]] hears a song, but as she tunes in to try to listen to it, it’s gone. She notices the nearby crops as browning, as if dehydrated. The ground is starting to dry up. However, the island across one fork of the Velka River looks fine. Moiloc knocks on the door of a nearby farmhouse. A half-elf with forcibly rounded ears answers. Moiloc asks where the inn is, and he says they stay at the farm or across the river. The half-elf says he can ask his mistress if she’s taking visitors, and leaves them on the porch. [[Lothar (Brewster) Nash|Brewster]] sees various non-humans being enslaved. He says he feels suspicious of the location, but the others say it would be suspicious if they just left. After about five minutes, the half-elf returns, saying they can come in, but their slaves should stay outside. Moiloc and Brewster enter.
 
 They are led through the main hall. Moiloc takes a step forward and hears a squelch, but only sees wooden floors. She feels something rub off on her foot, like she’s tracking mud, very similar to the cave full of viscera from Dunn. Meanwhile, outside, [[Kaldrake Sootspot|Kaldrake]] and [[Branwyn of Coryphea|Branwyn]] start to feel like someone is watching them. Branwyn notices one of the slaves are planting seeds, which is strange for this late in the season. Brewster and Moiloc enter a lavish bedroom on the third floor. A human is lying, still on the bed. A very thin old woman is in a chair nearby. Moiloc says she is a representative, heading to Whitehall, and the woman begins coughing. She apologizes, saying she and her husband are very sick. Brewster looks to the bed to confirm the husband is breathing. Moiloc apologizes, saying she shouldn’t lodge with someone who is so sick, the woman says if they get some medicine from the apothecary, she’ll give them some gold and let them stay there. Moiloc accepted and they leave the house, collect the others, and proceed to the nearby bridge.
@@ -26,6 +33,7 @@ They ask the woman in the mill, Olga, for horses, and she says she’ll sell the
 
 They proceed to Vermin, who gives them a plank, and says John is sometimes at a nearby clearing. They camp out about a mile north of the village, noticing that it’s a bit noisier, with the sounds of birds.
 # Day 43
+### Col Man'Dar
 The sound of birds are gone. Brewster hears a recording he left: “They’re watching us in the trees, I see them, I see them, it’s in the trees.” He is whispering, hoarse, and terrified. Branwyn searches the forest, but doesn’t see anything in the trees. As Kaldrake is putting away his sleeping bag, he sees a film on the bottom of the sleeping bag. Kaldrake thinks it looks like something out it in its mouth. Kaldrake screams and throws up. Branwyn smells the saliva, and feels a bit faint. Brewster asks if Branwyn remembers her name, trying to see if Mora made her forget. Branwyn doesn’t remember her original last name, but it seems to be by choice.
 
 The group proceeds to the clearing in the woods. It’s perfectly circular. In the center of the clearing is a small crater. As Brewster approaches it, [[Helen]] stops him. Brewster gives her paper and she writes that they’re watching them, in the trees. Moiloc sees the fish-like creature encircling the clearing, looking at them with its long neck over the treetops, smiling at them. Branwyn approaches the crater, and inside, sees a cracked-open egg, looking like a chicken egg, and she gets a feeling it’s from another plane. She tries to pick up the egg, and as soon as she touches the egg. Everyone sees the creature appear, with a body that starts human, but is stretched to the shape of a serpent, covered in fishy scales. Two small hands poke out of its sides midway, and at the top is a head, teeth sharpened into blades, biting Branwyn, putting her to sleep.

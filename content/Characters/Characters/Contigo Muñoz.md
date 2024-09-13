@@ -25,4 +25,4 @@ The group runs across the street to [[Bartholomew|Bartholomew's]] apothecary to 
 
 [[Gertrude Spugel|Gertrude]], [[Branwyn of Coryphea|Branwyn]], Moiloc, Contigo, Lortzgab, and Charlotte go to the Adventurer's Guild to get restocked. The Guild tells them that they can't help until they complete a contract with them. They agree to take a contract to exorcise a demon from a nearby chateau.
 ## [[Session 08 - The Party Hates it Here]]
-Contigo is last seen before the Inquisitors' siege on Brasov sleeping on the Wavecrasher. When [[Lexar Bellos|Lexar]] saves Goro and Belnades, Contigo is seen in the crowd of onlookers watching the prisoners burn at the pyre.
+Contigo is last seen before the Inquisitors' siege on Brasov sleeping on the Wavecrasher. When [[Lexar Bellos|Lexar]] saves Goro and Belnades, Contigo is seen in the crowd of onlookers watching the prisoners burn at the pyre, wearing an Inquisitor outfit.

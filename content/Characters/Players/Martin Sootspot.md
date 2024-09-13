@@ -1,15 +1,15 @@
 Martin is Kaldrake's great-grandfather.
 
 - **First Mentioned:** Session 5
-- **First Seen:** Session 12 (Vision)
+- **First Seen:** Session 22
 - **Status:** Alive
 
-|                   Character                    |      Relation       |
-| :--------------------------------------------: | :-----------------: |
-|        [[Kaldrake Sootspot\|Kaldrake]]         |   Great-Grandson    |
-|         [[Gwyneth Sootspot\|Gwyneth]]          | Great-Granddaughter |
-|       [[Balthazar Sootspot\|Balthazar]]        |      Grandson       |
-| [[Characters/Players/Martin Sootspot\|Martin]] |   Great-Grandson    |
+|                     Character                     |     Relation      |
+| :-----------------------------------------------: | :---------------: |
+|          [[Kaldrake Sootspot\|Kaldrake]]          |      Brother      |
+|           [[Gwyneth Sootspot\|Gwyneth]]           |      Sister       |
+|         [[Balthazar Sootspot\|Balthazar]]         |      Father       |
+| [[Characters/Characters/Martin Sootspot\|Martin]] | Great-Grandfather |
 
 |  Session   |  Status   |  Session   |  Status  |
 | :--------: | :-------: | :--------: | :------: |

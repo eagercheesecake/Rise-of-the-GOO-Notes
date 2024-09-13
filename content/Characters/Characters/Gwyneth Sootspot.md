@@ -9,12 +9,13 @@ Gwyneth is an elven wizard, and Kaldrake's sister.
 - **First Seen:** Session 1
 - **Status:** Alive
 
-|             Character             |     Relation      |
-| :-------------------------------: | :---------------: |
-|  [[Kaldrake Sootspot\|Kaldrake]]  |      Brother      |
-|    [[Martin Sootspot\|Martin]]    | Great-Grandfather |
-| [[Balthazar Sootspot\|Balthazar]] |      Father       |
-|             [[Bisco]]             |      Servant      |
+|                     Character                     |     Relation      |
+| :-----------------------------------------------: | :---------------: |
+|          [[Kaldrake Sootspot\|Kaldrake]]          |      Brother      |
+| [[Characters/Characters/Martin Sootspot\|Martin]] | Great-Grandfather |
+|         [[Balthazar Sootspot\|Balthazar]]         |      Father       |
+|                     [[Bisco]]                     |      Servant      |
+|  [[Characters/Players/Martin Sootspot\|Martin]]   |      Brother      |
 
 |  Session   |  Status   |  Session   |  Status   |
 | :--------: | :-------: | :--------: | :-------: |

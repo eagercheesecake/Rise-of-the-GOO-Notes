@@ -16,7 +16,7 @@ Below are characters vaguely grouped in order of appearance. Characters may be f
 ## Other Recurring Characters
 [[Gulvayas Hakon]]
 [[Gwyneth Sootspot]]
-[[Martin Sootspot]]
+[[Characters/Characters/Martin Sootspot]]
 [[Mora]]
 [[Shurima the Corpsemaker]]
 # Montrissad
@@ -30,7 +30,7 @@ Below are characters vaguely grouped in order of appearance. Characters may be f
 ## Other Montrissad Games Contestants
 [[Belnades]]
 [[Boofoon]]
-[[Contigo]]
+[[Contigo Muñoz]]
 [[Dandelon]]
 [[David]]
 [[Jacob]]
