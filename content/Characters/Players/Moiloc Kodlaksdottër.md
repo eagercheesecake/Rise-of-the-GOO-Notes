@@ -57,7 +57,7 @@ The group decide to find an inn for the night. Upon arriving, [[Rynn]] steals mo
 ## [[Session 06 - The Party Has a Feast]]
 Lexar and Moiloc stay behind in the castle courtyard while the others investigate the chapel. After talking to some fellow contestants, she decides to pray to Shurima for luck. She is shown a vision of her homeland being attacked by fish men, her father dead, and a village in flames. She begins crying, and Lexar attempts to console her.
 
-After reuniting, Teddy & the Roosevelts sneak back into Gwyneth's tower. They find a keyhole on the bedframe in her room that causes the bed to ascend into potion room. Moiloc finds a book that mentions [[Sekolah]], the god of the Sahuagin: the fish people who are attacking her home.
+After reuniting, Teddy & the Roosevelts sneak back into Gwyneth's tower. They find a keyhole on the bedframe in her room that causes the bed to ascend into potion room. Moiloc finds a book that mentions [[Sekollah]], the god of the Sahuagin: the fish people who are attacking her home.
 
 The group proceed to the pre-game feast. The dessert of the feast turns out to be poisoned, causing the group to become sick. Moiloc stays and fights for some time, trying to save [[King Aslan]], but realizes she won't be able to do so and escapes, following some other escaped contestants into a buttery. Inside she finds [[Tarren Hammerfist|Tarren]] and [[Belnades]]. They escape through a hole in the wall of a hallway, and jump into the moat, escaping back to the streets of Montrissad.
 ## [[Session 07 - The Party Sets Sail]]

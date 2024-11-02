@@ -12,7 +12,7 @@ Below are characters vaguely grouped in order of appearance. Characters may be f
 [[Eru]]
 [[Maokai]]
 [[Olidamuru]]
-[[Sekolah]]
+[[Sekollah]]
 ## Other Recurring Characters
 [[Gulvayas Hakon]]
 [[Gwyneth Sootspot]]

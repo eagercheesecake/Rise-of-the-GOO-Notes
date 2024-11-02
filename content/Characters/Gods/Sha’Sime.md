@@ -1,0 +1,1 @@
+Sha'Sime is the former goddess of war.

@@ -1,0 +1,1 @@
+Gal Troxic is the former god of order.
