@@ -9,8 +9,8 @@ King Endrio is the former King of Wallachia. He was assassinated about 25 years 
 |            |           | Session 11 | Mentioned |
 |            |           | Session 12 |  Absent   |
 |            |           | Session 13 | Mentioned |
-|            |           |            |           |
-|            |           |            |           |
+|            |           | Session 14 |  Absent   |
+|            |           | Session 15 | Mentioned |
 |            |           |            |           |
 |            |           |            |           |
 |            |           |            |           |
@@ -23,3 +23,5 @@ King Endrio is the former King of Wallachia. He was assassinated about 25 years 
 Brewster finds King Endrio's cloak inside the cave in Dunn after [[Ouroborus Tikktal]] leaves.
 ## [[Session 13 - The Party Kills Innocents]]
 Brewster mentions that Lothric was established after King Endrio's coronation. He also says that Queen Cypha married Endrio so the church could gain more power with the state, and vice versa.
+## [[Session 15 - The Party Has a Meeting]]
+Brewster shows Endrio's cloak at the Resistance meeting while explaining what happened since they left. Brewster also mentions that he believes [[Tarren Hammerfist]] may be the illegitimate son of King Endrio.

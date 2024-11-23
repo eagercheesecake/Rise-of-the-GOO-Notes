@@ -7,10 +7,10 @@ Jessie Harkness is a red-haired, freckled, human woman. She is the innkeeper at 
 |  Session   |  Status   |  Session   |  Status   |
 | :--------: | :-------: | :--------: | :-------: |
 |            |           | Session 11 | Mentioned |
-|            |           |            |           |
-|            |           |            |           |
-|            |           |            |           |
-|            |           |            |           |
+|            |           | Session 12 |  Absent   |
+|            |           | Session 13 |  Absent   |
+|            |           | Session 14 |  Absent   |
+|            |           | Session 15 | Appeared  |
 |            |           |            |           |
 |            |           |            |           |
 | Session 8  | Mentioned |            |           |
@@ -24,3 +24,5 @@ Tarren tells Branwyn that Jessie is taking care of Charlotte in Dunn.
 Jessie tells Moiloc that Dunn is conducting experiments on ydril in a nearby lab.
 ## [[Session 11 - The Party Loses a Corpse]]
 The group finds Jessie's bar in ruins after Brasov is destroyed. They are still able to find the secret tunnel to Dunn.
+## [[Session 15 - The Party Has a Meeting]]
+Jessie is present at the Resistance's planning meeting. Branwyn asks Jessie where Charlotte is, and Jessie says they sent the children off to a safer place. Branwyn says to let Charlotte know that if she needs anything, to seek out a white raven.

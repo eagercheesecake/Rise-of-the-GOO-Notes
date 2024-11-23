@@ -13,6 +13,7 @@ Moiloc is a human princess from the Kodlak Islands. She has come to Montrissad o
 | :----------------------------------: | :------: |
 |                Kodlak                |  Father  |
 | [[Shurima the Corpsemaker\|Shurima]] |  Patron  |
+|              [[Moona]]               |  Mother  |
 
 |  Session   |  Status  |  Session   |  Status  |
 | :--------: | :------: | :--------: | :------: |
@@ -112,3 +113,7 @@ After Brewster and Branwyn leave, Moiloc explores the city. At the Cathedral, sh
 Moiloc asks the citizens of Lothric if they've seen Violet, learning she has been sighted near the Goldstrauss Bank. She also learns of a serial killer in the area. As she investigates the area near the bank, Inquisitors ask for her papers again, and suggest she seeks permanent citizenship in the bank. In the bank, she hears more people talking about the Goat giving them a loan, and asks them some questions about him, but they don't give her much information, saying she'd regret taking out a loan with him.
 
 After Branwyn and Brewster reunite with Moiloc, they find another shadow man following them. Moiloc uses Command on it, and it leads them to the Resistance hideout.
+## [[Session 15 - The Party Has a Meeting]]
+Moiloc, Branwyn, and Brewster enter the Resistance's hideout. Moiloc gives out all of her rations to the rebels and questions them on recent happenings. She reunites with the others and goes to meet with the heads of the Resistance.
+
+At the meeting, Moiloc feels uneasy about one of the new faces, [[Edward Tallow]], but can't place why. Brewster tries to warn Violet that Moiloc shouldn't be in the meeting, but Violet doesn't care, since they can take all the help they can get. The group discusses taking an invitation for the queen's upcoming melee to determine her new champion, and who would be best to be next in line for the role of Pontiff.

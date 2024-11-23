@@ -108,3 +108,9 @@ Brewster and Branwyn continue through the sewers, eventually hearing slapping so
 They wait for some time, then leave the space and are able to exit the sewers. However, they find themselves in the area of town reserved for the Queen's advisors. They decide they can't leave that area without being noticed, and return to the sewers, where they are immediately chased again by corpse flayers. They are able to fight them off, and have Puck close a portcullis to separate them from the monsters.
 
 After Branwyn and Brewster reunite with Moiloc, they find another shadow man following them. Moiloc uses Command on it, and it leads them to the Resistance hideout.
+## [[Session 15 - The Party Has a Meeting]]
+Moiloc, Branwyn, and Brewster enter the Resistance's hideout. Brewster and Branwyn find Dr. Nubgrub working on a corpse flayer, and he tells them about his findings. They reunite with Moiloc and go to meet with the heads of the Resistance.
+
+The group discusses taking an invitation for the queen's upcoming melee to determine her new champion, and who would be best to be next in line for the role of Pontiff. Branwyn tries to convince Brewster to give King Endrio's cloak to Tarren, since he may be related to Endrio.
+
+Branwyn asks Jessie where Charlotte is, and Jessie says they sent the children off to a safer place. Branwyn says to let Charlotte know that if she needs anything, to seek out a white raven. After, she goes to her room and cries about what she witnessed in the cabin, wondering if she put Charlotte in danger, while Moiloc consoles her.

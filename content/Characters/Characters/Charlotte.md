@@ -12,8 +12,8 @@ Charlotte is a young half-elf girl from Montrissad. She is taken in by Branwyn a
 |            |           | Session 11 |  Absent   |
 |            |           | Session 12 |  Absent   |
 |            |           | Session 13 | Mentioned |
-|            |           |            |           |
-|            |           |            |           |
+|            |           | Session 14 |  Absent   |
+|            |           | Session 15 | Mentioned |
 |            |           |            |           |
 | Session 7  | Appeared  |            |           |
 | Session 8  | Appeared  |            |           |
@@ -33,3 +33,5 @@ Tarren tells Branwyn that Charlotte is safe with Jessie in the nearby cave.
 Branwyn reunites with Charlotte in the cave in Dunn. Charlotte tells Branwyn that Jessie has been looking after her, and that Loktar has been protecting Dunn. Moiloc, bad with children, tells Charlotte to stay where she is and read, coming off pushy. Branwyn tells Charlotte to tell Jessie if she needs anything.
 ## [[Session 13 - The Party Kills Innocents]]
 Branwyn lies and tells bakers that she has lost her daughter, Charlotte, hoping to gain access to their bakery and steal back a mask they had taken.
+## [[Session 15 - The Party Has a Meeting]]
+Jessie tells Branwyn that Charlotte was sent to a safer place. Branwyn tells Jessie to let Charlotte know that if she needs anything, she can seek out a white raven. Branwyn cries in her room, wondering if she put Charlotte in danger.

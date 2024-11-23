@@ -2,11 +2,8 @@
 title: Rise of the GOO
 ---
 ### Recent Updates
-- Added information for Session 20
+- Added information for Session 24
 - Character information now up to date as of Session 14
-- **NEW:** Sessions now show the previous/next session at the top for ease of navigation
-- **NEW:** Sessions now show what date they occurred at the top
-	- I don't know how I did that, Quartz must have updated
 ### Information
 [[Timelines]]
 [[Characters]]
@@ -31,4 +28,7 @@ title: Rise of the GOO
 18. [[Session 18 - The Party Gets Trapped|The Party Gets Trapped]]
 19. [[Session 19 - The Party Turns Around|The Party Turns Around]]
 20. [[Session 20 - The Party Stabs Her|The Party Stabs Her]]
-21. [[Session 21 - The Party Dies]]
+21. [[Session 21 - The Party Dies|The Party Dies]]
+22. [[Session 22 - The Party’s Not In This One|The Party's Not In This One]]
+23. [[Session 23 - The Party Learns|The Party Learns]]
+24. [[Session 24 - The Party Argues|The Party Argues]]

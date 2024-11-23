@@ -91,7 +91,7 @@ Below are characters vaguely grouped in order of appearance. Characters may be f
 [[Camilla Braeton]]
 [[Carmine Braeton]]
 [[Father Sansor]]
-[[Isaac Domnhall]]
+[[Isaac Domhnall]]
 [[King Endrio the Bold]]
 [[Pontiff Sulyvahn]]
 [[Queen Cypha]]

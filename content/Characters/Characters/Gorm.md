@@ -8,9 +8,9 @@ Gorm is the head raider for the Resistance in Dunn.
 | :--------: | :-------: | :--------: | :-------: |
 |            |           | Session 11 | Mentioned |
 |            |           | Session 12 | Appeared  |
-|            |           |            |           |
-|            |           |            |           |
-|            |           |            |           |
+|            |           | Session 13 |  Absent   |
+|            |           | Session 14 |  Absent   |
+|            |           | Session 15 | Appeared  |
 |            |           |            |           |
 |            |           |            |           |
 |            |           |            |           |
@@ -24,3 +24,5 @@ Branwyn is able to get what she was looking for at Gorm's tent, but Moiloc can't
 Seeing [[Queen Cypha|Queen Cypha's]] carriages going to Dunn, the group considers going to Brasov to warn Gorm about the incoming soldiers, but decide they wouldn't be able to beat them there, or fight in their condition. After Brasov is destroyed, no evidence is found that Gorm's raiders escaped.
 ## [[Session 12 - The Party Travels]]
 While travelling from Dunn to Lothric, [[Lothar (Brewster) Nash|Brewster]] passes by Gorm, who is going the opposite direction. Gorm is shirtless, battered, and unblinking, and has purple cracks on his face. He asks if Gorm wants to join them, but he refuses. Brewster later magically forgets this interaction.
+## [[Session 15 - The Party Has a Meeting]]
+Gorm is shown to have survived, but he had lost all of his soldiers in Brasov. He seems traumatized by this, not contributing much to the Resistance's planning meeting.
