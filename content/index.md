@@ -2,8 +2,13 @@
 title: Rise of the GOO
 ---
 ### Recent Updates
-- Added information for Session 24
-- Character information now up to date as of Session 14
+- Added information for Session 28
+- Sessions fully formatted up to Session 24
+- Character information now up to date as of Session 16
+- Gods are mostly complete
+### To-Do
+- Update Character list
+- Maybe finish that special project I was working on. I don't know. Maybe. Could be fun.
 ### Information
 [[Timelines]]
 [[Characters]]
@@ -32,3 +37,7 @@ title: Rise of the GOO
 22. [[Session 22 - The Party’s Not In This One|The Party's Not In This One]]
 23. [[Session 23 - The Party Learns|The Party Learns]]
 24. [[Session 24 - The Party Argues|The Party Argues]]
+25. [[Session 25 - The Party Gets Targeted|The Party Gets Targeted]]
+26. [[Session 26 - The Party Rocks|The Party Rocks]]
+27. [[Session 27 - The Party Sins]]
+28. [[Session 28 - The Party Finally Makes a Plan|The Party Finally Makes a Plan]]

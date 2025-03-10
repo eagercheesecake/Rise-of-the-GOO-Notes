@@ -11,11 +11,11 @@ Maokai, also known as the Forgotten One, is a nature god who was taken prisoner 
 |  Session   |  Status   |  Session   |  Status   |
 | :--------: | :-------: | :--------: | :-------: |
 |            |           | Session 11 | Mentioned |
-|            |           | Session 12 |           |
-|            |           | Session 13 |           |
-|            |           | Session 14 |           |
-|            |           | Session 15 |           |
-| Session 6  | Mentioned | Session 16 |           |
+|            |           | Session 12 |  Absent   |
+|            |           | Session 13 |  Absent   |
+|            |           | Session 14 |  Absent   |
+|            |           | Session 15 |  Absent   |
+| Session 6  | Mentioned | Session 16 | Mentioned |
 | Session 7  |  Absent   | Session 17 |           |
 | Session 8  | Mentioned | Session 18 |           |
 | Session 9  | Appeared  | Session 19 |           |
@@ -28,3 +28,5 @@ Maokai, also known as the Forgotten One, is a nature god who was taken prisoner 
 Maokai reaches out to [[Gertrude Spugel|Gertrude]], declaring her his chosen one. He provides her of a vision of all of her bears dying, saying it's a premonition of what will come if she does not act. He asks Gertrude to bring him Mora's heart, saying it was her who banished him. Her heart is said to be below Maedrosi. He says her heart can help him return Phaeros to nature, which will include leveling buildings or anything unnatural. Gertrude declines to help, but Maokai says she does not have a choice, and she gives in. He gives her skin made of bark, and returns her to [[Pine]].
 ## [[Session 11 - The Party Loses a Corpse]]
 [[Shurima the Corpsemaker|Shurima]] tells [[Moiloc Kodlaksdottër|Moiloc]] that Mora is a former avatar of Maokai. She made a deal with him after a necromancer turned Coryphea into Gravewatch, assaulting the civilized world to get revenge on anyone who would harm nature, but her form cannot hold her power.
+## [[Session 16 - The Party Follows Strangers]]
+Kaldrake has a vision of [[Gulvayas Hakon]], who meets with Morrigan, who is wearing a pendant depicting Maokai's tree symbol.

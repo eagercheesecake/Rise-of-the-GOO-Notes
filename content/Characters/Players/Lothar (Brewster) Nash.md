@@ -66,4 +66,6 @@ Moiloc, Branwyn, and Brewster enter the Resistance's hideout. Brewster and Branw
 
 At the meeting, Brewster tells Violet about Kaldrake's passing, but she doesn't seem affected by it. He also tries to warn her that Moiloc shouldn't be present for the meeting, but she doesn't care, since they can take all the help they can get. He fills in everyone on what has happened since they left. When showing King Endrio's cloak, he is asked if Tarren may be related to King Endrio. Brewster says they might, believing he's Endrio's illegitimate son. Branwyn suggests Brewster gives the cloak to Tarren, but he dodges the request and puts the cloak away. The group discusses taking an invitation for the queen's upcoming melee to determine her new champion, and who would be best to be next in line for the role of Pontiff.
 
-Violet tells Brewster he did well on his mission, and gives him a crossbow to regenerate spell slots. She asks him to continue his experimentation on ydril, giving him a crystal they were able to take from Dunn. Brewster begins to analyze the blueprints from the Chateau
+Violet tells Brewster he did well on his mission, and gives him a crossbow to regenerate spell slots. She asks him to continue his experimentation on ydril, giving him a crystal they were able to take from Dunn. Brewster begins to analyze the blueprints from the Chateau.
+## [[Session 16 - The Party Follows Strangers]]
+Brewster begins making the ydril machine. He asks Moiloc and Branwyn to get him some gears while they are at the market.

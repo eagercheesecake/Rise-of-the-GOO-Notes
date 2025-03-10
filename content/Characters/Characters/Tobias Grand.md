@@ -6,5 +6,9 @@ Tobias Grand is a bounty hunter and serial killer from Lothric. He appears human
 |  Session   |  Status  |
 | :--------: | :------: |
 | Session 13 | Appeared |
+| Session 14 |  Absent  |
+| Session 15 | Appeared |
 ## [[Session 13 - The Party Kills Innocents]]
 Tobias stops [[Moiloc Kodlaksdottër|Moiloc]] while she is looking at the bounty board, and gives her a card for the Bounty Guild, inviting her to join.
+## [[Session 15 - The Party Has a Meeting]]
+[[Kaldrake Sootspot|Kaldrake]] sees a malformed figure with a hacksaw, who unknown to him is Tobias, standing over [[Belnades|Belnades's]] body, having torn her apart. Kaldrake defeats him, but resets reality after finding Belnades cannot be saved.

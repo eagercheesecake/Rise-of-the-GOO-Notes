@@ -19,8 +19,8 @@ Monty MacMasters, or Michael, both of which are likely pseudonyms, is a being th
 | Session 2  |  Absent   | Session 12 |  Absent   |
 | Session 3  |  Absent   | Session 13 |  Absent   |
 | Session 4  | Appeared  | Session 14 | Mentioned |
-| Session 5  | Mentioned |            |           |
-| Session 6  |  Absent   |            |           |
+| Session 5  | Mentioned | Session 15 | Mentioned |
+| Session 6  |  Absent   | Session 16 | Appeared  |
 | Session 7  | Mentioned |            |           |
 | Session 8  | Mentioned |            |           |
 | Session 9  |  Absent   |            |           |
@@ -44,3 +44,7 @@ Branwyn suspects that Monty is the owner of Michael's Fine Threads, being descri
 Moiloc looks through the ruins of Michael's after Brasov is destroyed, and finds some gauntlets and gold were left. Branwyn and [[Lothar (Brewster) Nash|Brewster]] mention that they don't trust Monty. Brewster later Identifies these gauntlets as Gauntlets of Skullduggery, which may improve sleight of hand.
 ## [[Session 14 - The Party Retcons]]
 [[Gwyneth Sootspot|Gwyneth]] is meeting with Monty, the Advisor of Coin, when Kaldrake arrives to Lothric. Kaldrake reads Gwyneth's diary, and gets the impression that Gwyneth has a crush on the Advisor of Coin.
+## [[Session 15 - The Party Has a Meeting]]
+Gwyneth mentions that she trades artifacts with the Advisor of Coin, and says he was the one who invited her to become the Advisor of Magic.
+## [[Session 16 - The Party Follows Strangers]]
+[[Styx the Pathfinder|Styx]] gives Kaldrake a vision of Monty at Michael's in Lothric.

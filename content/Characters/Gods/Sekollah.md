@@ -1,4 +1,5 @@
-Sekolah is a shark god worshipped by the Sahuagin.
+![[Sekollah.png|250]]
+Sekollah is a shark god worshipped by the Sahuagin.
 
 - **First Seen:** N/A
 - **First Mentioned:** Session 6

@@ -16,7 +16,7 @@ Mora is Branwyn's mother figure from her childhood, using her as a vessel for he
 |            |           | Session 13 | Mentioned |
 |            |           | Session 14 |  Absent   |
 | Session 5  | Mentioned | Session 15 | Mentioned |
-| Session 6  | Mentioned | Session 16 |           |
+| Session 6  | Mentioned | Session 16 | Mentioned |
 | Session 7  | Mentioned | Session 17 |           |
 | Session 8  | Mentioned | Session 18 |           |
 | Session 9  | Mentioned | Session 19 |           |
@@ -40,6 +40,6 @@ Branwyn's shoulder wound begins to hurt immensely once they enter the forest out
 ## [[Session 13 - The Party Kills Innocents]]
 Mora's cloak is seen inside a mysterious shop which sells magical trinkets. The shopkeeper explains that it's a replica, and helps the wearer with spellcasting. The shopkeeper dodges the question when Branwyn asks if he knows about Mora.
 ## [[Session 15 - The Party Has a Meeting]]
-Brewster expresses concern to the Resistance over Branwyn's affiliation with Mora.
-
-Gwyneth mentions that Mora was at one point an avatar of Maokai, and that she has the ability to transpose souls.
+Brewster expresses concern to the Resistance over Branwyn's affiliation with Mora. Gwyneth mentions that Mora was at one point an avatar of Maokai, and that she has the ability to transpose souls.
+## [[Session 16 - The Party Follows Strangers]]
+Kaldrake has a vision of [[Gulvayas Hakon|Gulvayas]] disguising himself as [[Characters/Characters/Martin Sootspot|Martin the Great]]. He meets with Mora, going by Morrigan, who is wearing a pendant in the shape of a tree, a religious symbol of Maokai. Gulvayas gives her a vial of blue liquid, telling her to drink it when the time comes to prevent [[Baedos|Baedos's]] control. Gulvayas meets with the High Mages and announces his plan to become Archwizard and the Maester of the Aetherium. The High Mages protest, and Morrigan traps them in black vines, and drinks the vial. The Mages coalesce into Gulvayas, and Morrigan falls onto the ground weakly, saying she loved Gulvayas. Gulvayas removes the mask and reveals his true identity.

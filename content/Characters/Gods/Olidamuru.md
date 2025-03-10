@@ -1,3 +1,4 @@
+![[Olidamuru.png|250]]
 Olidamuru is a god worshipped by the Cult of Miasma. He is the god of revelry and chaos.
 
 - **First Seen:** Session 17

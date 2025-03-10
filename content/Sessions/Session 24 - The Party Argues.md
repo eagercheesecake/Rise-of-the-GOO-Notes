@@ -4,9 +4,9 @@ tags:
 date: 2024-10-26
 ---
 
-|         Previous Session          | Next Session |
-| :-------------------------------: | :----------: |
-| [[Session 23 - The Party Learns]] |              |
+|         Previous Session          |               Next Session               |
+| :-------------------------------: | :--------------------------------------: |
+| [[Session 23 - The Party Learns]] | [[Session 25 - The Party Gets Targeted]] |
 ### Logline
 *Branwyn wakes up in Mora's cabin, with Mora's newest victim. Brewster, Moiloc, Martin, and the others make their way to Domnhall Keep.*
 ### Synopsis

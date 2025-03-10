@@ -1,7 +1,7 @@
 Belnades is an Inquisitor who joined the Montrissad Games. She is a tiefling who has whittled down her horns to appear more human.
 
 - **First Seen:** Session 6
-- **Status:** Alive
+- **Status:** Unknown
 
 |     Character     | Relation |
 | :---------------: | :------: |
@@ -13,7 +13,7 @@ Belnades is an Inquisitor who joined the Montrissad Games. She is a tiefling who
 |            |          | Session 12 | Appeared |
 |            |          | Session 13 | Appeared |
 |            |          | Session 14 | Appeared |
-|            |          |            |          |
+|            |          | Session 15 | Appeared |
 | Session 6  | Appeared |            |          |
 | Session 7  | Appeared |            |          |
 | Session 8  | Appeared |            |          |
@@ -45,3 +45,5 @@ Kaldrake checks on Belnades in the morning, who seems surprised that Gwyneth is 
 Once Kaldrake returns to the group from Fort Bosco, they proceed to Lothric.
 ## [[Session 14 - The Party Retcons]]
 Kaldrake somehow resets reality, causing the group to appear at Lothric much faster, as well as some other changes to the past. Belnades and Kaldrake enter Lothric alone, since Belnades believes her Inquisitor garb will allow her safe entry. They say they are guests of the Queen, and Kaldrake's Sootspot status grants them free entry. They immediately proceed to Gwyneth's manor, and a guard mentions she is visiting the Minister of Coin, and isn't around. Kaldrake asks Belnades about the Hakon family, and Belnades confirms they are a family of drow known for their cruelty.
+## [[Session 15 - The Party Has a Meeting]]
+After Kaldrake meets with Gwyneth, he and Belnades proceed to the Goldstrauss Bank, seeing shadowy figures in the alleyways on their way. Belnades enters the sewers to chase after them, and Kaldrake hears her scream. When Kaldrake enters, he finds Belnades gone, and continues down the sewer to find [[Tobias Grand|a monster]] standing over Belnades's body with a hacksaw. Kaldrake defeats the monster, and takes Belnades to the surface, but finds that she cannot be saved, so he resets reality. This time, Belnades announces that she has found the rebels. However, they are soon attacked by corpse flayers and Kaldrake resets reality again, but finds himself no longer with Belnades.
