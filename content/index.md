@@ -39,5 +39,5 @@ title: Rise of the GOO
 24. [[Session 24 - The Party Argues|The Party Argues]]
 25. [[Session 25 - The Party Gets Targeted|The Party Gets Targeted]]
 26. [[Session 26 - The Party Rocks|The Party Rocks]]
-27. [[Session 27 - The Party Sins]]
+27. [[Session 27 - The Party Sins|The Party Sins]]
 28. [[Session 28 - The Party Finally Makes a Plan|The Party Finally Makes a Plan]]
