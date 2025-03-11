@@ -13,6 +13,7 @@ title: Rise of the GOO
 ### Information
 [[Timelines]]
 [[Characters]]
+[[Gods]]
 ### Sessions
 1. [[Session 01 - The Party Fights Sewer Rats|The Party Fights Sewer Rats]]
 2. [[Session 02 - The Party Gets Puzzled|The Party Gets Puzzled]]
