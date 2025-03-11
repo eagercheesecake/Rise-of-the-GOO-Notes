@@ -15,9 +15,9 @@ Puck is Brewster's homunculus servant. He takes the form of a smiling, flying ca
 |            |          | Session 12 | Appeared |
 |            |          | Session 13 | Appeared |
 |            |          | Session 14 | Appeared |
-|            |          |            |          |
-|            |          |            |          |
-|            |          |            |          |
+|            |          | Session 15 |  Absent  |
+|            |          | Session 16 |  Absent  |
+|            |          | Session 17 | Appeared |
 |            |          |            |          |
 |            |          |            |          |
 | Session 10 | Appeared |            |          |
@@ -31,3 +31,5 @@ Brewster uses Puck to identify the armor [[Shurima the Corpsemaker|Shurima]] lef
 Brewster has Puck fish an arm out of the sewers.
 ## [[Session 14 - The Party Retcons]]
 Puck dumps some viscera into the nearby sewers, in an attempt to distract the oncoming corpse-eater. Later, while being attacked by corpse flayers, Brewster has Puck use a lever to close a portcullis, separating him and Branwyn from the monsters. Puck then un-summoned, and they were able to re-collect his gem through the bars.
+## [[Session 17 - Respect These Nuts]]
+Puck is present while the group explores the underground town.

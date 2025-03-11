@@ -1,3 +1,4 @@
+![[Eru.png|250]]
 Eru the Shaper is the main god in Phaeros. She created the Forgotten Ones and the Pantheon of Worship, and is often depicted without a face.
 
 - **First Seen:** N/A
@@ -11,10 +12,10 @@ Eru the Shaper is the main god in Phaeros. She created the Forgotten Ones and th
 |            |           | Session 11 |  Absent   |
 |            |           | Session 12 |  Absent   |
 |            |           | Session 13 | Mentioned |
-|            |           |            |           |
-|            |           |            |           |
-| Session 6  | Mentioned |            |           |
-| Session 7  | Mentioned |            |           |
+|            |           | Session 14 |  Absent   |
+|            |           | Session 15 |  Absent   |
+| Session 6  | Mentioned | Session 16 | Mentioned |
+| Session 7  | Mentioned | Session 17 | Mentioned |
 | Session 8  | Mentioned |            |           |
 | Session 9  |  Absent   |            |           |
 | Session 10 |  Absent   |            |           |
@@ -28,3 +29,5 @@ Eru has a chapel in the castle in Montrissad. Her statue is seen when [[Kaldrake
 Lothric worships Eru, with large statues of her outside their Cathedral. The local banks will not give loans out to anyone associated with the church, saying it's illegal and against Eru's will, so many of those people work with [[The Goat]] under the table.
 ## [[Session 16 - The Party Follows Strangers]]
 A statue of Eru in the ethereal plane transports Kaldrake to the astral plane. Kaldrake prays to Eru upon seeing a door which lets out a great deal over a village, and gets the sense that he will be protected if he jumps down.
+## [[Session 17 - Respect These Nuts]]
+Kaldrake sees stained glass windows in a Lothric chapel depicting the Ringed City crumbling, and Eru's throne, empty and cracking. It then shows eight, then sixteen figures, melding into two, then one figure, which looks like the statues of Eru. Kaldrake prays to Eru, who blesses him.

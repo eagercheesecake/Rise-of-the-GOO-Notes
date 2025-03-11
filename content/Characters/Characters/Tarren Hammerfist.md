@@ -14,8 +14,8 @@ Tarren is a member of the Resistance in Dunn, and a contestant in the Montrissad
 |            |           | Session 13 |  Absent   |
 |            |           | Session 14 |  Absent   |
 |            |           | Session 15 | Mentioned |
-| Session 6  | Appeared  |            |           |
-| Session 7  | Appeared  |            |           |
+| Session 6  | Appeared  | Session 16 |  Absent   |
+| Session 7  | Appeared  | Session 17 | Appeared  |
 | Session 8  | Appeared  |            |           |
 | Session 9  | Appeared  |            |           |
 | Session 10 | Mentioned |            |           |
@@ -33,3 +33,5 @@ Tarren sees Branwyn, disguised as Tarren, try to join the Resistance's meeting u
 While discussing the Order of the Flowing Fist, it's mentioned that Tarren may be affiliated with them.
 ## [[Session 15 - The Party Has a Meeting]]
 Brewster mentions during a Resistance meeting that he believes Tarren may be the illegitimate son of [[King Endrio the Bold|King Endrio]]. Branwyn mentions that Brewster should give Tarren Endrio's cloak, but Brewster dodges this request and puts the cloak away.
+## [[Session 17 - Respect These Nuts]]
+Tarren is seen in the Resistance hideout after the corpse-eaters are fended off.

@@ -6,7 +6,7 @@ date: 2024-04-20
 
 |          Previous Session           |              Next Session               |
 | :---------------------------------: | :-------------------------------------: |
-| [[Session 17 - The Party Reunites]] | [[Session 19 - The Party Turns Around]] |
+| [[Session 17 - Respect These Nuts]] | [[Session 19 - The Party Turns Around]] |
 ### Logline
 *The Resistance begins their escape from a crumbling Lothric. The party gets caught in a dungeon while chasing after a quicker means of escape.*
 ### Synopsis

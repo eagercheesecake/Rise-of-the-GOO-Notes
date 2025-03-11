@@ -18,18 +18,18 @@ Kaldrake comes from Martin's Isle, from a long bloodline of powerful elven wizar
 |         [[Balthazar Sootspot\|Balthazar]]         |      Father       |
 |  [[Characters/Players/Martin Sootspot\|Martin]]   |      Brother      |
 
-|  Session   |  Status  |  Session   |  Status  |
-| :--------: | :------: | :--------: | :------: |
-| Session 1  | Appeared | Session 11 | Appeared |
-| Session 2  | Appeared | Session 12 | Appeared |
-| Session 3  | Appeared | Session 13 | Appeared |
-| Session 4  | Appeared | Session 14 | Appeared |
-| Session 5  | Appeared | Session 15 | Appeared |
-| Session 6  | Appeared | Session 16 | Appeared |
-| Session 7  | Appeared | Session 17 | Appeared |
-| Session 8  | Appeared | Session 18 | Appeared |
-| Session 9  | Appeared | Session 19 | Appeared |
-| Session 10 | Appeared | Session 20 | Appeared |
+|  Session   |  Status  |  Session   |  Status  | Session    |  Status  |
+| :--------: | :------: | :--------: | :------: | :--------: | :------: |
+| Session 1  | Appeared | Session 11 | Appeared | Session 21 | Appeared |
+| Session 2  | Appeared | Session 12 | Appeared | Session 22 | Appeared |
+| Session 3  | Appeared | Session 13 | Appeared |            |          |
+| Session 4  | Appeared | Session 14 | Appeared |            |          |
+| Session 5  | Appeared | Session 15 | Appeared |            |          |
+| Session 6  | Appeared | Session 16 | Appeared |            |          |
+| Session 7  | Appeared | Session 17 | Appeared |            |          |
+| Session 8  | Appeared | Session 18 | Appeared |            |          |
+| Session 9  | Appeared | Session 19 | Appeared |            |          |
+| Session 10 | Appeared | Session 20 | Appeared |            |          |
 ## [[Session 01 - The Party Fights Sewer Rats]]
 Kaldrake gets to the inn in Montrissad and reserves a room. After the announcement of the Games, he meets with [[Lexar Bellos|Lexar]] at the inn, since Gwyneth had sent Lexar a letter asking him to protect Kaldrake. They agree to cooperate, and when the rules are announced, quickly decide to form a team. Soon after, [[Moiloc Kodlaksdottër|Moiloc]] asks to join the team as well, and is accepted. Lexar suggests the group begins by searching the docks, as he had noticed some knights there in the previous days.
 
@@ -130,3 +130,7 @@ Kaldrake gets Belnades and they proceed to the Goldstrauss Bank, seeing shadowy 
 Kaldrake has another vision of Gulvayas disguising himself as Martin the Great. He meets [[Mora|Morrigan]], and gives her a vial of blue liquid, telling her to drink it when the time comes to prevent Baedos's control. Gulvayas meets with the High Mages and announces his plan to become Archwizard and the Maester of the Aetherium. The High Mages protest, and Morrigan traps them in black vines, and drinks the vial. The Mages coalesce into Gulvayas, and Morrigan falls onto the ground weakly, saying she loved Gulvayas. Gulvayas removes the mask and reveals his true identity.
 
 Kaldrake awakens in the ethereal plane. He finds a statue of Eru with a place to sit, and upon sitting on it goes to the astral plane. Two doors appear, one to the primordial plane and one overlooking a small village from a great height. Kaldrake prays to Eru and gets the feeling that the fall to the village won't harm him. He jumps, landing in the village of Sabra, and finds a [[Styx the Pathfinder|pilgrim]] heading north. Kaldrake learns they are going the same direction, and the pilgrim allows him to join. On the journey, Kaldrake realizes that all life moves away from the light of the pilgrim's lantern, and realizes his heartbeat is gone again. When Kaldrake asks if Styx knows if he is alive, Styx presents him with a vision of Gwyneth holding a knife to his neck. Styx gives him a letter written in Celestial. Styx also gives Kaldrake a vision of Monty in Michael's in Lothric. Kaldrake shows Styx the white crystal he got from Gwyneth's manor, and Styx throws it into the forest.
+## [[Session 17 - Respect These Nuts]]
+Styx gives Kaldrake a map to a house in the gold district when Kaldrake arrives to Lothric, then disappears. Kaldrake hears screams from the slums and finds it being attacked by corpse eaters. He kills one, but finds himself too squeamish to help further and goes to the gates. The guards won't respect the Sootspot name since Gwyneth had been gone from the town for some time, but Kaldrake tells them to respect his nuts, which intimidates them into letting him in. Kaldrake proceeds to the cathedral. He meets with [[Simon]], one of the cardinals, who brings him to a reflection room.
+
+In the reflection room, Kaldrake sees an underground town illuminated by a purple crystal. He also sees Mora burning down [[Grima|Grima's]] Grove. The reflection room then shows Kaldrake that Branwyn, Brewster, and Moiloc are in the sewers, and goes to find them. In the underground town, Kaldrake finds scrolls and potions left for him by Gwyneth. He catches up with the others while they are attempting to escape from [[Olidamuru]]. Olidamuru captures Moiloc, holding her over a bottomless pit, and Kaldrake offers his heart as a trade. Olidamuru declines, saying Kaldrake doesn't have a heart and isn't a real elf, then teleports Kaldrake away to his childhood bedroom. He is almost immediately teleported back. Branwyn suggests a trade, saying she's a green dreamer, and Olidamuru says he'll return Moiloc if Branwyn takes off her ring momentarily. She does so, and Mora's voice fills the chamber, saying she has found them. Olidamuru returns Moiloc and disappears as the cave begins to collapse. The group returns to the Resistance hideout to find battered survivors, and catch each other up on what has happened since they were separated.

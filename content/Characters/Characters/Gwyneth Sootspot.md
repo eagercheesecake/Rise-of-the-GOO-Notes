@@ -24,7 +24,7 @@ Gwyneth is an elven wizard, and Kaldrake's sister.
 | Session 3  |  Absent   | Session 13 | Mentioned |
 | Session 4  |  Absent   | Session 14 | Appeared  |
 | Session 5  | Mentioned | Session 15 | Appeared  |
-| Session 6  | Mentioned | Session 16 |           |
+| Session 6  | Mentioned | Session 16 | Mentioned |
 | Session 7  | Mentioned | Session 17 |           |
 | Session 8  |  Absent   | Session 18 |           |
 | Session 9  |  Absent   | Session 19 |           |
@@ -51,3 +51,5 @@ Gwyneth tells Kaldrake that Martin the Great made a deal with the dragon [[Baedo
 Gwyneth also tells Kaldrake about the hole in her manor leading to Whitehall, which she used to track down a historian, [[Daphne]], but she decided not to talk to her since she's a gnome. Gwyneth mentions that she trades artifacts with the Advisor of Coin, and says he was the one who invited her to become the Advisor of Magic, and she primarily accepted due to liking the manor. Gwyneth doesn't seem to mind if the Resistance kills the Queen. Gwyneth gives Kaldrake a pin depicting the Flaming Fist. After resetting reality, Kaldrake finds Gwyneth's manor has been emptied.
 ## [[Session 16 - The Party Follows Strangers]]
 [[Styx the Pathfinder|Styx]] shows Kaldrake a memory of Gwyneth holding a knife to his neck, and presents Kaldrake a letter written in Celestial. Kaldrake shows Styx the white crystal he got from Gwyneth's manor, which Gwyneth had been using to track Kaldrake, and Styx throws it into the forest.
+## [[Session 17 - Respect These Nuts]]
+A guard mentions that Gwyneth hasn't been in Lothric for some time. Gwyneth leaves some potions and spells for Kaldrake in the sewers, but also leaves a letter meant to charm him.

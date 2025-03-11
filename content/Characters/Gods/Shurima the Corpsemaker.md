@@ -21,8 +21,8 @@ Shurima the Corpsemaker is a powerful old man, worshipped by Moiloc. He is a kee
 | Session 3  | Appeared  | Session 13 |  Absent   |
 | Session 4  |  Absent   | Session 14 |  Absent   |
 | Session 5  |  Absent   | Session 15 | Mentioned |
-| Session 6  | Mentioned | Session 16 |           |
-| Session 7  | Mentioned | Session 17 |           |
+| Session 6  | Mentioned | Session 16 |  Absent   |
+| Session 7  | Mentioned | Session 17 | Mentioned |
 | Session 8  | Mentioned | Session 18 |           |
 | Session 9  |  Absent   | Session 19 |           |
 | Session 10 | Mentioned | Session 20 |           |
@@ -53,3 +53,5 @@ Moiloc puts it on, immediately teleporting to Shurima's office, where he offers 
 In a basement of Dunn, Moiloc finds a mirror that shows areas significant to people she thinks of. When thinking of Shurima, the mirror shows a pillar in the desert.
 ## [[Session 15 - The Party Has a Meeting]]
 Brewster mentions that he believes Shurima to be connected to Ouroborus's transformation at Dunn while telling the Resistance what had happened since they left. Brewster also mentions Moiloc's connections to Shurima, saying she can't be trusted.
+## [[Session 17 - Respect These Nuts]]
+Moiloc can tell Shurima is listening as the group catches up once Kaldrake reunites with them.

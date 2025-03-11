@@ -1,3 +1,4 @@
+![[Maokai.png|250]]
 Maokai, also known as the Forgotten One, is a nature god who was taken prisoner in a war between the gods and hasn't been seen since. All records of him are gone.
 
 - **First Seen:** Session 9

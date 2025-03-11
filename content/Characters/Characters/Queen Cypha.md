@@ -11,8 +11,8 @@ Queen Cypha is the current queen of Wallachia, working in close collaboration wi
 |            |           | Session 13 | Mentioned |
 |            |           | Session 14 | Mentioned |
 |            |           | Session 15 | Mentioned |
-|            |           |            |           |
-|            |           |            |           |
+|            |           | Session 16 |  Absent   |
+|            |           | Session 17 | Mentioned |
 | Session 8  | Mentioned |            |           |
 | Session 9  |  Absent   |            |           |
 | Session 10 | Mentioned |            |           |
@@ -30,3 +30,5 @@ Kaldrake and [[Belnades]] are able to enter Lothric by saying they are guests of
 It is mentioned that Queen Cypha is hosting a melee to choose her new champion.
 
 [[Gwyneth Sootspot|Gwyneth]] says Queen Cypha was okay with her having a position in Lothric since she looks human enough. She also says she doesn't mind if Queen Cypha were to die, since she would just jump ship.
+## [[Session 17 - Respect These Nuts]]
+Olidamuru requests that the group brings him the Queen as a trade for Moiloc's life.

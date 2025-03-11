@@ -11,8 +11,8 @@ Gorm is the head raider for the Resistance in Dunn.
 |            |           | Session 13 |  Absent   |
 |            |           | Session 14 |  Absent   |
 |            |           | Session 15 | Appeared  |
-|            |           |            |           |
-|            |           |            |           |
+|            |           | Session 16 |  Absent   |
+|            |           | Session 17 | Appeared  |
 |            |           |            |           |
 | Session 9  | Mentioned |            |           |
 | Session 10 | Appeared  |            |           |
@@ -26,3 +26,5 @@ Seeing [[Queen Cypha|Queen Cypha's]] carriages going to Dunn, the group consider
 While travelling from Dunn to Lothric, [[Lothar (Brewster) Nash|Brewster]] passes by Gorm, who is going the opposite direction. Gorm is shirtless, battered, and unblinking, and has purple cracks on his face. He asks if Gorm wants to join them, but he refuses. Brewster later magically forgets this interaction.
 ## [[Session 15 - The Party Has a Meeting]]
 Gorm is shown to have survived, but he had lost all of his soldiers in Brasov. He seems traumatized by this, not contributing much to the Resistance's planning meeting.
+## [[Session 17 - Respect These Nuts]]
+Gorm is seen in the Resistance hideout after the corpse-eaters are fended off.

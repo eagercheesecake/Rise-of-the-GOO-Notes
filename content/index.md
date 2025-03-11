@@ -4,10 +4,11 @@ title: Rise of the GOO
 ### Recent Updates
 - Added information for Session 28
 - Sessions fully formatted up to Session 24
-- Character information now up to date as of Session 16
-- Gods are mostly complete
+- Character information now up to date as of Session 17
+- Gods are complete (Unless I'm missing one? Well, I *am* missing one, but... is it a mystery?)
 ### To-Do
 - Update Character list
+- Finish God links
 - Maybe finish that special project I was working on. I don't know. Maybe. Could be fun.
 ### Information
 [[Timelines]]
@@ -29,7 +30,7 @@ title: Rise of the GOO
 14. [[Session 14 - The Party Retcons|The Party Retcons]]
 15. [[Session 15 - The Party Has a Meeting|The Party Has a Meeting]]
 16. [[Session 16 - The Party Follows Strangers|The Party Follows Strangers]]
-17. [[Session 17 - The Party Reunites|The Party Reunites]]
+17. [[Session 17 - Respect These Nuts|The Party Reunites]]
 18. [[Session 18 - The Party Gets Trapped|The Party Gets Trapped]]
 19. [[Session 19 - The Party Turns Around|The Party Turns Around]]
 20. [[Session 20 - The Party Stabs Her|The Party Stabs Her]]
