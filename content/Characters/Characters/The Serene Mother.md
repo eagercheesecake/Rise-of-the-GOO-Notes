@@ -6,7 +6,7 @@ The Serene Mother, whose real name is Hilda Halifax, is a member of the Cardinal
 |  Session   |  Status  |
 | :--------: | :------: |
 | Session 13 | Appeared |
-## [[Session 13 - The Party Kills Innocents]]
+## [[Session 13 - Martha Is My Middle Name]]
 [[Kaldrake Sootspot|Kaldrake]] meets with the Serene Mother after entering Fort Bosco. She is in the middle of torturing and executing a half-elf. [[Jones]] immediately goes to kneel with the others in the room. Once Kaldrake introduces himself, The Mother invites him to sit by her side. She then asks him to finish executing the half-elf she was torturing. Kaldrake tries to decline, being squeamish, but the Serene Mother insists, and Kaldrake apologizes before slitting the half-elf's throat. The Mother tells Jones to clean up the mess, and he immediately obliges.
 
 The Mother invites Kaldrake to join them for the tournament, saying [[Gwyneth Sootspot|Gwyneth]] and [[Corrin the Impaler]] will be joining them. Kaldrake refuses, saying he's just here to get horses and armor, and the Mother points him in that direction. As Kaldrake leaves, he hears a new prisoner being brought in, and screams of pain. She then sends Jones to get the next prisoner: [[Lortzgab]].

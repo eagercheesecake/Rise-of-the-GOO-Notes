@@ -6,7 +6,7 @@ date: 2024-06-08
 
 |            Previous Session             |             Next Session             |
 | :-------------------------------------: | :----------------------------------: |
-| [[Session 18 - The Party Gets Trapped]] | [[Session 20 - The Party Stabs Her]] |
+| [[Session 18 - What Would Branwyn Do]] | [[Session 20 - Stabbing Her]] |
 ### Logline
 *The group gets to know the woman they rescued from Olidamuru's dungeon, and try to decide on where to go now that Lothric is destroyed.*
 ### Synopsis

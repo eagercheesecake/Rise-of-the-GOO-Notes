@@ -16,9 +16,9 @@ Dr. Nubgrub is a doctor and researcher with the Resistance, wearing a plague doc
 |            |          |            |          |
 | Session 10 | Appeared |            |          |
 
-## [[Session 10 - The Party Gets Bit]]
+## [[Session 10 - Strategic Milk Bucket]]
 [[Moiloc Kodlaksdottër|Moiloc]] and [[Branwyn of Coryphea|Branwyn]] find Dr. Nubgrub messily dissecting a corpse while they go to look into the ydril lab. Unprompted, he swears he has a doctorate from three separate cities. After Kaldrake dies and they decide to return his body to Dunn, Branwyn makes [[Lothar (Brewster) Nash|Brewster]] promise to not let Dr. Nubgrub do anything to the corpse.
-## [[Session 15 - The Party Has a Meeting]]
+## [[Session 15 - Gray Boys]]
 Dr. Nubgrub is found dissecting a corpse flayer. He has found that they aren't alive, and aren't intelligent. He also finds that their wounds can automatically heal if the wound closes, so they need to keep the wound open. His autopsy shows the monster's last meal was a bird instead of a humanoid corpse.
-## [[Session 16 - The Party Follows Strangers]]
+## [[Session 16 - Killing a Mailman]]
 The party hears Dr. Nubgrub working on something noisily in the Rebel hideout. However, they soon find that he has left the hideout.

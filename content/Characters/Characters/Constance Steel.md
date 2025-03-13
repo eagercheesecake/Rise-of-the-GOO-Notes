@@ -7,5 +7,5 @@ Constance Steel is a powerful Inquisitor. She is bald, with a scar over one eye,
 |  Session   |  Status   |
 | :--------: | :-------: |
 | Session 15 | Mentioned |
-## [[Session 15 - The Party Has a Meeting]]
+## [[Session 15 - Gray Boys]]
 Constance Steel is chosen as the target by the Resistance, being an isolated Inquisitor whose invitation to [[Queen Cypha|Queen Cypha's]] melee would be easy to steal.

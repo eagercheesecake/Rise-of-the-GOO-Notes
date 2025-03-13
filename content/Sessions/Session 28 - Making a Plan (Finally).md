@@ -1,7 +1,7 @@
 
 |        Previous Session         | Next Session |
 | :-----------------------------: | :----------: |
-| [[Session 27 - The Party Sins]] |              |
+| [[Session 27 - Free Stoners]] |              |
 ### Logline
 *Branwyn wakes up in Mora's cabin, with Mora's newest victim. Brewster, Moiloc, Martin, and the others make their way to Domnhall Keep.*
 ### Synopsis

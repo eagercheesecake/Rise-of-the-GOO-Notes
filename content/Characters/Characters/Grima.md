@@ -18,9 +18,9 @@ Grima is a blue jay aarakocra who lives in a grove in the forests near Brasov. H
 | Session 8  | Appeared |            |          |
 | Session 9  | Appeared |            |          |
 | Session 10 |  Absent  |            |          |
-## [[Session 08 - The Party Hates it Here]]
+## [[Session 08 - Religious Conversion]]
 [[Branwyn of Coryphea|Branwyn]] and [[Moiloc Kodlaksdottër|Moiloc]] go to Grima's Grove at [[Belnades|Belnades's]] suggestion. They are able to meet with Grima, who tells Branwyn about [[Maokai]], [[Mora]], and the burning of Grovewatch. He also asks Moiloc about [[Shurima the Corpsemaker|Shurima]], but seems satisfied when she only tells him about the attacks in the Kodlak Islands. He suggests the pair seek out the rebels, and begin plans to kill [[Queen Cypha]]. For the night, he allows them to sleep in his grove.
-## [[Session 09 - The Party Downsizes]]
+## [[Session 09 - The Man or the Bears]]
 Branwyn comes to Grima in the morning asking what he meant when he called her a vessel of Mora. Grima tells Branwyn that Mora is a witch who survives by taking the bodies of children. Branwyn also tells him about the injury that followed her from her dream, and Grima tells her she is a green dreamer, which may explain why Mora is so interested in her. The injury seems to scare him, and Grima asks her to leave, as she is inviting evil into the grove. He gives her a wooden ring, telling her it will protect her, and to never take it off.
 ## [[Session 17 - Respect These Nuts]]
 [[Kaldrake Sootspot|Kaldrake]] sees Grima's Grove being burnt by Mora while using the reflection pool in Lothric, and Grima's corpse.

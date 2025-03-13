@@ -6,7 +6,7 @@ date: 2024-07-13
 
 |           Previous Session           |                 Next Session                 |
 | :----------------------------------: | :------------------------------------------: |
-| [[Session 20 - The Party Stabs Her]] | [[Session 22 - The Party’s Not In This One]] |
+| [[Session 20 - Stabbing Her]] | [[Session 22 - The B Team]] |
 ### Logline
 *The party tries to uncover the reason for mysterious circumstances in Col Man'Dar.*
 ### Synopsis

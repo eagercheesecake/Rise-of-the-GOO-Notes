@@ -19,11 +19,11 @@ Pontiff Sulyvahn is the head of the Church of Eru, having a lot of power over th
 | Session 8  | Mentioned |            |           |
 | Session 9  |  Absent   |            |           |
 | Session 10 | Mentioned |            |           |
-## [[Session 08 - The Party Hates it Here]]
+## [[Session 08 - Religious Conversion]]
 [[Belnades]] tells [[Kaldrake Sootspot|Kaldrake]] that Sulyvahn is the head of the church.
-## [[Session 10 - The Party Gets Bit]]
+## [[Session 10 - Strategic Milk Bucket]]
 [[Lothar (Brewster) Nash|Brewster]] mentions that [[Queen Cypha]] helped Sulyvahn rise to power, and that the Church's rule began when the Queen's did, about 25 years ago.
-## [[Session 13 - The Party Kills Innocents]]
+## [[Session 13 - Martha Is My Middle Name]]
 Sulyvahn's statue is seen in the Cathedral in Lothric, with the members of the Cardinal Sphere.
 ## [[Session 17 - Respect These Nuts]]
 Pontiff Sulyvahn has gone missing from Lothric, causing services at the cathedral to be halted.

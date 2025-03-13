@@ -6,7 +6,7 @@ date: 2023-09-16
 
 |          Previous Session           |            Next Session            |
 | :---------------------------------: | :--------------------------------: |
-| [[Session 10 - The Party Gets Bit]] | [[Session 12 - The Party Travels]] |
+| [[Session 10 - Strategic Milk Bucket]] | [[Session 12 - Branwyn's Bad Day]] |
 ### Logline
 *Moiloc, Branwyn, and Brewster collect themselves after Kaldrake's death. Moiloc deepens her connection with Shurima. Meanwhile, the events in Brasov escalate, putting Dunn in danger.*
 ### Synopsis

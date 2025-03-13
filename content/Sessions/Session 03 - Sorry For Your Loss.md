@@ -6,7 +6,7 @@ date: 2022-10-29
 
 |            Previous Session             |                Next Session                |
 | :-------------------------------------: | :----------------------------------------: |
-| [[Session 02 - The Party Gets Puzzled]] | [[Session 04 - The Party Puts Out a Fire]] |
+| [[Session 02 - Teddy and the Roosevelts]] | [[Session 04 - Sincerely, Gertrude]] |
 ### Logline
 *Kaldrake, Gertrude, and Moiloc try to protect a new friend from the dangers of the Grand Melee.*
 ### Synopsis

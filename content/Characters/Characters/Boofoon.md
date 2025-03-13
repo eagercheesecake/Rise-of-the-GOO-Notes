@@ -14,5 +14,5 @@ Boofoon is a young half-elf with a red buzz cut. They are one of the competitors
 |  Session  |  Status  |
 | :-------: | :------: |
 | Session 6 | Appeared |
-## [[Session 06 - The Party Has a Feast]]
+## [[Session 06 - Cult Pamphlets]]
 Boofoon is seen with her teammates in the castle courtyard. Their group seems to suffer from some in-fighting, and they claim to also be on a mission as well as joining the Games. Later, Boofoon is seen saying they have been disrespected by a man in black plate armor. They spit on his armor, and he immediately kills them.

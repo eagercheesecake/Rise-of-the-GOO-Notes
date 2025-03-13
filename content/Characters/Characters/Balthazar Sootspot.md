@@ -24,7 +24,7 @@ Balthazar is Kaldrake's father, and the Meister of the Aethereum.
 | Session 8  |  Absent  |            |           |
 | Session 9  |  Absent  |            |           |
 | Session 10 |  Absent  |            |           |
-## [[Session 05 - The Party Explores a Castle]]
+## [[Session 05 - Can't Be Worse Than Here]]
 Drow attack the castle on Martin's Isle in an attempt to kill Martin the Great, and Balthazar is seen in the sky attacking one of the dragons.
-## [[Session 15 - The Party Has a Meeting]]
+## [[Session 15 - Gray Boys]]
 Upon learning the members of the Sootspot family are cursed to die at the age of 100, Kaldrake realizes Balthazar died at the age of 100, while he was in Montrissad.

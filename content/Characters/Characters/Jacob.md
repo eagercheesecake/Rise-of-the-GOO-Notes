@@ -14,7 +14,7 @@ Jacob is a citizen of Montrissad who worked at the shop [[Gertrude Spugel|Gertru
 | Session 1 | Appeared  |
 | Session 2 |  Absent   |
 | Session 3 | Mentioned |
-## [[Session 01 - The Party Fights Sewer Rats]]
+## [[Session 01 - Piss Grandma]]
 Jacob is convinced by Gertrude to join the Amaris Games to make something of himself.
-## [[Session 03 - The Party Saves the Bears]]
+## [[Session 03 - Sorry For Your Loss]]
 Jacob's name is seen on the board at the melee, implying he was killed in the battle.

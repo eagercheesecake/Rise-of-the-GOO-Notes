@@ -6,7 +6,7 @@ date: 2024-06-22
 
 |            Previous Session             |          Next Session           |
 | :-------------------------------------: | :-----------------------------: |
-| [[Session 19 - The Party Turns Around]] | [[Session 21 - The Party Dies]] |
+| [[Session 19 - Inspiration (Desperation)]] | [[Session 21 - The Party Dies]] |
 ### Logline
 *The party continues to Col Man'Dar, traveling through planes along the journey. An encounter with an enemy reveals danger from within the party.*
 ### Synopsis

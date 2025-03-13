@@ -7,5 +7,5 @@ Umr-At-Tawil is a historical figure and general who destroyed the country of Shu
 |  Session   |  Status   |
 | :--------: | :-------: |
 | Session 10 | Mentioned |
-## [[Session 10 - The Party Gets Bit]]
+## [[Session 10 - Strategic Milk Bucket]]
 Brewster tells Moiloc that Shurima is the name of a country destroyed about 400-500 centuries ago by Umr-At-Tawil, who lost his right hand as a cost.

@@ -13,5 +13,5 @@ Corellian is the current the Meister of the Aethereum.
 |  Session   |  Status   |
 | :--------: | :-------: |
 | Session 15 | Mentioned |
-## [[Session 15 - The Party Has a Meeting]]
+## [[Session 15 - Gray Boys]]
 Upon learning the members of the Sootspot family are cursed to die at the age of 100, Kaldrake realizes Corellain is 95 years old, and doesn't have long left.

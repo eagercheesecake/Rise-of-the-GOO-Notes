@@ -6,7 +6,7 @@ date: 2024-04-05
 
 |               Previous Session               |              Next Session               |
 | :------------------------------------------: | :-------------------------------------: |
-| [[Session 16 - The Party Follows Strangers]] | [[Session 18 - The Party Gets Trapped]] |
+| [[Session 16 - Killing a Mailman]] | [[Session 18 - What Would Branwyn Do]] |
 ### Logline
 *Lothric is overrun by monsters. Kaldrake and Lexar reunite with the group.*
 ### Synopsis

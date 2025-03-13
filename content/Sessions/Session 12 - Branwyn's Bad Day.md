@@ -6,7 +6,7 @@ date: 2023-10-28
 
 |             Previous Session              |                Next Session                |
 | :---------------------------------------: | :----------------------------------------: |
-| [[Session 11 - The Party Loses a Corpse]] | [[Session 13 - The Party Kills Innocents]] |
+| [[Session 11 - The Party Loses a Corpse]] | [[Session 13 - Martha Is My Middle Name]] |
 ### Logline
 *The groups encounter obstacles on their way to Lothric, and are made to remember their roots.*
 ### Synopsis
@@ -70,7 +70,7 @@ In the forest, Branwyn, Moiloc, and Brewster coms across a pack of three yeth ho
 ## Fort Bosco
 Meanwhile, Kaldrake's group is continuing toward Fort Bosco after their fight with the treant. After trying to get a timeline on Gwyneth's location down with Goro, Kaldrake decides to settle down outside Fort Bosco and rest for the night before entering.
 
-While sleeping Kaldrake experiences a vision. He feels like he is drowning, and opening his eyes, he notices he is floating in the night sky. Looking around he sees the moon, realizing that he is in fact floating in space. On the surface of the moon is a dome, and inside is [[Characters/Characters/Martin Sootspot]], chained to the moon's surface. Kaldrake suddenly feels dead, and notices his heart isn't beating. In fact, Kaldrake notices a gaping hole where his heart should be. The hole fills with a brilliant red light, and Kaldrake wakes up in pain. The pain soon subsides, but Kaldrake notices that he doesn't have a heartbeat anymore.
+While sleeping Kaldrake experiences a vision. He feels like he is drowning, and opening his eyes, he notices he is floating in the night sky. Looking around he sees the moon, realizing that he is in fact floating in space. On the surface of the moon is a dome, and inside is [[Characters/Characters/Martin Sootspot|Martin Sootspot]], chained to the moon's surface. Kaldrake suddenly feels dead, and notices his heart isn't beating. In fact, Kaldrake notices a gaping hole where his heart should be. The hole fills with a brilliant red light, and Kaldrake wakes up in pain. The pain soon subsides, but Kaldrake notices that he doesn't have a heartbeat anymore.
 
 Kaldrake asks Belnades to feel for his heartbeat, and the absence of one concerns her. Kaldrake tells Belnades about the djinn which supposedly revived him, and Belnades says that shouldn't be possible for a djinn, and that [[Arklow Laban|Arklow]] must be lying to him. Kaldrake notes the needs of the group, and decides that in the morning he will enter Fort Bosco with just Jones, since the other aren't humans and wouldn't be received well. Although Kaldrake isn't a human, Jones implied that they should be willing to help a Sootspot.
 ## Forest

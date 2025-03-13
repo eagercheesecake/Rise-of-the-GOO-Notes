@@ -6,7 +6,7 @@ tags:
 
 |               Previous Session               |           Next Session            |
 | :------------------------------------------: | :-------------------------------: |
-| [[Session 22 - The Party’s Not In This One]] | [[Session 24 - The Party Argues]] |
+| [[Session 22 - The B Team]] | [[Session 24 - Charlotte's Back!]] |
 ### Logline
 *Branwyn, Moiloc, and Brewster have visions while under the effects of the hydra. Martin meets his new adventuring party.*
 ### Synopsis

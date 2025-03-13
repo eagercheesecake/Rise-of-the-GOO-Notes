@@ -1,7 +1,7 @@
 
 |             Previous Session             |  Next Session  |
 | :--------------------------------------: | :------------: |
-| [[Session 25 - The Party Gets Targeted]] | [[Session 27 - The Party Sins]] |
+| [[Session 25 - I Know an Archer]] | [[Session 27 - Free Stoners]] |
 ### Logline
 
 ### Synopsis

@@ -6,7 +6,7 @@ date: 2023-01-21
 
 |              Previous Session              |              Next Session              |
 | :----------------------------------------: | :------------------------------------: |
-| [[Session 04 - The Party Puts Out a Fire]] | [[Session 06 - The Party Has a Feast]] |
+| [[Session 04 - Sincerely, Gertrude]] | [[Session 06 - Cult Pamphlets]] |
 ### Logline
 *Teddy and the Roosevelts turn in their king's seal. Kaldrake brings Gertrude to Gwyneth to possibly remove her curse, but learns new truths about his homeland. Lexar offers David a king's seal.*
 ### Synopsis

@@ -6,7 +6,7 @@ date: 2024-04-20
 
 |          Previous Session           |              Next Session               |
 | :---------------------------------: | :-------------------------------------: |
-| [[Session 17 - Respect These Nuts]] | [[Session 19 - The Party Turns Around]] |
+| [[Session 17 - Respect These Nuts]] | [[Session 19 - Inspiration (Desperation)]] |
 ### Logline
 *The Resistance begins their escape from a crumbling Lothric. The party gets caught in a dungeon while chasing after a quicker means of escape.*
 ### Synopsis
@@ -84,4 +84,4 @@ They enter into a large throne room. The throne is atop a long staircase, with t
 
 Branwyn uses Cure Wounds on Brewster and Moiloc. Moiloc uses Second Wind and plucks the eye out of Corrin’s head. Brewster roots through his body, taking 75 gold and an enchanted great sword that increases the wielder’s size to large. They split the gold, including the gold from the Inquisitor’s stash, among each other.
 
-Moiloc feels Shurima on top of the staircase, and ascends. She sees an invisible form wrapped in Shurima's bandages. He raises a hand, takes the eye, and puts it into his own head. He beckons toward stairs behind the throne. The left stairs will take them to Lothric, the right will take them to the [[Queen Cypha|Queen]]. Shurima disappears. They decide to avoid the Queen, since she is likely in the castle, and leave down the other staircase, appearing in the fields outside Lothric. The dome around the Cathedral has collapsed. The forest outside the front gate is on fire. As the group leaves the woods, a lone flamingo approaches them.
+Moiloc feels Shurima on top of the staircase, and ascends. She sees an invisible form wrapped in Shurima's bandages. He raises a hand, takes the eye, and puts it into his own head. He beckons toward stairs behind the throne. The left stairs will take them to Lothric, the right will take them to the [[Queen Cypha|Queen]]. Shurima disappears. They decide to avoid the Queen, since she is likely in the castle, and leave down the other staircase, appearing in the fields outside Lothric. The dome around the Cathedral has collapsed. The forest outside the front gate is on fire. As the group leaves the woods, a [[Velma|lone flamingo]] approaches them.

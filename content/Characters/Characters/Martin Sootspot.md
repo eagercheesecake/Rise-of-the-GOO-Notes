@@ -21,17 +21,19 @@ Martin is Kaldrake's great-grandfather.
 |            |           | Session 14 | Appeared  |
 | Session 5  | Mentioned | Session 15 | Mentioned |
 | Session 6  |  Absent   | Session 16 | Appeared  |
-| Session 7  |  Absent   |            |           |
-| Session 8  |  Absent   |            |           |
+| Session 7  |  Absent   | Session 17 |  Absent   |
+| Session 8  |  Absent   | Session 18 | Mentioned |
 | Session 9  |  Absent   |            |           |
 | Session 10 |  Absent   |            |           |
-## [[Session 05 - The Party Explores a Castle]]
+## [[Session 05 - Can't Be Worse Than Here]]
 Drow attack the castle on Martin's Isle in an attempt to kill Martin.
-## [[Session 12 - The Party Travels]]
+## [[Session 12 - Branwyn's Bad Day]]
 [[Kaldrake Sootspot|Kaldrake]] has a vision while sleeping where he is in space, and finds Martin chained to the moon, contained in a dome.
-## [[Session 14 - The Party Retcons]]
+## [[Session 14 - Gwyneth's Personal Diary]]
 Kaldrake experiences a vision that seems to have him experience events from the past through [[Gulvayas Hakon]]. Gulvayas kills Martin and his father, taking a mask, a dagger, and a tome off of Martin's body.
-## [[Session 15 - The Party Has a Meeting]]
+## [[Session 15 - Gray Boys]]
 [[Gwyneth Sootspot|Gwyneth]] tells Kaldrake that Martin made a deal with [[Baedos]], who cursed the Sootspot family so that they die at the age of 100. During the invasion that Kaldrake witnessed, drow were attempting to retrieve Gulvayas's dagger, which Martin stole from the underdark.
-## [[Session 16 - The Party Follows Strangers]]
+## [[Session 16 - Killing a Mailman]]
 Kaldrake has another vision of Gulvayas disguising himself as Martin. He meets [[Mora|Morrigan]], and gives her a vial of blue liquid, telling her to drink it when the time comes to prevent Baedos's control. Gulvayas meets with the High Mages and announces his plan to become Archwizard and the Maester of the Aetherium. The High Mages protest, and Morrigan traps them in black vines, and drinks the vial. The Mages coalesce into Gulvayas, and Morrigan falls onto the ground weakly, saying she loved Gulvayas. Gulvayas removes the mask and reveals his true identity.
+## [[Session 18 - What Would Branwyn Do]]
+Kaldrake sees an illusion of Martin in the Lothric castle, who says everything in Kaldrake's fault. Kaldrake wonders if his reality resets resulted in Martin's death.

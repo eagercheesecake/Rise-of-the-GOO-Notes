@@ -8,7 +8,7 @@ Bartholomew is an inexperienced wizard. He temporarily takes over as the court w
 | :-------: | :-------: |
 | Session 6 | Mentioned |
 | Session 7 | Mentioned |
-## [[Session 06 - The Party Has a Feast]]
+## [[Session 06 - Cult Pamphlets]]
 [[Goro Hattori|Goro]] says Bartholomew has taken over as the court wizard in [[Gwyneth Sootspot|Gwyneth's]] absence, and may be able to reverse [[Gertrude Spugel|Gertrude's]] curse and restore her memories.
-## [[Session 07 - The Party Sets Sail]]
+## [[Session 07 - Shuffleboard]]
 Someone in Bartholomew's apothecary in Montrissad uses a teleportation circle to escape. The party soon uses the same circle to escape as well.

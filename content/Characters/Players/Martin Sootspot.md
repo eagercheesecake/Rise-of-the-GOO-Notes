@@ -23,9 +23,9 @@ Martin is Kaldrake's great-grandfather.
 | Session 8  |  Absent   |            |          |
 | Session 9  |  Absent   |            |          |
 | Session 10 |  Absent   |            |          |
-## [[Session 05 - The Party Explores a Castle]]
+## [[Session 05 - Can't Be Worse Than Here]]
 Drow attack the castle on Martin's Isle in an attempt to kill Martin.
-## [[Session 12 - The Party Travels]]
+## [[Session 12 - Branwyn's Bad Day]]
 [[Kaldrake Sootspot|Kaldrake]] has a vision while sleeping where he is in space, and finds Martin chained to the moon, contained in a dome.
-## [[Session 14 - The Party Retcons]]
+## [[Session 14 - Gwyneth's Personal Diary]]
 Kaldrake experiences a vision that seems to have him experience events from the past through [[Gulvayas Hakon]]. Gulvayas kills Martin and his father, taking a mask, a dagger, and a tome off of Martin's body.

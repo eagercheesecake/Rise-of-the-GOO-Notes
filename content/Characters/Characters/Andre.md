@@ -10,5 +10,5 @@ Andre is an Inquisitor in Brasov. He seems to be a lower-level inquisitor, livin
 |  Session  |  Status  |
 | :-------: | :------: |
 | Session 8 | Appeared |
-## [[Session 08 - The Party Hates it Here]]
+## [[Session 08 - Religious Conversion]]
 Andre is mentioned having won the poker game with [[Lexar Bellos|Lexar]], [[Kaldrake Sootspot|Kaldrake]], and [[Ponce]].

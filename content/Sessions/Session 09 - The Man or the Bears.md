@@ -6,7 +6,7 @@ date: 2023-05-27
 
 |             Previous Session             |            Next Session             |
 | :--------------------------------------: | :---------------------------------: |
-| [[Session 08 - The Party Hates it Here]] | [[Session 10 - The Party Gets Bit]] |
+| [[Session 08 - Religious Conversion]] | [[Session 10 - Strategic Milk Bucket]] |
 ### Logline
 *As the others begin escaping to the rebel camp in Dunn, Gertrude receives an offer from a god. Lexar reaches the Wavecrasher to find it under attack. Branwyn has a dream with real-world consequences.*
 ### Synopsis

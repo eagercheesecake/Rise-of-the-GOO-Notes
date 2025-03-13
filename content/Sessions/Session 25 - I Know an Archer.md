@@ -1,7 +1,7 @@
 
 |         Previous Session          |  Next Session  |
 | :-------------------------------: | :------------: |
-| [[Session 24 - The Party Argues]] | [[Session 26 - The Party Rocks]] |
+| [[Session 24 - Charlotte's Back!]] | [[Session 26 - Rocks Box]] |
 ### Logline
 
 ### Synopsis

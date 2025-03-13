@@ -1,7 +1,7 @@
 
 |         Previous Session         |  Next Session  |
 | :------------------------------: | :------------: |
-| [[Session 26 - The Party Rocks]] | [[Session 28 - The Party Finally Makes a Plan]] |
+| [[Session 26 - Rocks Box]] | [[Session 28 - Making a Plan (Finally)]] |
 ### Logline
 
 ### Synopsis

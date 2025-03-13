@@ -21,21 +21,21 @@ Lortzgab is a half-orc woman with a burn scar on her face. She is one of the com
 | Session 8  |  Absent  |            |           |
 | Session 9  | Appeared |            |           |
 | Session 10 |  Absent  |            |           |
-## [[Session 06 - The Party Has a Feast]]
+## [[Session 06 - Cult Pamphlets]]
 Lortzgab is seen with their teammates in the castle courtyard. Their group seems to suffer from some in-fighting, and they claim to also be on a mission as well as joining the Games.
 
 Contigo and Lortzgab are later found in [[Gwyneth Sootspot|Gwyneth's]] tower, trying to escape the corpse eaters that have overrun the castle. They jump out of the tower into the moat, and follow Teddy & the Roosevelts as they escape.
-## [[Session 07 - The Party Sets Sail]]
+## [[Session 07 - Shuffleboard]]
 After escaping from the castle, the group begins proceeding through the monster-riddled streets to find [[Monty MacMasters|Monty's]]. They run across townspeople barricading streets and homes from the corpse eaters, and take a young girl, [[Charlotte]], with them away from the chaos. On their way to Monty's, the party is heavily wounded by the monsters. They get to Monty's, and find it billowing with smoke. Inside is a small fire, which they put out. Branwyn notices that the door to Monty's magical hallway is gone, and finds runes where it once was. They find a letter from Monty saying he'll meet them in Wallachia. Soon after, [[Moiloc Kodlaksdottër|Moiloc]], [[Belnades]], and [[Tarren Hammerfist|Tarren]] enter as well, reuniting the party.
 
 The group runs across the street to [[Bartholomew|Bartholomew's]] apothecary to heal their wounds. In the main room, there is a large teleportation glyph on the floor. They attempt to use it to teleport to the docks to escape. They find themselves teleported to a house near the docks. They escape through a nearby sewer grate, and find [[Goro Hattori|Goro]], [[David]], and [[King Aslan]] by the grate facing the docks, unable to progress since the grate is locked. However, Goro is able to use David's hammer to break the lock, and the group proceeds to Goro's ship, the Wavecrasher. After setting sail, the group hears something from under the decks, and descends to find [[Skalazar]], a stowaway on the ship. They decide to head to Brasov, in Wallachia.
 
 After arriving in Brasov, Lortzgab stays close to Moiloc, saying that Wallachia specializes in extermination, questioning their safety. [[Gertrude Spugel|Gertrude]], [[Branwyn of Coryphea|Branwyn]], Moiloc, Contigo, Lortzgab, and Charlotte go to the Adventurer's Guild to get restocked. The Guild tells them that they can't help until they complete a contract with them. They agree to take a contract to exorcise a demon from a nearby chateau.
-## [[Session 09 - The Party Downsizes]]
+## [[Session 09 - The Man or the Bears]]
 Lortzgab is seen fighting onboard the Wavecrasher as it is boarded by the Inquisitors.
 ## [[Session 11 - The Party Loses a Corpse]]
 Goro tells [[Kaldrake Sootspot|Kaldrake]] that Lortzgab was able to finish the teleportation circle and escape with King Aslan on the Wavecrasher.
-## [[Session 13 - The Party Kills Innocents]]
+## [[Session 13 - Martha Is My Middle Name]]
 Since the Wavecrasher, Lortzgab had been taken prisoner at Fort Bosco. [[The Serene Mother]] has [[Jones]] bring her in while Kaldrake is visiting, likely to execute her. Kaldrake offers to fight Lortzgab, hoping to save her by saying he's above killing her at the last minute. The Serene Mother agrees to let them leave once Kaldrake says this, but goes to hit her with her greathammer, hoping to wound her enough that she wouldn't be of any use to Kaldrake. Kaldrake jumps in the way, saving Lortzgab, and runs off. After leaving the fort, Kaldrake realizes he didn't get horses, and re-enters under the guise of wanting to throw Lortzgab to the wolves. After buying the horses, they return to Kaldrake's group, and Goro gives Lortzgab some rabbit stew as Kaldrake fills her in on what's happened. The group decides to continue on their way to Lothric immediately.
-## [[Session 14 - The Party Retcons]]
+## [[Session 14 - Gwyneth's Personal Diary]]
 While travelling with Kaldrake to Lothric, Kaldrake resets reality, resulting in Lortzgab having successfully teleported away with King Aslan on the Wavecrasher. However, they are captured soon after, and Lortzgab is taken to Fort Bosco. This reset allows them to reach Lothric much faster. However, this change caused them to never pick up Lortzgab from Fort Bosco, so she is no longer a part of Kaldrake's group.

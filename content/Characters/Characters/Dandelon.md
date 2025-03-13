@@ -12,5 +12,5 @@ Dandelon is an orc from Maedros. He is one of the competitors who made it into t
 |  Session  |  Status  |
 | :-------: | :------: |
 | Session 6 | Appeared |
-## [[Session 06 - The Party Has a Feast]]
+## [[Session 06 - Cult Pamphlets]]
 Dandelon is seen practicing before the Games. His group seems to suffer from some in-fighting, and they claim to also be on a mission as well as joining the Games.

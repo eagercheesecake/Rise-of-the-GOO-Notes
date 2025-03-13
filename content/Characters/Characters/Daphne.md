@@ -18,9 +18,9 @@ Brewster is a rock gnome who joined the Wallachian Resistance after being freed 
 | Session 18 |           |
 | Session 19 |           |
 | Session 20 |           |
-## [[Session 12 - The Party Travels]]
+## [[Session 12 - Branwyn's Bad Day]]
 After finding a body that looks exactly like [[Branwyn of Coryphea|Branwyn]] as a child, [[Lothar (Brewster) Nash|Brewster]] mentions that Daphne might be able to identify how that is possible. She should be able to confirm if the body really is the same as Branwyn if they take something to identify the body by.
-## [[Session 13 - The Party Kills Innocents]]
+## [[Session 13 - Martha Is My Middle Name]]
 Brewster recalls Daphne telling him a story about a killer in Lothric whose victims are missing a right arm when found.
-## [[Session 15 - The Party Has a Meeting]]
+## [[Session 15 - Gray Boys]]
 [[Gwyneth Sootspot|Gwyneth]] mentions that she was looking for a historian, and heard about Daphne, but wouldn't talk to her since she's a gnome.

@@ -8,5 +8,5 @@ Sekollah is a shark god worshipped by the Sahuagin.
 |  Session  |  Status   |
 | :-------: | :-------: |
 | Session 6 | Mentioned |
-## [[Session 06 - The Party Has a Feast]]
+## [[Session 06 - Cult Pamphlets]]
 [[Moiloc Kodlaksdottër|Moiloc]] finds a book in [[Gwyneth Sootspot|Gwyneth's]] tower discussing Sekolah and the Sahuagin, and their attack on her home.
