@@ -29,3 +29,5 @@ Kodlak is Moiloc's father.
 Shurima tells Moiloc that the vision of Kodlak's death has not yet come, but could come if she does not continue on her path.
 ## [[Session 18 - What Would Branwyn Do]]
 Moiloc has a vision in Lothric castle of [[Moona]] giving birth to her. Moona fights off some Sahaguin, gives birth, and cradles a baby Moiloc. A demon appears behind Moona, touching her, and she goes limp and disappears with him. Kodlak then runs in and takes Moiloc.
+## [[Session 19 - Inspiration (Desperation)]]
+Kaldrake mentions that his relationship with his father was complicated, and that they weren't close.

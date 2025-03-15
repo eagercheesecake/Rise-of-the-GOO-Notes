@@ -55,3 +55,5 @@ Gwyneth also tells Kaldrake about the hole in her manor leading to Whitehall, wh
 A guard mentions that Gwyneth hasn't been in Lothric for some time. Gwyneth leaves some potions and spells for Kaldrake in the sewers, but also leaves a letter meant to charm him.
 ## [[Session 18 - What Would Branwyn Do]]
 Gwyneth's manor is empty. The group finds a magic ring hidden in a secret safe in the wall, and a map with a knife in Whitehall.
+## [[Session 19 - Inspiration (Desperation)]]
+The ring found in Gwyneth's house is identified as being used to track a wearer.

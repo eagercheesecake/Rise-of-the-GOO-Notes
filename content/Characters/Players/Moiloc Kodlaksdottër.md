@@ -11,7 +11,7 @@ Moiloc is a human princess from the Kodlak Islands. She has come to Montrissad o
 
 |              Character               | Relation |
 | :----------------------------------: | :------: |
-|                Kodlak                |  Father  |
+|              [[Kodlak]]              |  Father  |
 | [[Shurima the Corpsemaker\|Shurima]] |  Patron  |
 |              [[Moona]]               |  Mother  |
 
@@ -127,3 +127,5 @@ The group heads down a hallway, and are trapped in a boiling room, although they
 Shurima sends a message to Moiloc to find [[Corrin the Impaler|Corrin the Impaler's]] eye and send it to him. He says Corrin is heading to take back the castle from Olidamuru. Kaldrake and Moiloc follow Branwyn as she leaves the hideout trying to escape from Mora's approach. Moiloc tells them that Shurima might be able to help them magically escape the city, and they agree to try her plan. While leaving, Brewster and Moiloc find an Inquisitor's treasure stash, following the Inquisitor prisoner's map. Moiloc takes a magic ring from Gwyneth's manor while trying to get to the castle. At the castle, the group finds a hallway of traps, but after activating a few decide to turn back and enter through an open window. While dodging traps in the room through the window, Branwyn is bumped into a room, and the door closes and locks behind her.
 
 The door reopens soon after, and the group agrees to go through whatever door they believe Branwyn would have chosen so they could reunite with her. In the room, Moiloc is presented with three doors: Town, Devil, and Moon. She disregards what Branwyn would have chosen and enters the Moon door. Moiloc has a vision in Lothric castle of [[Moona]] giving birth to her. Moona fights off some Sahaguin, gives birth, and cradles a baby Moiloc. A demon appears behind Moona, touching her, and she goes limp and disappears with him. [[Kodlak]] then runs in and takes Moiloc. Moiloc reappears with the rest of the group. They proceed through the castle solving puzzles, where Moiloc reveals her ability to raise the dead, granted to her by Shurima. They also find a woman, [[Helen]], bound with a note staying to stab her, freeing her and taking her with them. At the end of the castle, they find and kill Corrin and his Inquisitor guards. Moiloc hands Corrin's eye to Shurima, and he offers to take them to the Queen or to outside Lothric. They choose to go outside Lothric and leave the town. A flamingo, [[Velma]] approaches them in the woods.
+## [[Session 19 - Inspiration (Desperation)]]
+Velma joins the group, and they discover that Helen does not have a tongue. Helen identifies her house as they leave Lothric. They explore her house and town and find the residents dead, and decide to leave the town. They decide to check out Grima's grove to find the tree in the map Velma gave them.

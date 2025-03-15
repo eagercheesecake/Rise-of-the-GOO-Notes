@@ -20,7 +20,7 @@ Mora is Branwyn's mother figure from her childhood, using her as a vessel for he
 | Session 6  | Mentioned | Session 16 | Mentioned |
 | Session 7  | Mentioned | Session 17 | Appeared  |
 | Session 8  | Mentioned | Session 18 | Appeared  |
-| Session 9  | Mentioned | Session 19 |           |
+| Session 9  | Mentioned | Session 19 | Mentioned |
 | Session 10 |  Absent   | Session 20 | Appeared  |
 ## [[Session 05 - Can't Be Worse Than Here]]
 In [[Monty MacMasters|Monty's]] office, Branwyn finds notes on Mora beginning her move across Phaeros.
@@ -48,3 +48,5 @@ Kaldrake has a vision of [[Gulvayas Hakon|Gulvayas]] disguising himself as [[Cha
 Kaldrake sees Mora burning down Grima's Grove and killing Grima in a vision from the reflection room. Later, [[Olidamuru]] convinces Branwyn to take off the ring protecting her from being tracked by Mora. Mora's voice fills the cave, saying she has found Branwyn.
 ## [[Session 18 - What Would Branwyn Do]]
 In a vision in the Lothric castle, we see Branwyn's original encounter with Mora in a forest. Mora offers to help Branwyn find her father. Branwyn is confuse, saying she was older when this happened. Mora says she also wasn't blonde when it happened, and melts Branwyn. Branwyn then wakes up in her father's house in the vision.
+## [[Session 19 - Inspiration (Desperation)]]
+In a letter sent at the time of Grima's death, Grima says that he used to be friends with Mora. He also says that Mora has a fascination for green dreamers. It ends, assumedly, when Mora finds him, the letter saying to run, and that Mora is coming after Branwyn. Grima sends the letter using one of his flamingos, [[Velma]], who has a crown that will mask their location from Mora.
