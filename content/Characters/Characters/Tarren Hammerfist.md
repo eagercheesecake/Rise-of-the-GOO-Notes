@@ -17,8 +17,8 @@ Tarren is a member of the Resistance in Dunn, and a contestant in the Montrissad
 | Session 6  | Appeared  | Session 16 |  Absent   |
 | Session 7  | Appeared  | Session 17 | Appeared  |
 | Session 8  | Appeared  | Session 18 | Appeared  |
-| Session 9  | Appeared  |            |           |
-| Session 10 | Mentioned |            |           |
+| Session 9  | Appeared  | Session 19 |  Absent   |
+| Session 10 | Mentioned | Session 20 | Mentioned |
 ## [[Session 06 - Cult Pamphlets]]
 [[Moiloc Kodlaksdottër|Moiloc]] finds Tarren and [[Belnades]] as they escape the attack at the pre-game feast. They escape through a hole in the wall of a hallway, and jump into the moat, escaping back to the streets of Montrissad.
 ## [[Session 07 - Shuffleboard]]
@@ -37,3 +37,5 @@ Brewster mentions during a Resistance meeting that he believes Tarren may be the
 Tarren is seen in the Resistance hideout after the corpse-eaters are fended off.
 ## [[Session 18 - What Would Branwyn Do]]
 Tarren is seen while the Resistance is attempting to move their hideout to Domnhall Keep. Brewster tells him about [[Gwyneth Sootspot|Gwyneth]] looking for [[Daphne]]. Tarren and Brewster discuss moving forward the Resistance's plans to free the Whitehall slaves and save Daphne, but Violet seems unwilling to discuss a change of plans.
+## [[Session 20 - Stabbing Her]]
+Brewster mentions that Tarren was also a slave at Whitehall, and they escaped together.

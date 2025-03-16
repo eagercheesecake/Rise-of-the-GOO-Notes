@@ -14,11 +14,11 @@ Charlotte is a young half-elf girl from Montrissad. She is taken in by Branwyn a
 |            |           | Session 13 | Mentioned |
 |            |           | Session 14 |  Absent   |
 |            |           | Session 15 | Mentioned |
-|            |           |            |           |
-| Session 7  | Appeared  |            |           |
-| Session 8  | Appeared  |            |           |
-| Session 9  | Mentioned |            |           |
-| Session 10 | Appeared  |            |           |
+|            |           | Session 16 |  Absent   |
+| Session 7  | Appeared  | Session 17 |  Absent   |
+| Session 8  | Appeared  | Session 18 |  Absent   |
+| Session 9  | Mentioned | Session 19 |  Absent   |
+| Session 10 | Appeared  | Session 20 | Mentioned |
 ## [[Session 07 - Shuffleboard]]
 [[Branwyn of Coryphea|Branwyn]] saves Charlotte from corpse eaters on the streets of Montrissad, taking her with them to escape. They head to [[Monty MacMasters|Monty's]], and find it billowing with smoke. Inside is a small fire, which they put out. Branwyn notices that the door to Monty's magical hallway is gone, and finds runes where it once was. They find a letter from Monty saying he'll meet them in Wallachia. Soon after, [[Moiloc Kodlaksdottër|Moiloc]], [[Belnades]], and [[Tarren Hammerfist|Tarren]] enter as well, reuniting the party.
 
@@ -34,4 +34,6 @@ Branwyn reunites with Charlotte in the cave in Dunn. Charlotte tells Branwyn tha
 ## [[Session 13 - Martha Is My Middle Name]]
 Branwyn lies and tells bakers that she has lost her daughter, Charlotte, hoping to gain access to their bakery and steal back a mask they had taken.
 ## [[Session 15 - Gray Boys]]
-Jessie tells Branwyn that Charlotte was sent to a safer place. Branwyn tells Jessie to let Charlotte know that if she needs anything, she can seek out a white raven. Branwyn cries in her room, wondering if she put Charlotte in danger.
+Jessie tells Branwyn that Charlotte was sent to a safer place. Branwyn tells Jessie to let Charlotte know that if she needs anything, she can seek out a white raven. Branwyn cries in her room, wondering if she put Charlotte in danger by continuing to bring her on this adventure and connecting herself and Charlotte like she has.
+## [[Session 20 - Stabbing Her]]
+Branwyn realizes that the white raven she told Charlotte to look for was, in fact, Mora, and she may have sent Charlotte right into Mora's hands.
