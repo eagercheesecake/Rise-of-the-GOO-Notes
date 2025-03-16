@@ -30,17 +30,15 @@ Click a location to scroll to that city.
 
 ### Locations: Lothric, Fort Bosco
 
-|                  Session                  | Main Character's Actions                                                                                                                                                                                                    |
-| :---------------------------------------: | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [[Session 13 - Martha Is My Middle Name]] | Moiloc and Branwyn find a suspicious clothing store and go to Grima's grove.<br>Kaldrake rescues Violet and kills the Pontiff<br>Lexar fails the Inquisitor Initiation and rescues Goro and Belnades from a burning Brasov. |
-[[Session 13 - Martha Is My Middle Name]]
-[[Session 14 - Gwyneth's Personal Diary]]
-[[Session 15 - Gray Boys]]
-[[Session 16 - Killing a Mailman]]
-[[Session 17 - Respect These Nuts]]
-[[Session 18 - What Would Branwyn Do]]
-[[Session 19 - Inspiration (Desperation)]]
-[[Session 20 - Stabbing Her]]
+|                  Session                   | Main Character's Actions                                                                                                                                                                                                     |
+| :----------------------------------------: | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[Session 13 - Martha Is My Middle Name]]  | Moiloc and Branwyn find a suspicious clothing store and go to Grima's grove.<br>Kaldrake rescues Violet and kills the Pontiff.<br>Lexar fails the Inquisitor Initiation and rescues Goro and Belnades from a burning Brasov. |
+| [[Session 14 - Gwyneth's Personal Diary]]  | Kaldrake has a Gulvayas vision and explores Gwyneth's manor.<br>Branwyn, Brewster, and Moiloc find the Resistance Hideout.                                                                                                   |
+|         [[Session 15 - Gray Boys]]         | Branwyn, Brewster, and Moiloc talk with the Resistance.<br>Kaldrake talks with Gwyneth and resets reality multiple times.                                                                                                    |
+|    [[Session 17 - Respect These Nuts]]     | The group find an entrance in the sewers leading to Olidamuru.                                                                                                                                                               |
+|   [[Session 18 - What Would Branwyn Do]]   | The group explore the castle in Lothric after Olidamuru takes over.                                                                                                                                                          |
+| [[Session 19 - Inspiration (Desperation)]] | The group escapes Lothric and explore Helen's village.                                                                                                                                                                       |
+|       [[Session 20 - Stabbing Her]]        | Mora finds the group, causing them to turn around.<br>The group arrive at Col Man'Dar.                                                                                                                                       |
 # Col Man'Dar
 [[#Montrissad]] | [[#Brasov]] | [[#Lothric]] | [[#Col Man'Dar]] | [[#Domnhall Keep]]
 
