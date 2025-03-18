@@ -9,7 +9,7 @@ Kaldrake comes from Martin's Isle, from a long bloodline of powerful elven wizar
 - **First Seen:** Session 1
 - **Status:** Dead
 - **Cause of Death:** Killed by hydra
-- **Time of Death:** Session 22
+- **Time of Death:** Session 21
 
 |                     Character                     |     Relation      |
 | :-----------------------------------------------: | :---------------: |
@@ -144,3 +144,5 @@ Velma joins the group, and they discover that Helen does not have a tongue. Hele
 The group continue to Grima's Grove, fighting off enemies on the way. The group begin travelling through planes on their journey, somehow, but realize their memories of changing planes are hazy. To make sure they don't forget, they leave a message on Brewster's tools.
 
 Through Brewster's recording, they are able to remember switching through planes, and soon after find another plane change. Branwyn recognizes signs of Mora approaching, and hides the group upon seeing a white raven. Mora appears in the party's camp, and uses their campfire to cast a spell, showing her an image of Whitehall. She flies off in that direction. The group discovers a symbol on Helen's back matching the symbol of Olidamuru's cult, tracking them. They cut over it to break the sigil with a natural scar. They decide to turn back, deciding continuing to Grima's Grove may be too dangerous with Mora tracking them and accelerating her plans. They proceed to Whitehall, and arrive at Col Man'Dar.
+## [[Session 21 - The Party Dies]]
+Upon entering Col Man'Dar, they are offered lodging at a farm. The party notices the crops are dead and there are many enslaved non-humans. The farmhand tells them to leave their slaves outside, and Moiloc and a disguised Brewster enter. They feel like they are being watched, and notice the slaves are planting seeds even though it isn't the season for it. Moiloc and Brewster return, saying they have been asked to get medicine for a woman in the farm. They reunite with Skalazar, working on a travelling fishing vessel at the docks. The woman working at the apothecary says her husband is missing, and the group agrees to look for him. Brewster realizes that everyone is under an enchantment. They reunite with Goro at the lumber mill before leaving for the forest to camp for the night. In the forest, they find a crater with a cracked-open hydra egg in in. Branwyn picks it up and the hydra appears. They fight the hydra for a moment, then decide to flee upon realizing they cannot win. The hydra catches up with them and downs everyone. Kaldrake does not survive.

@@ -7,18 +7,18 @@ Eru the Shaper is the main god in Phaeros. She created the Forgotten Ones and th
 - **Cause of Death:** Unknown
 - **Time of Death:** Before Session 1
 
-|  Session   |  Status   |  Session   |  Status   |
-| :--------: | :-------: | :--------: | :-------: |
-|            |           | Session 11 |  Absent   |
-|            |           | Session 12 |  Absent   |
-|            |           | Session 13 | Mentioned |
-|            |           | Session 14 |  Absent   |
-|            |           | Session 15 |  Absent   |
-| Session 6  | Mentioned | Session 16 | Mentioned |
-| Session 7  | Mentioned | Session 17 | Mentioned |
-| Session 8  | Mentioned | Session 18 | Mentioned |
-| Session 9  |  Absent   |            |           |
-| Session 10 |  Absent   |            |           |
+|  Session   |  Status   |  Session   |  Status   |  Session   |  Status   |
+| :--------: | :-------: | :--------: | :-------: | :--------: | :-------: |
+|            |           | Session 11 |  Absent   | Session 21 | Mentioned |
+|            |           | Session 12 |  Absent   |            |           |
+|            |           | Session 13 | Mentioned |            |           |
+|            |           | Session 14 |  Absent   |            |           |
+|            |           | Session 15 |  Absent   |            |           |
+| Session 6  | Mentioned | Session 16 | Mentioned |            |           |
+| Session 7  | Mentioned | Session 17 | Mentioned |            |           |
+| Session 8  | Mentioned | Session 18 | Mentioned |            |           |
+| Session 9  |  Absent   | Session 19 |  Absent   |            |           |
+| Session 10 |  Absent   | Session 20 |  Absent   |            |           |
 ## [[Session 06 - Cult Pamphlets]]
 Eru has a chapel in the castle in Montrissad. Her statue is seen when [[Kaldrake Sootspot|Kaldrake]], [[Branwyn of Coryphea|Branwyn]], and [[Gertrude Spugel|Gertrude]] visit the chapel.
 ## [[Session 07 - Shuffleboard]]
@@ -33,3 +33,5 @@ A statue of Eru in the ethereal plane transports Kaldrake to the astral plane. K
 Kaldrake sees stained glass windows in a Lothric chapel depicting the Ringed City crumbling, and Eru's throne, empty and cracking. It then shows eight, then sixteen figures, melding into two, then one figure, which looks like the statues of Eru. Kaldrake prays to Eru, who blesses him.
 ## [[Session 18 - What Would Branwyn Do]]
 A similar story to what is told on the stained glass in the Lothric chapel is found in the Lothric castle. However, instead it shows sixteen, then eight, then sixteen, then nine figures.
+## [[Session 21 - The Party Dies]]
+Kaldrake prays to Eru and feels at ease.

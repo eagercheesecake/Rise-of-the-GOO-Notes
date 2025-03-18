@@ -15,18 +15,18 @@ Moiloc is a human princess from the Kodlak Islands. She has come to Montrissad o
 | [[Shurima the Corpsemaker\|Shurima]] |  Patron  |
 |              [[Moona]]               |  Mother  |
 
-|  Session   |  Status  |  Session   |  Status  |
-| :--------: | :------: | :--------: | :------: |
-| Session 1  | Appeared | Session 11 | Appeared |
-| Session 2  | Appeared | Session 12 | Appeared |
-| Session 3  | Appeared | Session 13 | Appeared |
-| Session 4  | Appeared | Session 14 | Appeared |
-| Session 5  | Appeared | Session 15 | Appeared |
-| Session 6  | Appeared | Session 16 | Appeared |
-| Session 7  | Appeared | Session 17 | Appeared |
-| Session 8  | Appeared | Session 18 | Appeared |
-| Session 9  | Appeared | Session 19 | Appeared |
-| Session 10 | Appeared | Session 20 | Appeared |
+|  Session   |  Status  |  Session   |  Status  |  Session   |  Status  |
+| :--------: | :------: | :--------: | :------: | :--------: | :------: |
+| Session 1  | Appeared | Session 11 | Appeared | Session 21 | Appeared |
+| Session 2  | Appeared | Session 12 | Appeared |            |          |
+| Session 3  | Appeared | Session 13 | Appeared |            |          |
+| Session 4  | Appeared | Session 14 | Appeared |            |          |
+| Session 5  | Appeared | Session 15 | Appeared |            |          |
+| Session 6  | Appeared | Session 16 | Appeared |            |          |
+| Session 7  | Appeared | Session 17 | Appeared |            |          |
+| Session 8  | Appeared | Session 18 | Appeared |            |          |
+| Session 9  | Appeared | Session 19 | Appeared |            |          |
+| Session 10 | Appeared | Session 20 | Appeared |            |          |
 ## [[Session 01 - Piss Grandma]]
 Moiloc comes to Montrissad to join the games, and begins looking for lodgings. On her way, she notices an ominous wrinkled man, Shurima, in the crowd, and follows him. She loses him, but finds the corpse of a priest and a red behelit in an alley, and takes the behelit.
 
@@ -133,3 +133,5 @@ Velma joins the group, and they discover that Helen does not have a tongue. Hele
 The group continue to Grima's Grove, fighting off enemies on the way. The group begin travelling through planes on their journey, somehow, but realize their memories of changing planes are hazy. To make sure they don't forget, they leave a message on Brewster's tools. Moiloc talks to Branwyn about her birth, saying it was the day the Koldlak Islands were attacked. She says her vision of Moona dying makes sense.
 
 Through Brewster's recording, they are able to remember switching through planes, and soon after find another plane change. Branwyn recognizes signs of Mora approaching, and hides the group upon seeing a white raven. Mora appears in the party's camp, and uses their campfire to cast a spell, showing her an image of Whitehall. She flies off in that direction. The group discovers a symbol on Helen's back matching the symbol of Olidamuru's cult, tracking them. They cut over it to break the sigil with a natural scar. They decide to turn back, deciding continuing to Grima's Grove may be too dangerous with Mora tracking them and accelerating her plans. They proceed to Whitehall, and arrive at Col Man'Dar.
+## [[Session 21 - The Party Dies]]
+Moiloc hears music as they enter Col Man'Dar, but it soon disappears. Upon entering Col Man'Dar, they are offered lodging at a farm. The party notices the crops are dead and there are many enslaved non-humans. The farmhand tells them to leave their slaves outside, and Moiloc and a disguised Brewster enter. They become suspicious when they realize the wooden floor somehow feels squishy. A sickly woman in the farmhouse asks them for medicine from a nearby apothecary. They reunite with Skalazar, working on a travelling fishing vessel at the docks. The woman working at the apothecary says her husband is missing, and the group agrees to look for him. Brewster realizes that everyone is under an enchantment. They reunite with Goro at the lumber mill before leaving for the forest to camp for the night. In the forest, they find a crater with a cracked-open hydra egg in in. Branwyn picks it up and the hydra appears. They fight the hydra for a moment, then decide to flee upon realizing they cannot win. The hydra catches up with them and downs everyone.

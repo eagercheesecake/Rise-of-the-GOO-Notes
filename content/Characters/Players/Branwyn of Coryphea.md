@@ -14,18 +14,18 @@ Branwyn is an half-elf ranger woman, and child of Mora, originally coming from C
 |       [[Mora\|Mora]]        |  Mother  |
 |        [[Charlotte]]        |   Ward   |
 
-|  Session   |  Status  |  Session   |  Status  |
-| :--------: | :------: | :--------: | :------: |
-| Session 1  | Appeared | Session 11 | Appeared |
-| Session 2  | Appeared | Session 12 | Appeared |
-| Session 3  | Appeared | Session 13 | Appeared |
-| Session 4  | Appeared | Session 14 | Appeared |
-| Session 5  | Appeared | Session 15 | Appeared |
-| Session 6  | Appeared | Session 16 | Appeared |
-| Session 7  | Appeared | Session 17 | Appeared |
-| Session 8  | Appeared | Session 18 | Appeared |
-| Session 9  | Appeared | Session 19 | Appeared |
-| Session 10 | Appeared | Session 20 | Appeared |
+|  Session   |  Status  |  Session   |  Status  |  Session   |  Status  |
+| :--------: | :------: | :--------: | :------: | :--------: | :------: |
+| Session 1  | Appeared | Session 11 | Appeared | Session 21 | Appeared |
+| Session 2  | Appeared | Session 12 | Appeared |            |          |
+| Session 3  | Appeared | Session 13 | Appeared |            |          |
+| Session 4  | Appeared | Session 14 | Appeared |            |          |
+| Session 5  | Appeared | Session 15 | Appeared |            |          |
+| Session 6  | Appeared | Session 16 | Appeared |            |          |
+| Session 7  | Appeared | Session 17 | Appeared |            |          |
+| Session 8  | Appeared | Session 18 | Appeared |            |          |
+| Session 9  | Appeared | Session 19 | Appeared |            |          |
+| Session 10 | Appeared | Session 20 | Appeared |            |          |
 ## [[Session 01 - Piss Grandma]]
 Branwyn finds [[Monty's Son]] on the streets of Montrissad, who points her to Monty to sell her cloak. On her way to Monty's, she is attacked by a teenage thief, and knocks him out, leaving him some gold as an apology. Monty tries to rip her off in the sale, but fails, and instead offers to sponsor her in the Games. Branwyn shows the letter to [[Jim MacMasters|Jim]] at the inn and gets a room.
 
@@ -132,3 +132,5 @@ Velma gives Branwyn a letter from Grima, saying Branwyn is a green dreamer, and 
 The group continue to Grima's Grove, fighting off enemies on the way. Branwyn realizes that she doesn't have many memories from before she arrived in Montrissad, except for Mora's cabin. The group begin travelling through planes on their journey, somehow, but realize their memories of changing planes are hazy. To make sure they don't forget, they leave a message on Brewster's tools. Branwyn tells the story of how she remembers meeting Mora. Her father was a woodcutter who couldn't support a child. She didn't fit in in her village, and so her father would make her wooden toys and she would explore the forest. One day, her father made her a honey cake, set her on a rock in the forest, and left her there. Two days later, just as she was about to die, Mora found her and took her in.
 
 Through Brewster's recording, they are able to remember switching through planes, and soon after find another plane change. Branwyn recognizes signs of Mora approaching, and hides the group upon seeing a white raven. Branwyn realizes the white ravens are Mora, and panics upon remembering she told Charlotte to look for a white raven if she is in trouble. Mora appears in the party's camp, and uses their campfire to cast a spell, showing her an image of Whitehall. She flies off in that direction. The group discovers a symbol on Helen's back matching the symbol of Olidamuru's cult, tracking them. They cut over it to break the sigil with a natural scar. They decide to turn back, deciding continuing to Grima's Grove may be too dangerous with Mora tracking them and accelerating her plans. They proceed to Whitehall, and arrive at Col Man'Dar.
+## [[Session 21 - The Party Dies]]
+Upon entering Col Man'Dar, they are offered lodging at a farm. The party notices the crops are dead and there are many enslaved non-humans. The farmhand tells them to leave their slaves outside, and Moiloc and a disguised Brewster enter. They feel like they are being watched, and notice the slaves are planting seeds even though it isn't the season for it. Moiloc and Brewster return, saying they have been asked to get medicine for a woman in the farm. They reunite with Skalazar, working on a travelling fishing vessel at the docks. The woman working at the apothecary says her husband is missing, and the group agrees to look for him. Brewster realizes that everyone is under an enchantment. Branwyn briefly sees the church covered in blood, with a pair of black eyes looking at her, but blinks and it disappears. They reunite with Goro at the lumber mill before leaving for the forest to camp for the night. In the forest, they find a crater with a cracked-open hydra egg in in. Branwyn picks it up and the hydra appears. They fight the hydra for a moment, then decide to flee upon realizing they cannot win. The hydra catches up with them and downs everyone.

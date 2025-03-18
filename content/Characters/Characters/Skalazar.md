@@ -3,18 +3,18 @@ Skalazar is a humanoid gecko and former dock worker from Montrissad. He is found
 - **First Seen:** Session 7
 - **Status:** Alive
 
-|  Session   |  Status  |  Session   |  Status  |
-| :--------: | :------: | :--------: | :------: |
-|            |          | Session 11 | Appeared |
-|            |          | Session 12 | Appeared |
-|            |          | Session 13 | Appeared |
-|            |          | Session 14 | Appeared |
-|            |          |            |          |
-|            |          |            |          |
-| Session 7  | Appeared |            |          |
-| Session 8  |  Absent  |            |          |
-| Session 9  | Appeared |            |          |
-| Session 10 |  Absent  |            |          |
+|  Session   |  Status  |  Session   |  Status  |  Session   |  Status  |
+| :--------: | :------: | :--------: | :------: | :--------: | :------: |
+|            |          | Session 11 | Appeared | Session 21 | Appeared |
+|            |          | Session 12 | Appeared |            |          |
+|            |          | Session 13 | Appeared |            |          |
+|            |          | Session 14 | Appeared |            |          |
+|            |          | Session 15 |  Absent  |            |          |
+|            |          | Session 16 |  Absent  |            |          |
+| Session 7  | Appeared | Session 17 |  Absent  |            |          |
+| Session 8  |  Absent  | Session 18 |  Absent  |            |          |
+| Session 9  | Appeared | Session 19 |  Absent  |            |          |
+| Session 10 |  Absent  | Session 20 |  Absent  |            |          |
 ## [[Session 07 - Shuffleboard]]
 The group finds Skalazar hiding on the lower decks of the Wavecrasher after they set sail to escape from an overrun Montrissad. [[Goro Hattori|Goro]] says he can stay on the ship, but commands him to man the crow's nest. They decide to head to Brasov, in Wallachia.
 
@@ -29,3 +29,5 @@ While Skalazar is traveling to Fort Bosco with the others, they are attacked by 
 Once Kaldrake returns from Fort Bosco, the group continues to Lothric.
 ## [[Session 14 - Gwyneth's Personal Diary]]
 Kaldrake somehow resets reality, causing the group to arrive at Lothric much faster. Once arriving, Kaldrake and Belnades enter, leaving Goro and Skalazar outside the town, since they aren't human.
+## [[Session 21 - The Party Dies]]
+Skalazar is seen in Col Man'Dar, having obtained a job on a traveling fishing vessel. He explains that Goro brought him here after what happened in Lothric.

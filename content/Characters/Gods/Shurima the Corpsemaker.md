@@ -14,18 +14,18 @@ Shurima the Corpsemaker is a powerful old man, worshipped by Moiloc. He is a kee
 | :------------------------------: | :------: |
 | [[Moiloc Kodlaksdottër\|Moiloc]] |  Avatar  |
 
-|  Session   |  Status   |  Session   |  Status   |
-| :--------: | :-------: | :--------: | :-------: |
-| Session 1  | Appeared  | Session 11 | Appeared  |
-| Session 2  | Mentioned | Session 12 | Mentioned |
-| Session 3  | Appeared  | Session 13 |  Absent   |
-| Session 4  |  Absent   | Session 14 |  Absent   |
-| Session 5  |  Absent   | Session 15 | Mentioned |
-| Session 6  | Mentioned | Session 16 |  Absent   |
-| Session 7  | Mentioned | Session 17 | Mentioned |
-| Session 8  | Mentioned | Session 18 | Appeared  |
-| Session 9  |  Absent   | Session 19 |           |
-| Session 10 | Mentioned | Session 20 |           |
+|  Session   |  Status   |  Session   |  Status   |  Session   |  Status   |
+| :--------: | :-------: | :--------: | :-------: | :--------: | :-------: |
+| Session 1  | Appeared  | Session 11 | Appeared  | Session 21 | Mentioned |
+| Session 2  | Mentioned | Session 12 | Mentioned |            |           |
+| Session 3  | Appeared  | Session 13 |  Absent   |            |           |
+| Session 4  |  Absent   | Session 14 |  Absent   |            |           |
+| Session 5  |  Absent   | Session 15 | Mentioned |            |           |
+| Session 6  | Mentioned | Session 16 |  Absent   |            |           |
+| Session 7  | Mentioned | Session 17 | Mentioned |            |           |
+| Session 8  | Mentioned | Session 18 | Appeared  |            |           |
+| Session 9  |  Absent   | Session 19 |  Absent   |            |           |
+| Session 10 | Mentioned | Session 20 |  Absent   |            |           |
 
 ## [[Session 01 - Piss Grandma]]
 Moiloc follows Shurima into an alley where she finds a murdered priest. The next day, [[Gertrude Spugel|Gertrude]] questions him about a piece of paper he has, but he refuses to tell her what it is.
@@ -57,3 +57,5 @@ Brewster mentions that he believes Shurima to be connected to Ouroborus's transf
 Moiloc can tell Shurima is listening as the group catches up once Kaldrake reunites with them.
 ## [[Session 18 - What Would Branwyn Do]]
 Shurima sends a message to Moiloc to find [[Corrin the Impaler|Corrin the Impaler's]] eye and send it to him. He says Corrin is heading to take back the castle from Olidamuru. The party kills Corrin, and Moiloc retrieves his eye. Shurima appears as an invisible form wrapped in bandages, and takes the eye, inserting it in his empty eye socket. Shurima offers to send them to the Queen, or to outside Lothric.
+## [[Session 21 - The Party Dies]]
+Moiloc prays to Shurima to guide her to a missing man in Col Man'Dar, and he directs her to the nearby fields via a gust of wind.
