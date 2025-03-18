@@ -10,18 +10,18 @@ Mora is Branwyn's mother figure from her childhood, using her as a vessel for he
 | [[Branwyn of Coryphea\|Branwyn]] |  Vessel  |
 |            [[Maokai]]            |  Patron  |
 
-|  Session   |  Status   |  Session   |  Status   |
-| :--------: | :-------: | :--------: | :-------: |
-|            |           | Session 11 | Mentioned |
-|            |           | Session 12 | Mentioned |
-|            |           | Session 13 | Mentioned |
-|            |           | Session 14 |  Absent   |
-| Session 5  | Mentioned | Session 15 | Mentioned |
-| Session 6  | Mentioned | Session 16 | Mentioned |
-| Session 7  | Mentioned | Session 17 | Appeared  |
-| Session 8  | Mentioned | Session 18 | Appeared  |
-| Session 9  | Mentioned | Session 19 | Mentioned |
-| Session 10 |  Absent   | Session 20 | Appeared  |
+|  Session   |  Status   |  Session   |  Status   |  Session   |  Status  |
+| :--------: | :-------: | :--------: | :-------: | :--------: | :------: |
+|            |           | Session 11 | Mentioned | Session 21 |  Absent  |
+|            |           | Session 12 | Mentioned | Session 22 | Appeared |
+|            |           | Session 13 | Mentioned |            |          |
+|            |           | Session 14 |  Absent   |            |          |
+| Session 5  | Mentioned | Session 15 | Mentioned |            |          |
+| Session 6  | Mentioned | Session 16 | Mentioned |            |          |
+| Session 7  | Mentioned | Session 17 | Appeared  |            |          |
+| Session 8  | Mentioned | Session 18 | Appeared  |            |          |
+| Session 9  | Mentioned | Session 19 | Mentioned |            |          |
+| Session 10 |  Absent   | Session 20 | Appeared  |            |          |
 ## [[Session 05 - Can't Be Worse Than Here]]
 In [[Monty MacMasters|Monty's]] office, Branwyn finds notes on Mora beginning her move across Phaeros.
 ## [[Session 06 - Cult Pamphlets]]
@@ -43,7 +43,7 @@ Mora's cloak is seen inside a mysterious shop which sells magical trinkets. The 
 ## [[Session 15 - Gray Boys]]
 Brewster expresses concern to the Resistance over Branwyn's affiliation with Mora. Gwyneth mentions that Mora was at one point an avatar of Maokai, and that she has the ability to transpose souls.
 ## [[Session 16 - Killing a Mailman]]
-Kaldrake has a vision of [[Gulvayas Hakon|Gulvayas]] disguising himself as [[Characters/Characters/Martin Sootspot|Martin the Great]]. He meets with Mora, going by Morrigan, who is wearing a pendant in the shape of a tree, a religious symbol of Maokai. Gulvayas gives her a vial of blue liquid, telling her to drink it when the time comes to prevent [[Baedos|Baedos's]] control. Gulvayas meets with the High Mages and announces his plan to become Archwizard and the Maester of the Aetherium. The High Mages protest, and Morrigan traps them in black vines, and drinks the vial. The Mages coalesce into Gulvayas, and Morrigan falls onto the ground weakly, saying she loved Gulvayas. Gulvayas removes the mask and reveals his true identity.
+Kaldrake has a vision of [[Gulvayas Hakon|Gulvayas]] disguising himself as [[Martin the Great|Martin the Great]]. He meets with Mora, going by Morrigan, who is wearing a pendant in the shape of a tree, a religious symbol of Maokai. Gulvayas gives her a vial of blue liquid, telling her to drink it when the time comes to prevent [[Baedos|Baedos's]] control. Gulvayas meets with the High Mages and announces his plan to become Archwizard and the Maester of the Aetherium. The High Mages protest, and Morrigan traps them in black vines, and drinks the vial. The Mages coalesce into Gulvayas, and Morrigan falls onto the ground weakly, saying she loved Gulvayas. Gulvayas removes the mask and reveals his true identity.
 ## [[Session 17 - Respect These Nuts]]
 Kaldrake sees Mora burning down Grima's Grove and killing Grima in a vision from the reflection room. Later, [[Olidamuru]] convinces Branwyn to take off the ring protecting her from being tracked by Mora. Mora's voice fills the cave, saying she has found Branwyn.
 ## [[Session 18 - What Would Branwyn Do]]
@@ -52,3 +52,7 @@ In a vision in the Lothric castle, we see Branwyn's original encounter with Mora
 In a letter sent at the time of Grima's death, Grima says that he used to be friends with Mora. He also says that Mora has a fascination for green dreamers. It ends, assumedly, when Mora finds him, the letter saying to run, and that Mora is coming after Branwyn. Grima sends the letter using one of his flamingos, [[Velma]], who has a crown that will mask their location from Mora.
 ## [[Session 20 - Stabbing Her]]
 Branwyn tells the story of how she remembers meeting Mora. One day, her father made her a honey cake, set her on a rock in the forest, and left her there. Two days later, just as she was about to die, Mora found her and took her in. Branwyn realizes the white ravens are Mora's, and panics upon remembering that she told Charlotte to look for white ravens, thinking she had sent her right to Mora. Mora eventually finds the party's camp, and uses their campfire to cast a spell, showing her an image of Whitehall. She flies off in that direction.
+## [[Session 22 - The B Team]]
+[[Martin Sootspot|Martin]], [[Ouroborus Tikktal|Ororo]], Mora (in her Morrigan disguise), [[Contigo Muñoz|Contigo]], and [[Arklow Laban|Arklow]] arrive in Col Man'Dar after Martin sees a vision of Kaldrake's death, and find his corpse. The group finds Goro in the lumber mill, and Velma's corpse in the forest. Mora casts Charm Person on Martin, but fails, with Martin telling her not to do it again. Instead, Mora casts Dominate Person on Martin. She tells him via Telepathy to look for Branwyn's body in the forest. Ororo realizes Martin is under the effect of magic and dispels it, causing Martin to fight with Mora about the Dominate Person spell she used. Mora explains she is looking for a childhood friend, and Martin agrees to help look, but on the path instead of in the middle of the forest. During Contigo's shift to keep watch during the night, Mora casts Dominate Person on him, and they leave the look for Branwyn. Mora tries to use Branwyn's hairs to divine her location, but finds herself unable to.
+
+In Edoval, Contigo asks Mora if she can take the hydras. She says yes, and Contigo comments that he's glad they're on the same side. She uses Power Word: Pain on him, telling him to watch how she speaks to her. They find a farm with a large hole, and both enter it, leading to the hydra's heart, which Mora destroys. Contigo recognizes Moiloc tending to the heart, and tells Mora that she was in Kaldrake's party. Mora tells Contigo to stay put and guard Moiloc, and leaves him. Mora opens her third and fourth eyes to detect Branwyn. She turns into her beastly form, grabs Branwyn, and flies away.

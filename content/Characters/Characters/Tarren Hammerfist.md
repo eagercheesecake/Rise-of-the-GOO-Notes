@@ -7,18 +7,18 @@ Tarren is a member of the Resistance in Dunn, and a contestant in the Montrissad
 | :----------------------------------: | :------: |
 | [[Lothar (Brewster) Nash\|Brewster]] |  Friend  |
 
-|  Session   |  Status   |  Session   |  Status   |
-| :--------: | :-------: | :--------: | :-------: |
-|            |           | Session 11 |  Absent   |
-|            |           | Session 12 |  Absent   |
-|            |           | Session 13 |  Absent   |
-|            |           | Session 14 |  Absent   |
-|            |           | Session 15 | Mentioned |
-| Session 6  | Appeared  | Session 16 |  Absent   |
-| Session 7  | Appeared  | Session 17 | Appeared  |
-| Session 8  | Appeared  | Session 18 | Appeared  |
-| Session 9  | Appeared  | Session 19 |  Absent   |
-| Session 10 | Mentioned | Session 20 | Mentioned |
+|  Session   |  Status   |  Session   |  Status   |  Session   |  Status   |
+| :--------: | :-------: | :--------: | :-------: | :--------: | :-------: |
+|            |           | Session 11 |  Absent   | Session 21 |  Absent   |
+|            |           | Session 12 |  Absent   | Session 22 | Mentioned |
+|            |           | Session 13 |  Absent   |            |           |
+|            |           | Session 14 |  Absent   |            |           |
+|            |           | Session 15 | Mentioned |            |           |
+| Session 6  | Appeared  | Session 16 |  Absent   |            |           |
+| Session 7  | Appeared  | Session 17 | Appeared  |            |           |
+| Session 8  | Appeared  | Session 18 | Appeared  |            |           |
+| Session 9  | Appeared  | Session 19 |  Absent   |            |           |
+| Session 10 | Mentioned | Session 20 | Mentioned |            |           |
 ## [[Session 06 - Cult Pamphlets]]
 [[Moiloc Kodlaksdottër|Moiloc]] finds Tarren and [[Belnades]] as they escape the attack at the pre-game feast. They escape through a hole in the wall of a hallway, and jump into the moat, escaping back to the streets of Montrissad.
 ## [[Session 07 - Shuffleboard]]
@@ -39,3 +39,5 @@ Tarren is seen in the Resistance hideout after the corpse-eaters are fended off.
 Tarren is seen while the Resistance is attempting to move their hideout to Domnhall Keep. Brewster tells him about [[Gwyneth Sootspot|Gwyneth]] looking for [[Daphne]]. Tarren and Brewster discuss moving forward the Resistance's plans to free the Whitehall slaves and save Daphne, but Violet seems unwilling to discuss a change of plans.
 ## [[Session 20 - Stabbing Her]]
 Brewster mentions that Tarren was also a slave at Whitehall, and they escaped together.
+## [[Session 22 - The B Team]]
+When Contigo reunites with Goro, Contigo asks him if he has seen Tarren recently. Goro says he has not. Brewster sees a pedestal in a desert depicting important scenes from his life, one of which shows him escaping slavery and joining the Resistance with Tarren.

@@ -43,3 +43,5 @@ After Kaldrake returns from Fort Bosco, with Lortzgab and without Jones, Goro ma
 While traveling to Lothric, Kaldrake somehow resets reality, causing them to arrive at Lothric much faster. Goro re-explains the events on the Wavecrasher once Kaldrake returns from his vision which reset reality, causing Kaldrake to realize some of the differences in reality. Goro and Skalazar are left outside Lothric, since they are not human.
 ## [[Session 21 - The Party Dies]]
 Goro is seen working at the lumber mill in Col Man'Dar.
+## [[Session 22 - The B Team]]
+[[Martin Sootspot|Martin]] and his group find Goro in the lumber mill, finding he had locked himself in and survived the hydra attack. Contigo asks him if he had seen Tarren recently, and he comments that he has not. He continues with them to leave. The group finds [[Velma|Velma's]] corpse in the forest. Goro leaves the party before they camp out, continuing to Edoval. At some point before arriving, he finds [[Helen]] and brings her along. He is seen in Edoval when Martin arrives.

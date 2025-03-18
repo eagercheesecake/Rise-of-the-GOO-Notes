@@ -12,7 +12,7 @@ Gwyneth is an elven wizard, and Kaldrake's sister.
 |                     Character                     |     Relation      |
 | :-----------------------------------------------: | :---------------: |
 |          [[Kaldrake Sootspot\|Kaldrake]]          |      Brother      |
-| [[Characters/Characters/Martin Sootspot\|Martin]] | Great-Grandfather |
+| [[Martin the Great\|Martin]] | Great-Grandfather |
 |         [[Balthazar Sootspot\|Balthazar]]         |      Father       |
 |                     [[Bisco]]                     |      Servant      |
 |  [[Characters/Players/Martin Sootspot\|Martin]]   |      Brother      |
@@ -32,7 +32,7 @@ Gwyneth is an elven wizard, and Kaldrake's sister.
 ## [[Session 01 - Piss Grandma]]
 Kaldrake mentions that her sister is the person who commissioned [[Lexar Bellos|Lexar]] to protect her during the Games. Before the first melee, [[Gertrude Spugel|Gertrude]] sees Gwyneth performing fire magic in front of the arena.
 ## [[Session 05 - Can't Be Worse Than Here]]
-Kaldrake suggests that Gwyneth may be able to remove Gertrude's curse that is removing her memories. When they go to her tower in the Montrissad castle, Kaldrake finds a letter from the Aethereum saying [[Characters/Characters/Martin Sootspot|Martin Sootspot|Martin the Great]] was investigating something. Kaldrake also finds some mysterious ink, and a portal to their home castle.
+Kaldrake suggests that Gwyneth may be able to remove Gertrude's curse that is removing her memories. When they go to her tower in the Montrissad castle, Kaldrake finds a letter from the Aethereum saying [[Martin the Great|Martin Sootspot|Martin the Great]] was investigating something. Kaldrake also finds some mysterious ink, and a portal to their home castle.
 ## [[Session 06 - Cult Pamphlets]]
 [[Father Sansor]] says Gwyneth left about a week ago, and points them to her friend, [[Goro Hattori|Goro]]. Goro tells them she left for Martin's Isle, and gives them a key to her office. [[Branwyn of Coryphea|Branwyn]] finds notes that Gwyneth was taking on [[Mora]]. They also find a keyhole in her doorframe that causes the bed to rise into a potion room. The party later uses this room to escape the siege on Montrissad.
 ## [[Session 07 - Shuffleboard]]

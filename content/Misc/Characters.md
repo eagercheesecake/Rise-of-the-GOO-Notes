@@ -16,7 +16,7 @@ Below are characters vaguely grouped in order of appearance. Characters may be f
 ## Other Recurring Characters
 [[Gulvayas Hakon]]
 [[Gwyneth Sootspot]]
-[[Characters/Characters/Martin Sootspot]]
+[[Martin the Great]]
 [[Mora]]
 [[Shurima the Corpsemaker]]
 # Montrissad

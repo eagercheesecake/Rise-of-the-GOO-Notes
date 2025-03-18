@@ -9,7 +9,7 @@ Balthazar is Kaldrake's father, and the Meister of the Aethereum.
 | :-----------------------------------------------: | :---------: |
 |          [[Kaldrake Sootspot\|Kaldrake]]          |     Son     |
 |           [[Gwyneth Sootspot\|Gwyneth]]           |  Daughter   |
-| [[Characters/Characters/Martin Sootspot\|Martin]] | Grandfather |
+| [[Martin the Great\|Martin]] | Grandfather |
 |  [[Characters/Players/Martin Sootspot\|Martin]]   |     Son     |
 
 |  Session   |  Status  |  Session   |  Status   |

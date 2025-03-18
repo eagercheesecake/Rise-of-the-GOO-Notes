@@ -31,3 +31,5 @@ Maokai reaches out to [[Gertrude Spugel|Gertrude]], declaring her his chosen one
 [[Shurima the Corpsemaker|Shurima]] tells [[Moiloc Kodlaksdottër|Moiloc]] that Mora is a former avatar of Maokai. She made a deal with him after a necromancer turned Coryphea into Gravewatch, assaulting the civilized world to get revenge on anyone who would harm nature, but her form cannot hold her power.
 ## [[Session 16 - Killing a Mailman]]
 Kaldrake has a vision of [[Gulvayas Hakon]], who meets with Morrigan, who is wearing a pendant depicting Maokai's tree symbol.
+## [[Session 22 - The B Team]]
+Branwyn finds Maokai's tree, with a purple haze coming from [[Laogzed|Laogzed's]] lamp trapping him inside. She hears Maokai ask her not to come closer, saying she has already done too much harm to him, although he seems to be confusing her with Mora.

@@ -15,18 +15,18 @@ Moiloc is a human princess from the Kodlak Islands. She has come to Montrissad o
 | [[Shurima the Corpsemaker\|Shurima]] |  Patron  |
 |              [[Moona]]               |  Mother  |
 
-|  Session   |  Status  |  Session   |  Status  |  Session   |  Status  |
-| :--------: | :------: | :--------: | :------: | :--------: | :------: |
-| Session 1  | Appeared | Session 11 | Appeared | Session 21 | Appeared |
-| Session 2  | Appeared | Session 12 | Appeared |            |          |
-| Session 3  | Appeared | Session 13 | Appeared |            |          |
-| Session 4  | Appeared | Session 14 | Appeared |            |          |
-| Session 5  | Appeared | Session 15 | Appeared |            |          |
-| Session 6  | Appeared | Session 16 | Appeared |            |          |
-| Session 7  | Appeared | Session 17 | Appeared |            |          |
-| Session 8  | Appeared | Session 18 | Appeared |            |          |
-| Session 9  | Appeared | Session 19 | Appeared |            |          |
-| Session 10 | Appeared | Session 20 | Appeared |            |          |
+|                        Session                        |                        Status                         |                         Session                         |                        Status                         |                   Session                    |                        Status                         |
+| :---------------------------------------------------: | :---------------------------------------------------: | :-----------------------------------------------------: | :---------------------------------------------------: | :------------------------------------------: | :---------------------------------------------------: |
+|       [[#Session 01 - Piss Grandma\|Session 1]]       | <mark style="background-color: green">Appeared</mark> | [[#Session 11 - The Party Loses a Corpse\|Session 11]]  | <mark style="background-color: green">Appeared</mark> | [[#Session 21 - The Party Dies\|Session 21]] | <mark style="background-color: green">Appeared</mark> |
+| [[#Session 02 - Teddy and the Roosevelts\|Session 2]] | <mark style="background-color: green">Appeared</mark> |     [[#Session 12 - Branwyn's Bad Day\|Session 12]]     | <mark style="background-color: green">Appeared</mark> |   [[#Session 22 - The B Team\|Session 22]]   | <mark style="background-color: green">Appeared</mark> |
+|   [[#Session 03 - Sorry For Your Loss\|Session 3]]    | <mark style="background-color: green">Appeared</mark> | [[#Session 13 - Martha Is My Middle Name\|Session 13]]  | <mark style="background-color: green">Appeared</mark> |                                              |                                                       |
+|   [[#Session 04 - Sincerely, Gertrude\|Session 4]]    | <mark style="background-color: green">Appeared</mark> | [[#Session 14 - Gwyneth's Personal Diary\|Session 14]]  | <mark style="background-color: green">Appeared</mark> |                                              |                                                       |
+| [[#Session 05 - Can't Be Worse Than Here\|Session 5]] | <mark style="background-color: green">Appeared</mark> |         [[#Session 15 - Gray Boys\|Session 15]]         | <mark style="background-color: green">Appeared</mark> |                                              |                                                       |
+|      [[#Session 06 - Cult Pamphlets\|Session 6]]      | <mark style="background-color: green">Appeared</mark> |     [[#Session 16 - Killing a Mailman\|Session 16]]     | <mark style="background-color: green">Appeared</mark> |                                              |                                                       |
+|       [[#Session 07 - Shuffleboard\|Session 7]]       | <mark style="background-color: green">Appeared</mark> |    [[#Session 17 - Respect These Nuts\|Session 17]]     | <mark style="background-color: green">Appeared</mark> |                                              |                                                       |
+|   [[#Session 08 - Religious Conversion\|Session 8]]   | <mark style="background-color: green">Appeared</mark> |   [[#Session 18 - What Would Branwyn Do\|Session 18]]   | <mark style="background-color: green">Appeared</mark> |                                              |                                                       |
+|   [[#Session 09 - The Man or the Bears\|Session 9]]   | <mark style="background-color: green">Appeared</mark> | [[#Session 19 - Inspiration (Desperation)\|Session 19]] | <mark style="background-color: green">Appeared</mark> |                                              |                                                       |
+|  [[#Session 10 - Strategic Milk Bucket\|Session 10]]  | <mark style="background-color: green">Appeared</mark> |       [[#Session 20 - Stabbing Her\|Session 20]]        | <mark style="background-color: green">Appeared</mark> |                                              |                                                       |
 ## [[Session 01 - Piss Grandma]]
 Moiloc comes to Montrissad to join the games, and begins looking for lodgings. On her way, she notices an ominous wrinkled man, Shurima, in the crowd, and follows him. She loses him, but finds the corpse of a priest and a red behelit in an alley, and takes the behelit.
 
@@ -135,3 +135,7 @@ The group continue to Grima's Grove, fighting off enemies on the way. The group 
 Through Brewster's recording, they are able to remember switching through planes, and soon after find another plane change. Branwyn recognizes signs of Mora approaching, and hides the group upon seeing a white raven. Mora appears in the party's camp, and uses their campfire to cast a spell, showing her an image of Whitehall. She flies off in that direction. The group discovers a symbol on Helen's back matching the symbol of Olidamuru's cult, tracking them. They cut over it to break the sigil with a natural scar. They decide to turn back, deciding continuing to Grima's Grove may be too dangerous with Mora tracking them and accelerating her plans. They proceed to Whitehall, and arrive at Col Man'Dar.
 ## [[Session 21 - The Party Dies]]
 Moiloc hears music as they enter Col Man'Dar, but it soon disappears. Upon entering Col Man'Dar, they are offered lodging at a farm. The party notices the crops are dead and there are many enslaved non-humans. The farmhand tells them to leave their slaves outside, and Moiloc and a disguised Brewster enter. They become suspicious when they realize the wooden floor somehow feels squishy. A sickly woman in the farmhouse asks them for medicine from a nearby apothecary. They reunite with Skalazar, working on a travelling fishing vessel at the docks. The woman working at the apothecary says her husband is missing, and the group agrees to look for him. Brewster realizes that everyone is under an enchantment. They reunite with Goro at the lumber mill before leaving for the forest to camp for the night. In the forest, they find a crater with a cracked-open hydra egg in in. Branwyn picks it up and the hydra appears. They fight the hydra for a moment, then decide to flee upon realizing they cannot win. The hydra catches up with them and downs everyone.
+## [[Session 22 - The B Team]]
+Moiloc wakes up in Gahenna, in the infernal plane, where she sees devils commanding two armies going to battle. [[Mephistopheles the Cold|Mephistopheles]] appears to her and asks if she wants a closer look, which she agrees to. He teleports her to his tower.
+
+In the real world, Moiloc is seen tending to the hydra's heart.

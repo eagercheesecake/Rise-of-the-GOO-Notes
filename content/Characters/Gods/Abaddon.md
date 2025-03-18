@@ -9,4 +9,4 @@ Abaddon is the god of Fate.
 | :--------: | :-------: |
 | Session 15 | Mentioned |
 ## [[Session 15 - Gray Boys]]
-[[Gwyneth Sootspot|Gwyneth]] mentions that [[Characters/Characters/Martin Sootspot||Martin the Great]] sold his soul to Abaddon.
+[[Gwyneth Sootspot|Gwyneth]] mentions that [[Martin the Great||Martin the Great]] sold his soul to Abaddon.

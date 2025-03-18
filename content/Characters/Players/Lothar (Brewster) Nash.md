@@ -18,7 +18,7 @@ Brewster is a rock gnome who joined the Wallachian Resistance after being freed 
 |  Session   |  Status  |  Session   |  Status  |  Session   |  Status  |
 | :--------: | :------: | :--------: | :------: | :--------: | :------: |
 |            |          | Session 11 | Appeared | Session 21 | Appeared |
-|            |          | Session 12 | Appeared |            |          |
+|            |          | Session 12 | Appeared | Session 22 | Appeared |
 |            |          | Session 13 | Appeared |            |          |
 |            |          | Session 14 | Appeared |            |          |
 |            |          | Session 15 | Appeared |            |          |
@@ -85,3 +85,7 @@ The group continue to Grima's Grove, fighting off enemies on the way. The group 
 Through Brewster's recording, they are able to remember switching through planes, and soon after find another plane change. Branwyn recognizes signs of Mora approaching, and hides the group upon seeing a white raven. Mora appears in the party's camp, and uses their campfire to cast a spell, showing her an image of Whitehall. She flies off in that direction. The group discovers a symbol on Helen's back matching the symbol of Olidamuru's cult, tracking them. They cut over it to break the sigil with a natural scar. They decide to turn back, deciding continuing to Grima's Grove may be too dangerous with Mora tracking them and accelerating her plans. They proceed to Whitehall, and arrive at Col Man'Dar.
 ## [[Session 21 - The Party Dies]]
 Upon entering Col Man'Dar, they are offered lodging at a farm. The party notices the crops are dead and there are many enslaved non-humans. The farmhand tells them to leave their slaves outside, and Moiloc and a disguised Brewster enter. They become suspicious when they realize the wooden floor somehow feels squishy. A sickly woman in the farmhouse asks them for medicine from a nearby apothecary. They reunite with Skalazar, working on a travelling fishing vessel at the docks. The woman working at the apothecary says her husband is missing, and the group agrees to look for him. Brewster realizes that everyone is under an enchantment. They reunite with Goro at the lumber mill, where Brewster buys some lumber, before leaving for the forest to camp for the night. In the forest, they find a crater with a cracked-open hydra egg in in. Branwyn picks it up and the hydra appears. They fight the hydra for a moment, then decide to flee upon realizing they cannot win. The hydra catches up with them and downs everyone.
+## [[Session 22 - The B Team]]
+Brewster wakes up in a desert. He wanders around until he finds a pedestal depicting important scenes from his life: his time in slavery, meeting Daphne, escaping slavery and joining the Resistance with Tarren, and an image of him stabbing himself in the hand. Brewster grumbles about hoping he isn't some sort of chosen one, and stabs himself in the hand with a nearby dagger, finding himself transported to the Ringed City.
+
+In the real world, Brewster is seen in Edoval planting seeds.
