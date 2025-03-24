@@ -14,8 +14,8 @@ Goro is an old dragonborn man. He is the castle blacksmith in Montrissad.
 |  Session   |  Status  |  Session   |  Status  |  Session   |  Status  |
 | :--------: | :------: | :--------: | :------: | :--------: | :------: |
 |            |          | Session 11 | Appeared | Session 21 | Appeared |
-|            |          | Session 12 | Appeared |            |          |
-|            |          | Session 13 | Appeared |            |          |
+|            |          | Session 12 | Appeared | Session 22 | Appeared |
+|            |          | Session 13 | Appeared | Session 23 | Appeared |
 |            |          | Session 14 | Appeared |            |          |
 |            |          | Session 15 |  Absent  |            |          |
 | Session 6  | Appeared | Session 16 |  Absent  |            |          |
@@ -45,3 +45,5 @@ While traveling to Lothric, Kaldrake somehow resets reality, causing them to arr
 Goro is seen working at the lumber mill in Col Man'Dar.
 ## [[Session 22 - The B Team]]
 [[Martin Sootspot|Martin]] and his group find Goro in the lumber mill, finding he had locked himself in and survived the hydra attack. Contigo asks him if he had seen Tarren recently, and he comments that he has not. He continues with them to leave. The group finds [[Velma|Velma's]] corpse in the forest. Goro leaves the party before they camp out, continuing to Edoval. At some point before arriving, he finds [[Helen]] and brings her along. He is seen in Edoval when Martin arrives.
+## [[Session 23 - Sootspot Intuition]]
+Goro helps gather the survivors in Edoval. Goro fills Martin in on Kaldrake's adventuring crew, and his and Lexar's revivals. When Brewster and Moiloc wake up, Goro greets them and fills them in on what has happened since the hydra attacked. After resting for a few days, the group proceeds to Whitehall.

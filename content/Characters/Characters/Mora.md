@@ -10,18 +10,18 @@ Mora is Branwyn's mother figure from her childhood, using her as a vessel for he
 | [[Branwyn of Coryphea\|Branwyn]] |  Vessel  |
 |            [[Maokai]]            |  Patron  |
 
-|  Session   |  Status   |  Session   |  Status   |  Session   |  Status  |
-| :--------: | :-------: | :--------: | :-------: | :--------: | :------: |
-|            |           | Session 11 | Mentioned | Session 21 |  Absent  |
-|            |           | Session 12 | Mentioned | Session 22 | Appeared |
-|            |           | Session 13 | Mentioned |            |          |
-|            |           | Session 14 |  Absent   |            |          |
-| Session 5  | Mentioned | Session 15 | Mentioned |            |          |
-| Session 6  | Mentioned | Session 16 | Mentioned |            |          |
-| Session 7  | Mentioned | Session 17 | Appeared  |            |          |
-| Session 8  | Mentioned | Session 18 | Appeared  |            |          |
-| Session 9  | Mentioned | Session 19 | Mentioned |            |          |
-| Session 10 |  Absent   | Session 20 | Appeared  |            |          |
+|  Session   |  Status   |  Session   |  Status   |  Session   |  Status   |
+| :--------: | :-------: | :--------: | :-------: | :--------: | :-------: |
+|            |           | Session 11 | Mentioned | Session 21 |  Absent   |
+|            |           | Session 12 | Mentioned | Session 22 | Appeared  |
+|            |           | Session 13 | Mentioned | Session 23 | Mentioned |
+|            |           | Session 14 |  Absent   |            |           |
+| Session 5  | Mentioned | Session 15 | Mentioned |            |           |
+| Session 6  | Mentioned | Session 16 | Mentioned |            |           |
+| Session 7  | Mentioned | Session 17 | Appeared  |            |           |
+| Session 8  | Mentioned | Session 18 | Appeared  |            |           |
+| Session 9  | Mentioned | Session 19 | Mentioned |            |           |
+| Session 10 |  Absent   | Session 20 | Appeared  |            |           |
 ## [[Session 05 - Can't Be Worse Than Here]]
 In [[Monty MacMasters|Monty's]] office, Branwyn finds notes on Mora beginning her move across Phaeros.
 ## [[Session 06 - Cult Pamphlets]]
@@ -56,3 +56,5 @@ Branwyn tells the story of how she remembers meeting Mora. One day, her father m
 [[Martin Sootspot|Martin]], [[Ouroborus Tikktal|Ororo]], Mora (in her Morrigan disguise), [[Contigo Muñoz|Contigo]], and [[Arklow Laban|Arklow]] arrive in Col Man'Dar after Martin sees a vision of Kaldrake's death, and find his corpse. The group finds Goro in the lumber mill, and Velma's corpse in the forest. Mora casts Charm Person on Martin, but fails, with Martin telling her not to do it again. Instead, Mora casts Dominate Person on Martin. She tells him via Telepathy to look for Branwyn's body in the forest. Ororo realizes Martin is under the effect of magic and dispels it, causing Martin to fight with Mora about the Dominate Person spell she used. Mora explains she is looking for a childhood friend, and Martin agrees to help look, but on the path instead of in the middle of the forest. During Contigo's shift to keep watch during the night, Mora casts Dominate Person on him, and they leave the look for Branwyn. Mora tries to use Branwyn's hairs to divine her location, but finds herself unable to.
 
 In Edoval, Contigo asks Mora if she can take the hydras. She says yes, and Contigo comments that he's glad they're on the same side. She uses Power Word: Pain on him, telling him to watch how she speaks to her. They find a farm with a large hole, and both enter it, leading to the hydra's heart, which Mora destroys. Contigo recognizes Moiloc tending to the heart, and tells Mora that she was in Kaldrake's party. Mora tells Contigo to stay put and guard Moiloc, and leaves him. Mora opens her third and fourth eyes to detect Branwyn. She turns into her beastly form, grabs Branwyn, and flies away.
+## [[Session 23 - Sootspot Intuition]]
+Maokai says Mora was supposed to be his avatar and help to return the world to nature, but she betrayed him and locked him away.

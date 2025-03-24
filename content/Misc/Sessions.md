@@ -48,7 +48,7 @@ Click a location to scroll to that city.
 | :--------------------------------: | --------------------------------------------------------------------------------------------------------------------------------------------- |
 |  [[Session 21 - The Party Dies]]   | The party investigates Col Man'Dar.<br>The party is killed by a hydra.                                                                        |
 |    [[Session 22 - The B Team]]     | Martin finds Kaldrake's corpse and tries to avenge him.<br>Brewster, Branwyn, and Moiloc awaken in new places while under the hydra's thrall. |
-|      [[Session 23 - Fanboy]]       | Brewster explores the Ringed City.<br>Branwyn receives an offer from Maokai.<br>Moiloc talks with a demon in Gahenna.                         |
+|      [[Session 23 - Sootspot Intuition]]       | Brewster explores the Ringed City.<br>Branwyn receives an offer from Maokai.<br>Moiloc talks with a demon in Gahenna.                         |
 | [[Session 24 - Charlotte's Back!]] | Martin, Moiloc, and Brewster travel through the Orkus Badlands.<br>Branwyn escapes Mora's cabin.<br>The party arrives at Domnhall Keep.       |
 # Domnhall Keep
 [[#Montrissad]] | [[#Brasov]] | [[#Lothric]] | [[#Col Man'Dar]] | [[#Domnhall Keep]]

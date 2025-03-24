@@ -10,18 +10,18 @@ Olidamuru is a god worshipped by the Cult of Miasma. He is the god of revelry an
 | [[Lexar Bellos\|Lexar]] | Chosen One |
 |        [[Jiren]]        |  Servant   |
 
-|  Session   |  Status   |  Session   |  Status   |
-| :--------: | :-------: | :--------: | :-------: |
-|            |           | Session 11 |  Absent   |
-|            |           | Session 12 |  Absent   |
-|            |           | Session 13 |  Absent   |
-|            |           | Session 14 |  Absent   |
-|            |           | Session 15 |  Absent   |
-| Session 6  | Mentioned | Session 16 |  Absent   |
-| Session 7  | Mentioned | Session 17 | Appeared  |
-| Session 8  | Mentioned | Session 18 | Appeared  |
-| Session 9  |  Absent   | Session 19 |  Absent   |
-| Session 10 |  Absent   | Session 20 | Mentioned |
+|  Session   |  Status   |  Session   |  Status   |  Session   |  Status   |
+| :--------: | :-------: | :--------: | :-------: | :--------: | :-------: |
+|            |           | Session 11 |  Absent   | Session 21 |  Absent   |
+|            |           | Session 12 |  Absent   | Session 22 |  Absent   |
+|            |           | Session 13 |  Absent   | Session 23 | Mentioned |
+|            |           | Session 14 |  Absent   |            |           |
+|            |           | Session 15 |  Absent   |            |           |
+| Session 6  | Mentioned | Session 16 |  Absent   |            |           |
+| Session 7  | Mentioned | Session 17 | Appeared  |            |           |
+| Session 8  | Mentioned | Session 18 | Appeared  |            |           |
+| Session 9  |  Absent   | Session 19 |  Absent   |            |           |
+| Session 10 |  Absent   | Session 20 | Mentioned |            |           |
 ## [[Session 06 - Cult Pamphlets]]
 [[Lexar Bellos|Lexar]] prays to Olidamuru, who shows him a glowing orb which leads him to the nearby chapel.
 ## [[Session 07 - Shuffleboard]]
@@ -34,3 +34,5 @@ Olidamuru is seen having taken over Lexar's form, about to sacrifice [[Pontiff S
 Olidamuru takes control over the Lothric castle and spreads his influence over the town. He creates a series of puzzles and traps inside the castle, and reforms statues of other gods and religious figures to have his own face. They choose to avoid the Queen, and he teleports them to the fields outside Lothric.
 ## [[Session 20 - Stabbing Her]]
 The group discover that Olidamuru has been tracking [[Helen]] via a sigil on her back. They cut into the sigil, breaking it by causing it to heal over with a natural scar.
+## [[Session 23 - Sootspot Intuition]]
+Brewster finds Olidamuru's hadozee devotees partying in the Ringed City. He also finds an [[Unknown God of Chaos]] who Olidamuru may have taken over for.

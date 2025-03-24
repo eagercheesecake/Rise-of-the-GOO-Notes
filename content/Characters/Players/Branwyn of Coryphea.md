@@ -18,7 +18,7 @@ Branwyn is an half-elf ranger woman, and child of Mora, originally coming from C
 | :--------: | :------: | :--------: | :------: | :--------: | :------: |
 | Session 1  | Appeared | Session 11 | Appeared | Session 21 | Appeared |
 | Session 2  | Appeared | Session 12 | Appeared | Session 22 | Appeared |
-| Session 3  | Appeared | Session 13 | Appeared |            |          |
+| Session 3  | Appeared | Session 13 | Appeared | Session 23 | Appeared |
 | Session 4  | Appeared | Session 14 | Appeared |            |          |
 | Session 5  | Appeared | Session 15 | Appeared |            |          |
 | Session 6  | Appeared | Session 16 | Appeared |            |          |
@@ -138,3 +138,5 @@ Upon entering Col Man'Dar, they are offered lodging at a farm. The party notices
 Mora, disguised as Morrigan, has joined an adventuring party to look for Branwyn. Meanwhile, Branwyn wakes up starving in a forest. She hears a raven, and Mora's laugh, and realizes she is in Mora's woods. She runs to a large tree surrounded by purple mist with a lamp at its base. The fog disintegrates her clothing, but she enters anyway. She hears a voice ask her not to enter, saying she has already done too much harm, though it seems to be confusing her with Mora. Branwyn enters the tree to see Maokai as a fleshy mass inside its base.
 
 In the real world, Mora captures Branwyn in Edoval, and flies off with her.
+## [[Session 23 - Sootspot Intuition]]
+Maokai tells Branwyn that Mora betrayed him and locked him away, but he says Branwyn seems different. Maokai offers Branwyn the same deal as Mora: to return the world to nature. Branwyn says Maokai should protect all of nature, including mortals. Maokai offers to alternate between 100 years of mortal prosperity and 100 years of decay, and says that Branwyn's choice is between letting him or Mora win. Branwyn denies the offer, saying she will kill Mora on her own.

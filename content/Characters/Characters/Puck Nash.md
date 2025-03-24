@@ -35,3 +35,7 @@ Puck dumps some viscera into the nearby sewers, in an attempt to distract the on
 Puck is present while the group explores the underground town.
 ## [[Session 18 - What Would Branwyn Do]]
 Puck is sent into a hallway to check for traps when the group arrives at the Lothric castle. He is unsummoned after activating a fire trap.
+## [[Session 22 - The B Team]]
+[[Martin Sootspot|Martin]] finds Puck's gem in the woods around where Brewster died.
+## [[Session 23 - Sootspot Intuition]]
+Martin returns Puck's gem to Brewster.

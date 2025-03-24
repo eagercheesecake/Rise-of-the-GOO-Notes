@@ -1,4 +1,5 @@
 ![[Eru.png|250]]
+
 Eru the Shaper is the main god in Phaeros. She created the Forgotten Ones and the Pantheon of Worship, and is often depicted without a face.
 
 - **First Seen:** N/A
@@ -10,8 +11,8 @@ Eru the Shaper is the main god in Phaeros. She created the Forgotten Ones and th
 |  Session   |  Status   |  Session   |  Status   |  Session   |  Status   |
 | :--------: | :-------: | :--------: | :-------: | :--------: | :-------: |
 |            |           | Session 11 |  Absent   | Session 21 | Mentioned |
-|            |           | Session 12 |  Absent   |            |           |
-|            |           | Session 13 | Mentioned |            |           |
+|            |           | Session 12 |  Absent   | Session 22 |  Absent   |
+|            |           | Session 13 | Mentioned | Session 23 | Appeared  |
 |            |           | Session 14 |  Absent   |            |           |
 |            |           | Session 15 |  Absent   |            |           |
 | Session 6  | Mentioned | Session 16 | Mentioned |            |           |
@@ -35,3 +36,5 @@ Kaldrake sees stained glass windows in a Lothric chapel depicting the Ringed Cit
 A similar story to what is told on the stained glass in the Lothric chapel is found in the Lothric castle. However, instead it shows sixteen, then eight, then sixteen, then nine figures.
 ## [[Session 21 - The Party Dies]]
 Kaldrake prays to Eru and feels at ease.
+## [[Session 23 - Sootspot Intuition]]
+While in the ringed city, Brewster learns from the hadozee that Eru created the minor gods and the first life forms at the kiln of life in the Ringed City. Brewster finds Eru's skull in her throne room, leading him to believe she is dead.

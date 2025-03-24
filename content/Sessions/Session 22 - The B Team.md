@@ -6,7 +6,7 @@ date: 2024-09-07
 
 |        Previous Session         |   Next Session   |
 | :-----------------------------: | :--------------: |
-| [[Session 21 - The Party Dies]] | [[Session 23 - Fanboy]] |
+| [[Session 21 - The Party Dies]] | [[Session 23 - Sootspot Intuition]] |
 ### Logline
 *After the party's death, another group of adventures go after the hydra of Col Man'Dar.*
 ### Synopsis

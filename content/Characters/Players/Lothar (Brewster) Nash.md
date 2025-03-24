@@ -19,7 +19,7 @@ Brewster is a rock gnome who joined the Wallachian Resistance after being freed 
 | :--------: | :------: | :--------: | :------: | :--------: | :------: |
 |            |          | Session 11 | Appeared | Session 21 | Appeared |
 |            |          | Session 12 | Appeared | Session 22 | Appeared |
-|            |          | Session 13 | Appeared |            |          |
+|            |          | Session 13 | Appeared | Session 23 | Appeared |
 |            |          | Session 14 | Appeared |            |          |
 |            |          | Session 15 | Appeared |            |          |
 |            |          | Session 16 | Appeared |            |          |
@@ -89,3 +89,7 @@ Upon entering Col Man'Dar, they are offered lodging at a farm. The party notices
 Brewster wakes up in a desert. He wanders around until he finds a pedestal depicting important scenes from his life: his time in slavery, meeting Daphne, escaping slavery and joining the Resistance with Tarren, and an image of him stabbing himself in the hand. Brewster grumbles about hoping he isn't some sort of chosen one, and stabs himself in the hand with a nearby dagger, finding himself transported to the Ringed City.
 
 In the real world, Brewster is seen in Edoval planting seeds.
+## [[Session 23 - Sootspot Intuition]]
+Brewster explores the Ringed City to find hadozee worshipping a series of gods. He learns of each god and their domain. As he reaches the center of the Ringed City, he finds a skull in Eru's throne.
+
+When Brewster and Moiloc wake up, Goro greets them and fills them in on what has happened since the hydra attacked. When Brewster meets Martin, he obsesses over him, saying he's a big fan. He tells everyone about his discoveries in the Ringed City. After resting for a few days, the group proceeds to Whitehall.
