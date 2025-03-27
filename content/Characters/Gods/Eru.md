@@ -5,7 +5,7 @@ Eru the Shaper is the main god in Phaeros. She created the Forgotten Ones and th
 - **First Seen:** N/A
 - **First Mentioned:** Session 6
 - **Status:** Dead
-- **Cause of Death:** Unknown
+- **Cause of Death:** Killed by the pharaoh of Shurima
 - **Time of Death:** Before Session 1
 
 |  Session   |  Status   |  Session   |  Status   |  Session   |  Status   |
@@ -13,7 +13,7 @@ Eru the Shaper is the main god in Phaeros. She created the Forgotten Ones and th
 |            |           | Session 11 |  Absent   | Session 21 | Mentioned |
 |            |           | Session 12 |  Absent   | Session 22 |  Absent   |
 |            |           | Session 13 | Mentioned | Session 23 | Appeared  |
-|            |           | Session 14 |  Absent   |            |           |
+|            |           | Session 14 |  Absent   | Session 24 | Mentioned |
 |            |           | Session 15 |  Absent   |            |           |
 | Session 6  | Mentioned | Session 16 | Mentioned |            |           |
 | Session 7  | Mentioned | Session 17 | Mentioned |            |           |
@@ -38,3 +38,5 @@ A similar story to what is told on the stained glass in the Lothric chapel is fo
 Kaldrake prays to Eru and feels at ease.
 ## [[Session 23 - Sootspot Intuition]]
 While in the ringed city, Brewster learns from the hadozee that Eru created the minor gods and the first life forms at the kiln of life in the Ringed City. Brewster finds Eru's skull in her throne room, leading him to believe she is dead.
+## [[Session 24 - Charlotte's Back!]]
+[[Goro Hattori|Goro]] tells about Eru's history, as discovered by [[Gwyneth Sootspot|Gwyneth's]] research. She descended from the Ringed City and defeated the dragons in the war, according to stories. The pharaoh from the country of Shurima found Eru and killed her.

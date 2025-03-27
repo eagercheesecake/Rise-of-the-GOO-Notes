@@ -18,7 +18,7 @@ Shurima the Corpsemaker is a powerful old man, worshipped by Moiloc. He is a kee
 | Session 1  | Appeared  | Session 11 | Appeared  | Session 21 | Mentioned |
 | Session 2  | Mentioned | Session 12 | Mentioned | Session 22 |  Absent   |
 | Session 3  | Appeared  | Session 13 |  Absent   | Session 23 | Mentioned |
-| Session 4  |  Absent   | Session 14 |  Absent   |            |           |
+| Session 4  |  Absent   | Session 14 |  Absent   | Session 24 | Mentioned |
 | Session 5  |  Absent   | Session 15 | Mentioned |            |           |
 | Session 6  | Mentioned | Session 16 |  Absent   |            |           |
 | Session 7  | Mentioned | Session 17 | Mentioned |            |           |
@@ -53,10 +53,12 @@ In a basement of Dunn, Moiloc finds a mirror that shows areas significant to peo
 ## [[Session 15 - Gray Boys]]
 Brewster mentions that he believes Shurima to be connected to Ouroborus's transformation at Dunn while telling the Resistance what had happened since they left. Brewster also mentions Moiloc's connections to Shurima, saying she can't be trusted.
 ## [[Session 17 - Respect These Nuts]]
-Moiloc can tell Shurima is listening as the group catches up once Kaldrake reunites with them.
+Moiloc can tell Shurima is listening as the group catches up once [[Kaldrake Sootspot|Kaldrake]] reunites with them.
 ## [[Session 18 - What Would Branwyn Do]]
 Shurima sends a message to Moiloc to find [[Corrin the Impaler|Corrin the Impaler's]] eye and send it to him. He says Corrin is heading to take back the castle from Olidamuru. The party kills Corrin, and Moiloc retrieves his eye. Shurima appears as an invisible form wrapped in bandages, and takes the eye, inserting it in his empty eye socket. Shurima offers to send them to the Queen, or to outside Lothric.
 ## [[Session 21 - The Party Dies]]
 Moiloc prays to Shurima to guide her to a missing man in Col Man'Dar, and he directs her to the nearby fields via a gust of wind.
 ## [[Session 23 - Sootspot Intuition]]
 Brewster finds hadozee in the Ringed City who cannot remember their god, and believes the god to be Shurima. In Gahenna, Moiloc tells [[Mephistopheles the Cold|Mephistopheles]] that she follows Shurima, which seems to frighten him.
+## [[Session 24 - Charlotte's Back!]]
+[[Goro Hattori|Goro]] says that [[Gwyneth Sootspot|Gwyneth]] was researching the great old ones, and discovered that the pharaoh of the country of Shurima killed [[Eru]]. The pharaoh never returned.

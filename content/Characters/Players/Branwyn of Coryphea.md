@@ -19,7 +19,7 @@ Branwyn is an half-elf ranger woman, and child of Mora, originally coming from C
 | Session 1  | Appeared | Session 11 | Appeared | Session 21 | Appeared |
 | Session 2  | Appeared | Session 12 | Appeared | Session 22 | Appeared |
 | Session 3  | Appeared | Session 13 | Appeared | Session 23 | Appeared |
-| Session 4  | Appeared | Session 14 | Appeared |            |          |
+| Session 4  | Appeared | Session 14 | Appeared | Session 24 | Appeared |
 | Session 5  | Appeared | Session 15 | Appeared |            |          |
 | Session 6  | Appeared | Session 16 | Appeared |            |          |
 | Session 7  | Appeared | Session 17 | Appeared |            |          |
@@ -140,3 +140,7 @@ Mora, disguised as Morrigan, has joined an adventuring party to look for Branwyn
 In the real world, Mora captures Branwyn in Edoval, and flies off with her.
 ## [[Session 23 - Sootspot Intuition]]
 Maokai tells Branwyn that Mora betrayed him and locked him away, but he says Branwyn seems different. Maokai offers Branwyn the same deal as Mora: to return the world to nature. Branwyn says Maokai should protect all of nature, including mortals. Maokai offers to alternate between 100 years of mortal prosperity and 100 years of decay, and says that Branwyn's choice is between letting him or Mora win. Branwyn denies the offer, saying she will kill Mora on her own.
+## [[Session 24 - Charlotte's Back!]]
+Branwyn wakes up in Mora's cabin with a collar around her neck that is chained to the wall. She sees Charlotte in the next room, realizing Charlotte is midway into a transformation into Mora's vessel. They reunite, and Branwyn emphasizes how important it is that Charlotte listens to Mora. Mora has Charlotte leave. Shurima meets Branwyn at the window, and says he will help Branwyn escape if she gets the medallion from Mora's cabin. He leaves, scratching the symbol of the Inquisitors onto Branwyn's hand and saying it will hide her from Mora. Mora enters the room in her monster form and tries to paralyze Branwyn. She fails, but Branwyn pretends to be paralyzed, taking the opportunity to sneak the medallion after noticing it around Mora's neck. Shurima teleports her to the Orkus Badlands, and tells her to give the medallion to Shurima.
+
+Branwyn proceeds to Domnhall Keep, and finds a dehydrated wolf by an oasis. She attempts to bring water to the wolf, but finds that the water is a thirstwater, which attacks her. She is able to kill it and give the wolf water from her waterskin. The wolf transforms into an orc who gives her a leather-bound tome which he says will will imbue her with strength, then runs off. Branwyn arrives at the inn to find a bar fight, and sees [[Schmebulock]] being thrown out a window and [[Ulysses]] taking part in the fight. The innkeeper gives her the last room, in the cellar.

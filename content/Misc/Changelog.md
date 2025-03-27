@@ -2,7 +2,7 @@
 | :-----------------------: | :-------------------------------------------: |
 |      Notes Available      | <progress max=28 value=28> </progress>  28/28 |
 |      Notes Formatted      | <progress max=28 value=24> </progress>  24/28 |
-| Character Notes Available | <progress max=28 value=23> </progress>  23/28 |
+| Character Notes Available | <progress max=28 value=24> </progress>  24/28 |
 ## Completed Features
 - Linkable images in the [[Gods]] image
 - Searchable & linkable notes

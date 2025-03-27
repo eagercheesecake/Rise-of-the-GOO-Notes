@@ -9,7 +9,7 @@ Jessie Harkness is a red-haired, freckled, human woman. She is the innkeeper at 
 |            |           | Session 11 | Mentioned | Session 21 |  Absent  |
 |            |           | Session 12 |  Absent   | Session 22 |  Absent  |
 |            |           | Session 13 |  Absent   | Session 23 | Appeared |
-|            |           | Session 14 |  Absent   |            |          |
+|            |           | Session 14 |  Absent   | Session 24 | Appeared |
 |            |           | Session 15 | Appeared  |            |          |
 |            |           | Session 16 |  Absent   |            |          |
 |            |           | Session 17 |  Absent   |            |          |
@@ -28,3 +28,5 @@ The group finds Jessie's bar in ruins after Brasov is destroyed. They are still 
 Jessie is present at the Resistance's planning meeting. Branwyn asks Jessie where Charlotte is, and Jessie says they sent the children off to a safer place. Branwyn says to let Charlotte know that if she needs anything, to seek out a white raven.
 ## [[Session 23 - Sootspot Intuition]]
 Jessie helps people enthralled by the hydra in Edoval recuperate. She says the Resistance passed through Edoval on their way to Whitehall, and she stayed behind to help some other who stayed in Edoval. She joins the party on their way to Whitehall.
+## [[Session 24 - Charlotte's Back!]]
+Moiloc, Brewster, [[Martin Sootspot|Martin]], Goro, Jessie, and Helen proceed to Domnhall Keep. They are attacked by assassins sent by [[Maelon Switt]]. They are also attacked by bandits after arriving in the Orkus Badlands. In Domnhall Keep, Jessie rooms with Brewster, telling him that he she plans to leave to meet up with Violet and Feris in the morning.

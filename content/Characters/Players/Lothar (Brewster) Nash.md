@@ -20,7 +20,7 @@ Brewster is a rock gnome who joined the Wallachian Resistance after being freed 
 |            |          | Session 11 | Appeared | Session 21 | Appeared |
 |            |          | Session 12 | Appeared | Session 22 | Appeared |
 |            |          | Session 13 | Appeared | Session 23 | Appeared |
-|            |          | Session 14 | Appeared |            |          |
+|            |          | Session 14 | Appeared | Session 24 | Appeared |
 |            |          | Session 15 | Appeared |            |          |
 |            |          | Session 16 | Appeared |            |          |
 |            |          | Session 17 | Appeared |            |          |
@@ -93,3 +93,5 @@ In the real world, Brewster is seen in Edoval planting seeds.
 Brewster explores the Ringed City to find hadozee worshipping a series of gods. He learns of each god and their domain. As he reaches the center of the Ringed City, he finds a skull in Eru's throne.
 
 When Brewster and Moiloc wake up, Goro greets them and fills them in on what has happened since the hydra attacked. When Brewster meets Martin, he obsesses over him, saying he's a big fan. He tells everyone about his discoveries in the Ringed City. After resting for a few days, the group proceeds to Whitehall.
+## [[Session 24 - Charlotte's Back!]]
+Moiloc, Brewster, Martin, Goro, Jessie, and Helen proceed to Domnhall Keep. They are attacked by assassins sent by [[Maelon Switt]]. They are also attacked by bandits after arriving in the Orkus Badlands. In Domnhall Keep, Brewter rooms with Jessie.

@@ -8,7 +8,7 @@ Ouroborus Tikktal is a dragon under the possession and protection of the Resista
 | :--------: | :------: | :--------: | :-------: | :--------: | :------: |
 |            |          | Session 11 | Appeared  | Session 21 |  Absent  |
 |            |          | Session 12 |  Absent   | Session 22 | Appeared |
-|            |          | Session 13 |  Absent   |            |          |
+|            |          | Session 13 |  Absent   | Session 23 |  Absent  |
 |            |          | Session 14 |  Absent   |            |          |
 |            |          | Session 15 | Mentioned |            |          |
 |            |          | Session 16 |  Absent   |            |          |

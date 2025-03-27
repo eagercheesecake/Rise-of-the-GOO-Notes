@@ -8,7 +8,7 @@ Helen is a human woman who was abducted by Olidamuru, and put in Lothric castle 
 |            |          | Session 21 | Appeared |
 |            |          | Session 22 | Appeared |
 |            |          | Session 23 | Appeared |
-|            |          |            |          |
+|            |          | Session 24 | Appeared |
 |            |          |            |          |
 |            |          |            |          |
 |            |          |            |          |
@@ -27,3 +27,5 @@ Helen is in Col Man'Dar with the party. She seems to realize that the city is un
 At some point, [[Goro Hattori|Goro]] finds Helen alive outside of Col Man'Dar, and brings her to Edoval. She is seen in Edoval after [[Martin Sootspot|Martin]] arrives.
 ## [[Session 23 - Sootspot Intuition]]
 Helen helps gather the survivors in Edoval. After resting for a few days, the group proceeds to Whitehall.
+## [[Session 24 - Charlotte's Back!]]
+Moiloc, Brewster, Martin, Goro, [[Jessie Harkness|Jessie]], and Helen proceed to Domnhall Keep. They are attacked by assassins sent by [[Maelon Switt]]. They are also attacked by bandits after arriving in the Orkus Badlands. In Domnhall Keep, Helen rooms with Martin.

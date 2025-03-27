@@ -37,3 +37,5 @@ Kaldrake experiences a vision that seems to have him experience events from the 
 Kaldrake has another vision of Gulvayas disguising himself as Martin. He meets [[Mora|Morrigan]], and gives her a vial of blue liquid, telling her to drink it when the time comes to prevent Baedos's control. Gulvayas meets with the High Mages and announces his plan to become Archwizard and the Maester of the Aetherium. The High Mages protest, and Morrigan traps them in black vines, and drinks the vial. The Mages coalesce into Gulvayas, and Morrigan falls onto the ground weakly, saying she loved Gulvayas. Gulvayas removes the mask and reveals his true identity.
 ## [[Session 18 - What Would Branwyn Do]]
 Kaldrake sees an illusion of Martin in the Lothric castle, who says everything in Kaldrake's fault. Kaldrake wonders if his reality resets resulted in Martin's death.
+## [[Session 24 - Charlotte's Back!]]
+[[Martin Sootspot|Martin]] (the younger) mentions that Martin the Great was alive at the end of the war against the dragons.

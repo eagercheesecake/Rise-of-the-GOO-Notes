@@ -10,6 +10,7 @@ date: 2024-10-26
 ### Logline
 *Branwyn wakes up in Mora's cabin, with Mora's newest victim. Brewster, Moiloc, Martin, and the others make their way to Domnhall Keep.*
 ### Synopsis
+Branwyn, Moiloc, Brewster, Goro, Jessie, and Martin continue to Domnhall Keep, and are attacked by Maelon Switt's assassins and some bandits.
 
 # Day 54
 ### Wallachia Forests
@@ -24,7 +25,7 @@ As [[Lothar (Brewster) Nash|Brewster]], [[Characters/Players/Martin Sootspot|Mar
 
 On the wizards, they find a pouch full of 110g, two scrolls of Mass Cure Wounds, and a letter. The letter is a commission to assassinate Martin, with a bounty of 5000g and a total scholarship, signed by High Mage [[Maelon Switt]]. Martin knows this name, he’s the only mage in line for succession of the academy who isn’t a Sootspot. Goro starts a fire, and the group sets up watch for the night. The group turns back to their burning wagon. 
 
-Moiloc and Goro take the first watch. Goro asks how well Moiloc knows Martin, and she says she knows him well - or that she knew Kaldrake well. He asks if she thinks he would be receptive to hearing what [[Gwyneth Sootspot|Gwyneth]] really has planned. Goro says Gwyneth had been investigating the Great Old Ones. Goro admits that he was alive during the war between the gods and the dragons. Eru descended from the Ringed City and defeated the dragons, or so the stories say. Martin the Great was still alive at the end of the war. There was a country called [[Shurima the Corpsemaker|Shurima]], and its pharaoh was able to find his way to Eru in the Ringed City - and kill her. Somehow he had managed to gain enough power to kill the creator of the universe. The dragon lords were banished, the other Great Old Ones have been consumed, with their powers absorbed into the new gods who supported Shurima. The pharaoh never returned, so many say he died.
+Moiloc and Goro take the first watch. Goro asks how well Moiloc knows Martin, and she says she knows him well - or that she knew Kaldrake well. He asks if she thinks he would be receptive to hearing what [[Gwyneth Sootspot|Gwyneth]] really has planned. Goro says Gwyneth had been investigating the Great Old Ones. Goro admits that he was alive during the war between the gods and the dragons. [[Eru]] descended from the Ringed City and defeated the dragons, or so the stories say. [[Martin the Great]] was still alive at the end of the war. There was a country called [[Shurima the Corpsemaker|Shurima]], and its pharaoh was able to find his way to Eru in the Ringed City - and kill her. Somehow he had managed to gain enough power to kill the creator of the universe. The dragon lords were banished, the other Great Old Ones have been consumed, with their powers absorbed into the new gods who supported Shurima. The pharaoh never returned, so many say he died.
 
 Goro traveled the world, trying to find his place, and atoning for what the dragonborn did during the dragon war. He told this story to Gwyneth before she left Montrissad. He believes she’s on her way to Whitehall. Moiloc agrees he should tell Martin about Gwyneth in the morning. Moiloc asks if there are more secrets, and Goro says there are eight dragon lords, each the child of one of the great old ones.
 
