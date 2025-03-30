@@ -5,6 +5,7 @@
 ### Logline
 
 ### Synopsis
+# Day 57
 The group discusses plans for the nights, and decides to all go to the chapel. Martin and Branwyn will go first, and Moiloc and Brewster will leave five minutes later. They take a short rest, and upon waking up, Shmebulock knocks on the door and gives Moiloc a letter. She opens it, and realizes it’s for Martin. It’s from Maelon Switt, threatening to get Martin if he stays in the Keep for three days. Martin doesn’t seem worried.
 
 Martin and Branwyn leave first, with Brewster and Moiloc trailing close behind. Martin and Moiloc cast Invisibility on themselves. The streets are completely empty. They arrive at the church, but don’t see anyone around. It’s a church for Eru. Branwyn sneaks around to the back, and sees a back door, and one open grave in the back as if they were preparing a burial. Moiloc recognizes this church used to be for Sha’Shime. Martin and Branwyn try the back and front doors, but all doors are locked.
