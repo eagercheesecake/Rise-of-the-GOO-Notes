@@ -15,7 +15,7 @@ Puck is Brewster's homunculus servant. He takes the form of a smiling, flying ca
 |            |          | Session 12  | Appeared | Session 22 | Mentioned |
 |            |          | Session 13  | Appeared | Session 23 | Mentioned |
 |            |          | Session 14  | Appeared | Session 24 | Appeared  |
-|            |          | Session 15  |  Absent  |            |           |
+|            |          | Session 15  |  Absent  | Session 25 | Appeared  |
 |            |          | Session 16  |  Absent  |            |           |
 |            |          | Session 17  | Appeared |            |           |
 |            |          | Session 18  | Appeared |            |           |
@@ -43,3 +43,5 @@ Puck is taken out with the rest of the party when the hydra awakens in Edoval an
 Martin returns Puck's gem to Brewster.
 ## [[Session 24 - Charlotte's Back!]]
 Puck helps the party fend off attackers while on their way to Col Man'Dar.
+## [[Session 25 - I Know an Archer]]
+Brewster uses Puck to trick [[Martin Sootspot|Martin]] and casts Identify on him.

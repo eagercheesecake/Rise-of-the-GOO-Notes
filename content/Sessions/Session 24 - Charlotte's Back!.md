@@ -10,8 +10,7 @@ date: 2024-10-26
 ### Logline
 *Branwyn wakes up in Mora's cabin, with Mora's newest victim. Brewster, Moiloc, Martin, and the others make their way to Domnhall Keep.*
 ### Synopsis
-Branwyn, Moiloc, Brewster, Goro, Jessie, and Martin continue to Domnhall Keep, and are attacked by Maelon Switt's assassins and some bandits.
-
+Branwyn, Moiloc, Brewster, Goro, Jessie, and Martin continue to Domnhall Keep, and are attacked by Maelon Switt's assassins and some bandits. Branwyn wakes up in Mora's cabin to find that Mora has also taken Charlotte as a vessel. Shurima helps Branwyn escape after she steals a pendant from Mora. Branwyn is attacked by a thirstwater, and rescues a druid. Everyone arrives at an inn in Domnhall Keep.
 # Day 54
 ### Wallachia Forests
 In the morning, the group sets out. [[Moiloc Kodlaksdottër|Moiloc]] tries to teach [[Helen]] about armor but fails once again, with Moiloc falling out of the cart during a lesson, leaving a Moiloc-sized hole in the wall. She tries to mend the hole with thread, but doesn’t do it right, so it falls apart again.
@@ -68,5 +67,5 @@ Moiloc asks Goro if he has any more secrets. Goro tells Moiloc the story of how 
 Branwyn uses Primeval Awareness and finds that there are elementals within a mile of her. She starts walking toward the Keep. She goes over a nearby dune, seeing a small oasis, with a dehydrated wolf next to it. She approaches the water to help the wolf, but the water reaches up and grabs her. It’s a thirstwater, and begins to drain Branwyn.
 
 Branwyn attempts to slice at it with her dagger, and cuts it off like gelatin. It shrinks back down into the water, and the bit on her arm droops off. She drags the wolf away from the oasis, and gives some of the water from the water skin into her hands, offering it to the wolf. A sheen of blue surrounds the wolf, and it transforms into a lanky, male orc, wearing furs. Branwyn hands him the water skin and he drinks the rest of it. He says he’s been running for days in the form of a wolf. He reaches into his furs, and gives her a leather-bound tome. She asks what it is, in orkish, which he seems to appreciate. He says it’s a tome that will imbue her with strength, turns into a wolf, then runs off. She reads the book, permanently gaining strength.
-
+### Domnhall Keep
 Branwyn is able to make it to Domhnall Keep, and finds the Silver Wreath Inn. She hears shouting and a crash as a large orc is thrown out of a window. She enter the bar fight, where a bunch of patrons seem to be fighting a human man with a wide-brimmed hat. The innkeeper is cleaning the bar, wiping down the mess as it is formed, and nursing a patron back to health. Branwyn approaches, and buys the last room, in the basement. Branwyn asks for a drink, and gets one on the house. She proceeds to her room in the cellar.

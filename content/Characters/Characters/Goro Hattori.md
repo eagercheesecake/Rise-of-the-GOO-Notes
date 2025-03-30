@@ -17,7 +17,7 @@ Goro is an old dragonborn man. He is the castle blacksmith in Montrissad.
 |            |          | Session 12 | Appeared | Session 22 | Appeared |
 |            |          | Session 13 | Appeared | Session 23 | Appeared |
 |            |          | Session 14 | Appeared | Session 24 | Appeared |
-|            |          | Session 15 |  Absent  |            |          |
+|            |          | Session 15 |  Absent  | Session 25 | Appeared |
 | Session 6  | Appeared | Session 16 |  Absent  |            |          |
 | Session 7  | Appeared | Session 17 |  Absent  |            |          |
 | Session 8  | Appeared | Session 18 |  Absent  |            |          |
@@ -49,3 +49,5 @@ Goro is seen working at the lumber mill in Col Man'Dar.
 Goro helps gather the survivors in Edoval. Goro fills Martin in on Kaldrake's adventuring crew, and his and Lexar's revivals. When Brewster and Moiloc wake up, Goro greets them and fills them in on what has happened since the hydra attacked. After resting for a few days, the group proceeds to Whitehall.
 ## [[Session 24 - Charlotte's Back!]]
 Moiloc, Brewster, Martin, Goro, Jessie, and Helen proceed to Domnhall Keep. They are attacked by assassins sent by [[Maelon Switt]]. Goro says that after the dragon war, he traveled the world, trying to find his place, and atoning for what the dragonborn did during the dragon war. They are also attacked by bandits after arriving in the Orkus Badlands. In Domnhall Keep, Goro rooms with Moiloc, and tells her about how he met King Aslan soon after the dragon war, although Moiloc keeps the story secret so not much more information is known.
+## [[Session 25 - I Know an Archer]]
+Goro has already left for the morning when Moiloc wakes up. He runs errands during the day to prepare for their journey to Whitehall.

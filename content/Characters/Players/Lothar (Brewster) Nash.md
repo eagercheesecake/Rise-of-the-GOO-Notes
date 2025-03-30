@@ -21,7 +21,7 @@ Brewster is a rock gnome who joined the Wallachian Resistance after being freed 
 |            |          | Session 12 | Appeared | Session 22 | Appeared |
 |            |          | Session 13 | Appeared | Session 23 | Appeared |
 |            |          | Session 14 | Appeared | Session 24 | Appeared |
-|            |          | Session 15 | Appeared |            |          |
+|            |          | Session 15 | Appeared | Session 25 | Appeared |
 |            |          | Session 16 | Appeared |            |          |
 |            |          | Session 17 | Appeared |            |          |
 |            |          | Session 18 | Appeared |            |          |
@@ -95,3 +95,5 @@ Brewster explores the Ringed City to find hadozee worshipping a series of gods. 
 When Brewster and Moiloc wake up, Goro greets them and fills them in on what has happened since the hydra attacked. When Brewster meets Martin, he obsesses over him, saying he's a big fan. He tells everyone about his discoveries in the Ringed City. After resting for a few days, the group proceeds to Whitehall.
 ## [[Session 24 - Charlotte's Back!]]
 Moiloc, Brewster, Martin, Goro, Jessie, and Helen proceed to Domnhall Keep. They are attacked by assassins sent by [[Maelon Switt]]. They are also attacked by bandits after arriving in the Orkus Badlands. In Domnhall Keep, Brewter rooms with Jessie.
+## [[Session 25 - I Know an Archer]]
+Brewster wakes up to find that Jessie has disappeared, with a symbol of an eye burnt onto her sheets. He gets coffee from [[Schmebulock]] which makes him grow a third eye with True Sight. The group reunites with Branwyn.

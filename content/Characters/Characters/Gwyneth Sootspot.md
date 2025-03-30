@@ -23,7 +23,7 @@ Gwyneth is an elven wizard, and Kaldrake's sister.
 | Session 2  |  Absent   | Session 12 | Mentioned | Session 22 |  Absent   |
 | Session 3  |  Absent   | Session 13 | Mentioned | Session 23 |  Absent   |
 | Session 4  |  Absent   | Session 14 | Appeared  | Session 24 | Mentioned |
-| Session 5  | Mentioned | Session 15 | Appeared  |            |           |
+| Session 5  | Mentioned | Session 15 | Appeared  | Session 25 | Appeared  |
 | Session 6  | Mentioned | Session 16 | Mentioned |            |           |
 | Session 7  | Mentioned | Session 17 | Mentioned |            |           |
 | Session 8  |  Absent   | Session 18 | Mentioned |            |           |
@@ -59,3 +59,5 @@ Gwyneth's manor is empty. The group finds a magic ring hidden in a secret safe i
 The ring found in Gwyneth's house is identified as being used to track a wearer.
 ## [[Session 24 - Charlotte's Back!]]
 Goro says Gwyneth was researching the Great Old Ones, and that he believes she is on her way to Whitehall.
+## [[Session 25 - I Know an Archer]]
+Moiloc has a vision of Gwyneth, Mora, [[Daphne]], and [[Sister Marie the Confessor]] in Whitehall. They each appear, one after another, then it repeats.

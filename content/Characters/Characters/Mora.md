@@ -15,8 +15,8 @@ Mora is Branwyn's mother figure from her childhood, using her as a vessel for he
 |            |           | Session 11 | Mentioned | Session 21 |  Absent   |
 |            |           | Session 12 | Mentioned | Session 22 | Appeared  |
 |            |           | Session 13 | Mentioned | Session 23 | Mentioned |
-|            |           | Session 14 |  Absent   |            |           |
-| Session 5  | Mentioned | Session 15 | Mentioned |            |           |
+|            |           | Session 14 |  Absent   | Session 24 |  Absent   |
+| Session 5  | Mentioned | Session 15 | Mentioned | Session 25 | Appeared  |
 | Session 6  | Mentioned | Session 16 | Mentioned |            |           |
 | Session 7  | Mentioned | Session 17 | Appeared  |            |           |
 | Session 8  | Mentioned | Session 18 | Appeared  |            |           |
@@ -57,4 +57,4 @@ Branwyn tells the story of how she remembers meeting Mora. One day, her father m
 
 In Edoval, Contigo asks Mora if she can take the hydras. She says yes, and Contigo comments that he's glad they're on the same side. She uses Power Word: Pain on him, telling him to watch how she speaks to her. They find a farm with a large hole, and both enter it, leading to the hydra's heart, which Mora destroys. Contigo recognizes Moiloc tending to the heart, and tells Mora that she was in Kaldrake's party. Mora tells Contigo to stay put and guard Moiloc, and leaves him. Mora opens her third and fourth eyes to detect Branwyn. She turns into her beastly form, grabs Branwyn, and flies away.
 ## [[Session 23 - Sootspot Intuition]]
-Maokai says Mora was supposed to be his avatar and help to return the world to nature, but she betrayed him and locked him away.
+Maokai says Mora was supposed to be his avatar and help to return the world to nature, but she betrayed him and locked him away. Later, Moiloc has a vision of Gwyneth, Mora, [[Daphne]], and [[Sister Marie the Confessor]] in Whitehall. They each appear, one after another, then it repeats.

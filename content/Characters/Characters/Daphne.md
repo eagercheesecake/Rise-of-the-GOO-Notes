@@ -11,9 +11,9 @@ Daphne is a dwarf who worked with Brewster in the slave labor camps in the mines
 | :--------: | :-------: | :--------: | :-------: |
 |            |           | Session 21 |  Absent   |
 | Session 12 | Mentioned | Session 22 | Mentioned |
-| Session 13 | Mentioned |            |           |
-| Session 14 |  Absent   |            |           |
-| Session 15 | Mentioned |            |           |
+| Session 13 | Mentioned | Session 23 |  Absent   |
+| Session 14 |  Absent   | Session 24 |  Absent   |
+| Session 15 | Mentioned | Session 25 | Appeared  |
 | Session 16 |  Absent   |            |           |
 | Session 17 |  Absent   |            |           |
 | Session 18 |  Absent   |            |           |
@@ -27,3 +27,5 @@ Brewster recalls Daphne telling him a story about a killer in Lothric whose vict
 [[Gwyneth Sootspot|Gwyneth]] mentions that she was looking for a historian, and heard about Daphne, but wouldn't talk to her since she's a gnome.
 ## [[Session 22 - The B Team]]
 Brewster sees a pedestal depicting important parts of his life. One of the first images is Brewster meeting Daphne while enslaved.
+## [[Session 25 - I Know an Archer]]
+Moiloc has a vision of Gwyneth, [[Mora]], Daphne, and [[Sister Marie the Confessor]] in Whitehall. They each appear, one after another, then it repeats.

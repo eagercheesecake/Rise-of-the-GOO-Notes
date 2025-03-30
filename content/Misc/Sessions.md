@@ -55,9 +55,9 @@ Click a location to scroll to that city.
 
 ### Locations: Domnhall Keep
 
-|                 Session                  | Main Character's Actions |
-| :--------------------------------------: | ------------------------ |
-|    [[Session 25 - I Know an Archer]]     |                          |
-|        [[Session 26 - Rocks Box]]        |                          |
-|      [[Session 27 - Free Stoners]]       |                          |
-| [[Session 28 - Making a Plan (Finally)]] |                          |
+|                 Session                  | Main Character's Actions                                                                                      |
+| :--------------------------------------: | ------------------------------------------------------------------------------------------------------------- |
+|    [[Session 25 - I Know an Archer]]     | Brewster, Moiloc, and Martin explore Domnhall Keep.<br>Branwyn fights Moiloc's assassins and threatens Monty. |
+|        [[Session 26 - Rocks Box]]        |                                                                                                               |
+|      [[Session 27 - Free Stoners]]       |                                                                                                               |
+| [[Session 28 - Making a Plan (Finally)]] |                                                                                                               |
