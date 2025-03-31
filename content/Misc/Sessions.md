@@ -58,6 +58,6 @@ Click a location to scroll to that city.
 |                 Session                  | Main Character's Actions                                                                                      |
 | :--------------------------------------: | ------------------------------------------------------------------------------------------------------------- |
 |    [[Session 25 - I Know an Archer]]     | Brewster, Moiloc, and Martin explore Domnhall Keep.<br>Branwyn fights Moiloc's assassins and threatens Monty. |
-|        [[Session 26 - Rocks Box]]        |                                                                                                               |
+|        [[Session 26 - Rocks Box]]        | The group goes to Ulysses's meeting and fight of werewolves.                                                  |
 |      [[Session 27 - Free Stoners]]       |                                                                                                               |
 | [[Session 28 - Making a Plan (Finally)]] |                                                                                                               |

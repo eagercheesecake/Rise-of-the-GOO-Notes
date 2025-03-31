@@ -16,7 +16,7 @@ Puck is Brewster's homunculus servant. He takes the form of a smiling, flying ca
 |            |          | Session 13  | Appeared | Session 23 | Mentioned |
 |            |          | Session 14  | Appeared | Session 24 | Appeared  |
 |            |          | Session 15  |  Absent  | Session 25 | Appeared  |
-|            |          | Session 16  |  Absent  |            |           |
+|            |          | Session 16  |  Absent  | Session 26 | Appeared  |
 |            |          | Session 17  | Appeared |            |           |
 |            |          | Session 18  | Appeared |            |           |
 |            |          | Session 19  |  Absent  |            |           |
@@ -45,3 +45,5 @@ Martin returns Puck's gem to Brewster.
 Puck helps the party fend off attackers while on their way to Col Man'Dar.
 ## [[Session 25 - I Know an Archer]]
 Brewster uses Puck to trick [[Martin Sootspot|Martin]] and casts Identify on him.
+## [[Session 26 - Rocks Box]]
+Puck checks in on Branwyn and Martin, who tell Puck to pass on a message for Brewster and Moiloc to distract the priest in the chapel. Brewster lets Puck in later, and Puck passes on information about the ladder to the attic in the kitchen.

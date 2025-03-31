@@ -22,7 +22,7 @@ Brewster is a rock gnome who joined the Wallachian Resistance after being freed 
 |            |          | Session 13 | Appeared | Session 23 | Appeared |
 |            |          | Session 14 | Appeared | Session 24 | Appeared |
 |            |          | Session 15 | Appeared | Session 25 | Appeared |
-|            |          | Session 16 | Appeared |            |          |
+|            |          | Session 16 | Appeared | Session 26 | Appeared |
 |            |          | Session 17 | Appeared |            |          |
 |            |          | Session 18 | Appeared |            |          |
 |            |          | Session 19 | Appeared |            |          |
@@ -97,3 +97,5 @@ When Brewster and Moiloc wake up, Goro greets them and fills them in on what has
 Moiloc, Brewster, Martin, Goro, Jessie, and Helen proceed to Domnhall Keep. They are attacked by assassins sent by [[Maelon Switt]]. They are also attacked by bandits after arriving in the Orkus Badlands. In Domnhall Keep, Brewter rooms with Jessie.
 ## [[Session 25 - I Know an Archer]]
 Brewster wakes up to find that Jessie has disappeared, with a symbol of an eye burnt onto her sheets. He gets coffee from [[Schmebulock]] which makes him grow a third eye with True Sight. The group reunites with Branwyn.
+## [[Session 26 - Rocks Box]]
+The group proceeds to the chapel to meet with [[Ulysses]]. Brewster and Moiloc stay in front of the church. After some time, Brewster sends Puck to the attic, and he returns and passes on a message that Brewster and Moiloc need to distract the priest. Brewster enters, under the guise of wanting a tour from the priest. When he is able, Brewster unlocks the back door, lets Puck in, and proceeds into the attic. He says not to unlock the trapdoor due to a Protect Against Good and Evil sigil which may indicate that the door is meant to keep something in, rather than keep them out. The group realizes that the sigil on the trapdoor may point to werewolves, and, realizing it's a full moon, run to find Moiloc. They find Moiloc disappeared, and Martin and Branwyn are soon shot with a dart and fall unconscious. Brewster is able to drag them into a nearby alley. Brewster hides in a barrel, trying to fend of an approaching werewolf, and is able to get a shot off. [[Ulysses]] comes in and kills the werewolf. Brewster asks for more information about the gun Ulysses used to kill the werewolf, and Ulysses invites him back to the chapel for another meeting the next morning. When Moiloc, Branwyn, and Martin wake up, and Brewster claims he fended off the werewolf that was after them.

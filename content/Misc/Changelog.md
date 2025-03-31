@@ -1,8 +1,8 @@
 |         Category          |                   Progress                    |
 | :-----------------------: | :-------------------------------------------: |
 |      Notes Available      | <progress max=28 value=28> </progress>  28/28 |
-|      Notes Formatted      | <progress max=28 value=25> </progress>  25/28 |
-| Character Notes Available | <progress max=28 value=25> </progress>  25/28 |
+|      Notes Formatted      | <progress max=28 value=26> </progress>  26/28 |
+| Character Notes Available | <progress max=28 value=26> </progress>  26/28 |
 ## Completed Features
 - Linkable images in the [[Gods]] image
 - Searchable & linkable notes
