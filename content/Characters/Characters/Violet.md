@@ -3,18 +3,18 @@ Violet is a tiefling woman working with the Resistance in Dunn. She is a scout w
 - **First Seen:** Session 8
 - **Status:** Alive
 
-|  Session   |  Status  |  Session   |  Status  |
-| :--------: | :------: | :--------: | :------: |
-|            |          | Session 11 |  Absent  |
-|            |          | Session 12 |  Absent  |
-|            |          | Session 13 |  Absent  |
-|            |          | Session 14 |  Absent  |
-|            |          | Session 15 | Appeared |
-|            |          | Session 16 | Appeared |
-|            |          | Session 17 | Appeared |
-| Session 8  | Appeared | Session 18 | Appeared |
-| Session 9  | Appeared |            |          |
-| Session 10 | Appeared |            |          |
+|  Session   |  Status  |  Session   |  Status  |  Session   |  Status  |
+| :--------: | :------: | :--------: | :------: | :--------: | :------: |
+|            |          | Session 11 |  Absent  | Session 21 |  Absent  |
+|            |          | Session 12 |  Absent  | Session 22 |  Absent  |
+|            |          | Session 13 |  Absent  | Session 23 |  Absent  |
+|            |          | Session 14 |  Absent  | Session 24 |  Absent  |
+|            |          | Session 15 | Appeared | Session 25 |  Absent  |
+|            |          | Session 16 | Appeared | Session 26 |  Absent  |
+|            |          | Session 17 | Appeared | Session 27 | Appeared |
+| Session 8  | Appeared | Session 18 | Appeared |            |          |
+| Session 9  | Appeared | Session 19 |  Absent  |            |          |
+| Session 10 | Appeared | Session 20 |  Absent  |            |          |
 ## [[Session 08 - Religious Conversion]]
 Violet is first seen imprisoned by the Inquisitors, when [[Kaldrake Sootspot|Kaldrake]] goes to interrogate her. She is initially hostile to Kaldrake, but warms up once Kaldrake frees her. As they escape the monastery, they pass by [[Father Gregor|Father Gregor's]] office, and Violet refuses to pass up the opportunity to kill him. She has Kaldrake go in as a distraction, turns invisible, and kills Father Gregor while he is talking with Kaldrake. They break through the stained glass window in Gregor's office and escape to the forest, heading to the Resistance hideout in Dunn. On their way, they come across a caravan of armed Inquisitors heading to Brasov.
 ## [[Session 09 - The Man or the Bears]]
@@ -29,3 +29,5 @@ Violet is seen meeting with Feris in the Rebel hideout.
 Violet loses an arm when the corpse-eaters invade the Resistance hideout in Lothric.
 ## [[Session 18 - What Would Branwyn Do]]
 Violet is seen while the Resistance is attempting to move their hideout to Domnhall Keep. Tarren and Brewster discuss moving forward the Resistance's plans to free the Whitehall slaves, but Violet seems unwilling to discuss a change of plans.
+## [[Session 27 - Free Stoners]]
+Violet is present when the group meets with [[Isaac Domhnall]] in Domnhall Keep.

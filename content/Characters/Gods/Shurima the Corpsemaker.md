@@ -4,7 +4,7 @@ tags:
 ---
 ![[Shurima Symbol.png|250]]     ![[Shurima.png|250]]
 
-Shurima the Corpsemaker is a powerful old man, worshipped by Moiloc. He is a keeper of secrets.
+Shurima the Corpsemaker is a powerful old man, worshipped by Moiloc. He is the god of secrets.
 
 - **First Seen:** Session 1
 - **Status:** Alive
@@ -19,9 +19,9 @@ Shurima the Corpsemaker is a powerful old man, worshipped by Moiloc. He is a kee
 | Session 2  | Mentioned | Session 12 | Mentioned | Session 22 |  Absent   |
 | Session 3  | Appeared  | Session 13 |  Absent   | Session 23 | Mentioned |
 | Session 4  |  Absent   | Session 14 |  Absent   | Session 24 | Mentioned |
-| Session 5  |  Absent   | Session 15 | Mentioned |            |           |
-| Session 6  | Mentioned | Session 16 |  Absent   |            |           |
-| Session 7  | Mentioned | Session 17 | Mentioned |            |           |
+| Session 5  |  Absent   | Session 15 | Mentioned | Session 25 |  Absent   |
+| Session 6  | Mentioned | Session 16 |  Absent   | Session 26 |  Absent   |
+| Session 7  | Mentioned | Session 17 | Mentioned | Session 27 | Appeared  |
 | Session 8  | Mentioned | Session 18 | Appeared  |            |           |
 | Session 9  |  Absent   | Session 19 |  Absent   |            |           |
 | Session 10 | Mentioned | Session 20 |  Absent   |            |           |
@@ -62,3 +62,5 @@ Moiloc prays to Shurima to guide her to a missing man in Col Man'Dar, and he dir
 Brewster finds hadozee in the Ringed City who cannot remember their god, and believes the god to be Shurima. In Gahenna, Moiloc tells [[Mephistopheles the Cold|Mephistopheles]] that she follows Shurima, which seems to frighten him.
 ## [[Session 24 - Charlotte's Back!]]
 [[Goro Hattori|Goro]] says that [[Gwyneth Sootspot|Gwyneth]] was researching the great old ones, and discovered that the pharaoh of the country of Shurima killed [[Eru]]. The pharaoh never returned.
+## [[Session 27 - Free Stoners]]
+Branwyn finds a book confirming that a god of secrets exists, or existed. Shurima tells Moiloc she can brand a triton prisoner to enslave him.

@@ -22,7 +22,7 @@ Branwyn is an half-elf ranger woman, and child of Mora, originally coming from C
 | Session 4  | Appeared | Session 14 | Appeared | Session 24 | Appeared |
 | Session 5  | Appeared | Session 15 | Appeared | Session 25 | Appeared |
 | Session 6  | Appeared | Session 16 | Appeared | Session 26 | Appeared |
-| Session 7  | Appeared | Session 17 | Appeared |            |          |
+| Session 7  | Appeared | Session 17 | Appeared | Session 27 | Appeared |
 | Session 8  | Appeared | Session 18 | Appeared |            |          |
 | Session 9  | Appeared | Session 19 | Appeared |            |          |
 | Session 10 | Appeared | Session 20 | Appeared |            |          |
@@ -148,3 +148,5 @@ Branwyn proceeds to Domnhall Keep, and finds a dehydrated wolf by an oasis. She 
 Branwyn sees Ulysses again the next day. She buys a map from Monty, who is in town as Mark Milkman, a furless tabaxi. She threatens him, saying if he screws her over again, they're going to have a problem. A child steals Mora's amulet from her, and she chases him down an alley, finding herself in a trap and targeted by assassins. She is able to fend them off and retrieve the amulet. She cleans up and confronts Ulysses, who invites her to meet him at the chapel the next morning. Branwyn returns to the general store, and reunites with Brewster, Moiloc, and [[Martin Sootspot|Martin]]. Brewster's uses True Sight via a temporary third eye, and finds that Branwyn has a collar made of ethereal thorns around her neck, saying it's an ancient enchantment that possesses the user. Branwyn gives the pendant to Moiloc.
 ## [[Session 26 - Rocks Box]]
 The group proceeds to the chapel to meet with Ulysses. Branwyn and Martin go to the attic to try and sneak in. They see a trapdoor with a box full of rocks over it, and another trapdoor leading to the kitchen, where a priest is cooking a meal. They see Puck check in on them, and tell him to tell Brewster and Moiloc to distract the priest. Once Brewster distracts him, Branwyn checks the kitchen, but returns once Martin uncovers the other trapdoor. The group realizes that the sigil on the trapdoor may point to werewolves, and, realizing it's a full moon, run to find Moiloc. They find Moiloc disappeared, and Martin and Branwyn are soon shot with a dart and fall unconscious. Brewster is able to drag them into a nearby alley. Ulysses kills the approaching werewolf, and takes some hairs from Branwyn. They wake up, and Brewster claims he fended off the werewolf that was after them.
+## [[Session 27 - Free Stoners]]
+At the meeting with Ulysses, he says Branwyn's hair may be able to kill Mora. Branwyn gets upgraded scale mail from the blacksmith. She is present at the meeting with Isaac Domnhall.

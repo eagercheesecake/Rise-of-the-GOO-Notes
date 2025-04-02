@@ -2,20 +2,22 @@ Jessie Harkness is a red-haired, freckled, human woman. She is the innkeeper at 
 
 - **First Seen:** Session 10
 - **First Mentioned:** Session 8
-- **Status:** Alive
+- **Status:** Dead
+- **Cause of Death:** Killed by Mora
+- **Time of Death:** Between Sessions 16 and 22
 
-|  Session   |  Status   |  Session   |  Status   |  Session   |  Status  |
-| :--------: | :-------: | :--------: | :-------: | :--------: | :------: |
-|            |           | Session 11 | Mentioned | Session 21 |  Absent  |
-|            |           | Session 12 |  Absent   | Session 22 |  Absent  |
-|            |           | Session 13 |  Absent   | Session 23 | Appeared |
-|            |           | Session 14 |  Absent   | Session 24 | Appeared |
-|            |           | Session 15 | Appeared  | Session 25 | Appeared |
-|            |           | Session 16 |  Absent   |            |          |
-|            |           | Session 17 |  Absent   |            |          |
-| Session 8  | Mentioned | Session 18 |  Absent   |            |          |
-| Session 9  | Mentioned | Session 19 |  Absent   |            |          |
-| Session 10 | Appeared  | Session 20 |  Absent   |            |          |
+|  Session   |  Status   |  Session   |  Status   |  Session   |  Status   |
+| :--------: | :-------: | :--------: | :-------: | :--------: | :-------: |
+|            |           | Session 11 | Mentioned | Session 21 |  Absent   |
+|            |           | Session 12 |  Absent   | Session 22 |  Absent   |
+|            |           | Session 13 |  Absent   | Session 23 | Appeared  |
+|            |           | Session 14 |  Absent   | Session 24 | Appeared  |
+|            |           | Session 15 | Appeared  | Session 25 | Appeared  |
+|            |           | Session 16 |  Absent   | Session 26 |  Absent   |
+|            |           | Session 17 |  Absent   | Session 27 | Mentioned |
+| Session 8  | Mentioned | Session 18 |  Absent   |            |           |
+| Session 9  | Mentioned | Session 19 |  Absent   |            |           |
+| Session 10 | Appeared  | Session 20 |  Absent   |            |           |
 ## [[Session 08 - Religious Conversion]]
 Jessie points [[Moiloc Kodlaksdottër|Moiloc]] and [[Branwyn of Coryphea|Branwyn]] to [[Arklow Laban|Arklow Laban's]] room at the Wandering Cross when they come to question him about the contract at the Chateau. She expresses her discontent with Laban as a governor and says the Chateau contract is blown out of proportion. Moiloc and Branwyn later see her talking with [[Tarren Hammerfist|Tarren]] about a meeting with the Resistance in the inn's basement. [[Goro Hattori|Goro]] sends [[Charlotte]] to Jessie's care after the Inquisitors begin their siege on Brasov.
 ## [[Session 09 - The Man or the Bears]]
@@ -32,3 +34,5 @@ Jessie helps people enthralled by the hydra in Edoval recuperate. She says the R
 Moiloc, Brewster, [[Martin Sootspot|Martin]], Goro, Jessie, and Helen proceed to Domnhall Keep. They are attacked by assassins sent by [[Maelon Switt]]. They are also attacked by bandits after arriving in the Orkus Badlands. In Domnhall Keep, Jessie rooms with Brewster, telling him that he she plans to leave to meet up with Violet and Feris in the morning.
 ## [[Session 25 - I Know an Archer]]
 Brewster wakes up to find Jessie gone, with an eye symbol burnt onto the sheets of her bed.
+## [[Session 27 - Free Stoners]]
+Violet says Jessie was killed by Mora while trying to stop her from taking the children of the Resistance.

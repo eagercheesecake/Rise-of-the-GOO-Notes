@@ -11,10 +11,10 @@ Laogzed is a djinn who brought Kaldrake back to life. He is the god of famine.
 | Session 11 | Mentioned | Session 21 |  Absent   |
 | Session 12 | Mentioned | Session 22 | Mentioned |
 | Session 13 |  Absent   | Session 23 | Mentioned |
-| Session 14 |  Absent   |            |           |
-| Session 15 | Appeared  |            |           |
-| Session 16 |  Absent   |            |           |
-| Session 17 |  Absent   |            |           |
+| Session 14 |  Absent   | Session 24 |  Absent   |
+| Session 15 | Appeared  | Session 25 |  Absent   |
+| Session 16 |  Absent   | Session 26 |  Absent   |
+| Session 17 |  Absent   | Session 27 | Mentioned |
 | Session 18 | Mentioned |            |           |
 | Session 19 |  Absent   |            |           |
 | Session 20 |  Absent   |            |           |
@@ -30,3 +30,5 @@ Kaldrake finds that Laogzed is no longer in Gwyneth's manor since the reality re
 Laogzed's lamp is found at the base of [[Maokai|Maokai's]] tree, creating a mist, trapping Maokai inside.
 ## [[Session 23 - Sootspot Intuition]]
 [[Lothar (Brewster) Nash|Brewster]] learns that Laogzed is the god of famine. His worshippers refer to him is Laogzed, Eater of Souls.
+## [[Session 27 - Free Stoners]]
+[[Ulysses]] claims to have killed Laogzed.

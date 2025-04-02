@@ -11,11 +11,11 @@ Tarren is a member of the Resistance in Dunn, and a contestant in the Montrissad
 | :--------: | :-------: | :--------: | :-------: | :--------: | :-------: |
 |            |           | Session 11 |  Absent   | Session 21 |  Absent   |
 |            |           | Session 12 |  Absent   | Session 22 | Mentioned |
-|            |           | Session 13 |  Absent   |            |           |
-|            |           | Session 14 |  Absent   |            |           |
-|            |           | Session 15 | Mentioned |            |           |
-| Session 6  | Appeared  | Session 16 |  Absent   |            |           |
-| Session 7  | Appeared  | Session 17 | Appeared  |            |           |
+|            |           | Session 13 |  Absent   | Session 23 |  Absent   |
+|            |           | Session 14 |  Absent   | Session 24 |  Absent   |
+|            |           | Session 15 | Mentioned | Session 25 |  Absent   |
+| Session 6  | Appeared  | Session 16 |  Absent   | Session 26 |  Absent   |
+| Session 7  | Appeared  | Session 17 | Appeared  | Session 27 | Appeared  |
 | Session 8  | Appeared  | Session 18 | Appeared  |            |           |
 | Session 9  | Appeared  | Session 19 |  Absent   |            |           |
 | Session 10 | Mentioned | Session 20 | Mentioned |            |           |
@@ -41,3 +41,5 @@ Tarren is seen while the Resistance is attempting to move their hideout to Domnh
 Brewster mentions that Tarren was also a slave at Whitehall, and they escaped together.
 ## [[Session 22 - The B Team]]
 When Contigo reunites with Goro, Contigo asks him if he has seen Tarren recently. Goro says he has not. Brewster sees a pedestal in a desert depicting important scenes from his life, one of which shows him escaping slavery and joining the Resistance with Tarren.
+## [[Session 27 - Free Stoners]]
+Tarren is present when the group meets with [[Isaac Domhnall]] in Domnhall Keep.

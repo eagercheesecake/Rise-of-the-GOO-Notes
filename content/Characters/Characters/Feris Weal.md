@@ -3,12 +3,18 @@ Feris Weal is the head of the Lothric branch of the Resistance. He is a tiefling
 - **First Seen:** Session 15
 - **Status:** Alive
 
-|  Session   |  Status  |
-| :--------: | :------: |
-| Session 15 | Appeared |
-| Session 16 | Appeared |
-| Session 17 | Appeared |
-| Session 18 | Appeared |
+|  Session   |  Status  |  Session   |  Status  |
+| :--------: | :------: | :--------: | :------: |
+|            |          | Session 21 |  Absent  |
+|            |          | Session 22 |  Absent  |
+|            |          | Session 23 |  Absent  |
+|            |          | Session 24 |  Absent  |
+| Session 15 | Appeared | Session 25 |  Absent  |
+| Session 16 | Appeared | Session 26 |  Absent  |
+| Session 17 | Appeared | Session 27 | Appeared |
+| Session 18 | Appeared |            |          |
+| Session 19 |  Absent  |            |          |
+| Session 20 |  Absent  |            |          |
 ## [[Session 15 - Gray Boys]]
 Feris is present at the Resistance's planning meeting.
 ## [[Session 16 - Killing a Mailman]]
@@ -17,3 +23,5 @@ Feris asks [[Moiloc Kodlaksdottër|Moiloc]] and [[Branwyn of Coryphea|Branwyn]] 
 Feris is seen battling corpse eaters as they invade the Resistance hideout, having lost a few fingers. Moiloc heals him as she heads out. Feris is also seen tending to the wounds of Resistance members after the group returns from their confrontation with Olidamuru.
 ## [[Session 18 - What Would Branwyn Do]]
 Feris is seen while the Resistance is attempting to move their hideout to Domnhall Keep.
+## [[Session 27 - Free Stoners]]
+Violet is present when the group meets with [[Isaac Domhnall]] in Domnhall Keep.

@@ -61,3 +61,5 @@ The ring found in Gwyneth's house is identified as being used to track a wearer.
 Goro says Gwyneth was researching the Great Old Ones, and that he believes she is on her way to Whitehall.
 ## [[Session 25 - I Know an Archer]]
 Moiloc has a vision of Gwyneth, Mora, [[Daphne]], and [[Sister Marie the Confessor]] in Whitehall. They each appear, one after another, then it repeats.
+## [[Session 27 - Free Stoners]]
+The Resistance says Gwyneth is the Queen's closest advisor, and the current leader of Wallachia. Gwyneth had been seen with Mora in Whitehall.

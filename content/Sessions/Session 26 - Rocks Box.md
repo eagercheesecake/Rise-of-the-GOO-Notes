@@ -3,7 +3,7 @@
 | :--------------------------------------: | :------------: |
 | [[Session 25 - I Know an Archer]] | [[Session 27 - Free Stoners]] |
 ### Logline
-*The group meets with a priest and a cowboy.*
+*An adventuring party, a priest, and a cowboy walk into a chapel.*
 ### Synopsis
 The group go to the chapel to meet with Ulysses. Branwyn and Martin remove rocks from a box in the attic covering a trapdoor. Brewster enters to distract the priest by pretending to want a tour of the chapel. He reunites with Branwyn and Martin, and they discover a sigil that may be keeping a werewolf locked up. They check in on Moiloc, who had been keeping watch, to find her gone. Martin and Branwyn are soon knocked out by darts, and Brewster drags them into an alley. Brewster tries to fend off a werewolf, but Ulysses shoots it with a gun. He takes hairs from Branwyn, and invites Brewster for a meeting with him the next day.
 # Day 57
