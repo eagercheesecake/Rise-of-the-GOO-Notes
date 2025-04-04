@@ -23,7 +23,7 @@ Branwyn is an half-elf ranger woman, and child of Mora, originally coming from C
 | Session 5  | Appeared | Session 15 | Appeared | Session 25 | Appeared |
 | Session 6  | Appeared | Session 16 | Appeared | Session 26 | Appeared |
 | Session 7  | Appeared | Session 17 | Appeared | Session 27 | Appeared |
-| Session 8  | Appeared | Session 18 | Appeared |            |          |
+| Session 8  | Appeared | Session 18 | Appeared | Session 28 | Appeared |
 | Session 9  | Appeared | Session 19 | Appeared |            |          |
 | Session 10 | Appeared | Session 20 | Appeared |            |          |
 ## [[Session 01 - Piss Grandma]]
@@ -150,3 +150,5 @@ Branwyn sees Ulysses again the next day. She buys a map from Monty, who is in to
 The group proceeds to the chapel to meet with Ulysses. Branwyn and Martin go to the attic to try and sneak in. They see a trapdoor with a box full of rocks over it, and another trapdoor leading to the kitchen, where a priest is cooking a meal. They see Puck check in on them, and tell him to tell Brewster and Moiloc to distract the priest. Once Brewster distracts him, Branwyn checks the kitchen, but returns once Martin uncovers the other trapdoor. The group realizes that the sigil on the trapdoor may point to werewolves, and, realizing it's a full moon, run to find Moiloc. They find Moiloc disappeared, and Martin and Branwyn are soon shot with a dart and fall unconscious. Brewster is able to drag them into a nearby alley. Ulysses kills the approaching werewolf, and takes some hairs from Branwyn. They wake up, and Brewster claims he fended off the werewolf that was after them.
 ## [[Session 27 - Free Stoners]]
 At the meeting with Ulysses, he says Branwyn's hair may be able to kill Mora. Branwyn gets upgraded scale mail from the blacksmith. She is present at the meeting with Isaac Domnhall.
+## [[Session 28 - Making a Plan (Finally)]]
+Branwyn finds some arrows and a crossbow from the fletcher in town. The group is attacked by bandits soon after leaving Domnhall Keep. They get information from a bandit and learn how their camp is laid out, making a plan to take the camp out to stop the bandits from their ransacking of caravans. Branwyn, Goro, [[William Archer|William]], and Tarren kill the boss of the bandit camp. They rescue [[Vulcan]] from the camp. They also steal supplies from the warehouse. Branwyn also rescues some of the bandits' captive wolves.

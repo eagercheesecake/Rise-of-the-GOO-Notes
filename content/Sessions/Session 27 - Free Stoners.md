@@ -6,7 +6,6 @@
 *Moiloc gets kidnapped. The party meets with Ulysses and Isaac.*
 ### Synopsis
 After a fight with the group, Moiloc splits off and gets kidnapped by tritons. She fends them off, and kidnaps one of them. After questioning him, Shurima tells her to enslave him, but she says she killed and buried him. Meanwhile, Ulysses tells Martin, Branwyn, and Brewster about guns, and how he may be able to kill Mora. The group meet back up and talk to Isaac. They recruit the Archer brothers to join them on their adventure in Whitehall.
-
 # Day 57
 ### Silver Wreath Inn
 The group returns to the inn. [[Moiloc Kodlaksdottër|Moiloc]] feels a tug at her amulet pulling her toward Domnhall Keep. Moiloc takes note to look for [[Shurima the Corpsemaker|Shurima]] when they head there tomorrow. [[Lothar (Brewster) Nash|Brewster]] tells [[Branwyn of Coryphea|Branwyn]] about the meeting with the [[Ulysses|cowboy]], and asks if she wants to come to ask about the hairs. He invites [[Martin Sootspot|Martin]] as well. Brewster goes to the bathhouse to clean off the fish.
@@ -60,4 +59,4 @@ They have two options. Firstly, they could wait and gather forces, since Isaac h
 
 The group proceeds to the armory. Martin sees another boar’s head coin nestled in a pile of ingots. Brewster and Branwyn get a +1 set of scale mail. Moiloc gets a +1 handaxe. Martin finds a scroll of revivify in the library.
 
-They proceed to the archery range and see two young twin boys practicing. Martin sees a coin peeking out of the pocket of one of the archers. They are taking turns splitting each other’s arrows. Martin takes the coin using Mage Hand. They introduce themselves as the Archer Twins, [[William & Billiam|William and Billiam Archer]]. Branwyn offers them to join in on the mission. They lay out the difficulty of the plan. They say they’re not afraid to die, and are honored that they were selected. Branwyn says they should, in fact, be ready to die.
+They proceed to the archery range and see two young twin boys practicing. Martin sees a coin peeking out of the pocket of one of the archers. They are taking turns splitting each other’s arrows. Martin takes the coin using Mage Hand. They introduce themselves as the Archer Twins, [[William Archer|William]] and [[Billiam Archer]]. Branwyn offers them to join in on the mission. They lay out the difficulty of the plan. They say they’re not afraid to die, and are honored that they were selected. Branwyn says they should, in fact, be ready to die.

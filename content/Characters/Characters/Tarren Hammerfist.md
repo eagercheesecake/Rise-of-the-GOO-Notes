@@ -16,7 +16,7 @@ Tarren is a member of the Resistance in Dunn, and a contestant in the Montrissad
 |            |           | Session 15 | Mentioned | Session 25 |  Absent   |
 | Session 6  | Appeared  | Session 16 |  Absent   | Session 26 |  Absent   |
 | Session 7  | Appeared  | Session 17 | Appeared  | Session 27 | Appeared  |
-| Session 8  | Appeared  | Session 18 | Appeared  |            |           |
+| Session 8  | Appeared  | Session 18 | Appeared  | Session 28 | Appeared  |
 | Session 9  | Appeared  | Session 19 |  Absent   |            |           |
 | Session 10 | Mentioned | Session 20 | Mentioned |            |           |
 ## [[Session 06 - Cult Pamphlets]]
@@ -43,3 +43,5 @@ Brewster mentions that Tarren was also a slave at Whitehall, and they escaped to
 When Contigo reunites with Goro, Contigo asks him if he has seen Tarren recently. Goro says he has not. Brewster sees a pedestal in a desert depicting important scenes from his life, one of which shows him escaping slavery and joining the Resistance with Tarren.
 ## [[Session 27 - Free Stoners]]
 Tarren is present when the group meets with [[Isaac Domhnall]] in Domnhall Keep.
+## [[Session 28 - Making a Plan (Finally)]]
+Tarren joins the group on their way to Whitehall. The group is attacked by bandits soon after leaving Domnhall Keep. They get information from a bandit and learn how their camp is laid out, making a plan to take the camp out to stop the bandits from their ransacking of caravans. Branwyn, Goro, [[William Archer|William]], and Tarren kill the boss of the bandit camp. They rescue [[Vulcan]] from the camp. They also steal supplies from the warehouse.

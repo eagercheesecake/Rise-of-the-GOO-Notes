@@ -1,14 +1,14 @@
 |         Category          |                   Progress                    |
 | :-----------------------: | :-------------------------------------------: |
 |      Notes Available      | <progress max=28 value=28> </progress>  28/28 |
-|      Notes Formatted      | <progress max=28 value=27> </progress>  27/28 |
-| Character Notes Available | <progress max=28 value=27> </progress>  27/28 |
+|      Notes Formatted      | <progress max=28 value=28> </progress>  28/28 |
+| Character Notes Available | <progress max=28 value=28> </progress>  28/28 |
 ## Completed Features
 - Linkable images in the [[Gods]] image
 - Searchable & linkable notes
+- Formatted [[Sessions]] Page
 ## In-Progress
 - Always updating and formatting notes
-- Formatted [[Sessions]] Page
 - Better-looking home page. Barren right now
 	- (Somehow I just... deleted it? The situation has gotten worse.)
 - Update the appearance tables on character pages

@@ -10,9 +10,9 @@ Helen is a human woman who was abducted by Olidamuru, and put in Lothric castle 
 |            |          | Session 23 | Appeared |
 |            |          | Session 24 | Appeared |
 |            |          | Session 25 | Appeared |
-|            |          |            |          |
-|            |          |            |          |
-| Session 18 | Appeared |            |          |
+|            |          | Session 26 |  Absent  |
+|            |          | Session 27 |  Absent  |
+| Session 18 | Appeared | Session 28 | Appeared |
 | Session 19 | Appeared |            |          |
 | Session 20 | Appeared |            |          |
 ## [[Session 18 - What Would Branwyn Do]]
@@ -31,3 +31,5 @@ Helen helps gather the survivors in Edoval. After resting for a few days, the gr
 Moiloc, Brewster, Martin, Goro, [[Jessie Harkness|Jessie]], and Helen proceed to Domnhall Keep. They are attacked by assassins sent by [[Maelon Switt]]. They are also attacked by bandits after arriving in the Orkus Badlands. In Domnhall Keep, Helen rooms with Martin.
 ## [[Session 25 - I Know an Archer]]
 Helen decides not to join the party while they explore the town.
+## [[Session 28 - Making a Plan (Finally)]]
+Helen agrees to join the others on their way to Whitehall. The group is attacked by bandits soon after leaving Domnhall Keep. They get information from a bandit and learn how their camp is laid out, making a plan to take the camp out to stop the bandits from their ransacking of caravans. Branwyn, Goro, [[William Archer|William]], and [[Tarren Hammerfist|Tarren]] kill the boss of the bandit camp.

@@ -60,4 +60,4 @@ Click a location to scroll to that city.
 |    [[Session 25 - I Know an Archer]]     | Brewster, Moiloc, and Martin explore Domnhall Keep.<br>Branwyn fights Moiloc's assassins and threatens Monty.                         |
 |        [[Session 26 - Rocks Box]]        | The group goes to Ulysses's meeting and fight off werewolves.                                                                         |
 |      [[Session 27 - Free Stoners]]       | Moiloc is kidnapped by tritons.<br>Martin, Branwyn, and Brewster meet with Ulysses.<br>The group meets with Isaac and the Resistance. |
-| [[Session 28 - Making a Plan (Finally)]] |                                                                                                                                       |
+| [[Session 28 - Making a Plan (Finally)]] | The group burns down a bandit camp.                                                                                                   |

@@ -24,7 +24,7 @@ Brewster is a rock gnome who joined the Wallachian Resistance after being freed 
 |            |          | Session 15 | Appeared | Session 25 | Appeared |
 |            |          | Session 16 | Appeared | Session 26 | Appeared |
 |            |          | Session 17 | Appeared | Session 27 | Appeared |
-|            |          | Session 18 | Appeared |            |          |
+|            |          | Session 18 | Appeared | Session 28 | Appeared |
 |            |          | Session 19 | Appeared |            |          |
 | Session 10 | Appeared | Session 20 | Appeared |            |          |
 ## [[Session 10 - Strategic Milk Bucket]]
@@ -101,3 +101,5 @@ Brewster wakes up to find that Jessie has disappeared, with a symbol of an eye b
 The group proceeds to the chapel to meet with [[Ulysses]]. Brewster and Moiloc stay in front of the church. After some time, Brewster sends Puck to the attic, and he returns and passes on a message that Brewster and Moiloc need to distract the priest. Brewster enters, under the guise of wanting a tour from the priest. When he is able, Brewster unlocks the back door, lets Puck in, and proceeds into the attic. He says not to unlock the trapdoor due to a Protect Against Good and Evil sigil which may indicate that the door is meant to keep something in, rather than keep them out. The group realizes that the sigil on the trapdoor may point to werewolves, and, realizing it's a full moon, run to find Moiloc. They find Moiloc disappeared, and Martin and Branwyn are soon shot with a dart and fall unconscious. Brewster is able to drag them into a nearby alley. Brewster hides in a barrel, trying to fend of an approaching werewolf, and is able to get a shot off. Ulysses comes in and kills the werewolf. Brewster asks for more information about the gun Ulysses used to kill the werewolf, and Ulysses invites him back to the chapel for another meeting the next morning. When Moiloc, Branwyn, and Martin wake up, and Brewster claims he fended off the werewolf that was after them.
 ## [[Session 27 - Free Stoners]]
 Ulysses teaches Brewster about guns and ammunition. Brewster gets upgraded scale mail from the blacksmith. He is present at the meeting with Isaac Domnhall.
+## [[Session 28 - Making a Plan (Finally)]]
+Brewster gives Ulysses the mask, and Ulysses teaches him how to make bullets from it. The group is attacked by bandits soon after leaving Domnhall Keep. They get information from a bandit and learn how their camp is laid out, making a plan to take the camp out to stop the bandits from their ransacking of caravans. Brewster and Moiloc sneak into the camp, and use burning zombified bandits to start fires. Brewster blocks the escape route with a Flaming Sphere, and uses Control Flames to make the flames appear scarier. Brewster picks the locks on the captives' cage and free them.

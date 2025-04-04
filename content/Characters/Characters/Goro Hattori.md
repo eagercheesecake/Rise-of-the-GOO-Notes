@@ -18,9 +18,9 @@ Goro is an old dragonborn man. He is the castle blacksmith in Montrissad.
 |            |          | Session 13 | Appeared | Session 23 | Appeared |
 |            |          | Session 14 | Appeared | Session 24 | Appeared |
 |            |          | Session 15 |  Absent  | Session 25 | Appeared |
-| Session 6  | Appeared | Session 16 |  Absent  |            |          |
-| Session 7  | Appeared | Session 17 |  Absent  |            |          |
-| Session 8  | Appeared | Session 18 |  Absent  |            |          |
+| Session 6  | Appeared | Session 16 |  Absent  | Session 26 |  Absent  |
+| Session 7  | Appeared | Session 17 |  Absent  | Session 27 |  Absent  |
+| Session 8  | Appeared | Session 18 |  Absent  | Session 28 | Appeared |
 | Session 9  | Appeared | Session 19 |  Absent  |            |          |
 | Session 10 |  Absent  | Session 20 |  Absent  |            |          |
 ## [[Session 06 - Cult Pamphlets]]
@@ -51,3 +51,5 @@ Goro helps gather the survivors in Edoval. Goro fills Martin in on Kaldrake's ad
 Moiloc, Brewster, Martin, Goro, Jessie, and Helen proceed to Domnhall Keep. They are attacked by assassins sent by [[Maelon Switt]]. Goro says that after the dragon war, he traveled the world, trying to find his place, and atoning for what the dragonborn did during the dragon war. They are also attacked by bandits after arriving in the Orkus Badlands. In Domnhall Keep, Goro rooms with Moiloc, and tells her about how he met King Aslan soon after the dragon war, although Moiloc keeps the story secret so not much more information is known.
 ## [[Session 25 - I Know an Archer]]
 Goro has already left for the morning when Moiloc wakes up. He runs errands during the day to prepare for their journey to Whitehall.
+## [[Session 28 - Making a Plan (Finally)]]
+Goro agrees to go with the group to Whitehall. The group is attacked by bandits soon after leaving Domnhall Keep. They get information from a bandit and learn how their camp is laid out, making a plan to take the camp out to stop the bandits from their ransacking of caravans. Branwyn, Goro, [[William Archer|William]], and Tarren kill the boss of the bandit camp. They rescue [[Vulcan]] from the camp. They also steal supplies from the warehouse.

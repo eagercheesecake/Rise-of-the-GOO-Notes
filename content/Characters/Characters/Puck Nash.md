@@ -49,3 +49,5 @@ Brewster uses Puck to trick [[Martin Sootspot|Martin]] and casts Identify on him
 Puck checks in on Branwyn and Martin, who tell Puck to pass on a message for Brewster and Moiloc to distract the priest in the chapel. Brewster lets Puck in later, and Puck passes on information about the ladder to the attic in the kitchen.
 ## [[Session 27 - Free Stoners]]
 Brewster uses Puck to keep watch over the room while they talk about what to do with Moiloc's captives.
+## [[Session 28 - Making a Plan (Finally)]]
+Puck helps the group fend off bandits, but is immediately taken out.
