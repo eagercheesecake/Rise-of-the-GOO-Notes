@@ -22,8 +22,8 @@ Shurima the Corpsemaker is a powerful old man, worshipped by Moiloc. He is the g
 | Session 5  |  Absent   | Session 15 | Mentioned | Session 25 |  Absent   |
 | Session 6  | Mentioned | Session 16 |  Absent   | Session 26 |  Absent   |
 | Session 7  | Mentioned | Session 17 | Mentioned | Session 27 | Appeared  |
-| Session 8  | Mentioned | Session 18 | Appeared  |            |           |
-| Session 9  |  Absent   | Session 19 |  Absent   |            |           |
+| Session 8  | Mentioned | Session 18 | Appeared  | Session 28 |  Absent   |
+| Session 9  |  Absent   | Session 19 |  Absent   | Session 29 | Mentioned |
 | Session 10 | Mentioned | Session 20 |  Absent   |            |           |
 
 ## [[Session 01 - Piss Grandma]]
@@ -64,3 +64,5 @@ Brewster finds hadozee in the Ringed City who cannot remember their god, and bel
 [[Goro Hattori|Goro]] says that [[Gwyneth Sootspot|Gwyneth]] was researching the great old ones, and discovered that the pharaoh of the country of Shurima killed [[Eru]]. The pharaoh never returned.
 ## [[Session 27 - Free Stoners]]
 Branwyn finds a book confirming that a god of secrets exists, or existed. Shurima tells Moiloc she can brand a triton prisoner to enslave him.
+## [[Session 29 - Infighting]]
+In [[Sha-Sĭme|Sha-Sĭme's]] crypt, [[Martin Sootspot|Martin]] learns that Rekk-To, one of Sha-Sĭme's avatars was a warrior for the country of Shurima, who died after being poisoned at a feast.

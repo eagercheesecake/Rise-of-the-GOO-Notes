@@ -8,18 +8,18 @@ David is a tall, handsome human man. He is one of Lexar's close friends from Mon
 | [[Lexar Bellos\|Lexar]] |  Friend  |
 |          David          | Husband  |
 
-|  Session   |  Status  |  Session   |  Status  |
-| :--------: | :------: | :--------: | :------: |
-|            |          | Session 11 | Appeared |
-|            |          | Session 12 | Appeared |
-|            |          |            |          |
-|            |          |            |          |
-| Session 5  | Appeared |            |          |
-| Session 6  | Appeared |            |          |
-| Session 7  | Appeared |            |          |
-| Session 8  |  Absent  |            |          |
-| Session 9  | Appeared |            |          |
-| Session 10 |  Absent  |            |          |
+|  Session   |  Status  |  Session   |  Status  |  Session   |  Status   |
+| :--------: | :------: | :--------: | :------: | :--------: | :-------: |
+|            |          | Session 11 | Appeared | Session 21 |  Absent   |
+|            |          | Session 12 | Appeared | Session 22 |  Absent   |
+|            |          | Session 13 |  Absent  | Session 23 |  Absent   |
+|            |          | Session 14 |  Absent  | Session 24 |  Absent   |
+| Session 5  | Appeared | Session 15 |  Absent  | Session 25 |  Absent   |
+| Session 6  | Appeared | Session 16 |  Absent  | Session 26 |  Absent   |
+| Session 7  | Appeared | Session 17 |  Absent  | Session 27 |  Absent   |
+| Session 8  |  Absent  | Session 18 |  Absent  | Session 28 |  Absent   |
+| Session 9  | Appeared | Session 19 |  Absent  | Session 29 | Mentioned |
+| Session 10 |  Absent  | Session 20 |  Absent  |            |           |
 ## [[Session 05 - Can't Be Worse Than Here]]
 Lexar and [[Moiloc Kodlaksdottër|Moiloc]] talk with David in an attempt to convince him and a team of farmhands to join the Games. David reluctantly agrees, and rides horseback with his team to the castle. David rides on his favorite horse, Dash Man. David enrolls with the team name David and the Horse Men.
 ## [[Session 06 - Cult Pamphlets]]
@@ -34,3 +34,5 @@ David is seen fighting onboard the Wavecrasher as it is taken over by the Inquis
 Kaldrake finds David on the High Pontate, and gets [[Arklow Laban]] to set him free. The group returns to Wallachia, and sets up camp after beginning to walk to Fort Bosco for horses.
 ## [[Session 12 - Branwyn's Bad Day]]
 In the morning, David and Goro go to hunt a deer for food for the day. David talks with Goro, telling him he had decided to leave the group to find his husband.
+## [[Session 29 - Infighting]]
+Around a hundred mercenaries from Velbrass are sent to assist David in taking back Montrissad.

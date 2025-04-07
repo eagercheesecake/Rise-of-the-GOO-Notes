@@ -1,7 +1,7 @@
 
-|        Previous Session         | Next Session |
-| :-----------------------------: | :----------: |
-| [[Session 27 - Free Stoners]] |              |
+|       Previous Session        |   Next Session   |
+| :---------------------------: | :--------------: |
+| [[Session 27 - Free Stoners]] | [[Session 29 - Infighting]] |
 ### Logline
 *The party finally makes a plan, and who could have guessed, things went better than usual.*
 ### Synopsis

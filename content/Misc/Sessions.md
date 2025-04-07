@@ -53,7 +53,7 @@ Click a location to scroll to that city.
 # Domnhall Keep
 [[#Montrissad]] | [[#Brasov]] | [[#Lothric]] | [[#Col Man'Dar]] | [[#Domnhall Keep]]
 
-### Locations: Domnhall Keep
+### Locations: Domnhall Keep, Velbrass
 
 |                 Session                  | Main Character's Actions                                                                                                              |
 | :--------------------------------------: | ------------------------------------------------------------------------------------------------------------------------------------- |
@@ -61,3 +61,4 @@ Click a location to scroll to that city.
 |        [[Session 26 - Rocks Box]]        | The group goes to Ulysses's meeting and fight off werewolves.                                                                         |
 |      [[Session 27 - Free Stoners]]       | Moiloc is kidnapped by tritons.<br>Martin, Branwyn, and Brewster meet with Ulysses.<br>The group meets with Isaac and the Resistance. |
 | [[Session 28 - Making a Plan (Finally)]] | The group burns down a bandit camp.                                                                                                   |
+|       [[Session 29 - Infighting]]        | The group explores Sha-Sĭme's Crypt.<br>Branwyn and Brewster meet with the Bagworm.                                                   |

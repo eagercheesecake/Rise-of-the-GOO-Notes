@@ -1,5 +1,7 @@
-|     [[Characters]]      |                       [[Sessions]]                       |   [[Gods]]    |
-| :---------------------: | :------------------------------------------------------: | :-----------: |
-| [[Changelog\|Features]] | [[Session 28 - Making a Plan (Finally)\|Latest Session]] | [[Timelines]] |
+|     [[Characters]]      |           [[Sessions]]           |   [[Gods]]    |
+| :---------------------: | :------------------------------: | :-----------: |
+| [[Changelog\|Features]] | [[Session 29 - Infighting\|Latest Session]] | [[Timelines]] |
 
-Notes are currently updated!
+Current status:
+- Notes are updated as of Session 29 (the one with the Bagworm).
+- Other Features and info being worked on.

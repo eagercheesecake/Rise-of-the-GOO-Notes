@@ -17,7 +17,7 @@ Tarren is a member of the Resistance in Dunn, and a contestant in the Montrissad
 | Session 6  | Appeared  | Session 16 |  Absent   | Session 26 |  Absent   |
 | Session 7  | Appeared  | Session 17 | Appeared  | Session 27 | Appeared  |
 | Session 8  | Appeared  | Session 18 | Appeared  | Session 28 | Appeared  |
-| Session 9  | Appeared  | Session 19 |  Absent   |            |           |
+| Session 9  | Appeared  | Session 19 |  Absent   | Session 29 | Appeared  |
 | Session 10 | Mentioned | Session 20 | Mentioned |            |           |
 ## [[Session 06 - Cult Pamphlets]]
 [[Moiloc Kodlaksdottër|Moiloc]] finds Tarren and [[Belnades]] as they escape the attack at the pre-game feast. They escape through a hole in the wall of a hallway, and jump into the moat, escaping back to the streets of Montrissad.
@@ -45,3 +45,5 @@ When Contigo reunites with Goro, Contigo asks him if he has seen Tarren recently
 Tarren is present when the group meets with [[Isaac Domhnall]] in Domnhall Keep.
 ## [[Session 28 - Making a Plan (Finally)]]
 Tarren joins the group on their way to Whitehall. The group is attacked by bandits soon after leaving Domnhall Keep. They get information from a bandit and learn how their camp is laid out, making a plan to take the camp out to stop the bandits from their ransacking of caravans. Branwyn, Goro, [[William Archer|William]], and Tarren kill the boss of the bandit camp. They rescue [[Vulcan]] from the camp. They also steal supplies from the warehouse.
+## [[Session 29 - Infighting]]
+Tarren stays behind while the party enters [[Sha-Sĭme|Sha-Sĭme's]] Crypt. In Velbrass, Tarren is among the group that sells the spices from the bandit camp. Martin sees a teenage lizardfolk pickpocketing a merchant, and the group chases after him.

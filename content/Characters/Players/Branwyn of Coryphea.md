@@ -24,7 +24,7 @@ Branwyn is an half-elf ranger woman, and child of Mora, originally coming from C
 | Session 6  | Appeared | Session 16 | Appeared | Session 26 | Appeared |
 | Session 7  | Appeared | Session 17 | Appeared | Session 27 | Appeared |
 | Session 8  | Appeared | Session 18 | Appeared | Session 28 | Appeared |
-| Session 9  | Appeared | Session 19 | Appeared |            |          |
+| Session 9  | Appeared | Session 19 | Appeared | Session 29 | Appeared |
 | Session 10 | Appeared | Session 20 | Appeared |            |          |
 ## [[Session 01 - Piss Grandma]]
 Branwyn finds [[Monty's Son]] on the streets of Montrissad, who points her to Monty to sell her cloak. On her way to Monty's, she is attacked by a teenage thief, and knocks him out, leaving him some gold as an apology. Monty tries to rip her off in the sale, but fails, and instead offers to sponsor her in the Games. Branwyn shows the letter to [[Jim MacMasters|Jim]] at the inn and gets a room.
@@ -152,3 +152,5 @@ The group proceeds to the chapel to meet with Ulysses. Branwyn and Martin go to 
 At the meeting with Ulysses, he says Branwyn's hair may be able to kill Mora. Branwyn gets upgraded scale mail from the blacksmith. She is present at the meeting with Isaac Domnhall.
 ## [[Session 28 - Making a Plan (Finally)]]
 Branwyn finds some arrows and a crossbow from the fletcher in town. The group is attacked by bandits soon after leaving Domnhall Keep. They get information from a bandit and learn how their camp is laid out, making a plan to take the camp out to stop the bandits from their ransacking of caravans. Branwyn, Goro, [[William Archer|William]], and Tarren kill the boss of the bandit camp. They rescue [[Vulcan]] from the camp. They also steal supplies from the warehouse. Branwyn also rescues some of the bandits' captive wolves.
+## [[Session 29 - Infighting]]
+The party and Vulcan enter the Crypt of Sha-Sĭme, where they solve puzzles and learn of the history of Sha-Sĭme. In a staged fight, Brewster is paired up with Branwyn. Branwyn decides to take the brunt of Brewster's attack, hoping it was a test of purity in refusing to fight, but is killed by a vision of Rekk-To. Branwyn reappears outside the crypt with the others who died in the fight, and the group continues to Velbrass after Martin returns with the treasure of the crypt. In Velbrass, Branwyn is among the group the meets with [[The Bagworm]]. He offers to help them with whatever they need if they can retrieve something for him from the Lyceum. Branwyn listens in on partygoers in the bar, and learns of someone who had an accident after longstanding debt to the Bagworm.

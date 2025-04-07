@@ -18,8 +18,8 @@ Puck is Brewster's homunculus servant. He takes the form of a smiling, flying ca
 |            |          | Session 15  |  Absent  | Session 25 | Appeared  |
 |            |          | Session 16  |  Absent  | Session 26 | Appeared  |
 |            |          | Session 17  | Appeared | Session 27 | Appeared  |
-|            |          | Session 18  | Appeared |            |           |
-|            |          | Session 19  |  Absent  |            |           |
+|            |          | Session 18  | Appeared | Session 28 | Appeared  |
+|            |          | Session 19  |  Absent  | Session 29 | Appeared  |
 | Session 10 | Appeared | Session  20 |  Absent  |            |           |
 ## [[Session 10 - Strategic Milk Bucket]]
 [[Lothar (Brewster) Nash|Brewster]] brings Puck to the Chateau. Puck is able to help fight some bats and vampires in the Chateau, and is occasionally sent in to scout possibly dangerous rooms before the group enters.
@@ -51,3 +51,5 @@ Puck checks in on Branwyn and Martin, who tell Puck to pass on a message for Bre
 Brewster uses Puck to keep watch over the room while they talk about what to do with Moiloc's captives.
 ## [[Session 28 - Making a Plan (Finally)]]
 Puck helps the group fend off bandits, but is immediately taken out.
+## [[Session 29 - Infighting]]
+In [[Sha-Sĭme|Sha-Sĭme's]] Crypt, Puck is put against Martin in a fight. Martin immediately kills Puck, and Puck's gem appears not where he died, but with the party who didn't enter the Crypt. In Velbrass, Brewster makes Puck invisible to cheat at gambling.
