@@ -31,6 +31,15 @@ function toggleExplorer(this: HTMLElement) {
   }
 }
 
+async function fetchData() {
+  const response = await fetch('/static/contentIndex.json')
+  if (!response.ok) {
+    throw new Error('Failed to fetch content index JSON')
+  }
+  const jsonData = await response.json()
+  return jsonData
+}
+
 function toggleFolder(evt: MouseEvent) {
   evt.stopPropagation()
   const target = evt.target as MaybeHTMLElement
@@ -166,7 +175,7 @@ async function setupExplorer(currentSlug: FullSlug) {
       serializedExplorerState.map((entry: FolderState) => [entry.path, entry.collapsed]),
     )
 
-    const data = await fetchData
+    const data = await fetchData()
     const entries = [...Object.entries(data)] as [FullSlug, ContentDetails][]
     const trie = FileTrieNode.fromEntries(entries)
 
