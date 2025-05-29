@@ -1,7 +1,7 @@
 |     [[Characters]]      |                [[Sessions]]                 |   [[Gods]]    |
 | :---------------------: | :-----------------------------------------: | :-----------: |
-| [[Changelog\|Features]] | [[Session 29 - Infighting\|Latest Session]] | [[Timelines]] |
+| [[Changelog\|Features]] | [[Session 30 - Discretion\|Latest Session]] | [[Timelines]] |
 
 Current status:
-- Notes are updated as of Session 29 (the one with the Bagworm).
+- Notes are updated as of Session 30 (the one where we recruited a bunch).
 - Other Features and info being worked on.

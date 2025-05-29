@@ -50,11 +50,13 @@ export const defaultListPageLayout: PageLayout = {
       folderDefaultState: "collapsed", // default state of folders ("collapsed" or "open")
       useSavedState: true, // whether to use local storage to save "state" (which folders are opened) of explorer
       // omitted but shown later
-      //sortFn: ...,
+      sortFn: (a, b) => {
+        return a.displayName.localeCompare(b.displayName)
+      }
       //filterFn: ...,
       //mapFn: ...,
       // what order to apply functions in
-      order: ["filter", "map", "sort"],
+      //order: ["filter", "map", "sort"],
     })
   ],
   right: [],
