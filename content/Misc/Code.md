@@ -2,4 +2,4 @@
 - `npx quartz sync --no-pull`
 
 Current test message:
-*Checking to see if I can push after the new build command.*
+*Leaving it for tonight. Typing this to ensure sync is still working properly.*
