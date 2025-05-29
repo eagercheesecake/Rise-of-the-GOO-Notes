@@ -26,7 +26,7 @@ Timeline reset when Belnades is dying in the street after being attacked in the 
 Timeline reset after Kaldrake is grabbed while following Belnades hideout
 ### Timeline 4
 - Lexar survives the Wavecrasher
-- Lortzgab is not seen at Fort Bosco
+- Lortzgab is not seen at Fort Bosco, but did teleport away with King Aslan
 - Moiloc has seen one elf before
 - The ydril circle is closed in Brasov
 - Ouroborus is seen being transformed by Shurima

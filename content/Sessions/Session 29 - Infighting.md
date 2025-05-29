@@ -1,6 +1,6 @@
-|             Previous Session             | Next Session |
-| :--------------------------------------: | :----------: |
-| [[Session 28 - Making a Plan (Finally)]] |              |
+|             Previous Session             |        Next Session         |
+| :--------------------------------------: | :-------------------------: |
+| [[Session 28 - Making a Plan (Finally)]] | [[Session 30 - Discretion]] |
 ### Logline
 *The party fights each other in a crypt.*
 ### Synopsis
@@ -42,7 +42,7 @@ The city has three towers at its border, with no vegetation between them. A wiza
 
 Martin, Helen, Tarren, and Moiloc go to sell the gems and goods at the market. They go to spice merchant, who inspects them. He offers 700g, but Tarren butts in, saying it’s worth more. The merchant offers 1,000g, since they’re not reputable merchants in the area. They agree, if he gives them in introduction to Velbrass. He says they’ve been celebrating because the bandits were defeated. The group leaving town is a group of mercenaries being sent to fight to assist [[David]] in Montrissad. Remaining mercenaries may be slim, but the Cat’s Paw might have more. They continue to a gemstone merchant to sell the gems from the chapel, but Martin keeps the diamond, recognizing it could be used for spells. Martin says he’s cashing in his inheritance, and the merchant seems to recognize him, but is unable to place it. The merchant correctly identifies them as being worth 500g, but since he hasn’t inspected them, he says he’ll give her 400g so they can leave now. Helen tries to guilt Martin into buying her a ring, but he refuses, so Helen buys it herself.
 
-Martin sees a small, red lizardfolk pickpocket the jewel merchant. Martin lets him go, but keeps in mind to keep his items safe. Moiloc feels her pendant vibrate. Moiloc follows the lizard, and the group follows, seeing him scurry into a shack. She thinks he’s a teenager. Moiloc opens the door, and it squeaks.
+Martin sees a small, red lizardfolk [[Reptile|pickpocket]], who steals a gem from the jewel merchant's pocket. Martin lets him go, but keeps in mind to keep his items safe. Moiloc feels her pendant vibrate. Moiloc follows the lizard, and the group follows, seeing him scurry into a shack. She thinks he’s a teenager. Moiloc opens the door, and it squeaks.
 ### The Cat's Paw
 William, Goro, Brewster, Vulcan, and Brewster enter the Cat’s Paw, which is a chapel that had been converted into a tavern. In the center is an amphitheater with a performing bard. There are gambling tables and private rooms, as well as a bar. A man bumps into Brewster and tells him to watch where he’s going. Brewster turns Invisible and trips him. As the group progresses, people seem to make way due to Vulcan’s size. Branwyn asks the staff if there is a room available, and buys a large room for everyone for two days. It’s the VIP room, so they get a meeting with [[The Bagworm]], the owner. Goro says he’s taking William to the room. Branwyn and Vulcan buys an ale, and Brewster buys a cactus sake. The bartender flirts with Brewster. Brewster says he has his eyes on someone else.
 

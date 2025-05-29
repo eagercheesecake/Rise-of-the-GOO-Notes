@@ -4,7 +4,9 @@ Maokai, also known as the Forgotten One, is a nature god who was taken prisoner 
 
 - **First Seen:** Session 9
 - **First Mentioned:** Session 6
-- **Status:** Alive
+- **Status:** Dead
+- **Time of Death:** Sometime between Session 24 and Session 30
+- **Cause of Death:** Burnt
 
 | Character |    Relation     |
 | :-------: | :-------------: |
@@ -15,13 +17,13 @@ Maokai, also known as the Forgotten One, is a nature god who was taken prisoner 
 |            |           | Session 11 | Mentioned | Session 21 |  Absent  |
 |            |           | Session 12 |  Absent   | Session 22 | Appeared |
 |            |           | Session 13 |  Absent   | Session 23 | Appeared |
-|            |           | Session 14 |  Absent   |            |          |
-|            |           | Session 15 |  Absent   |            |          |
-| Session 6  | Mentioned | Session 16 | Mentioned |            |          |
-| Session 7  |  Absent   | Session 17 |  Absent   |            |          |
-| Session 8  | Mentioned | Session 18 |  Absent   |            |          |
-| Session 9  | Appeared  | Session 19 |  Absent   |            |          |
-| Session 10 |  Absent   | Session 20 |  Absent   |            |          |
+|            |           | Session 14 |  Absent   | Session 24 |  Absent  |
+|            |           | Session 15 |  Absent   | Session 25 |  Absent  |
+| Session 6  | Mentioned | Session 16 | Mentioned | Session 26 |  Absent  |
+| Session 7  |  Absent   | Session 17 |  Absent   | Session 27 |  Absent  |
+| Session 8  | Mentioned | Session 18 |  Absent   | Session 28 |  Absent  |
+| Session 9  | Appeared  | Session 19 |  Absent   | Session 29 |  Absent  |
+| Session 10 |  Absent   | Session 20 |  Absent   | Session 30 | Appeared |
 ## [[Session 06 - Cult Pamphlets]]
 [[Branwyn of Coryphea|Branwyn]] mentions Maokai when the group goes to the chapel in the castle in Montrissad.
 ## [[Session 08 - Religious Conversion]]
@@ -38,3 +40,5 @@ Branwyn finds Maokai's tree, with a purple haze coming from [[Laogzed|Laogzed's]
 Maokai tells Branwyn he was the god of nature and decay until Mora betrayed him. She was going to become his avatar and return the world to nature. Maokai offers Branwyn the same deal. Branwyn says Maokai should protect all of nature, including mortals. Maokai offers to alternate between 100 years of mortal prosperity and 100 years of decay, and says that Branwyn's choice is between letting him or Mora win. Branwyn denies the offer, saying she will kill Mora on her own.
 
 In the Ringed City, Brewster finds an area for Maokai's hadozee devotees. He learns that Maokai took over [[Disgaia|Disgaia's]] domain.
+## [[Session 30 - Discretion]]
+Branwyn has a dream that Maokai has died. She sees the top half of a skeleton, with a burnt heart in its chest, lying in the bottom of Maokai's tree prison.

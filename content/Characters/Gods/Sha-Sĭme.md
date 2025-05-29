@@ -1,4 +1,5 @@
 ![[Misc/Images/Sha'Sime.png|250]]
+![[Sha-Sime Art.png]]
 
 Sha'Sime is the former goddess of war.
 

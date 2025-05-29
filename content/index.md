@@ -1,5 +1,5 @@
-|     [[Characters]]      |           [[Sessions]]           |   [[Gods]]    |
-| :---------------------: | :------------------------------: | :-----------: |
+|     [[Characters]]      |                [[Sessions]]                 |   [[Gods]]    |
+| :---------------------: | :-----------------------------------------: | :-----------: |
 | [[Changelog\|Features]] | [[Session 29 - Infighting\|Latest Session]] | [[Timelines]] |
 
 Current status:

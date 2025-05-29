@@ -24,7 +24,7 @@ Shurima the Corpsemaker is a powerful old man, worshipped by Moiloc. He is the g
 | Session 7  | Mentioned | Session 17 | Mentioned | Session 27 | Appeared  |
 | Session 8  | Mentioned | Session 18 | Appeared  | Session 28 |  Absent   |
 | Session 9  |  Absent   | Session 19 |  Absent   | Session 29 | Mentioned |
-| Session 10 | Mentioned | Session 20 |  Absent   |            |           |
+| Session 10 | Mentioned | Session 20 |  Absent   | Session 30 | Mentioned |
 
 ## [[Session 01 - Piss Grandma]]
 Moiloc follows Shurima into an alley where she finds a murdered priest. The next day, [[Gertrude Spugel|Gertrude]] questions him about a piece of paper he has, but he refuses to tell her what it is.
@@ -66,3 +66,5 @@ Brewster finds hadozee in the Ringed City who cannot remember their god, and bel
 Branwyn finds a book confirming that a god of secrets exists, or existed. Shurima tells Moiloc she can brand a triton prisoner to enslave him.
 ## [[Session 29 - Infighting]]
 In [[Sha-Sĭme|Sha-Sĭme's]] crypt, [[Martin Sootspot|Martin]] learns that Rekk-To, one of Sha-Sĭme's avatars was a warrior for the country of Shurima, who died after being poisoned at a feast.
+## [[Session 30 - Discretion]]
+Moiloc meets [[Reptile]], another follower of Shurima. He says Shurima helped him reach Velbrass after he escaped from slavery in Whitehall. Later, [[Hadrian]] says that the ruler of the country of Shurima entered the Ringed City, and he hasn't been seen since. Nobody knows what happened to him.

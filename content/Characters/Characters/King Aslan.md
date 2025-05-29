@@ -13,12 +13,12 @@ King Aslan is the lion king of Amaris. He is in charge of running this year's Am
 | Session 2  |  Absent  | Session 12 |  Absent   | Session 22 |  Absent   |
 | Session 3  |  Absent  | Session 13 |  Absent   | Session 23 |  Absent   |
 | Session 4  |  Absent  | Session 14 | Mentioned | Session 24 | Mentioned |
-| Session 5  |  Absent  | Session 15 |  Absent   |            |           |
-| Session 6  | Appeared | Session 16 |  Absent   |            |           |
-| Session 7  | Appeared | Session 17 |  Absent   |            |           |
-| Session 8  |  Absent  | Session 18 |  Absent   |            |           |
-| Session 9  | Appeared | Session 19 |  Absent   |            |           |
-| Session 10 |  Absent  | Session 20 |  Absent   |            |           |
+| Session 5  |  Absent  | Session 15 |  Absent   | Session 25 |  Absent   |
+| Session 6  | Appeared | Session 16 |  Absent   | Session 26 |  Absent   |
+| Session 7  | Appeared | Session 17 |  Absent   | Session 27 |  Absent   |
+| Session 8  |  Absent  | Session 18 |  Absent   | Session 28 |  Absent   |
+| Session 9  | Appeared | Session 19 |  Absent   | Session 29 |  Absent   |
+| Session 10 |  Absent  | Session 20 |  Absent   | Session 30 | Mentioned |
 ## [[Session 01 - Piss Grandma]]
 King Aslan announces this year's Games.
 ## [[Session 06 - Cult Pamphlets]]
@@ -33,3 +33,5 @@ Goro tells [[Kaldrake Sootspot|Kaldrake]] that [[Lortzgab]] was able to finish h
 Goro says that after Lortzgab and Aslan teleported away, they were soon captured.
 ## [[Session 24 - Charlotte's Back!]]
 Goro tells the story of how he and King Aslan first met, soon after the end of the great dragon war, although Moiloc keeps this information secret.
+## [[Session 30 - Discretion]]
+The sultan in Velbrass, Anu, is King Aslan's brothers.

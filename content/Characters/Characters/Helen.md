@@ -14,7 +14,7 @@ Helen is a human woman who was abducted by Olidamuru, and put in Lothric castle 
 |            |          | Session 27 |  Absent  |
 | Session 18 | Appeared | Session 28 | Appeared |
 | Session 19 | Appeared | Session 29 | Appeared |
-| Session 20 | Appeared |            |          |
+| Session 20 | Appeared | Session 30 | Appeared |
 ## [[Session 18 - What Would Branwyn Do]]
 Helen is found bound and kneeling, with a knife laid in front of her, and a note saying to stab her. [[Lothar (Brewster) Nash|Brewster]] confirms that she is alive despite being unresponsive. They free her, and take her with them.
 ## [[Session 19 - Inspiration (Desperation)]]
@@ -35,3 +35,5 @@ Helen decides not to join the party while they explore the town.
 Helen agrees to join the others on their way to Whitehall. The group is attacked by bandits soon after leaving Domnhall Keep. They get information from a bandit and learn how their camp is laid out, making a plan to take the camp out to stop the bandits from their ransacking of caravans. Branwyn, Goro, [[William Archer|William]], and [[Tarren Hammerfist|Tarren]] kill the boss of the bandit camp.
 ## [[Session 29 - Infighting]]
 Helen stays behind while the party enters [[Sha-Sĭme|Sha-Sĭme's]] Crypt. In Velbrass, Helen is among the group that sells the spices from the bandit camp. Martin denies her a ring after all of the payment he had given her, so she buys the ring herself. Martin sees a teenage lizardfolk pickpocketing a merchant, and the group chases after him.
+## [[Session 30 - Discretion]]
+Helen stays outside while Moiloc talks with the thief. The next day, Helen joins Martin and Brewster to go to the Lyceum. After chaos at a nearby archaeological site, Brewster and Helen find a cleric, [[Ishtar]], who says she may be able to help heal Helen's tongue.

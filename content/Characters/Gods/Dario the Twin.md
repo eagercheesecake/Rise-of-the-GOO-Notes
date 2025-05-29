@@ -15,5 +15,14 @@ Dario the Twin is the former god of love.
 |  Session   |  Status   |
 | :--------: | :-------: |
 | Session 23 | Mentioned |
+| Session 24 |  Absent   |
+| Session 25 |  Absent   |
+| Session 26 |  Absent   |
+| Session 27 |  Absent   |
+| Session 28 |  Absent   |
+| Session 29 |  Absent   |
+| Session 30 | Mentioned |
 ## [[Session 23 - Sootspot Intuition]]
 While in the Ringed City, [[Lothar (Brewster) Nash|Brewster]] learns that Dario is the former god of love and camaraderie. He wasn't as popular, but was worshipped by newlyweds and lovers. He didn't have many dedicated clerics.
+## [[Session 30 - Discretion]]
+[[Branwyn of Coryphea|Branwyn]] enters the mausoleum of Dario the Twin, and the lead cleric, [[Hadrian]], gives her a tour. We learn that the followers of Dario are called Valentines. Hadrian has a pendant, the Everheart, containing part of Dario's soul. The Valentines hope to use it to bring Dario back one day. Hadrian's tour ends with Dario's crypt, his final resting place. Tapestries in this room tell Dario's story. He was born with his twin, [[Celica the Good|Celica]]. They were not born into godhood, but were made into gods. Dario was the first God to die during the Great Dragon Strife.
