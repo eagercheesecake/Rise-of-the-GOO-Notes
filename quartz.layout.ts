@@ -52,11 +52,11 @@ export const defaultListPageLayout: PageLayout = {
       // omitted but shown later
       sortFn: (a, b) => {
         return a.displayName.localeCompare(b.displayName)
-      }
-      //filterFn: ...,
-      //mapFn: ...,
+      },
+      filterFn: (node) => node.displayName !== "tags",
+      mapFn: undefined,
       // what order to apply functions in
-      //order: ["filter", "map", "sort"],
+      order: ["filter", "map", "sort"],
     })
   ],
   right: [],
