@@ -1,3 +1,7 @@
+---
+title: Home
+---
+
 |     [[Characters]]      |                [[Sessions]]                 |   [[Gods]]    |
 | :---------------------: | :-----------------------------------------: | :-----------: |
 | [[Changelog\|Features]] | [[Session 30 - Discretion\|Latest Session]] | [[Timelines]] |
