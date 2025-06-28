@@ -18,7 +18,7 @@ Tarren is a member of the Resistance in Dunn, and a contestant in the Montrissad
 | Session 7  | Appeared  | Session 17 | Appeared  | Session 27 | Appeared  |
 | Session 8  | Appeared  | Session 18 | Appeared  | Session 28 | Appeared  |
 | Session 9  | Appeared  | Session 19 |  Absent   | Session 29 | Appeared  |
-| Session 10 | Mentioned | Session 20 | Mentioned | Session 30 | Appeared  |
+| Session 10 | Mentioned | Session 20 | Mentioned | Session 30 | Appeared Session 30 | Appeared |
 ## [[Session 06 - Cult Pamphlets]]
 [[Moiloc Kodlaksdottër|Moiloc]] finds Tarren and [[Belnades]] as they escape the attack at the pre-game feast. They escape through a hole in the wall of a hallway, and jump into the moat, escaping back to the streets of Montrissad.
 ## [[Session 07 - Shuffleboard]]
@@ -47,5 +47,7 @@ Tarren is present when the group meets with [[Isaac Domhnall]] in Domnhall Keep.
 Tarren joins the group on their way to Whitehall. The group is attacked by bandits soon after leaving Domnhall Keep. They get information from a bandit and learn how their camp is laid out, making a plan to take the camp out to stop the bandits from their ransacking of caravans. Branwyn, Goro, [[William Archer|William]], and Tarren kill the boss of the bandit camp. They rescue [[Vulcan]] from the camp. They also steal supplies from the warehouse.
 ## [[Session 29 - Infighting]]
 Tarren stays behind while the party enters [[Sha-Sĭme|Sha-Sĭme's]] Crypt. In Velbrass, Tarren is among the group that sells the spices from the bandit camp. Martin sees a teenage lizardfolk pickpocketing a merchant, and the group chases after him.
+## [[Session 30 -]]
+Tarren joins Moiloc when she meets with [[Reptile]] at the mercenary's guild. He reveals that he knew Reptile from their time in Whitehall.
 ## [[Session 30 - Discretion]]
 Tarren joins Moiloc when she meets with [[Reptile]] at the mercenary's guild. He reveals that he knew Reptile from their time in Whitehall.

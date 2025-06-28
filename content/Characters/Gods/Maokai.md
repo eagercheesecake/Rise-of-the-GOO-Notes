@@ -6,6 +6,8 @@ Maokai, also known as the Forgotten One, is a nature god who was taken prisoner 
 - **First Mentioned:** Session 6
 - **Status:** Dead
 - **Time of Death:** Sometime between Session 24 and Session 30
+- **Cause of Death:** Dead
+- **Time of Death:** Sometime between Session 24 and Session 30
 - **Cause of Death:** Burnt
 
 | Character |    Relation     |
@@ -18,6 +20,12 @@ Maokai, also known as the Forgotten One, is a nature god who was taken prisoner 
 |            |           | Session 12 |  Absent   | Session 22 | Appeared |
 |            |           | Session 13 |  Absent   | Session 23 | Appeared |
 |            |           | Session 14 |  Absent   | Session 24 |  Absent  |
+|            |           | Session 15 |  Absent   | Session 25 |  Absent  |
+| Session 6  | Mentioned | Session 16 | Mentioned | Session 26 |  Absent  |
+| Session 7  |  Absent   | Session 17 |  Absent   | Session 27 |  Absent  |
+| Session 8  | Mentioned | Session 18 |  Absent   | Session 28 |  Absent  |
+| Session 9  | Appeared  | Session 19 |  Absent   | Session 29 |  Absent  |
+| Session 10 |  Absent   | Session 20 |  Absent   | Session 30 | AppearedSession 24 |  Absent  |
 |            |           | Session 15 |  Absent   | Session 25 |  Absent  |
 | Session 6  | Mentioned | Session 16 | Mentioned | Session 26 |  Absent  |
 | Session 7  |  Absent   | Session 17 |  Absent   | Session 27 |  Absent  |

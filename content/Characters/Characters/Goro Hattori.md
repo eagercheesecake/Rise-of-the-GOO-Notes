@@ -11,18 +11,18 @@ Goro is an old dragonborn man. He is the castle blacksmith in Montrissad.
 | :--------------------: | :------: |
 | [[Haru Hattori\|Haru]] |  Sister  |
 
-|  Session   |  Status  |  Session   |  Status  |  Session   |  Status  |
-| :--------: | :------: | :--------: | :------: | :--------: | :------: |
-|            |          | Session 11 | Appeared | Session 21 | Appeared |
-|            |          | Session 12 | Appeared | Session 22 | Appeared |
-|            |          | Session 13 | Appeared | Session 23 | Appeared |
-|            |          | Session 14 | Appeared | Session 24 | Appeared |
-|            |          | Session 15 |  Absent  | Session 25 | Appeared |
-| Session 6  | Appeared | Session 16 |  Absent  | Session 26 |  Absent  |
-| Session 7  | Appeared | Session 17 |  Absent  | Session 27 |  Absent  |
-| Session 8  | Appeared | Session 18 |  Absent  | Session 28 | Appeared |
-| Session 9  | Appeared | Session 19 |  Absent  | Session 29 | Appeared |
-| Session 10 |  Absent  | Session 20 |  Absent  | Session 30 | Appeared |
+|  Session   |  Status  |  Session   |  Status  |  Session   |  Status  |  Session   |  Status  |
+| :--------: | :------: | :--------: | :------: | :--------: | :------: | :--------: | :------: |
+|            |          | Session 11 | Appeared | Session 21 | Appeared | Session 31 | Appeared |
+|            |          | Session 12 | Appeared | Session 22 | Appeared |            |          |
+|            |          | Session 13 | Appeared | Session 23 | Appeared |            |          |
+|            |          | Session 14 | Appeared | Session 24 | Appeared |            |          |
+|            |          | Session 15 |  Absent  | Session 25 | Appeared |            |          |
+| Session 6  | Appeared | Session 16 |  Absent  | Session 26 |  Absent  |            |          |
+| Session 7  | Appeared | Session 17 |  Absent  | Session 27 |  Absent  |            |          |
+| Session 8  | Appeared | Session 18 |  Absent  | Session 28 | Appeared |            |          |
+| Session 9  | Appeared | Session 19 |  Absent  | Session 29 | Appeared |            |          |
+| Session 10 |  Absent  | Session 20 |  Absent  | Session 30 | Appeared |            |          |
 ## [[Session 06 - Cult Pamphlets]]
 [[Kaldrake Sootspot|Kaldrake]], [[Branwyn of Coryphea|Branwyn]], and [[Gertrude Spugel|Gertrude]] come to Goro to ask for [[Gwyneth Sootspot|Gwyneth's]] whereabouts after learning they were friends. Goro tells them she left for Martin's Isle, and gives them a key to her office. He also suggests that [[Bartholomew]] might be able to remove Gertrude's curse and restore her memories. He also gives them some weapons.
 ## [[Session 07 - Shuffleboard]]
@@ -57,3 +57,5 @@ Goro agrees to go with the group to Whitehall. The group is attacked by bandits 
 Goro stays behind while the party enters [[Sha-Sĭme|Sha-Sĭme's]] Crypt. In Velbrass, he goes straight to sleep in the room.
 ## [[Session 30 - Discretion]]
 Goro joins Martin as they visit the Lyceum.
+## [[Session 31]]
+Martin, Goro, and Lucretia return to the mercenary guild to meet up with the others.

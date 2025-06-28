@@ -10,17 +10,18 @@ Martin is a wizard of the Sootspot family.
 |         [[Balthazar Sootspot\|Balthazar]]         |      Father       |
 | [[Martin the Great\|Martin]] | Great-Grandfather |
 
-|  Session   |  Status  |
-| :--------: | :------: |
-| Session 22 | Appeared |
-| Session 23 | Appeared |
-| Session 24 | Appeared |
-| Session 25 | Appeared |
-| Session 26 | Appeared |
-| Session 27 | Appeared |
-| Session 28 | Apperaed |
-| Session 29 | Appeared |
-| Session 30 | Appeared |
+|  Session   |  Status  |  Session   |  Status  |
+| :--------: | :------: | :--------: | :------: |
+|            |          | Session 31 | Appeared |
+| Session 22 | Appeared |            |          |
+| Session 23 | Appeared |            |          |
+| Session 24 | Appeared |            |          |
+| Session 25 | Appeared |            |          |
+| Session 26 | Appeared |            |          |
+| Session 27 | Appeared |            |          |
+| Session 28 | Apperaed |            |          |
+| Session 29 | Appeared |            |          |
+| Session 30 | Appeared |            |          |
 ## [[Session 22 - The B Team]]
 [[Martin Sootspot|Martin]], [[Ouroborus Tikktal|Ororo]], [[Mora|Morrigan]], [[Contigo Muñoz|Contigo]], and [[Arklow Laban|Arklow]] arrive in Col Man'Dar after Martin sees a vision of Kaldrake's death, and find his corpse. The group finds [[Goro Hattori|Goro]] in the lumber mill, and [[Velma|Velma's]] corpse in the forest. Morrigan casts Charm Person on Martin, but fails, with Martin telling her not to do it again. Instead, Morrigan casts Dominate Person on Martin. She tells him via Telepathy to look for [[Branwyn of Coryphea|Branwyn's]] body in the forest. Ororo realizes Martin is under the effect of magic and dispels it, causing Martin to fight with Morrigan about the Dominate Person spell she used. Morrigan explains she is looking for a childhood friend, and Martin agrees to help look, but on the path instead of in the middle of the forest, although Martin realizes Morrigan's explanation is a lie. During the night, Ororo wakes Martin up and says Morrigan and Contigo are gone, and that she thinks Morrigan used Dominate Person on Contigo. They give chase.
 
@@ -43,3 +44,5 @@ The party and Vulcan enter the Crypt of Sha-Sĭme, where they solve puzzles and 
 In Velbrass, Martin is among the group that sells the spices from the bandit camp. He denies Helen a ring after all of the payment he had given her, so she buys the ring herself. Martin sees a teenage lizardfolk pickpocketing a merchant, and the group chases after him.
 ## [[Session 30 - Discretion]]
 After following the pickpocket to his hovel, Martin feels bad about breaking into his home, and leaves Moiloc to talk to him. He overhears Moiloc talking to him, and casts Detect Thoughts when she leaves the hovel, learning that the pickpocket is [[Reptile]], another follower of Shurima. The next day, Martin tries to go to the Lyceum, and meets up with an old friend, Lucretia. They return to the Lyceum to catch up. When Martin mentions he is going to Whitehall, Lucrecia asks to join them, hoping to talk to [[Daphne]]. They proceed to the headmaster, and get his permission to let Lucretia leave the school for a time to join them. Maelon Switt delivers a letter to Martin saying he's disappointed that Martin didn't stay for their meeting in Domnhall Keep, and asking him to stay in Velbras so he can kill him there in two days.
+## [[Session 31]]
+Martin, Goro, and Lucretia return to the mercenary guild to meet up with the others.
