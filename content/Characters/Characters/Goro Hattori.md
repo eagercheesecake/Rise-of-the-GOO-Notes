@@ -57,5 +57,5 @@ Goro agrees to go with the group to Whitehall. The group is attacked by bandits 
 Goro stays behind while the party enters [[Sha-Sĭme|Sha-Sĭme's]] Crypt. In Velbrass, he goes straight to sleep in the room.
 ## [[Session 30 - Discretion]]
 Goro joins Martin as they visit the Lyceum.
-## [[Session 31]]
-Martin, Goro, and Lucretia return to the mercenary guild to meet up with the others.
+## [[Session 31 - Fourteen Rings]]
+Martin, Goro, and Lucretia return to the mercenary guild to meet up with the others. They join Martin and Tarren to negotiate with [[Holliday]]. Once Martin tells the group about the assassins the Bagworm is preparing to kill them, they make a plan to take out the Bagworm. They find that the Bagworm has taken control over a death knight, who they cannot hope to defeat, so they find the Bagworm in the basement and kill him.

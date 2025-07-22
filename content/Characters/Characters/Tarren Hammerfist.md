@@ -26,7 +26,7 @@ Moiloc, Belnades, and Tarren proceed to [[Monty MacMasters|Monty's]] through the
 
 The group runs across the street to [[Bartholomew|Bartholomew's]] apothecary to heal their wounds. In the main room, there is a large teleportation glyph on the floor. They attempt to use it to teleport to the docks to escape. They find themselves teleported to a house near the docks. They escape through a nearby sewer grate, and find [[Goro Hattori|Goro]], [[David]], and [[King Aslan]] by the grate facing the docks, unable to progress since the grate is locked. However, Goro is able to use David's hammer to break the lock, and the group proceeds to Goro's ship, the Wavecrasher. After setting sail, the group hears something from under the decks, and descends to find [[Skalazar]], a stowaway on the ship. They decide to head to Brasov, in Wallachia. Tarren and [[Contigo Muñoz]] bond on the ship. After they arrive, Tarren stays on the ship to talk to Goro.
 ## [[Session 08 - Religious Conversion]]
-Terren speaks with [[Jessie Harkness|Jessie]] at the inn, scheduling a meeting with the resistance for that night. Moiloc and [[Branwyn of Coryphea|Branwyn]] overhear them, and he invites them to the meeting as well.
+Tarren speaks with [[Jessie Harkness|Jessie]] at the inn, scheduling a meeting with the resistance for that night. Moiloc and [[Branwyn of Coryphea|Branwyn]] overhear them, and he invites them to the meeting as well.
 ## [[Session 09 - The Man or the Bears]]
 Tarren sees Branwyn, disguised as Tarren, try to join the Resistance's meeting under the inn. He sets off explosives and attacks the imposter, but realizes what had happened once Moiloc ignites her fire sword to protect Branwyn. Tarren points the pair to a tunnel that leads to Dunn. Once they arrive in Dunn, Tarren passes them off to [[Loktar Malgoth|Loktar]] to get them settled.
 ## [[Session 10 - Strategic Milk Bucket]]
@@ -47,7 +47,7 @@ Tarren is present when the group meets with [[Isaac Domhnall]] in Domnhall Keep.
 Tarren joins the group on their way to Whitehall. The group is attacked by bandits soon after leaving Domnhall Keep. They get information from a bandit and learn how their camp is laid out, making a plan to take the camp out to stop the bandits from their ransacking of caravans. Branwyn, Goro, [[William Archer|William]], and Tarren kill the boss of the bandit camp. They rescue [[Vulcan]] from the camp. They also steal supplies from the warehouse.
 ## [[Session 29 - Infighting]]
 Tarren stays behind while the party enters [[Sha-Sĭme|Sha-Sĭme's]] Crypt. In Velbrass, Tarren is among the group that sells the spices from the bandit camp. Martin sees a teenage lizardfolk pickpocketing a merchant, and the group chases after him.
-## [[Session 30 -]]
-Tarren joins Moiloc when she meets with [[Reptile]] at the mercenary's guild. He reveals that he knew Reptile from their time in Whitehall.
 ## [[Session 30 - Discretion]]
 Tarren joins Moiloc when she meets with [[Reptile]] at the mercenary's guild. He reveals that he knew Reptile from their time in Whitehall.
+## [[Session 31 - Fourteen Rings]]
+Once Martin arrives, Tarren joins him to negotiate with [[Holliday]]. Once Martin tells the group about the assassins the Bagworm is preparing to kill them, they make a plan to take out the Bagworm. They find that the Bagworm has taken control over a death knight, who they cannot hope to defeat, so they find the Bagworm in the basement and kill him.

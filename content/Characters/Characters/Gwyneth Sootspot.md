@@ -17,18 +17,18 @@ Gwyneth is an elven wizard, and Kaldrake's sister.
 |                     [[Bisco]]                     |      Servant      |
 |  [[Characters/Players/Martin Sootspot\|Martin]]   |      Brother      |
 
-|  Session   |  Status   |  Session   |  Status   |  Session   |  Status   |
-| :--------: | :-------: | :--------: | :-------: | :--------: | :-------: |
-| Session 1  | Appeared  | Session 11 | Mentioned | Session 21 |  Absent   |
-| Session 2  |  Absent   | Session 12 | Mentioned | Session 22 |  Absent   |
-| Session 3  |  Absent   | Session 13 | Mentioned | Session 23 |  Absent   |
-| Session 4  |  Absent   | Session 14 | Appeared  | Session 24 | Mentioned |
-| Session 5  | Mentioned | Session 15 | Appeared  | Session 25 | Appeared  |
-| Session 6  | Mentioned | Session 16 | Mentioned |            |           |
-| Session 7  | Mentioned | Session 17 | Mentioned |            |           |
-| Session 8  |  Absent   | Session 18 | Mentioned |            |           |
-| Session 9  |  Absent   | Session 19 |  Absent   |            |           |
-| Session 10 |  Absent   | Session 20 |  Absent   |            |           |
+|  Session   |  Status   |  Session   |  Status   |  Session   |  Status   |  Session   |  Status   |
+| :--------: | :-------: | :--------: | :-------: | :--------: | :-------: | :--------: | :-------: |
+| Session 1  | Appeared  | Session 11 | Mentioned | Session 21 |  Absent   | Session 31 | Mentioned |
+| Session 2  |  Absent   | Session 12 | Mentioned | Session 22 |  Absent   |            |           |
+| Session 3  |  Absent   | Session 13 | Mentioned | Session 23 |  Absent   |            |           |
+| Session 4  |  Absent   | Session 14 | Appeared  | Session 24 | Mentioned |            |           |
+| Session 5  | Mentioned | Session 15 | Appeared  | Session 25 | Appeared  |            |           |
+| Session 6  | Mentioned | Session 16 | Mentioned | Session 26 |  Absent   |            |           |
+| Session 7  | Mentioned | Session 17 | Mentioned | Session 27 | Mentioned |            |           |
+| Session 8  |  Absent   | Session 18 | Mentioned | Session 28 |  Absent   |            |           |
+| Session 9  |  Absent   | Session 19 |  Absent   | Session 29 |  Absent   |            |           |
+| Session 10 |  Absent   | Session 20 |  Absent   | Session 30 |  Absent   |            |           |
 ## [[Session 01 - Piss Grandma]]
 Kaldrake mentions that her sister is the person who commissioned [[Lexar Bellos|Lexar]] to protect her during the Games. Before the first melee, [[Gertrude Spugel|Gertrude]] sees Gwyneth performing fire magic in front of the arena.
 ## [[Session 05 - Can't Be Worse Than Here]]
@@ -63,3 +63,5 @@ Goro says Gwyneth was researching the Great Old Ones, and that he believes she i
 Moiloc has a vision of Gwyneth, Mora, [[Daphne]], and [[Sister Marie the Confessor]] in Whitehall. They each appear, one after another, then it repeats.
 ## [[Session 27 - Free Stoners]]
 The Resistance says Gwyneth is the Queen's closest advisor, and the current leader of Wallachia. Gwyneth had been seen with Mora in Whitehall.
+## [[Session 31 - Fourteen Rings]]
+Martin finds a letter from [[Gwyneth Sootspot|Gwyneth]], who had told the Bagworm to kill four adventurers, but save Martin's body if he dies.

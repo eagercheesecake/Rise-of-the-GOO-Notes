@@ -7,6 +7,10 @@ King Aslan is the lion king of Amaris. He is in charge of running this year's Am
 - **First Seen:** Session 1
 - **Status:** Alive
 
+|   Character    | Relation |
+| :------------: | :------: |
+| [[Sultan Anu]] | Brother  |
+
 |  Session   |  Status  |  Session   |  Status   |  Session   |  Status   |
 | :--------: | :------: | :--------: | :-------: | :--------: | :-------: |
 | Session 1  | Appeared | Session 11 | Mentioned | Session 21 |  Absent   |
@@ -34,4 +38,4 @@ Goro says that after Lortzgab and Aslan teleported away, they were soon captured
 ## [[Session 24 - Charlotte's Back!]]
 Goro tells the story of how he and King Aslan first met, soon after the end of the great dragon war, although Moiloc keeps this information secret.
 ## [[Session 30 - Discretion]]
-The sultan in Velbrass, Anu, is King Aslan's brothers.
+The sultan in Velbrass, Anu, is revealed to be King Aslan's brother. The sultan says he would like to kill Aslan himself.

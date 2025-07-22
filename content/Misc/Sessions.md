@@ -64,3 +64,4 @@ Click a location to scroll to that city.
 | [[Session 28 - Making a Plan (Finally)]] | The group burns down a bandit camp.                                                                                                   |
 |       [[Session 29 - Infighting]]        | The group explores Sha-Sĭme's Crypt.<br>Branwyn and Brewster meet with the Bagworm.                                                   |
 |       [[Session 30 - Discretion]]        | The group recruits help for their trip to Whitehall.                                                                                  |
+|              [[Session 31 - Fourteen Rings]]              | The group kills the Bagworm.                                                                                                          |

@@ -14,18 +14,18 @@ Branwyn is an half-elf ranger woman, and child of Mora, originally coming from C
 |       [[Mora\|Mora]]        |  Mother  |
 |        [[Charlotte]]        |   Ward   |
 
-|  Session   |  Status  |  Session   |  Status  |  Session   |  Status  |
-| :--------: | :------: | :--------: | :------: | :--------: | :------: |
-| Session 1  | Appeared | Session 11 | Appeared | Session 21 | Appeared |
-| Session 2  | Appeared | Session 12 | Appeared | Session 22 | Appeared |
-| Session 3  | Appeared | Session 13 | Appeared | Session 23 | Appeared |
-| Session 4  | Appeared | Session 14 | Appeared | Session 24 | Appeared |
-| Session 5  | Appeared | Session 15 | Appeared | Session 25 | Appeared |
-| Session 6  | Appeared | Session 16 | Appeared | Session 26 | Appeared |
-| Session 7  | Appeared | Session 17 | Appeared | Session 27 | Appeared |
-| Session 8  | Appeared | Session 18 | Appeared | Session 28 | Appeared |
-| Session 9  | Appeared | Session 19 | Appeared | Session 29 | Appeared |
-| Session 10 | Appeared | Session 20 | Appeared | Session 30 | Appeared |
+|  Session   |  Status  |  Session   |  Status  |  Session   |  Status  |  Session   |  Status  |
+| :--------: | :------: | :--------: | :------: | :--------: | :------: | :--------: | :------: |
+| Session 1  | Appeared | Session 11 | Appeared | Session 21 | Appeared | Session 31 | Appeared |
+| Session 2  | Appeared | Session 12 | Appeared | Session 22 | Appeared |            |          |
+| Session 3  | Appeared | Session 13 | Appeared | Session 23 | Appeared |            |          |
+| Session 4  | Appeared | Session 14 | Appeared | Session 24 | Appeared |            |          |
+| Session 5  | Appeared | Session 15 | Appeared | Session 25 | Appeared |            |          |
+| Session 6  | Appeared | Session 16 | Appeared | Session 26 | Appeared |            |          |
+| Session 7  | Appeared | Session 17 | Appeared | Session 27 | Appeared |            |          |
+| Session 8  | Appeared | Session 18 | Appeared | Session 28 | Appeared |            |          |
+| Session 9  | Appeared | Session 19 | Appeared | Session 29 | Appeared |            |          |
+| Session 10 | Appeared | Session 20 | Appeared | Session 30 | Appeared |            |          |
 ## [[Session 01 - Piss Grandma]]
 Branwyn finds [[Monty's Son]] on the streets of Montrissad, who points her to Monty to sell her cloak. On her way to Monty's, she is attacked by a teenage thief, and knocks him out, leaving him some gold as an apology. Monty tries to rip her off in the sale, but fails, and instead offers to sponsor her in the Games. Branwyn shows the letter to [[Jim MacMasters|Jim]] at the inn and gets a room.
 
@@ -77,7 +77,7 @@ They proceed to the Grove, but find themselves stuck in a magical loop of forest
 ## [[Session 09 - The Man or the Bears]]
 Branwyn has a dream where she re-lives a memory from her childhood. She receives a bite on her shoulder, and when she wakes up finds the bite is still there, and the injury is fresh, but scabbing quickly. Grima tells Branwyn that Mora is a witch who survives by taking the bodies of children. Branwyn confirms that the last time she saw Mora was when she was eighteen. Branwyn also tells him about the injury that followed her from her dream, and Grima tells her she is a green dreamer, which may explain why Mora is so interested in her. The injury seems to scare him, and Grima asks her to leave, as she is inviting evil into the grove. He gives her a wooden ring, telling her it will protect her, and to never take it off.
 
-They decide to return to Dunn and try and meet back up with Terren and Jessie under the inn for their meeting. They sneak into Brasov and the inn. Branwyn disguises herself as Tarren to try and gain the Resistance's trust and enter the meeting. However, it turns out Tarren is already in the meeting, so they realize this isn't the real Tarren. They set of explosives, blowing Branwyn back, and as Moiloc illuminates her fire sword, Tarren realizes what had happened and stops attacking Branwyn. The rest of the Resistance had fled when Branwyn knocked, and Tarren points the pair to a tunnel leading to Dunn. Once they arrive, Branwyn goes to [[Gorm|Gorm's]] tent for a bow and arrows. Tarren tells Branwyn that Charlotte is safe with Jessie in the nearby cave.
+They decide to return to Dunn and try and meet back up with Tarren and Jessie under the inn for their meeting. They sneak into Brasov and the inn. Branwyn disguises herself as Tarren to try and gain the Resistance's trust and enter the meeting. However, it turns out Tarren is already in the meeting, so they realize this isn't the real Tarren. They set of explosives, blowing Branwyn back, and as Moiloc illuminates her fire sword, Tarren realizes what had happened and stops attacking Branwyn. The rest of the Resistance had fled when Branwyn knocked, and Tarren points the pair to a tunnel leading to Dunn. Once they arrive, Branwyn goes to [[Gorm|Gorm's]] tent for a bow and arrows. Tarren tells Branwyn that Charlotte is safe with Jessie in the nearby cave.
 ## [[Session 10 - Strategic Milk Bucket]]
 Branwyn reunites with Jessie in a cave in Dunn. Charlotte promises that Loktar is protecting the village, and promises to tell Jessie if she needs anything. Moiloc tells Branwyn about a lab studying ydril, and they go to check it out. They meet [[Lothar (Brewster) Nash|Brewster]] and [[Dr. Nubgrub]] at the lab. Brewster identifies Branwyn's ring as having some kind of warding magic on it. Moiloc tells Brewster that she worships Shurima, which makes Branwyn feel betrayed.
 
@@ -154,7 +154,11 @@ At the meeting with Ulysses, he says Branwyn's hair may be able to kill Mora. Br
 Branwyn finds some arrows and a crossbow from the fletcher in town. The group is attacked by bandits soon after leaving Domnhall Keep. They get information from a bandit and learn how their camp is laid out, making a plan to take the camp out to stop the bandits from their ransacking of caravans. Branwyn, Goro, [[William Archer|William]], and Tarren kill the boss of the bandit camp. They rescue [[Vulcan]] from the camp. They also steal supplies from the warehouse. Branwyn also rescues some of the bandits' captive wolves.
 ## [[Session 29 - Infighting]]
 The party and Vulcan enter the Crypt of Sha-Sĭme, where they solve puzzles and learn of the history of Sha-Sĭme. In a staged fight, Brewster is paired up with Branwyn. Branwyn decides to take the brunt of Brewster's attack, hoping it was a test of purity in refusing to fight, but is killed by a vision of Rekk-To. Branwyn reappears outside the crypt with the others who died in the fight, and the group continues to Velbrass after Martin returns with the treasure of the crypt. In Velbrass, Branwyn is among the group the meets with [[The Bagworm]]. He offers to help them with whatever they need if they can retrieve something for him from the Lyceum. Branwyn listens in on partygoers in the bar, and learns of someone who had an accident after longstanding debt to the Bagworm.
-## [[Session 30 -]]
-Branwyn has a dream that Maokai has been burnt to death in his tree prison.
 ## [[Session 30 - Discretion]]
-Branwyn has a dream that Maokai has been burnt to death in his tree prison. In the morning, she follows Moiloc to the mercenary guild to meet with [[Reptile]], worried of her meeting with another follower of Shurima alone. The guild isn't open when they arrive, so Branwyn, Vulcan, and William explore the nearby mausoleum of [[Dario the Twin]]. Inside, she meets the head cleric, Hadrian, who takes her on a tour, ending with the final resting place of Dario.
+Branwyn has a dream that Maokai has been burnt to death in his tree prison. In the morning, she follows Moiloc to the mercenary guild to meet with [[Reptile]], worried of her meeting with another follower of Shurima alone. The guild isn't open when they arrive, so Branwyn, Vulcan, and William explore the nearby mausoleum of [[Dario the Twin]]. Inside, she meets the head cleric, [[Hadrian]], who takes her on a tour, ending with the final resting place of Dario.
+## [[Session 31 - Fourteen Rings]]
+Branwyn and Brewster return to Helen in the mausoleum, with Hadrian, who heals her. Branwyn asks if Hadrian knows anything about gods of nature, and he gives her a book about [[Disgaia]]. They return to the mercenary guild to find Moiloc, and decide to go to the [[Sultan Anu|sultan]]. Branwyn's ring that protects her from Mora, along with the ring the sultan gave Brewster, and the ring which removed Brewster's finger, coalesce into one ring: Withermold.
+
+Once Martin tells the group about the assassins the Bagworm is preparing to kill them, they make a plan to take out the Bagworm. They find that the Bagworm has taken control over a death knight, who they cannot hope to defeat, so they find the Bagworm in the basement and kill him.
+
+Branwyn disguises herself as the Bagworm, and uses his rings to break into his stash of gold in his office. She reads Disgaia's book, and learns of a fable about her. Martin brings Branwyn, and the book she took from the chapel in Domnhall Keep with a missing name for a god, to the Tower of Erebus. When they open the book, Shurima's name disappears, and is replaces with the name Xerxes, and the tower begins to shake.

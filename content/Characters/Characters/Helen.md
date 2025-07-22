@@ -3,18 +3,18 @@ Helen is a human woman who was abducted by Olidamuru, and put in Lothric castle 
 - **First Seen:** Session 18
 - **Status:** Alive
 
-|  Session   |  Status  |  Session   |  Status  |
-| :--------: | :------: | :--------: | :------: |
-|            |          | Session 21 | Appeared |
-|            |          | Session 22 | Appeared |
-|            |          | Session 23 | Appeared |
-|            |          | Session 24 | Appeared |
-|            |          | Session 25 | Appeared |
-|            |          | Session 26 |  Absent  |
-|            |          | Session 27 |  Absent  |
-| Session 18 | Appeared | Session 28 | Appeared |
-| Session 19 | Appeared | Session 29 | Appeared |
-| Session 20 | Appeared | Session 30 | Appeared |
+|  Session   |  Status  |  Session   |  Status  |  Session   |  Status  |
+| :--------: | :------: | :--------: | :------: | :--------: | :------: |
+|            |          | Session 21 | Appeared | Session 31 | Appeared |
+|            |          | Session 22 | Appeared |            |          |
+|            |          | Session 23 | Appeared |            |          |
+|            |          | Session 24 | Appeared |            |          |
+|            |          | Session 25 | Appeared |            |          |
+|            |          | Session 26 |  Absent  |            |          |
+|            |          | Session 27 |  Absent  |            |          |
+| Session 18 | Appeared | Session 28 | Appeared |            |          |
+| Session 19 | Appeared | Session 29 | Appeared |            |          |
+| Session 20 | Appeared | Session 30 | Appeared |            |          |
 ## [[Session 18 - What Would Branwyn Do]]
 Helen is found bound and kneeling, with a knife laid in front of her, and a note saying to stab her. [[Lothar (Brewster) Nash|Brewster]] confirms that she is alive despite being unresponsive. They free her, and take her with them.
 ## [[Session 19 - Inspiration (Desperation)]]
@@ -37,3 +37,5 @@ Helen agrees to join the others on their way to Whitehall. The group is attacked
 Helen stays behind while the party enters [[Sha-Sĭme|Sha-Sĭme's]] Crypt. In Velbrass, Helen is among the group that sells the spices from the bandit camp. Martin denies her a ring after all of the payment he had given her, so she buys the ring herself. Martin sees a teenage lizardfolk pickpocketing a merchant, and the group chases after him.
 ## [[Session 30 - Discretion]]
 Helen stays outside while Moiloc talks with the thief. The next day, Helen joins Martin and Brewster to go to the Lyceum. After chaos at a nearby archaeological site, Brewster and Helen find a cleric, [[Ishtar]], who says she may be able to help heal Helen's tongue.
+## [[Session 31 - Fourteen Rings]]
+Branwyn and Brewster return to Helen in the mausoleum, with Hadrian. Branwyn confirms from Helen that she would like her tongue to be healed, and Hadrian heals her after she provides him with a gem she got from Martin. They return to the mercenary guild to find Moiloc, and decide to go to the [[Sultan Anu|sultan]].

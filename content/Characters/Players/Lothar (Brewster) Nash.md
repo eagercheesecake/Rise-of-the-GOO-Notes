@@ -15,18 +15,18 @@ Brewster is a rock gnome who joined the Wallachian Resistance after being freed 
 |     [[Daphne]]      |  Friend  |
 | [[Puck Nash\|Puck]] | Servant  |
 
-|  Session   |  Status  |  Session   |  Status  |  Session   |  Status  |
-| :--------: | :------: | :--------: | :------: | :--------: | :------: |
-|            |          | Session 11 | Appeared | Session 21 | Appeared |
-|            |          | Session 12 | Appeared | Session 22 | Appeared |
-|            |          | Session 13 | Appeared | Session 23 | Appeared |
-|            |          | Session 14 | Appeared | Session 24 | Appeared |
-|            |          | Session 15 | Appeared | Session 25 | Appeared |
-|            |          | Session 16 | Appeared | Session 26 | Appeared |
-|            |          | Session 17 | Appeared | Session 27 | Appeared |
-|            |          | Session 18 | Appeared | Session 28 | Appeared |
-|   | Session 19 | Appeared | Session 29 | Appeared |
-| Session 10 | Appeared | Session 20 | Appeared | Session 30 | Appeared |Session 30 | Appeared
+|  Session   |  Status  |  Session   |  Status  |  Session   |  Status  |  Session   |  Status  |
+| :--------: | :------: | :--------: | :------: | :--------: | :------: | :--------: | :------: |
+|            |          | Session 11 | Appeared | Session 21 | Appeared | Session 31 | Appeared |
+|            |          | Session 12 | Appeared | Session 22 | Appeared |            |          |
+|            |          | Session 13 | Appeared | Session 23 | Appeared |            |          |
+|            |          | Session 14 | Appeared | Session 24 | Appeared |            |          |
+|            |          | Session 15 | Appeared | Session 25 | Appeared |            |          |
+|            |          | Session 16 | Appeared | Session 26 | Appeared |            |          |
+|            |          | Session 17 | Appeared | Session 27 | Appeared |            |          |
+|            |          | Session 18 | Appeared | Session 28 | Appeared |            |          |
+|            |          | Session 19 | Appeared | Session 29 | Appeared |            |          |
+| Session 10 | Appeared | Session 20 | Appeared | Session 30 | Appeared |            |          |
 ## [[Session 10 - Strategic Milk Bucket]]
 Brewster meets [[Branwyn of Coryphea|Branwyn]] and [[Moiloc Kodlaksdottër|Moiloc]] when they come to learn about his study on ydril. He mends Moiloc's tattered armor, and she immediately goes into a long-winded story about how she lost her old armor. Brewster says his entire family was enslaved, so he doesn't have much pity for her. He also identifies Branwyn's ring as having some sort of warding magic on it, and identifies Moiloc's behelit as a key that responds to some phrase. He asks where she got the behelit, and she tells him about [[Shurima the Corpsemaker|Shurima]]. Brewster mentions that Shurima used to be a country until it was destroyed 400-500 years ago. Brewster makes her promise to tell him if anything else happens with Shurima, since this piques his interest.
 
@@ -105,7 +105,9 @@ Ulysses teaches Brewster about guns and ammunition. Brewster gets upgraded scale
 Brewster gives Ulysses the mask, and Ulysses teaches him how to make bullets from it. The group is attacked by bandits soon after leaving Domnhall Keep. They get information from a bandit and learn how their camp is laid out, making a plan to take the camp out to stop the bandits from their ransacking of caravans. Brewster and Moiloc sneak into the camp, and use burning zombified bandits to start fires. Brewster blocks the escape route with a Flaming Sphere, and uses Control Flames to make the flames appear scarier. Brewster picks the locks on the captives' cage and free them.
 ## [[Session 29 - Infighting]]
 The party and Vulcan enter the Crypt of Sha-Sĭme, where they solve puzzles and learn of the history of Sha-Sĭme. In a staged fight, Brewster is paired up with Branwyn. Branwyn decides to take the brunt of Brewster's attack, hoping it was a test of purity in refusing to fight, but is killed by a vision of Rekk-To. Brewster, Moiloc, and Martin are then pitted against Lokk-To, who is able to kill Brewster. Brewster reappears outside the crypt with the others who died in the fight, and the group continues to Velbrass after Martin returns with the treasure of the crypt. In Velbrass, Brewster is among the group the meets with [[The Bagworm]]. He offers to help them with whatever they need if they can retrieve something for him from the Lyceum. The barkeeper hits on Brewster, who says he's interested but he has his eye on someone else. Brewster uses Invisibility Puck to cheat at gambling, and gains a profit. Brewster has two cactus sakes and locks himself in the room.
-## [[Session 30 -]]
-After helping some wizards who were wounded by an explosion at the Tower of Erebus, Brewster meets a cleric, [[Ishtar]], who says she can help him find a cleric who can heal Helen's tongue.
 ## [[Session 30 - Discretion]]
 After helping some wizards who were wounded by an explosion at the Tower of Erebus, Brewster meets a cleric, [[Ishtar]], who says she can help him find a cleric who can heal Helen's tongue. On their way to the cleric, they are attacked by an orc, who Brewster kills. This makes Ishtar realize that Brewster isn't really a merchant like he says, and Brewster tells her their mission. She asks if she can join them.
+## [[Session 31 - Fourteen Rings]]
+Branwyn and Brewster return to Helen in the mausoleum, with [[Hadrian]], who heals her. They return to the mercenary guild to find Moiloc, and decide to go to the [[Sultan Anu|sultan]]. He allows [[Nissa]] to join them, saying she needs more experience. He tells Brewster to leave Nissa in Whitehall when they are done, as he plans to take it over and give his rule in Velbras to Nissa, if she can prove herself on this journey. Brewster agrees, but chooses not to tell Nissa about this, appreciating the test. The sultan gives Brewster a wooden, fleshy ring which he got from the previous sultan. Brewster attempts to get him to promise that he will not instate slavery after taking over Whitehall, and the sultan says slavery tends to make a ruler's reign end quickly. Branwyn's ring that protects her from Mora, along with the ring the sultan gave Brewster, and the ring which removed Brewster's finger, coalesce into one ring: Withermold.
+
+Once Martin tells the group about the assassins the Bagworm is preparing to kill them, they make a plan to take out the Bagworm. They find that the Bagworm has taken control over a death knight, who they cannot hope to defeat, so they find the Bagworm in the basement and kill him.

@@ -2,7 +2,7 @@ Boofoon is a young half-elf with a red buzz cut. They are one of the competitors
 
 - **First Seen:** Session 6
 - **Status:** Dead
-- **Cause of Death:** Killed by [[Man in Black Armor|a man in black armor]]
+- **Cause of Death:** Killed by [[Death Knight|a man in black armor]]
 - **Time of Death:** Session 6
 
 |  Character   | Relation |

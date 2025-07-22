@@ -13,18 +13,18 @@ Monty MacMasters, or Michael, both of which are likely pseudonyms, is a being th
 |   [[Jim MacMasters]]    |   Brother   |
 |     [[Monty's Son]]     |     Son     |
 
-|  Session   |  Status   |  Session   |  Status   |  Session   |  Status  |
-| :--------: | :-------: | :--------: | :-------: | :--------: | :------: |
-| Session 1  | Appeared  | Session 11 | Mentioned | Session 21 |  Absent  |
-| Session 2  |  Absent   | Session 12 |  Absent   | Session 22 |  Absent  |
-| Session 3  |  Absent   | Session 13 |  Absent   | Session 23 |  Absent  |
-| Session 4  | Appeared  | Session 14 | Mentioned | Session 24 |  Absent  |
-| Session 5  | Mentioned | Session 15 | Mentioned | Session 25 | Appeared |
-| Session 6  |  Absent   | Session 16 | Appeared  |            |          |
-| Session 7  | Mentioned | Session 17 |  Absent   |            |          |
-| Session 8  | Mentioned | Session 18 |  Absent   |            |          |
-| Session 9  |  Absent   | Session 19 |  Absent   |            |          |
-| Session 10 |  Absent   | Session 20 |  Absent   |            |          |
+|  Session   |  Status   |  Session   |  Status   |  Session   |  Status  |  Session   |  Status  |
+| :--------: | :-------: | :--------: | :-------: | :--------: | :------: | :--------: | :------: |
+| Session 1  | Appeared  | Session 11 | Mentioned | Session 21 |  Absent  | Session 31 | Appeared |
+| Session 2  |  Absent   | Session 12 |  Absent   | Session 22 |  Absent  |            |          |
+| Session 3  |  Absent   | Session 13 |  Absent   | Session 23 |  Absent  |            |          |
+| Session 4  | Appeared  | Session 14 | Mentioned | Session 24 |  Absent  |            |          |
+| Session 5  | Mentioned | Session 15 | Mentioned | Session 25 | Appeared |            |          |
+| Session 6  |  Absent   | Session 16 | Appeared  | Session 26 |  Absent  |            |          |
+| Session 7  | Mentioned | Session 17 |  Absent   | Session 27 |  Absent  |            |          |
+| Session 8  | Mentioned | Session 18 |  Absent   | Session 28 |  Absent  |            |          |
+| Session 9  |  Absent   | Session 19 |  Absent   | Session 29 |  Absent  |            |          |
+| Session 10 |  Absent   | Session 20 |  Absent   | Session 30 |  Absent  |            |          |
 ## [[Session 01 - Piss Grandma]]
 Branwyn comes to Monty trying to sell her cloak. Monty tries to rip her off, but fails. Instead, he offers to sponsor her in the Games, promising her gold and treasures. She leaves to think on it, and Monty provides her a letter which will get her a room at the inn. The next day, she returns and accepts his offer.
 
@@ -50,3 +50,5 @@ Gwyneth mentions that she trades artifacts with the Advisor of Coin, and says he
 [[Styx the Pathfinder|Styx]] gives Kaldrake a vision of Monty at Michael's in Lothric.
 ## [[Session 25 - I Know an Archer]]
 Monty reappears in Domnhall Keep as Mark Milkman, a furless tabaxi. He meets Branwyn again, and she buys a map from him. She also tells him that if he makes a deal and screws her over again, they're going to have a problem.
+## [[Session 31 - Fourteen Rings]]
+Mark Milkman shows up in Velbras, and [[Martin Sootspot|Martin]] buys thimbleweed from him.

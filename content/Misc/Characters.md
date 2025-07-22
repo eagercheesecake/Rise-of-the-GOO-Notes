@@ -35,7 +35,7 @@ Below are characters vaguely grouped in order of appearance. Characters may be f
 [[David]]
 [[Jacob]]
 [[Lortzgab]]
-[[Man in Black Armor]]
+[[Death Knight]]
 [[Rynn]]
 [[Tarren Hammerfist]]
 ## Other Citizens

@@ -7,11 +7,18 @@ William and Billiam Archer and twin archers who join the party to Whitehall.
 | :-------------------------: | :------: |
 | [[Billiam Archer\|Billiam]] | Brother  |
 
-|  Session   |  Status  |
-| :--------: | :------: |
-| Session 27 | Appeared |
-| Session 28 | Appeared |
-| Session 29 | Appeared |
+|  Session   |  Status  |  Session   |  Status  |
+| :--------: | :------: | :--------: | :------: |
+|            |          | Session 31 | Appeared |
+|            |          |            |          |
+|            |          |            |          |
+|            |          |            |          |
+|            |          |            |          |
+|            |          |            |          |
+| Session 27 | Appeared |            |          |
+| Session 28 | Appeared |            |          |
+| Session 29 | Appeared |            |          |
+| Session 30 | Appeared |            |          |
 ## [[Session 27 - Free Stoners]]
 [[Branwyn of Coryphea|Branwyn]] invites the Archer brothers to join them in Whitehall, stressing that they will likely die in the pursuit. They join to chase adventure.
 ## [[Session 28 - Making a Plan (Finally)]]
@@ -20,3 +27,5 @@ William meets the others, saying that [[Billiam Archer|Billiam]] had to stay hom
 William stays behind while the party enters [[Sha-Sĭme|Sha-Sĭme's]] Crypt. In Velbrass, he goes straight to sleep in the room.
 ## [[Session 30 - Discretion]]
 Vulcan joins the group to the mercenary's guild. Upon realizing it isn't open yet, Vulcan, Branwyn, and William proceed into the mausoleum of [[Dario the Twin]].
+## [[Session 31 - Fourteen Rings]]
+William prays for his brother's safety in the mausoleum pews. They return to the mercenary guild to find Moiloc, and decide to go to the [[Sultan Anu|sultan]]. Once Martin tells the group about the assassins the Bagworm is preparing to kill them, they make a plan to take out the Bagworm. They find that the Bagworm has taken control over a death knight, who they cannot hope to defeat, so they find the Bagworm in the basement and kill him.
