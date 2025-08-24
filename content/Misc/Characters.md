@@ -107,7 +107,7 @@ Below are characters vaguely grouped in order of appearance. Characters may be f
 ## Other Residents
 [[Daphne]]
 [[Grima]]
-[[Helen]]
+[[Helen Berestova]]
 [[Jiren]]
 [[Laogzed]]
 [[Simon]]

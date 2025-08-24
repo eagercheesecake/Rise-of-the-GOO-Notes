@@ -1,8 +1,8 @@
 |         Category          |                   Progress                    |
 | :-----------------------: | :-------------------------------------------: |
-|      Notes Available      | <progress max=28 value=28> </progress>  31/31 |
-|      Notes Formatted      | <progress max=28 value=28> </progress>  31/31 |
-| Character Notes Available | <progress max=28 value=28> </progress>  31/31 |
+|      Notes Available      | <progress max=28 value=28> </progress>  32/32 |
+|      Notes Formatted      | <progress max=32 value=31> </progress>  31/32 |
+| Character Notes Available | <progress max=32 value=31> </progress>  31/32 |
 ## Completed Features
 - Linkable images in the [[Gods]] image
 - Searchable & linkable notes
@@ -16,7 +16,7 @@
 		- Example: Completed for [[Moiloc Kodlaksdottër|Moiloc]]
 	- Color code appeared/absent/mentioned
 		- Example: Completed for [[Moiloc Kodlaksdottër|Moiloc]], but this may not be a good example of the vision
+- Stats page showing kill counts
 ## Possible Future Plans
 Map
-Stats (Kills?)
 Better [[Characters]] page
