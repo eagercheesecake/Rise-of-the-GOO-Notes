@@ -6,7 +6,7 @@ Helen is a human woman who was abducted by Olidamuru, and put in Lothric castle 
 |  Session   |  Status  |  Session   |  Status  |  Session   |  Status  |
 | :--------: | :------: | :--------: | :------: | :--------: | :------: |
 |            |          | Session 21 | Appeared | Session 31 | Appeared |
-|            |          | Session 22 | Appeared |            |          |
+|            |          | Session 22 | Appeared | Session 32 |  Agreed  |
 |            |          | Session 23 | Appeared |            |          |
 |            |          | Session 24 | Appeared |            |          |
 |            |          | Session 25 | Appeared |            |          |
@@ -39,3 +39,5 @@ Helen stays behind while the party enters [[Sha-Sĭme|Sha-Sĭme's]] Crypt. In Ve
 Helen stays outside while Moiloc talks with the thief. The next day, Helen joins Martin and Brewster to go to the Lyceum. After chaos at a nearby archaeological site, Brewster and Helen find a cleric, [[Ishtar]], who says she may be able to help heal Helen's tongue.
 ## [[Session 31 - Fourteen Rings]]
 Branwyn and Brewster return to Helen in the mausoleum, with Hadrian. Branwyn confirms from Helen that she would like her tongue to be healed, and Hadrian heals her after she provides him with a gem she got from Martin. They return to the mercenary guild to find Moiloc, and decide to go to the [[Sultan Anu|sultan]].
+## [[Session 32 - I Didn't Ask How Big the Casino Is...]]
+Helen, now able to talk, tells the group about her life. Her family is from Maedros, she grew up in Wallachia. She married her husband, Artyom, when she was 19, and was married to him for two years. When Lothric was overrun, she was knocked unconscious, and woke up bound and tongueless in the dungeon. She explains that she is a spy from Maedros, sent to report on Gwyneth. Helen says the Architect is in power in Maedros, and he may have wanted her to get information on Mora. Helen also admits that she’s 27 years old. The group proceeds to Whitehall, and buy a small house to make into a base.

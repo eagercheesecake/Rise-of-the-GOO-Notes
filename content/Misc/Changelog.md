@@ -18,5 +18,7 @@
 		- Example: Completed for [[Moiloc Kodlaksdottër|Moiloc]], but this may not be a good example of the vision
 - Stats page showing kill counts
 ## Possible Future Plans
-Map
-Better [[Characters]] page
+- Map
+- Jasper's secret project
+- Better [[Characters]] page
+- Fix [[Martin the Great]] vs [[Gulvayas Hakon]]

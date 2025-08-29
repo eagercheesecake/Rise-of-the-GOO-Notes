@@ -13,7 +13,7 @@ date: 2024-10-26
 Branwyn, Moiloc, Brewster, Goro, Jessie, and Martin continue to Domnhall Keep, and are attacked by Maelon Switt's assassins and some bandits. Branwyn wakes up in Mora's cabin to find that Mora has also taken Charlotte as a vessel. Shurima helps Branwyn escape after she steals a pendant from Mora. Branwyn is attacked by a thirstwater, and rescues a druid. Everyone arrives at an inn in Domnhall Keep.
 # Day 54
 ### Wallachia Forests
-In the morning, the group sets out. [[Moiloc Kodlaksdottër|Moiloc]] tries to teach [[Helen Berestova]] about armor but fails once again, with Moiloc falling out of the cart during a lesson, leaving a Moiloc-sized hole in the wall. She tries to mend the hole with thread, but doesn’t do it right, so it falls apart again.
+In the morning, the group sets out. [[Moiloc Kodlaksdottër|Moiloc]] tries to teach [[Helen Berestova|Helen]] about armor but fails once again, with Moiloc falling out of the cart during a lesson, leaving a Moiloc-sized hole in the wall. She tries to mend the hole with thread, but doesn’t do it right, so it falls apart again.
 
 As [[Lothar (Brewster) Nash|Brewster]], [[Characters/Players/Martin Sootspot|Martin]], Moiloc, Helen, [[Goro Hattori|Goro]] and [[Jessie Harkness|Jessie's]] caravan slows down to camp for the night, they see an explosion on a hill by the road. They see three robed figures on the hill pointing at them. Martin recognizes them as wizards from the academy.
 

@@ -4,7 +4,7 @@ tags:
 ---
 ![[Shurima Symbol.png|250]]     ![[Shurima.png|250]]
 
-Shurima the Corpsemaker is a powerful old man, worshipped by Moiloc. He is the god of secrets.
+Shurima the Corpsemaker is a powerful old man, worshipped by Moiloc. He is the god of secrets, having taken over the role after Xerxes.
 
 - **First Seen:** Session 1
 - **Status:** Alive
@@ -13,18 +13,18 @@ Shurima the Corpsemaker is a powerful old man, worshipped by Moiloc. He is the g
 | :------------------------------: | :------: |
 | [[Moiloc Kodlaksdottër\|Moiloc]] |  Avatar  |
 
-|  Session   |  Status   |  Session   |  Status   |  Session   |  Status   |
-| :--------: | :-------: | :--------: | :-------: | :--------: | :-------: |
-| Session 1  | Appeared  | Session 11 | Appeared  | Session 21 | Mentioned |
-| Session 2  | Mentioned | Session 12 | Mentioned | Session 22 |  Absent   |
-| Session 3  | Appeared  | Session 13 |  Absent   | Session 23 | Mentioned |
-| Session 4  |  Absent   | Session 14 |  Absent   | Session 24 | Mentioned |
-| Session 5  |  Absent   | Session 15 | Mentioned | Session 25 |  Absent   |
-| Session 6  | Mentioned | Session 16 |  Absent   | Session 26 |  Absent   |
-| Session 7  | Mentioned | Session 17 | Mentioned | Session 27 | Appeared  |
-| Session 8  | Mentioned | Session 18 | Appeared  | Session 28 |  Absent   |
-| Session 9  |  Absent   | Session 19 |  Absent   | Session 29 | Mentioned |
-| Session 10 | Mentioned | Session 20 |  Absent   | Session 30 | Mentioned |
+|                    Session                    |  Status   |                     Session                     |  Status   |                    Session                    |  Status   |       Session        |  Status  |
+| :-------------------------------------------: | :-------: | :---------------------------------------------: | :-------: | :-------------------------------------------: | :-------: | :------------------: | :------: |
+|       [[#Session 01 - Piss Grandma\|1]]       | Appeared  | [[#Session 11 - The Party Loses a Corpse\|11]]  | Appeared  |     [[#Session 21 - The Party Dies\|21]]      | Mentioned | [[#Session 31\|31]]  | Appeared |
+| [[#Session 02 - Teddy and the Roosevelts\|2]] | Mentioned |     [[#Session 12 - Branwyn's Bad Day\|12]]     | Mentioned |       [[#Session 22 - The B Team\|22]]        |  Absent   | [[Session 32 - I Didn't Ask How Big the Casino Is...\|32]] | Appeared |
+|   [[#Session 03 - Sorry For Your Loss\|3]]    | Appeared  | [[#Session 13 - Martha Is My Middle Name\|13]]  |  Absent   |   [[#Session 23 - Sootspot Intuition\|23]]    | Mentioned |                      |          |
+|   [[#Session 04 - Sincerely, Gertrude\|4]]    |  Absent   | [[#Session 14 - Gwyneth's Personal Diary\|14]]  |  Absent   |    [[#Session 24 - Charlotte's Back!\|24]]    | Mentioned |                      |          |
+| [[#Session 05 - Can't Be Worse Than Here\|5]] |  Absent   |         [[#Session 15 - Gray Boys\|15]]         | Mentioned |    [[#Session 25 - I Know an Archer\|25]]     |  Absent   |                      |          |
+|      [[#Session 06 - Cult Pamphlets\|6]]      | Mentioned |     [[#Session 16 - Killing a Mailman\|16]]     |  Absent   |        [[#Session 26 - Rocks Box\|26]]        |  Absent   |                      |          |
+|       [[#Session 07 - Shuffleboard\|7]]       | Mentioned |    [[#Session 17 - Respect These Nuts\|17]]     | Mentioned |      [[#Session 27 - Free Stoners\|27]]       | Appeared  |                      |          |
+|   [[#Session 08 - Religious Conversion\|8]]   | Mentioned |   [[#Session 18 - What Would Branwyn Do\|18]]   | Appeared  | [[#Session 28 - Making a Plan (Finally)\|28]] |  Absent   |                      |          |
+|   [[#Session 09 - The Man or the Bears\|9]]   |  Absent   | [[#Session 19 - Inspiration (Desperation)\|19]] |  Absent   |       [[#Session 29 - Infighting\|29]]        | Mentioned |                      |          |
+|  [[#Session 10 - Strategic Milk Bucket\|10]]  | Mentioned |       [[#Session 20 - Stabbing Her\|20]]        |  Absent   |       [[#Session 30 - Discretion\|30]]        | Mentioned |                      |          |
 
 ## [[Session 01 - Piss Grandma]]
 Moiloc follows Shurima into an alley where she finds a murdered priest. The next day, [[Gertrude Spugel|Gertrude]] questions him about a piece of paper he has, but he refuses to tell her what it is.
@@ -68,3 +68,9 @@ Branwyn finds a book confirming that a god of secrets exists, or existed. Shurim
 In [[Sha-Sĭme|Sha-Sĭme's]] crypt, [[Martin Sootspot|Martin]] learns that Rekk-To, one of Sha-Sĭme's avatars was a warrior for the country of Shurima, who died after being poisoned at a feast.
 ## [[Session 30 - Discretion]]
 Moiloc meets [[Reptile]], another follower of Shurima. He says Shurima helped him reach Velbrass after he escaped from slavery in Whitehall. Later, [[Hadrian]] says that the ruler of the country of Shurima entered the Ringed City, and he hasn't been seen since. Nobody knows what happened to him.
+## [[Session 31 - Fourteen Rings]]
+Xerxes is revealed to be the true name of the god of secrets, which opens the door to the Tower of Erebus.
+## [[Session 32 - I Didn't Ask How Big the Casino Is...]]
+Brewster sits in one of the thrones in the Tower of Erebus, and is taken to the Ringed City, which seems to have been overthrown by Shurima. It seems Xerxes, the previous god of secrets, still has a hadozee guarding it. Shurima calls Brewster to enter the Kiln, which has been redesigned to being one tall tower. His muscles have grown, and his blue skin is returning. Shurima says he wasn't hoping to summon him, and sends him off when it becomes clear Brewster won't help him.
+
+Later, Dario's autobiography mentions him allying himself with other gods to fight the empire of Shurima. The group proceeds to Whitehall, and buy a small house to make into a base.

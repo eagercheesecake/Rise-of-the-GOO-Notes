@@ -6,32 +6,25 @@ Maokai, also known as the Forgotten One, is a nature god who was taken prisoner 
 - **First Mentioned:** Session 6
 - **Status:** Dead
 - **Time of Death:** Sometime between Session 24 and Session 30
-- **Cause of Death:** Dead
-- **Time of Death:** Sometime between Session 24 and Session 30
 - **Cause of Death:** Burnt
 
 | Character |    Relation     |
 | :-------: | :-------------: |
 | [[Mora]]  | Avatar (Former) |
 
-|  Session   |  Status   |  Session   |  Status   |  Session   |  Status  |
-| :--------: | :-------: | :--------: | :-------: | :--------: | :------: |
-|            |           | Session 11 | Mentioned | Session 21 |  Absent  |
-|            |           | Session 12 |  Absent   | Session 22 | Appeared |
-|            |           | Session 13 |  Absent   | Session 23 | Appeared |
-|            |           | Session 14 |  Absent   | Session 24 |  Absent  |
-|            |           | Session 15 |  Absent   | Session 25 |  Absent  |
-| Session 6  | Mentioned | Session 16 | Mentioned | Session 26 |  Absent  |
-| Session 7  |  Absent   | Session 17 |  Absent   | Session 27 |  Absent  |
-| Session 8  | Mentioned | Session 18 |  Absent   | Session 28 |  Absent  |
-| Session 9  | Appeared  | Session 19 |  Absent   | Session 29 |  Absent  |
-| Session 10 |  Absent   | Session 20 |  Absent   | Session 30 | AppearedSession 24 |  Absent  |
-|            |           | Session 15 |  Absent   | Session 25 |  Absent  |
-| Session 6  | Mentioned | Session 16 | Mentioned | Session 26 |  Absent  |
-| Session 7  |  Absent   | Session 17 |  Absent   | Session 27 |  Absent  |
-| Session 8  | Mentioned | Session 18 |  Absent   | Session 28 |  Absent  |
-| Session 9  | Appeared  | Session 19 |  Absent   | Session 29 |  Absent  |
-| Session 10 |  Absent   | Session 20 |  Absent   | Session 30 | Appeared |
+|                   Session                   |  Status   |                     Session                     |  Status   |                    Session                    |  Status  |               Session                |  Status   |
+| :-----------------------------------------: | :-------: | :---------------------------------------------: | :-------: | :-------------------------------------------: | :------: | :----------------------------------: | :-------: |
+|                                             |           | [[#Session 11 - The Party Loses a Corpse\|11]]  | Mentioned |     [[#Session 21 - The Party Dies\|21]]      |  Absent  | [[#Session 31 - Fourteen Rings\|31]] |  Absent   |
+|                                             |           |     [[#Session 12 - Branwyn's Bad Day\|12]]     |  Absent   |       [[#Session 22 - The B Team\|22]]        | Appeared |         [[Session 32 - I Didn't Ask How Big the Casino Is...\|32]]         | Mentioned |
+|                                             |           | [[#Session 13 - Martha Is My Middle Name\|13]]  |  Absent   |   [[#Session 23 - Sootspot Intuition\|23]]    | Appeared |                                      |           |
+|                                             |           | [[#Session 14 - Gwyneth's Personal Diary\|14]]  |  Absent   |    [[#Session 24 - Charlotte's Back!\|24]]    |  Absent  |                                      |           |
+|                                             |           |         [[#Session 15 - Gray Boys\|15]]         |  Absent   |    [[#Session 25 - I Know an Archer\|25]]     |  Absent  |                                      |           |
+|     [[#Session 06 - Cult Pamphlets\|6]]     | Mentioned |     [[#Session 16 - Killing a Mailman\|16]]     | Mentioned |        [[#Session 26 - Rocks Box\|26]]        |  Absent  |                                      |           |
+|      [[#Session 07 - Shuffleboard\|7]]      |  Absent   |    [[#Session 17 - Respect These Nuts\|17]]     |  Absent   |      [[#Session 27 - Free Stoners\|27]]       |  Absent  |                                      |           |
+|  [[#Session 08 - Religious Conversion\|8]]  | Mentioned |   [[#Session 18 - What Would Branwyn Do\|18]]   |  Absent   | [[#Session 28 - Making a Plan (Finally)\|28]] |  Absent  |                                      |           |
+|  [[#Session 09 - The Man or the Bears\|9]]  | Appeared  | [[#Session 19 - Inspiration (Desperation)\|19]] |  Absent   |       [[#Session 29 - Infighting\|29]]        |  Absent  |                                      |           |
+| [[#Session 10 - Strategic Milk Bucket\|10]] |  Absent   |       [[#Session 20 - Stabbing Her\|20]]        |  Absent   |       [[#Session 30 - Discretion\|30]]        | Appeared |                                      |           |
+
 ## [[Session 06 - Cult Pamphlets]]
 [[Branwyn of Coryphea|Branwyn]] mentions Maokai when the group goes to the chapel in the castle in Montrissad.
 ## [[Session 08 - Religious Conversion]]
@@ -50,3 +43,5 @@ Maokai tells Branwyn he was the god of nature and decay until Mora betrayed him.
 In the Ringed City, Brewster finds an area for Maokai's hadozee devotees. He learns that Maokai took over [[Disgaia|Disgaia's]] domain.
 ## [[Session 30 - Discretion]]
 Branwyn has a dream that Maokai has died. She sees the top half of a skeleton, with a burnt heart in its chest, lying in the bottom of Maokai's tree prison.
+## [[Session 32 - I Didn't Ask How Big the Casino Is...]]
+Maokai seems to still have his mausoleum staffed by one hadozee after Shurima's takeover of the Ringed City.

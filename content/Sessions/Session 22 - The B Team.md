@@ -76,4 +76,4 @@ Martin wakes up after being knocked out. The church is destroyed. Oroborus Tikkt
 
 The Dominate Person spell on Contigo breaks. He leaves the hole, takes his horse, and decides to go north.
 
-Martin decides he’s still hungry, and proceeds to the local inn. He sees Goro and [[Helen Berestova]] approaching.
+Martin decides he’s still hungry, and proceeds to the local inn. He sees Goro and [[Helen Berestova|Helen]] approaching.

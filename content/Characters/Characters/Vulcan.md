@@ -3,18 +3,18 @@ Vulcan is a khalkha man who joined the party after being rescued from imprisonme
 - **First Seen:** Session 28
 - **Status:** Alive
 
-|  Session   |  Status  |  Session   |  Status  |
-| :--------: | :------: | :--------: | :------: |
-|            |          | Session 31 | Appeared |
-|            |          |            |          |
-|            |          |            |          |
-|            |          |            |          |
-|            |          |            |          |
-|            |          |            |          |
-|            |          |            |          |
-| Session 28 | Appeared |            |          |
-| Session 29 | Appeared |            |          |
-| Session 30 | Appeared |            |          |
+| Session |  Status  | Session |  Status  |
+| :-----: | :------: | :-----: | :------: |
+|         |          |   31    | Appeared |
+|         |          |   32    | Appeared |
+|         |          |         |          |
+|         |          |         |          |
+|         |          |         |          |
+|         |          |         |          |
+|         |          |         |          |
+|   28    | Appeared |         |          |
+|   29    | Appeared |         |          |
+|   30    | Appeared |         |          |
 ## [[Session 28 - Making a Plan (Finally)]]
 Vulcan is rescued from the bandit camp in Dunn after [[Goro Hattori|Goro]], [[William Archer|William]], [[Branwyn of Coryphea|Branwyn]], and [[Tarren Hammerfist|Tarren]] kill the bandit boss. He takes the boss's axe, and declares his devotion to the group.
 ## [[Session 29 - Infighting]]
@@ -23,3 +23,5 @@ Vulcan tells the party that he was captured while on his kadash, a pilgrimage of
 Vulcan joins the group to the mercenary's guild. Upon realizing it isn't open yet, Vulcan, Branwyn, and William proceed into the mausoleum of [[Dario the Twin]].
 ## [[Session 31 - Fourteen Rings]]
 Once Martin tells the group about the assassins the Bagworm is preparing to kill them, they make a plan to take out the Bagworm. They find that the Bagworm has taken control over a death knight, who they cannot hope to defeat, so they find the Bagworm in the basement and kill him.
+## [[Session 32 - I Didn't Ask How Big the Casino Is...]]
+The group proceeds to Whitehall, and buy a small house to make into a base.

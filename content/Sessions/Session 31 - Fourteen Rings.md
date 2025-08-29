@@ -1,6 +1,6 @@
-|      Previous Session       | Next Session |
-| :-------------------------: | :----------: |
-| [[Session 30 - Discretion]] |              |
+|      Previous Session       |   Next Session   |
+| :-------------------------: | :--------------: |
+| [[Session 30 - Discretion]] | [[Session 32 - I Didn't Ask How Big the Casino Is...]] |
 ### Logline
 The Bagworm grows interested in the party's actions.
 ### Synopsis
@@ -15,7 +15,7 @@ At Sellsword’s, Martin enters. [[Tarren Hammerfist|Tarren]] is looking at a me
 
 Holliday leads them to the Cat’s Paw, leaving Moiloc and [[Reptile]] behind to wait for Branwyn and Brewster. Martin tries to talk to Tarren about the price of a mercenary, who says it normally costs around 600g.
 ### The Mausoleum of Dario the Twin
-[[Lothar (Brewster) Nash|Brewster]] and Branwyn return to the others in the pews of the crypt. [[William Archer|William]] is praying out loud for the safety of his brother. Branwyn asks [[Helen Berestova]] if she wants her tongue restored. [[Hadrian]] asks for a gem to use in the spell, and Helen gives him a gem that Martin gave her as payment. Hadrian uses it to cast his spell, but Hadrian says it may take a couple of days until she gets used to it. She is currently unable to speak, until she learns to use her new tongue. Branwyn asks Hadrian about gods of nature, and Hadrian gives her a book about [[Disgaia]].
+[[Lothar (Brewster) Nash|Brewster]] and Branwyn return to the others in the pews of the crypt. [[William Archer|William]] is praying out loud for the safety of his brother. Branwyn asks [[Helen Berestova|Helen]] if she wants her tongue restored. [[Hadrian]] asks for a gem to use in the spell, and Helen gives him a gem that Martin gave her as payment. Hadrian uses it to cast his spell, but Hadrian says it may take a couple of days until she gets used to it. She is currently unable to speak, until she learns to use her new tongue. Branwyn asks Hadrian about gods of nature, and Hadrian gives her a book about [[Disgaia]].
 ### Sellsword's Sell-Swords
 They leave the crypt and go to the mercenary guild. Moiloc is trying to convince Reptile to join a kick line. They discuss going to the sultan. [[Ishtar]] says she is the sultan’s adopted daughter, and her sister, [[Nissa]], is his bodyguard. Brewster asks Ishtar if her father would be sympathetic to their cause, and she says that he doesn’t tend to like helping people who can’t fend for themselves.
 ### The Rusty Spoon
@@ -76,4 +76,4 @@ Mephistopheles asks some questions. The Bagworm says his master and Gwyneth are 
 
 The Fleur-de-Lis book is called the Mysteries of Gravewatch, and seems to be a fictional recounting of the desecration of Coryphea. It speaks of a witch who, alongside a wizard, killed Disgaia, the previous god of nature. The goddess died and was consumed by a giant gaping maw, and transformed into a living tree. Disgaia no longer exists on this plane, save for one artifact from when she was human: her wedding ring. When the ring is reformed, Disgaia herself will be brought back into the world. However, this is framed as something which should not happen, saying the death of Disgaia was a boon on the world, the earth will sunder and shake the ground beneath your feet. The book seems older than the actual fall of Coryphea, and doesn’t seem to make sense.
 
-Martin demands that Branwyn give her the book with the missing name of a god, and take it to the Tower of Erebus. Branwyn is tired, so Martin and Brewster go alone. Everyone else sleeps at the Cat’s Paw. When they open the book, the word Shurima that Branwyn wrote in, is erased, and replaced with Xerxes, and the tower begins to shake.
+Martin demands that Branwyn give her the book with the missing name of a god, and take it to the Tower of Erebus. Branwyn is tired, so Martin and Brewster go alone. Everyone else sleeps at the Cat’s Paw. When they open the book, the word Shurima that Branwyn wrote in, is erased, and replaced with [[Shurima the Corpsemaker|Xerxes]], and the tower begins to shake.

@@ -26,3 +26,5 @@ The chapel outside of Domnhall Keep used to be for Sha'Sime.
 [[Martin Sootspot|Martin]] finds a book claiming that there is an ancient copper sword used by Sha'Sime that has yet to be found.
 ## [[Session 29 - Infighting]]
 Martin's finds coins that connect to make a map to Sha-Sĭme's crypt. They learn that Sha-Sĭme had a boar, Adan, who she was close to until the boar was killed by a hunter. She led an army against the hunter, and [[Eru]] rewards her with a light that is likely representative of godhood. Rekk-To was one of Sha-Sĭme's avatars and a warrior for the country of [[Shurima the Corpsemaker|Shurima]]. He was poisoned at a feast. Atalanta was the last avatar of Sha-Sĭme. She tamed Calydon, the great boar. She also fought against Shurima during the dragon strife. Sha-Sĭme was defeated by [[Sekollah]]. Martin gets Sha-Sĭme's sword, Bushido, who declares Martin as Sha-Sĭme's avatar, although Sha-Sĭme is seen dead.
+## [[Session 32 - I Didn't Ask How Big the Casino Is...]]
+Dario's autobiography says he allied himself with Sha-Sime to fight the empire of Shurima.

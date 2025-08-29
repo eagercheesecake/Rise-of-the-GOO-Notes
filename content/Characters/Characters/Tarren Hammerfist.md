@@ -7,18 +7,18 @@ Tarren is a member of the Resistance in Dunn, and a contestant in the Montrissad
 | :----------------------------------: | :------: |
 | [[Lothar (Brewster) Nash\|Brewster]] |  Friend  |
 
-|  Session   |  Status   |  Session   |  Status   |  Session   |  Status   |
-| :--------: | :-------: | :--------: | :-------: | :--------: | :-------: |
-|            |           | Session 11 |  Absent   | Session 21 |  Absent   |
-|            |           | Session 12 |  Absent   | Session 22 | Mentioned |
-|            |           | Session 13 |  Absent   | Session 23 |  Absent   |
-|            |           | Session 14 |  Absent   | Session 24 |  Absent   |
-|            |           | Session 15 | Mentioned | Session 25 |  Absent   |
-| Session 6  | Appeared  | Session 16 |  Absent   | Session 26 |  Absent   |
-| Session 7  | Appeared  | Session 17 | Appeared  | Session 27 | Appeared  |
-| Session 8  | Appeared  | Session 18 | Appeared  | Session 28 | Appeared  |
-| Session 9  | Appeared  | Session 19 |  Absent   | Session 29 | Appeared  |
-| Session 10 | Mentioned | Session 20 | Mentioned | Session 30 | Appeared Session 30 | Appeared |
+| Session |  Status   | Session |  Status   | Session |  Status   | Session |  Status  |
+| :-----: | :-------: | :-----: | :-------: | :-----: | :-------: | :-----: | :------: |
+|         |           |   11    |  Absent   |   21    |  Absent   |   31    | Appeared |
+|         |           |   12    |  Absent   |   22    | Mentioned |   32    | Appeared |
+|         |           |   13    |  Absent   |   23    |  Absent   |         |          |
+|         |           |   14    |  Absent   |   24    |  Absent   |         |          |
+|         |           |   15    | Mentioned |   25    |  Absent   |         |          |
+|    6    | Appeared  |   16    |  Absent   |   26    |  Absent   |         |          |
+|    7    | Appeared  |   17    | Appeared  |   27    | Appeared  |         |          |
+|    8    | Appeared  |   18    | Appeared  |   28    | Appeared  |         |          |
+|    9    | Appeared  |   19    |  Absent   |   29    | Appeared  |         |          |
+|   10    | Mentioned |   20    | Mentioned |   30    | Appeared  |         |          |
 ## [[Session 06 - Cult Pamphlets]]
 [[Moiloc Kodlaksdottër|Moiloc]] finds Tarren and [[Belnades]] as they escape the attack at the pre-game feast. They escape through a hole in the wall of a hallway, and jump into the moat, escaping back to the streets of Montrissad.
 ## [[Session 07 - Shuffleboard]]
@@ -51,3 +51,5 @@ Tarren stays behind while the party enters [[Sha-Sĭme|Sha-Sĭme's]] Crypt. In V
 Tarren joins Moiloc when she meets with [[Reptile]] at the mercenary's guild. He reveals that he knew Reptile from their time in Whitehall.
 ## [[Session 31 - Fourteen Rings]]
 Once Martin arrives, Tarren joins him to negotiate with [[Holliday]]. Once Martin tells the group about the assassins the Bagworm is preparing to kill them, they make a plan to take out the Bagworm. They find that the Bagworm has taken control over a death knight, who they cannot hope to defeat, so they find the Bagworm in the basement and kill him.
+## [[Session 32 - I Didn't Ask How Big the Casino Is...]]
+The group proceeds to Whitehall, and buy a small house to make into a base.

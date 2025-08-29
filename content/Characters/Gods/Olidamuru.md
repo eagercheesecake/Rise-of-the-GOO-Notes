@@ -33,6 +33,8 @@ Olidamuru is seen having taken over Lexar's form, about to sacrifice [[Pontiff S
 ## [[Session 18 - What Would Branwyn Do]]
 Olidamuru takes control over the Lothric castle and spreads his influence over the town. He creates a series of puzzles and traps inside the castle, and reforms statues of other gods and religious figures to have his own face. They choose to avoid the Queen, and he teleports them to the fields outside Lothric.
 ## [[Session 20 - Stabbing Her]]
-The group discover that Olidamuru has been tracking [[Helen Berestova]] via a sigil on her back. They cut into the sigil, breaking it by causing it to heal over with a natural scar.
+The group discover that Olidamuru has been tracking [[Helen Berestova|Helen]] via a sigil on her back. They cut into the sigil, breaking it by causing it to heal over with a natural scar.
 ## [[Session 23 - Sootspot Intuition]]
 Brewster finds Olidamuru's hadozee devotees partying in the Ringed City. He also finds an [[Unknown God of Chaos]] who Olidamuru may have taken over for.
+## [[Session 32 - I Didn't Ask How Big the Casino Is...]]
+Olidamuru seems to still have his mausoleum staffed by one hadozee after Shurima's takeover of the Ringed City.

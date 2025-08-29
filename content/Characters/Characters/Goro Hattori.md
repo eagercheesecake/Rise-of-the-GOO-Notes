@@ -11,18 +11,18 @@ Goro is an old dragonborn man. He is the castle blacksmith in Montrissad.
 | :--------------------: | :------: |
 | [[Haru Hattori\|Haru]] |  Sister  |
 
-|  Session   |  Status  |  Session   |  Status  |  Session   |  Status  |  Session   |  Status  |
-| :--------: | :------: | :--------: | :------: | :--------: | :------: | :--------: | :------: |
-|            |          | Session 11 | Appeared | Session 21 | Appeared | Session 31 | Appeared |
-|            |          | Session 12 | Appeared | Session 22 | Appeared |            |          |
-|            |          | Session 13 | Appeared | Session 23 | Appeared |            |          |
-|            |          | Session 14 | Appeared | Session 24 | Appeared |            |          |
-|            |          | Session 15 |  Absent  | Session 25 | Appeared |            |          |
-| Session 6  | Appeared | Session 16 |  Absent  | Session 26 |  Absent  |            |          |
-| Session 7  | Appeared | Session 17 |  Absent  | Session 27 |  Absent  |            |          |
-| Session 8  | Appeared | Session 18 |  Absent  | Session 28 | Appeared |            |          |
-| Session 9  | Appeared | Session 19 |  Absent  | Session 29 | Appeared |            |          |
-| Session 10 |  Absent  | Session 20 |  Absent  | Session 30 | Appeared |            |          |
+| Session |  Status  | Session |  Status  | Session |  Status  | Session |  Status  |
+| :-----: | :------: | :-----: | :------: | :-----: | :------: | :-----: | :------: |
+|         |          |   11    | Appeared |   21    | Appeared |   31    | Appeared |
+|         |          |   12    | Appeared |   22    | Appeared |   32    | Appeared |
+|         |          |   13    | Appeared |   23    | Appeared |         |          |
+|         |          |   14    | Appeared |   24    | Appeared |         |          |
+|         |          |   15    |  Absent  |   25    | Appeared |         |          |
+|    6    | Appeared |   16    |  Absent  |   26    |  Absent  |         |          |
+|    7    | Appeared |   17    |  Absent  |   27    |  Absent  |         |          |
+|    8    | Appeared |   18    |  Absent  |   28    | Appeared |         |          |
+|    9    | Appeared |   19    |  Absent  |   29    | Appeared |         |          |
+|   10    |  Absent  |   20    |  Absent  |   30    | Appeared |         |          |
 ## [[Session 06 - Cult Pamphlets]]
 [[Kaldrake Sootspot|Kaldrake]], [[Branwyn of Coryphea|Branwyn]], and [[Gertrude Spugel|Gertrude]] come to Goro to ask for [[Gwyneth Sootspot|Gwyneth's]] whereabouts after learning they were friends. Goro tells them she left for Martin's Isle, and gives them a key to her office. He also suggests that [[Bartholomew]] might be able to remove Gertrude's curse and restore her memories. He also gives them some weapons.
 ## [[Session 07 - Shuffleboard]]
@@ -44,7 +44,7 @@ While traveling to Lothric, Kaldrake somehow resets reality, causing them to arr
 ## [[Session 21 - The Party Dies]]
 Goro is seen working at the lumber mill in Col Man'Dar.
 ## [[Session 22 - The B Team]]
-[[Martin Sootspot|Martin]] and his group find Goro in the lumber mill, finding he had locked himself in and survived the hydra attack. Contigo asks him if he had seen Tarren recently, and he comments that he has not. He continues with them to leave. The group finds [[Velma|Velma's]] corpse in the forest. Goro leaves the party before they camp out, continuing to Edoval. At some point before arriving, he finds [[Helen Berestova]] and brings her along. He is seen in Edoval when Martin arrives.
+[[Martin Sootspot|Martin]] and his group find Goro in the lumber mill, finding he had locked himself in and survived the hydra attack. Contigo asks him if he had seen Tarren recently, and he comments that he has not. He continues with them to leave. The group finds [[Velma|Velma's]] corpse in the forest. Goro leaves the party before they camp out, continuing to Edoval. At some point before arriving, he finds [[Helen Berestova|Helen]] and brings her along. He is seen in Edoval when Martin arrives.
 ## [[Session 23 - Sootspot Intuition]]
 Goro helps gather the survivors in Edoval. Goro fills Martin in on Kaldrake's adventuring crew, and his and Lexar's revivals. When Brewster and Moiloc wake up, Goro greets them and fills them in on what has happened since the hydra attacked. After resting for a few days, the group proceeds to Whitehall.
 ## [[Session 24 - Charlotte's Back!]]
@@ -59,3 +59,5 @@ Goro stays behind while the party enters [[Sha-Sĭme|Sha-Sĭme's]] Crypt. In Vel
 Goro joins Martin as they visit the Lyceum.
 ## [[Session 31 - Fourteen Rings]]
 Martin, Goro, and Lucretia return to the mercenary guild to meet up with the others. They join Martin and Tarren to negotiate with [[Holliday]]. Once Martin tells the group about the assassins the Bagworm is preparing to kill them, they make a plan to take out the Bagworm. They find that the Bagworm has taken control over a death knight, who they cannot hope to defeat, so they find the Bagworm in the basement and kill him.
+## [[Session 32 - I Didn't Ask How Big the Casino Is...]]
+The group proceeds to Whitehall, and buy a small house to make into a base.

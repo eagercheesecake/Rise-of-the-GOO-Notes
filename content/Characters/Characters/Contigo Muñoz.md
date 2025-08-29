@@ -9,18 +9,18 @@ Contigo is a young adult human with long, blonde hair and a scar over his eye. H
 | [[Lortzgab]] | Teammate |
 | [[Dandelon]] | Teammate |
 
-|  Session   |  Status  |  Session   | Status |  Session   |  Status  |
-| :--------: | :------: | :--------: | :----: | :--------: | :------: |
-|            |          | Session 11 | Absent | Session 21 |  Absent  |
-|            |          | Session 12 | Absent | Session 22 | Appeared |
-|            |          | Session 13 | Absent |            |          |
-|            |          | Session 14 | Absent |            |          |
-|            |          | Session 15 | Absent |            |          |
-| Session 6  | Appeared | Session 16 | Absent |            |          |
-| Session 7  | Appeared | Session 17 | Absent |            |          |
-| Session 8  | Appeared | Session 18 | Absent |            |          |
-| Session 9  |  Absent  | Session 19 | Absent |            |          |
-| Session 10 |  Absent  | Session 20 | Absent |            |          |
+|  Session   |  Status  |  Session   | Status | Session |  Status  | Session |  Status  |
+| :--------: | :------: | :--------: | :----: | :-----: | :------: | :-----: | :------: |
+|            |          | Session 11 | Absent |   21    |  Absent  |   31    |  Absent  |
+|            |          | Session 12 | Absent |   22    | Appeared |   32    | Appeared |
+|            |          | Session 13 | Absent |   23    |  Absent  |         |          |
+|            |          | Session 14 | Absent |   24    |  Absent  |         |          |
+|            |          | Session 15 | Absent |   25    |  Absent  |         |          |
+| Session 6  | Appeared | Session 16 | Absent |   26    |  Absent  |         |          |
+| Session 7  | Appeared | Session 17 | Absent |   27    |  Absent  |         |          |
+| Session 8  | Appeared | Session 18 | Absent |   28    |  Absent  |         |          |
+| Session 9  |  Absent  | Session 19 | Absent |   29    |  Absent  |         |          |
+| Session 10 |  Absent  | Session 20 | Absent |   30    |  Absent  |         |          |
 ## [[Session 06 - Cult Pamphlets]]
 Contigo is seen with his teammates in the castle courtyard. Their group seems to suffer from some in-fighting, and they claim to also be on a mission as well as joining the Games.
 
@@ -37,3 +37,5 @@ Contigo is last seen before the Inquisitors' siege on Brasov sleeping on the Wav
 [[Martin Sootspot|Martin]], [[Ouroborus Tikktal|Ororo]], [[Mora|Morrigan]], Contigo, and [[Arklow Laban|Arklow]] arrive in Col Man'Dar after Martin sees a vision of Kaldrake's death, and find his corpse. Contigo has been working for Arklow, who is currently working for Martin. Upon finding Goro, Contigo asks him if he had seen Tarren, but he had not. The group finds [[Velma|Velma's]] corpse in the forest. At night, Arklow tells Contigo that he had poisoned everyone's rations. During Contigo's shift to keep watch during the night, Morrigan casts Dominate Person on him, and they leave the look for Branwyn.
 
 In Edoval, Contigo asks Morrigan if she can take the hydras. She says yes, and Contigo comments that he's glad they're on the same side. She uses Power Word: Pain on him, telling him to watch how she speaks to her. They find a farm with a large hole, and both enter it, leading to the hydra's heart, which Morrigan destroys. Contigo recognizes Moiloc tending to the heart, and tells Morrigan that she was in Kaldrake's party. Morrigan tells Contigo to stay put and guard Moiloc, and leaves him. When the Dominate Person spell ends, Contigo leaves the hole and continues north.
+## [[Session 32 - I Didn't Ask How Big the Casino Is...]]
+After [[Helen Berestova|Helen]] reveals herself as a spy from Maedros, the group begins to wonder if she has the same dubious motives as Contigo.
