@@ -15,7 +15,7 @@ Goro is an old dragonborn man. He is the castle blacksmith in Montrissad.
 | :-----: | :------: | :-----: | :------: | :-----: | :------: | :-----: | :------: |
 |         |          |   11    | Appeared |   21    | Appeared |   31    | Appeared |
 |         |          |   12    | Appeared |   22    | Appeared |   32    | Appeared |
-|         |          |   13    | Appeared |   23    | Appeared |         |          |
+|         |          |   13    | Appeared |   23    | Appeared |   33    | Appeared |
 |         |          |   14    | Appeared |   24    | Appeared |         |          |
 |         |          |   15    |  Absent  |   25    | Appeared |         |          |
 |    6    | Appeared |   16    |  Absent  |   26    |  Absent  |         |          |
@@ -61,3 +61,5 @@ Goro joins Martin as they visit the Lyceum.
 Martin, Goro, and Lucretia return to the mercenary guild to meet up with the others. They join Martin and Tarren to negotiate with [[Holliday]]. Once Martin tells the group about the assassins the Bagworm is preparing to kill them, they make a plan to take out the Bagworm. They find that the Bagworm has taken control over a death knight, who they cannot hope to defeat, so they find the Bagworm in the basement and kill him.
 ## [[Session 32 - I Didn't Ask How Big the Casino Is...]]
 The group proceeds to Whitehall, and buy a small house to make into a base.
+## [[Session 33 - I Want To See a Mushroom]]
+Goro goes to the markets, until they are called back by [[Reptile]] warning of an attack. Later, Goro joins Moiloc in her trip to the Underdark.

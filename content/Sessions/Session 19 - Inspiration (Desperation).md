@@ -23,7 +23,7 @@ In the house, there is a corpse slumped over on the table, with some chunks take
 
 Branwyn finds a locked door. Brewster picks the lock, and finds a chest inside, with a beautiful white dress inside, and a ruby necklace. He takes them both. Moiloc opens the next door and finds an unrecognizable corpse. Same with the next door, which has two beds in it, and it covered in blood, but has no people in it. The last bedroom is empty. Branwyn sees a chest and jewelry box, and takes the jewelry box. Inside the chest is a male farmhand’s outfit. Brewster gives them the wedding dress and necklace.
 
-They continue to the door with a blood streak entering it. Half of a corpse is on the bed, with a [[Tobias Grand|figure]] dressed in leathers shoveling it into its mouth. They sneak out of the room, and fill Kaldrake in, and he says he killed that guy in a prior timeline. Branwyn tells the woman there isn’t anything for her here anymore, and she tears up, but prepares herself to follow them.
+They continue to the door with a blood streak entering it. Half of a corpse is on the bed, with a [[Tobias Grande|figure]] dressed in leathers shoveling it into its mouth. They sneak out of the room, and fill Kaldrake in, and he says he killed that guy in a prior timeline. Branwyn tells the woman there isn’t anything for her here anymore, and she tears up, but prepares herself to follow them.
 
 They decide to meet up with where Kaldrake left the others. On their way through the fields, they are caught by three corpse eaters.
 

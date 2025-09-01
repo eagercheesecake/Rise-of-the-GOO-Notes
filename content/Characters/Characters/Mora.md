@@ -10,18 +10,18 @@ Mora is Branwyn's mother figure from her childhood, using her as a vessel for he
 | [[Branwyn of Coryphea\|Branwyn]] |  Vessel  |
 |            [[Maokai]]            |  Patron  |
 
-|  Session   |  Status   |  Session   |  Status   |  Session   |  Status   |
-| :--------: | :-------: | :--------: | :-------: | :--------: | :-------: |
-|            |           | Session 11 | Mentioned | Session 21 |  Absent   |
-|            |           | Session 12 | Mentioned | Session 22 | Appeared  |
-|            |           | Session 13 | Mentioned | Session 23 | Mentioned |
-|            |           | Session 14 |  Absent   | Session 24 |  Absent   |
-| Session 5  | Mentioned | Session 15 | Mentioned | Session 25 | Appeared  |
-| Session 6  | Mentioned | Session 16 | Mentioned | Session 26 |  Absent   |
-| Session 7  | Mentioned | Session 17 | Appeared  | Session 27 | Mentioned |
-| Session 8  | Mentioned | Session 18 | Appeared  |            |           |
-| Session 9  | Mentioned | Session 19 | Mentioned |            |           |
-| Session 10 |  Absent   | Session 20 | Appeared  |            |           |
+| Session |  Status   | Session |  Status   | Session |  Status   | Session |  Status   |
+| :-----: | :-------: | :-----: | :-------: | :-----: | :-------: | :-----: | :-------: |
+|         |           |   11    | Mentioned |   21    |  Absent   |   31    |  Absent   |
+|         |           |   12    | Mentioned |   22    | Appeared  |   32    |  Absent   |
+|         |           |   13    | Mentioned |   23    | Mentioned |   33    | Mentioned |
+|         |           |   14    |  Absent   |   24    |  Absent   |         |           |
+|    5    | Mentioned |   15    | Mentioned |   25    | Appeared  |         |           |
+|    6    | Mentioned |   16    | Mentioned |   26    |  Absent   |         |           |
+|    7    | Mentioned |   17    | Appeared  |   27    | Mentioned |         |           |
+|    8    | Mentioned |   18    | Appeared  |   28    | Appeared  |         |           |
+|    9    | Mentioned |   19    | Mentioned |   29    |  Absent   |         |           |
+|   10    |  Absent   |   20    | Appeared  |   30    |  Absent   |         |           |
 ## [[Session 05 - Can't Be Worse Than Here]]
 In [[Monty MacMasters|Monty's]] office, Branwyn finds notes on Mora beginning her move across Phaeros.
 ## [[Session 06 - Cult Pamphlets]]
@@ -62,3 +62,5 @@ Maokai says Mora was supposed to be his avatar and help to return the world to n
 Moiloc has a vision of Gwyneth, Mora, [[Daphne]], and [[Sister Marie the Confessor]] in Whitehall. They each appear, one after another, then it repeats.
 ## [[Session 27 - Free Stoners]]
 [[Ulysses]] mentions that Branwyn's hair may be able to craft an amulet that could kill Mora. She had been seen in Whitehall with Gwyneth. [[Violet]] says that Mora killed [[Jessie Harkness|Jessie]], while trying to take children under Jessie's protection.
+## [[Session 32 - I Didn't Ask How Big the Casino Is...]]
+Ulysses makes it clear that his one goal while in Whitehall is to kill Mora.

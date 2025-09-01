@@ -1,0 +1,52 @@
+|                    Previous Session                    | Next Session |
+| :----------------------------------------------------: | :----------: |
+| [[Session 32 - I Didn't Ask How Big the Casino Is...]] |              |
+### Logline
+Branwyn experiences a home invasion. Moiloc kills the group's first target.
+### Synopsis
+
+# Day 62
+### Narmak's Forge
+The group arrives at their newly-acquired blacksmith. [[Lothar (Brewster) Nash|Brewster]] recalls Narmak, who used to own this blacksmith. The blacksmith has a front counter, a messy storeroom, and some bedrooms. [[Moiloc Kodlaksdottër|Moiloc]] goes to the master bedroom. [[Martin Sootspot|Martin]] and [[Lucretia]] take a room in the basement, and [[Goro Hattori|Goro]] and [[Ulysses]] take the other one. [[Branwyn of Coryphea|Branwyn]], [[William Archer|William]], and [[Vulcan]] take the room on the main floor. Brewster, [[Tarren Hammerfist|Tarren]], [[Reptile]], [[Mephistopheles the Bard]], [[Nissa]], [[Ishtar]], [[Holliday]], and [[Helen Berestova|Helen]] all go upstairs.
+
+The team have a meeting. Ulysses makes it clear that he has only one goal: to kill [[Mora]]. Brewster talks about some important people: [[Sister Marie the Confessor]] has become the Queen. The High Magistrate, [[Vernan Grande]], is who gave them the house, and the local lord of Whitehall. Vernan has four ministers. The first is the Minister of Flesh, [[Bloody Baldwin Haas]], who Brewster is very familiar with, as he is in charge of the slave industry. The Minister of Trade, [[Lila Roche]], a more public-facing figure in charge of the export of goods, and the distributor of ydril. The Minister of Production, [[Kirk Castle]], runs the craftsman district and the refinery of quicksilver. The Minister of War, [[Evelyn Winterscale]], is the captain of the guard and head of the Inquisitors. She was once the chief interrogator under Marie during Brewster’s time. She is who met the party when they arrived.
+
+Brewster suggests finding [[Daphne]], and tells them that he doesn’t know her exact duties, but she would stop by every once in a while. Branwyn asks for more details on their relationship, which [[Puck Nash|Puck]] tries to stop her from doing. He says he wishes they could have escaped with each other and become closer than their occasional visits in slavery allowed. Eventually, they made a plan to escape, and Daphne didn’t show up on the day. Tarren suggests checking out the Monastery of the Flowing Fist.
+
+They discuss buying wrappings and other items to make weapons for the slave rebellion. Brewster says he’ll also buy resources for healing potions. Martin mentions that [[Gwyneth Sootspot|Gwyneth]] messaged him telepathically asking him to meet her at the church. Brewster, suspicious, casts Detect Magic again, and sees a scrying eye. They assume Gwyneth cast it.
+### Markets
+Lucretia, Mephistopheles, Brewster, Martin, and Goro, all go to the market to buy goods. Mephistopheles, the human representation, upsets the merchants, and they have to pay extra. They buy potion and weapon ingredients.
+### Narmak's Forge
+Meanwhile, Branwyn has Reptile talk to Vulcan, William, and Holliday about alleys, sewers, and other places where the party might be able to pass through undetected. Helen doesn’t join them for unknown reasons, and Ulysses begins trying to track Mora from his room. Branwyn hears the front door open.
+
+Holliday is sent up first, as she bought the house, to see who it is. Holliday heads to the front door, but doesn’t return. The others hear nothing. Branwyn walks out next, asking if everything is okay. She sees [[Tobias Grande]], faceless, but Holliday is nowhere to be seen. From behind her, Branwyn hears a voice, saying she’s been looking for her, and asking if she’s going to come quietly.
+
+> [!danger] Fight
+> William shoots first at Tobias. Tobias raises his hand, and a ring on his finger glows, as he casts Hellish Rebuke on William. Reptile approaches, climbing on the ceiling to hide. Vulcan runs and breaks through a window, trying to get behind Tobias and flank him. Branwyn casts Fear at Tobias, who runs away, out of the building.
+> 
+> William sees no trace of Holliday, except for one of her knives on the ground, which he picks up, but seems nothing odd. Reptile proceeds closer to the door, as Vulkan rounds the corner of the house, to see a second faceless man with Tobias. Vulkan attempts to intimidate them, but fails. Oddly enough, he notices that there is nobody around, except a dead human citizen on the ground. Branwyn hides in a corner and casts Spike Growth. Both Tobiases flank Vulkan and slash at him, downing him.
+> 
+> William backs against a wall, and shoots the second Tobias through the window. He notices this second form seems to take a lot more damage. Reptile moves to hide in the house. Vulkan passes a death save, and Branwyn holds an action, firing twice at the second Tobias when he enters the building again. The figure disappears in a puff of smoke, and another false Tobias enters, but stops at the spike growth. The true Tobias also enters, passing into the spikes. He attacks William, who is hiding on a chest.
+> William, very low in health, slashes at the true Tobias with his sword. Reptile runs off. Vulkan passes another death saving throw.
+> 
+> Branwyn shoots at the true Tobias, who uses Hellish Rebuke as a reaction. Branwyn shoots again. The true Tobias slashes at William, downing him as well, before turning to Branwyn, saying they’re the only ones left. The false Tobias disappears.
+> 
+> Branwyn shoots at him again. The true Tobias shoots another Hellish Rebuke. Branwyn shoots again, and he seems to be bleeding pretty heavily. Tobias looks at the spikes, and pulls out two throwing knifes, but misses both of his throws.
+
+Tobias admits defeat, snaps his fingers, and disappears. When he does, Branwyn hears alarm bells, and sees a crowd gathering around the dead human in the street. Branwyn pulls Vulkan in, stabilizes them, and heals William. Branwyn goes outside to climb upstairs, and finds the door has been kicked in. Helen and Ulysses are on the ground, unconscious. Branwyn stabilizes them, and they tell her a faceless man put them to sleep.
+
+Reptile gets the group who is shopping and brings them back. Brewster begins repairing the window, and Branwyn takes a short rest. Bushido tells Martin that he must solve the murder of the human and give his aid. Martin suggests the victim may have been a bad person; a quandary which silences Bushido in deep thought. Reptile and Brewster help the others by showing a map of passageways and safehouses. Holliday reappears an hour later.
+### Hammerfist Monastery
+Moiloc, Nissa, Ishtar, and Tarren hear the alarm bells as they proceed to the Monastery. Tarren mentions that his escape from Whitehall broke his oath to the Flowing Fist, so she should do the talking. He says they’re a pacifist group who will only join fights that have already been started. He says she should work to have them understand that they’re already under attack. They reach a gate manned by two non-human guards, who asks for her name. She introduces herself, and her “crew,” saying she comes to seek aide. They allow her to enter, but tell them to keep their weapons stowed.
+
+The surroundings of the monastery seems more alive with greenery than Moiloc expected. They enter the stone monastery. There are no Inquisitors, and the non-humans have no collars. There is a well nearby, that is guarded by monks. Tarren explains that the monks defend the city from the horrors of the underdark, and the well is one of the entrances. Moiloc overhears talk of a passage to the underdark appearing in Endrio’s Passageway.
+
+Inside is an elderly dwarf kneeling at the statue of Eru. Tarren says he’ll leave her from here, saying the man is the grandmaster. The grandmaster meets them, and Moiloc introduces herself, asking for their aide in freeing the slaves. She suggests the slaves would be grateful, and may join their ranks as a result. The grandmaster is shaky, but says they may be able to help her form a plan, if she joins them on a trip to the underdark with Kirk Castle. Moiloc cracks her knuckles in preparation and agreement. Tarren leaves, and sends Holliday, Goro, and Mephistopheles to the Monastery.
+
+At 8:00, six Inquisitors carry a throne into the Monastery, where Kirk is seated in a lavish, velvet cloak, that touches the ground even from that height. One of the Inquisitors carries Kirk, bridal-style to the well, where he looks to Moiloc, asking if she is his tour guide. He asks her name, but stops her, saying he doesn’t actually care. He asks how to get to the Underdark, and Moiloc says to jump into the well. He says he doesn’t jump, but gives up, asking Moiloc to lead the way.
+
+Moiloc climbs down the rope into the well. Kirk, six Inquisitors, three monks, Nissa, Holliday, Ishtar, Mephistopheles, and Goro follow. They drop into a pitch-black cave. A monk pulls Moiloc aside and says they’ll want to go a good ways in before attacking so that his corpse isn’t found. Kirk says Moiloc should lead. Moiloc asks what he’d like to see, and he says he wants to see a mushroom. Also, he wants to see and kill a dark elf. Four hours of wandering later, they find themself in a large cavern, with a perfect circular hole in the center.
+
+Moiloc goes to the hole and peers in, and Kirk joins her. Moiloc pretends to see a mushroom, and he leans in. Moiloc slashes him in the neck with her hand-axe. Both Kirk and the axe fall into the hole. Kirk screams, and the Inquisitors turn to her, wide-eyed, and draw their weapons. Moiloc says they can leave with their lives but without their tongues, or they can not leave at all. They look to each other, and charge in.
+### Church
+Lucretia, Martin, Ulysses, Reptile, Tarren, Branwyn, and Brewster proceed to the church.

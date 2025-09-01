@@ -13,8 +13,8 @@ Martin is a wizard of the Sootspot family.
 |  Session   |  Status  |  Session   |  Status  |
 | :--------: | :------: | :--------: | :------: |
 |            |          | Session 31 | Appeared |
-| Session 22 | Appeared |            |          |
-| Session 23 | Appeared |            |          |
+| Session 22 | Appeared |     32     | Appeared |
+| Session 23 | Appeared |     33     | Appeared |
 | Session 24 | Appeared |            |          |
 | Session 25 | Appeared |            |          |
 | Session 26 | Appeared |            |          |
@@ -52,3 +52,5 @@ Once Martin tells the group about the assassins the Bagworm is preparing to kill
 Brewster Martin, and Lurcretia enter the tower of Erebus, but Martin is teleported out of the tower and to the moon, where he gains Kaldrake's memories, and sees Gulvayas chained up. Gulvayas's mouth is sewn shut, and he seems to hate Martin/Kaldrake. He is thinking "son" and "brother" as Martin casts Detect Thoughts. Martin throws a dagger at the dome containing Gulvayas, which causes a part of his soul, likely Kaldrake's portion, fly into Gulvayas's shackles and break them. The shackles seem to represent the remaining members of the Sootspot family. Martin jumps off the moon and loses Kaldrake's abilities upon his return. He meets back up with Brewster, who leads him back to the inn.
 
 Mephistopheles tells Martin and Moiloc that he owes 100g in gambling debts. Together, they enter the gambling den and pay it off. They then Fireball the gambling den, killing everyone inside, and looting the 100g and more. Branwyn has a long, angry talk with Martin and Moiloc about this. The group proceeds to Whitehall, and buy a small house to make into a base.
+## [[Session 33 - I Want To See a Mushroom]]
+Martin is messaged by Gwyneth, who asks him to meet her at the church, not tell anyone, and to come alone. Martin immediately tells the others, who agree to go with him. They find one of Gwyneth's Scrying Eyes watching this conversation. In the meantime, Martin goes to the markets, until they are called back by [[Reptile]] warning of an attack. Martin leaves to meet his sister in the church.

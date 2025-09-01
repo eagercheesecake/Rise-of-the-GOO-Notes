@@ -7,18 +7,18 @@ William and Billiam Archer and twin archers who join the party to Whitehall.
 | :-------------------------: | :------: |
 | [[Billiam Archer\|Billiam]] | Brother  |
 
-|  Session   |  Status  |  Session   |  Status  |
-| :--------: | :------: | :--------: | :------: |
-|            |          | Session 31 | Appeared |
-|            |          | Session 32 | Appeared |
-|            |          |            |          |
-|            |          |            |          |
-|            |          |            |          |
-|            |          |            |          |
-| Session 27 | Appeared |            |          |
-| Session 28 | Appeared |            |          |
-| Session 29 | Appeared |            |          |
-| Session 30 | Appeared |            |          |
+| Session |  Status  | Session |  Status  |
+| :-----: | :------: | :-----: | :------: |
+|         |          |   31    | Appeared |
+|         |          |   32    | Appeared |
+|         |          |   33    | Appeared |
+|         |          |         |          |
+|         |          |         |          |
+|         |          |         |          |
+|   27    | Appeared |         |          |
+|   28    | Appeared |         |          |
+|   29    | Appeared |         |          |
+|   30    | Appeared |         |          |
 ## [[Session 27 - Free Stoners]]
 [[Branwyn of Coryphea|Branwyn]] invites the Archer brothers to join them in Whitehall, stressing that they will likely die in the pursuit. They join to chase adventure.
 ## [[Session 28 - Making a Plan (Finally)]]
@@ -31,3 +31,5 @@ Vulcan joins the group to the mercenary's guild. Upon realizing it isn't open ye
 William prays for his brother's safety in the mausoleum pews. They return to the mercenary guild to find Moiloc, and decide to go to the [[Sultan Anu|sultan]]. Once Martin tells the group about the assassins the Bagworm is preparing to kill them, they make a plan to take out the Bagworm. They find that the Bagworm has taken control over a death knight, who they cannot hope to defeat, so they find the Bagworm in the basement and kill him.
 ## [[Session 32 - I Didn't Ask How Big the Casino Is...]]
 The group proceeds to Whitehall, and buy a small house to make into a base.
+## [[Session 33 - I Want To See a Mushroom]]
+After the others leave for their respective journeys, Branwyn, Reptile, William, Holliday, and Vulcan are attacked by Tobias. William is knocked out, but is soon stabilized by Branwyn.

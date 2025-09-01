@@ -7,7 +7,7 @@ Ulysses is a human gunslinger looking to kill Mora.
 | :-----: | :------: | :-----: | :------: |
 |         |          |   31    |  Absent  |
 |         |          |   32    | Appeared |
-|         |          |         |          |
+|         |          |   33    | Appeared |
 |   24    | Appeared |         |          |
 |   25    | Appeared |         |          |
 |   26    | Appeared |         |          |
@@ -27,3 +27,5 @@ Ulysses talks about his plan to kill Mora with bullets made from Branwyn's hair 
 Ulysses agrees to join the party in Whitehall after he completes his ritual, which will take two days. Brewster gives him the mask to complete the bullets, and Ulysses teaches him how it's made.
 ## [[Session 32 - I Didn't Ask How Big the Casino Is...]]
 Ulysses arrives to Velbrass. The group proceeds to Whitehall, and buy a small house to make into a base.
+## [[Session 33 - I Want To See a Mushroom]]
+Soon after arriving in Whitehall, Ulysses is knocked out by Tobias in his bedroom. He is woken up by Branwyn. Later, Ulysses joins Martin as he meets his sister in the church.

@@ -3,18 +3,18 @@ Helen is a human woman who was abducted by Olidamuru, and put in Lothric castle 
 - **First Seen:** Session 18
 - **Status:** Alive
 
-|  Session   |  Status  |  Session   |  Status  |  Session   |  Status  |
-| :--------: | :------: | :--------: | :------: | :--------: | :------: |
-|            |          | Session 21 | Appeared | Session 31 | Appeared |
-|            |          | Session 22 | Appeared | Session 32 |  Agreed  |
-|            |          | Session 23 | Appeared |            |          |
-|            |          | Session 24 | Appeared |            |          |
-|            |          | Session 25 | Appeared |            |          |
-|            |          | Session 26 |  Absent  |            |          |
-|            |          | Session 27 |  Absent  |            |          |
-| Session 18 | Appeared | Session 28 | Appeared |            |          |
-| Session 19 | Appeared | Session 29 | Appeared |            |          |
-| Session 20 | Appeared | Session 30 | Appeared |            |          |
+|  Session   |  Status  |  Session   |  Status  | Session |  Status  |
+| :--------: | :------: | :--------: | :------: | :-----: | :------: |
+|            |          | Session 21 | Appeared |   31    | Appeared |
+|            |          | Session 22 | Appeared |   32    | Appeared |
+|            |          | Session 23 | Appeared |   33    | Appeared |
+|            |          | Session 24 | Appeared |         |          |
+|            |          | Session 25 | Appeared |         |          |
+|            |          | Session 26 |  Absent  |         |          |
+|            |          | Session 27 |  Absent  |         |          |
+| Session 18 | Appeared | Session 28 | Appeared |         |          |
+| Session 19 | Appeared | Session 29 | Appeared |         |          |
+| Session 20 | Appeared | Session 30 | Appeared |         |          |
 ## [[Session 18 - What Would Branwyn Do]]
 Helen is found bound and kneeling, with a knife laid in front of her, and a note saying to stab her. [[Lothar (Brewster) Nash|Brewster]] confirms that she is alive despite being unresponsive. They free her, and take her with them.
 ## [[Session 19 - Inspiration (Desperation)]]
@@ -41,3 +41,5 @@ Helen stays outside while Moiloc talks with the thief. The next day, Helen joins
 Branwyn and Brewster return to Helen in the mausoleum, with Hadrian. Branwyn confirms from Helen that she would like her tongue to be healed, and Hadrian heals her after she provides him with a gem she got from Martin. They return to the mercenary guild to find Moiloc, and decide to go to the [[Sultan Anu|sultan]].
 ## [[Session 32 - I Didn't Ask How Big the Casino Is...]]
 Helen, now able to talk, tells the group about her life. Her family is from Maedros, she grew up in Wallachia. She married her husband, Artyom, when she was 19, and was married to him for two years. When Lothric was overrun, she was knocked unconscious, and woke up bound and tongueless in the dungeon. She explains that she is a spy from Maedros, sent to report on Gwyneth. Helen says the Architect is in power in Maedros, and he may have wanted her to get information on Mora. Helen also admits that she’s 27 years old. The group proceeds to Whitehall, and buy a small house to make into a base.
+## [[Session 33 - I Want To See a Mushroom]]
+Soon after arriving in Whitehall, Helen is knocked out by Tobias in his bedroom. She is woken up by Branwyn.

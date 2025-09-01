@@ -113,5 +113,5 @@ Below are characters vaguely grouped in order of appearance. Characters may be f
 [[Simon]]
 [[Styx the Pathfinder]]
 [[The Goat]]
-[[Tobias Grand]]
+[[Tobias Grande]]
 [[Velma]]

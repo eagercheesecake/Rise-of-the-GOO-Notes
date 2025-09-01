@@ -15,18 +15,18 @@ Brewster is a rock gnome who joined the Wallachian Resistance after being freed 
 |     [[Daphne]]      |  Friend  |
 | [[Puck Nash\|Puck]] | Servant  |
 
-|  Session   |  Status  |  Session   |  Status  |  Session   |  Status  |       Session        |  Status  |
-| :--------: | :------: | :--------: | :------: | :--------: | :------: | :------------------: | :------: |
-|            |          | Session 11 | Appeared | Session 21 | Appeared |      Session 31      | Appeared |
-|            |          | Session 12 | Appeared | Session 22 | Appeared | [[Session 32 - I Didn't Ask How Big the Casino Is...\|32]] | Appeared |
-|            |          | Session 13 | Appeared | Session 23 | Appeared |                      |          |
-|            |          | Session 14 | Appeared | Session 24 | Appeared |                      |          |
-|            |          | Session 15 | Appeared | Session 25 | Appeared |                      |          |
-|            |          | Session 16 | Appeared | Session 26 | Appeared |                      |          |
-|            |          | Session 17 | Appeared | Session 27 | Appeared |                      |          |
-|            |          | Session 18 | Appeared | Session 28 | Appeared |                      |          |
-|            |          | Session 19 | Appeared | Session 29 | Appeared |                      |          |
-| Session 10 | Appeared | Session 20 | Appeared | Session 30 | Appeared |                      |          |
+| Session |  Status  |  Session   |  Status  |  Session   |  Status  | Session |  Status  |
+| :-----: | :------: | :--------: | :------: | :--------: | :------: | :-----: | :------: |
+|         |          | Session 11 | Appeared | Session 21 | Appeared |   31    | Appeared |
+|         |          | Session 12 | Appeared | Session 22 | Appeared |   32    | Appeared |
+|         |          | Session 13 | Appeared | Session 23 | Appeared |   33    | Appeared |
+|         |          | Session 14 | Appeared | Session 24 | Appeared |         |          |
+|         |          | Session 15 | Appeared | Session 25 | Appeared |         |          |
+|         |          | Session 16 | Appeared | Session 26 | Appeared |         |          |
+|         |          | Session 17 | Appeared | Session 27 | Appeared |         |          |
+|         |          | Session 18 | Appeared | Session 28 | Appeared |         |          |
+|         |          | Session 19 | Appeared | Session 29 | Appeared |         |          |
+|   10    | Appeared | Session 20 | Appeared | Session 30 | Appeared |         |          |
 ## [[Session 10 - Strategic Milk Bucket]]
 Brewster meets [[Branwyn of Coryphea|Branwyn]] and [[Moiloc Kodlaksdottër|Moiloc]] when they come to learn about his study on ydril. He mends Moiloc's tattered armor, and she immediately goes into a long-winded story about how she lost her old armor. Brewster says his entire family was enslaved, so he doesn't have much pity for her. He also identifies Branwyn's ring as having some sort of warding magic on it, and identifies Moiloc's behelit as a key that responds to some phrase. He asks where she got the behelit, and she tells him about [[Shurima the Corpsemaker|Shurima]]. Brewster mentions that Shurima used to be a country until it was destroyed 400-500 years ago. Brewster makes her promise to tell him if anything else happens with Shurima, since this piques his interest.
 
@@ -115,3 +115,5 @@ Once Martin tells the group about the assassins the Bagworm is preparing to kill
 Brewster Martin, and Lurcretia enter the tower of Erebus, but Martin is teleported out of the tower. Lucretia and Brewster find a throne room with two thrones and a spell circle reminding Brewster of the spell from Brasov. Brewster sits in one of the thrones, and is taken to the Ringed City, which seems to have been overthrown by Shurima. Shurima calls Brewster to enter the Kiln, which has been redesigned to being one tall tower. Shurima says he wasn't hoping to summon him, and sends him off when it becomes clear Brewster won't help him. Brewster returns to the inn, meeting up with Kaldrake on the way. Brewster throws the book away, hoping to block Moiloc from being able to gain access to Shurima via the tower.
 
 Brewster tells Branwyn about the tower, and about burning the book, and they agree to keep it secret from her. The group proceeds to Whitehall, and buy a small house to make into a base.
+## [[Session 33 - I Want To See a Mushroom]]
+Branwyn questions Brewster a bit about his relationship with [[Daphne]], against Puck's wishes. Brewster tells them about the day he escaped, and how Daphne didn't show up. He says he wishes they could have escaped with each other and become closer than their occasional visits in slavery allowed. Later, Brewster goes to the markets, until they are called back by [[Reptile]] warning of an attack. Brewster fixes a window, and, with Reptile, draws out a map of secrets and hiding spots in the city. Brewster joins Martin as he meets his sister in the church.

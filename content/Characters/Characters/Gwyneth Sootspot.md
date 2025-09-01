@@ -17,18 +17,18 @@ Gwyneth is an elven wizard, and Kaldrake's sister.
 |                     [[Bisco]]                     |      Servant      |
 |  [[Characters/Players/Martin Sootspot\|Martin]]   |      Brother      |
 
-|  Session   |  Status   |  Session   |  Status   |  Session   |  Status   |  Session   |  Status   |
-| :--------: | :-------: | :--------: | :-------: | :--------: | :-------: | :--------: | :-------: |
-| Session 1  | Appeared  | Session 11 | Mentioned | Session 21 |  Absent   | Session 31 | Mentioned |
-| Session 2  |  Absent   | Session 12 | Mentioned | Session 22 |  Absent   |            |           |
-| Session 3  |  Absent   | Session 13 | Mentioned | Session 23 |  Absent   |            |           |
-| Session 4  |  Absent   | Session 14 | Appeared  | Session 24 | Mentioned |            |           |
-| Session 5  | Mentioned | Session 15 | Appeared  | Session 25 | Appeared  |            |           |
-| Session 6  | Mentioned | Session 16 | Mentioned | Session 26 |  Absent   |            |           |
-| Session 7  | Mentioned | Session 17 | Mentioned | Session 27 | Mentioned |            |           |
-| Session 8  |  Absent   | Session 18 | Mentioned | Session 28 |  Absent   |            |           |
-| Session 9  |  Absent   | Session 19 |  Absent   | Session 29 |  Absent   |            |           |
-| Session 10 |  Absent   | Session 20 |  Absent   | Session 30 |  Absent   |            |           |
+| Session |  Status   | Session |  Status   | Session |  Status   | Session |  Status   |
+| :-----: | :-------: | :-----: | :-------: | :-----: | :-------: | :-----: | :-------: |
+|    1    | Appeared  |   11    | Mentioned |   21    |  Absent   |   31    | Mentioned |
+|    2    |  Absent   |   12    | Mentioned |   22    |  Absent   |   32    |  Absent   |
+|    3    |  Absent   |   13    | Mentioned |   23    |  Absent   |   33    | Mentioned |
+|    4    |  Absent   |   14    | Appeared  |   24    | Mentioned |         |           |
+|    5    | Mentioned |   15    | Appeared  |   25    | Appeared  |         |           |
+|    6    | Mentioned |   16    | Mentioned |   26    |  Absent   |         |           |
+|    7    | Mentioned |   17    | Mentioned |   27    | Mentioned |         |           |
+|    8    |  Absent   |   18    | Mentioned |   28    |  Absent   |         |           |
+|    9    |  Absent   |   19    |  Absent   |   29    |  Absent   |         |           |
+|   10    |  Absent   |   20    |  Absent   |   30    |  Absent   |         |           |
 ## [[Session 01 - Piss Grandma]]
 Kaldrake mentions that her sister is the person who commissioned [[Lexar Bellos|Lexar]] to protect her during the Games. Before the first melee, [[Gertrude Spugel|Gertrude]] sees Gwyneth performing fire magic in front of the arena.
 ## [[Session 05 - Can't Be Worse Than Here]]
@@ -65,3 +65,5 @@ Moiloc has a vision of Gwyneth, Mora, [[Daphne]], and [[Sister Marie the Confess
 The Resistance says Gwyneth is the Queen's closest advisor, and the current leader of Wallachia. Gwyneth had been seen with Mora in Whitehall.
 ## [[Session 31 - Fourteen Rings]]
 Martin finds a letter from [[Gwyneth Sootspot|Gwyneth]], who had told the Bagworm to kill four adventurers, but save Martin's body if he dies.
+## [[Session 33 - I Want To See a Mushroom]]
+Martin is messaged by Gwyneth, who asks him to meet her at the church, not tell anyone, and to come alone. Martin immediately tells the others, who agree to go with him. They find one of Gwyneth's Scrying Eyes watching this conversation.

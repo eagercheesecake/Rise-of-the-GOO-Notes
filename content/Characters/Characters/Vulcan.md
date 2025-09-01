@@ -7,7 +7,7 @@ Vulcan is a khalkha man who joined the party after being rescued from imprisonme
 | :-----: | :------: | :-----: | :------: |
 |         |          |   31    | Appeared |
 |         |          |   32    | Appeared |
-|         |          |         |          |
+|         |          |   33    | Appeared |
 |         |          |         |          |
 |         |          |         |          |
 |         |          |         |          |
@@ -25,3 +25,5 @@ Vulcan joins the group to the mercenary's guild. Upon realizing it isn't open ye
 Once Martin tells the group about the assassins the Bagworm is preparing to kill them, they make a plan to take out the Bagworm. They find that the Bagworm has taken control over a death knight, who they cannot hope to defeat, so they find the Bagworm in the basement and kill him.
 ## [[Session 32 - I Didn't Ask How Big the Casino Is...]]
 The group proceeds to Whitehall, and buy a small house to make into a base.
+## [[Session 33 - I Want To See a Mushroom]]
+After the others leave for their respective journeys, Branwyn, Reptile, William, Holliday, and Vulcan are attacked by Tobias. Vulcan crashes through a window and runs around the house to flank him, but finds that he has a Mirror Image, and finds a human's corpse on the otherwise empty streets. Tobias and his Mirror Image take Vulcan down quickly, and he has to be revived by Branwyn.

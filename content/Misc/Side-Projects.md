@@ -1,0 +1,1 @@
+Note: Characters are together if they are in the same area, including areas such as large castles, inns, etc.

@@ -7,18 +7,18 @@ Daphne is a dwarf who worked with Brewster in the slave labor camps in the mines
 | :----------------------------------: | :------: |
 | [[Lothar (Brewster) Nash\|Brewster]] |  Friend  |
 
-|  Session   |  Status   |  Session   |  Status   |
-| :--------: | :-------: | :--------: | :-------: |
-|            |           | Session 21 |  Absent   |
-| Session 12 | Mentioned | Session 22 | Mentioned |
-| Session 13 | Mentioned | Session 23 |  Absent   |
-| Session 14 |  Absent   | Session 24 |  Absent   |
-| Session 15 | Mentioned | Session 25 | Appeared  |
-| Session 16 |  Absent   |            |           |
-| Session 17 |  Absent   |            |           |
-| Session 18 |  Absent   |            |           |
-| Session 19 |  Absent   |            |           |
-| Session 20 |  Absent   |            |           |
+|  Session   |  Status   |  Session   |  Status   | Session |  Status   |
+| :--------: | :-------: | :--------: | :-------: | :-----: | :-------: |
+|            |           | Session 21 |  Absent   |   31    |  Absent   |
+| Session 12 | Mentioned | Session 22 | Mentioned |   32    |  Absent   |
+| Session 13 | Mentioned | Session 23 |  Absent   |   33    | Mentioned |
+| Session 14 |  Absent   | Session 24 |  Absent   |         |           |
+| Session 15 | Mentioned | Session 25 | Appeared  |         |           |
+| Session 16 |  Absent   |     26     |  Absent   |         |           |
+| Session 17 |  Absent   |     27     |  Absent   |         |           |
+| Session 18 |  Absent   |     28     |  Absent   |         |           |
+| Session 19 |  Absent   |     29     |  Absent   |         |           |
+| Session 20 |  Absent   |     30     |  Absent   |         |           |
 ## [[Session 12 - Branwyn's Bad Day]]
 After finding a body that looks exactly like [[Branwyn of Coryphea|Branwyn]] as a child, [[Lothar (Brewster) Nash|Brewster]] mentions that Daphne might be able to identify how that is possible. She should be able to confirm if the body really is the same as Branwyn if they take something to identify the body by.
 ## [[Session 13 - Martha Is My Middle Name]]
@@ -29,3 +29,5 @@ Brewster recalls Daphne telling him a story about a killer in Lothric whose vict
 Brewster sees a pedestal depicting important parts of his life. One of the first images is Brewster meeting Daphne while enslaved.
 ## [[Session 25 - I Know an Archer]]
 Moiloc has a vision of Gwyneth, [[Mora]], Daphne, and [[Sister Marie the Confessor]] in Whitehall. They each appear, one after another, then it repeats.
+## [[Session 33 - I Want To See a Mushroom]]
+Brewster suggests finding Daphne, and tells them that he doesn’t know her exact duties, but she would stop by every once in a while. Eventually, they made a plan to escape, and Daphne didn’t show up on the day. He says he wishes they could have escaped with each other and become closer than their occasional visits in slavery allowed. Branwyn finds all of this suspicious, and asks if Daphne might be a spy, continuing to ask Brewster questions about their relationship despite Puck's objections..

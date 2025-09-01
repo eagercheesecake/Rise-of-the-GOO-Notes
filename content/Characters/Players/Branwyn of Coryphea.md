@@ -14,18 +14,18 @@ Branwyn is an half-elf ranger woman, and child of Mora, originally coming from C
 |       [[Mora\|Mora]]        |  Mother  |
 |        [[Charlotte]]        |   Ward   |
 
-|  Session   |  Status  |  Session   |  Status  |  Session   |  Status  |  Session   |  Status  |
-| :--------: | :------: | :--------: | :------: | :--------: | :------: | :--------: | :------: |
-| Session 1  | Appeared | Session 11 | Appeared | Session 21 | Appeared | Session 31 | Appeared |
-| Session 2  | Appeared | Session 12 | Appeared | Session 22 | Appeared |            |          |
-| Session 3  | Appeared | Session 13 | Appeared | Session 23 | Appeared |            |          |
-| Session 4  | Appeared | Session 14 | Appeared | Session 24 | Appeared |            |          |
-| Session 5  | Appeared | Session 15 | Appeared | Session 25 | Appeared |            |          |
-| Session 6  | Appeared | Session 16 | Appeared | Session 26 | Appeared |            |          |
-| Session 7  | Appeared | Session 17 | Appeared | Session 27 | Appeared |            |          |
-| Session 8  | Appeared | Session 18 | Appeared | Session 28 | Appeared |            |          |
-| Session 9  | Appeared | Session 19 | Appeared | Session 29 | Appeared |            |          |
-| Session 10 | Appeared | Session 20 | Appeared | Session 30 | Appeared |            |          |
+|  Session   |  Status  |  Session   |  Status  |  Session   |  Status  | Session |  Status  |
+| :--------: | :------: | :--------: | :------: | :--------: | :------: | :-----: | :------: |
+| Session 1  | Appeared | Session 11 | Appeared | Session 21 | Appeared |   31    | Appeared |
+| Session 2  | Appeared | Session 12 | Appeared | Session 22 | Appeared |   32    | Appeared |
+| Session 3  | Appeared | Session 13 | Appeared | Session 23 | Appeared |   33    | Appeared |
+| Session 4  | Appeared | Session 14 | Appeared | Session 24 | Appeared |         |          |
+| Session 5  | Appeared | Session 15 | Appeared | Session 25 | Appeared |         |          |
+| Session 6  | Appeared | Session 16 | Appeared | Session 26 | Appeared |         |          |
+| Session 7  | Appeared | Session 17 | Appeared | Session 27 | Appeared |         |          |
+| Session 8  | Appeared | Session 18 | Appeared | Session 28 | Appeared |         |          |
+| Session 9  | Appeared | Session 19 | Appeared | Session 29 | Appeared |         |          |
+| Session 10 | Appeared | Session 20 | Appeared | Session 30 | Appeared |         |          |
 ## [[Session 01 - Piss Grandma]]
 Branwyn finds [[Monty's Son]] on the streets of Montrissad, who points her to Monty to sell her cloak. On her way to Monty's, she is attacked by a teenage thief, and knocks him out, leaving him some gold as an apology. Monty tries to rip her off in the sale, but fails, and instead offers to sponsor her in the Games. Branwyn shows the letter to [[Jim MacMasters|Jim]] at the inn and gets a room.
 
@@ -164,3 +164,5 @@ Once Martin tells the group about the assassins the Bagworm is preparing to kill
 Branwyn disguises herself as the Bagworm, and uses his rings to break into his stash of gold in his office. She reads Disgaia's book, and learns of a fable about her.
 ## [[Session 32 - I Didn't Ask How Big the Casino Is...]]
 Branwyn gives Hadrian the deed to the Cat's Paw. Hadrian returns the favor by giving her Dario's autobiography. Brewster tells Branwyn about the tower, and about burning the book, and they agree to keep it secret from her. The group proceeds to Whitehall, and buy a small house to make into a base.
+## [[Session 33 - I Want To See a Mushroom]]
+Branwyn questions Brewster a bit about his relationship with [[Daphne]], against Puck's wishes. After the others leave for their respective journeys, Branwyn, Reptile, William, Holliday, and Vulcan are attacked by Tobias. Tobias breaks into the party's forge in Whitehall in an attempt to kidnap Branwyn, with the help of his Mirror Image. After knocking out Helen and Ulysses, as well as nearly killing William and Vulcan, Branwyn nearly takes him down. He snaps his fingers and disappears. Later, Branwyn joins Martin as he meets his sister in the church.
