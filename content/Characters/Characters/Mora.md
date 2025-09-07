@@ -13,9 +13,9 @@ Mora is Branwyn's mother figure from her childhood, using her as a vessel for he
 | Session |  Status   | Session |  Status   | Session |  Status   | Session |  Status   |
 | :-----: | :-------: | :-----: | :-------: | :-----: | :-------: | :-----: | :-------: |
 |         |           |   11    | Mentioned |   21    |  Absent   |   31    |  Absent   |
-|         |           |   12    | Mentioned |   22    | Appeared  |   32    |  Absent   |
-|         |           |   13    | Mentioned |   23    | Mentioned |   33    | Mentioned |
-|         |           |   14    |  Absent   |   24    |  Absent   |         |           |
+|         |           |   12    | Mentioned |   22    | Appeared  |   32    | Mentioned |
+|         |           |   13    | Mentioned |   23    | Mentioned |   33    |  Absent   |
+|         |           |   14    |  Absent   |   24    |  Absent   |   34    | Mentioned |
 |    5    | Mentioned |   15    | Mentioned |   25    | Appeared  |         |           |
 |    6    | Mentioned |   16    | Mentioned |   26    |  Absent   |         |           |
 |    7    | Mentioned |   17    | Appeared  |   27    | Mentioned |         |           |
@@ -64,3 +64,5 @@ Moiloc has a vision of Gwyneth, Mora, [[Daphne]], and [[Sister Marie the Confess
 [[Ulysses]] mentions that Branwyn's hair may be able to craft an amulet that could kill Mora. She had been seen in Whitehall with Gwyneth. [[Violet]] says that Mora killed [[Jessie Harkness|Jessie]], while trying to take children under Jessie's protection.
 ## [[Session 32 - I Didn't Ask How Big the Casino Is...]]
 Ulysses makes it clear that his one goal while in Whitehall is to kill Mora.
+## [[Session 34 - The Party Splits]]
+Ulysses's head which is tracking Mora shows that she is in the Capella. White ravens are seen flying around Whitehall.

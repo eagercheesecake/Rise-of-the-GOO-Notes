@@ -12,7 +12,7 @@ Tarren is a member of the Resistance in Dunn, and a contestant in the Montrissad
 |         |           |   11    |  Absent   |   21    |  Absent   |   31    | Appeared |
 |         |           |   12    |  Absent   |   22    | Mentioned |   32    | Appeared |
 |         |           |   13    |  Absent   |   23    |  Absent   |   33    | Appeared |
-|         |           |   14    |  Absent   |   24    |  Absent   |         |          |
+|         |           |   14    |  Absent   |   24    |  Absent   |   34    | Appeared |
 |         |           |   15    | Mentioned |   25    |  Absent   |         |          |
 |    6    | Appeared  |   16    |  Absent   |   26    |  Absent   |         |          |
 |    7    | Appeared  |   17    | Appeared  |   27    | Appeared  |         |          |
@@ -55,3 +55,5 @@ Once Martin arrives, Tarren joins him to negotiate with [[Holliday]]. Once Marti
 The group proceeds to Whitehall, and buy a small house to make into a base. Later, Tarren joins Martin as he meets his sister in the church.
 ## [[Session 33 - I Want To See a Mushroom]]
 Tarren joins Moiloc in her trip to the Underdark. He informs her that he broke his oath when escaping from Whitehall, so he won't join her in negotiations. He also said the Hammerfists are generally peaceful - never starting conflicts, only finishing them. After Moiloc is invited to the Underdark, Tarren returns to the safehouse and sends other fighters.
+## [[Session 34 - The Party Splits]]
+Tarren joins Martin when going to meet Gwyneth, but is immediately frozen. When Martin leaves with Gwyneth, the Death Knight and clones of Tobias attack. Tarren is unable to escape, and is knocked unconscious by the clones of Tobias.

@@ -12,7 +12,7 @@ Ishtar is a cleric working with the Lyceum, who joins the party on their way to 
 |         |          |   31    | Appeared |
 |         |          |   32    | Appeared |
 |         |          |   33    | Appeared |
-|         |          |         |          |
+|         |          |   34    | Appeared |
 |         |          |         |          |
 |         |          |         |          |
 |         |          |         |          |
@@ -29,3 +29,5 @@ Once Martin tells the group about the assassins the Bagworm is preparing to kill
 Branwyn gives Ishtar Dario's autobiography after receiving it from Hadrian. The group proceeds to Whitehall, and buy a small house to make into a base.
 ## [[Session 33 - I Want To See a Mushroom]]
 Ishtar joins Moiloc in her trip to the Underdark.
+## [[Session 34 - The Party Splits]]
+Moiloc, Holliday, Goro, Nissa, Ishtar, and Mephistopheles are able to take down all of the Inquisitors who attacked after killing Kirk. They start returning to the surface, taking a rest along the way.

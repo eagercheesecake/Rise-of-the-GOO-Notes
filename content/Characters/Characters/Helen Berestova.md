@@ -8,7 +8,7 @@ Helen is a human woman who was abducted by Olidamuru, and put in Lothric castle 
 |            |          | Session 21 | Appeared |   31    | Appeared |
 |            |          | Session 22 | Appeared |   32    | Appeared |
 |            |          | Session 23 | Appeared |   33    | Appeared |
-|            |          | Session 24 | Appeared |         |          |
+|            |          | Session 24 | Appeared |   34    | Appeared |
 |            |          | Session 25 | Appeared |         |          |
 |            |          | Session 26 |  Absent  |         |          |
 |            |          | Session 27 |  Absent  |         |          |
@@ -43,3 +43,5 @@ Branwyn and Brewster return to Helen in the mausoleum, with Hadrian. Branwyn con
 Helen, now able to talk, tells the group about her life. Her family is from Maedros, she grew up in Wallachia. She married her husband, Artyom, when she was 19, and was married to him for two years. When Lothric was overrun, she was knocked unconscious, and woke up bound and tongueless in the dungeon. She explains that she is a spy from Maedros, sent to report on Gwyneth. Helen says the Architect is in power in Maedros, and he may have wanted her to get information on Mora. Helen also admits that she’s 27 years old. The group proceeds to Whitehall, and buy a small house to make into a base.
 ## [[Session 33 - I Want To See a Mushroom]]
 Soon after arriving in Whitehall, Helen is knocked out by Tobias in his bedroom. She is woken up by Branwyn.
+## [[Session 34 - The Party Splits]]
+Branwyn decides to turn back when the group reaches the chapel, and returns to the forge with Helen. On the way, she finds Tobias looking for someone. She finds the forge blown up as a result of a trap Brewster left for any invaders. She escapes the forge with Helen, Vulcan, and William, going to the Watering Shack, an abandoned brothel in the entertainment district.

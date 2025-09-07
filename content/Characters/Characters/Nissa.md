@@ -13,6 +13,7 @@ Nissa is a tabaxi monk. She is the adopted daughter of the sultan of Velbras, an
 |   31    | Appeared |
 |   32    | Appeared |
 |   33    | Appeared |
+|   34    | Appeared |
 ## [[Session 31 - Fourteen Rings]]
 [[Ishtar]] reveals that Nissa is her sister, and they are both adopted daughters of [[Sultan Anu]]. Nissa serves as his bodyguard. Anu says Nissa is in need of fighting experience, and pawns her off on the group for their adventure. This upsets Nissa. The sultan tells Brewster to leave Nissa in Whitehall when they are done, as he plans to take it over and give his rule in Velbras to Nissa, if she can prove herself on this journey. [[Lothar (Brewster) Nash|Brewster]] agrees, but chooses not to tell Nissa about this, appreciating the test.
 
@@ -21,3 +22,5 @@ Once Martin tells the group about the assassins the Bagworm is preparing to kill
 The group proceeds to Whitehall, and buy a small house to make into a base.
 ## [[Session 33 - I Want To See a Mushroom]]
 Ishtar joins Moiloc in her trip to the Underdark.
+## [[Session 34 - The Party Splits]]
+Moiloc, Holliday, Goro, Nissa, Ishtar, and Mephistopheles are able to take down all of the Inquisitors who attacked after killing Kirk. They start returning to the surface, taking a rest along the way.

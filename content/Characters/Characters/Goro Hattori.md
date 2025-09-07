@@ -16,7 +16,7 @@ Goro is an old dragonborn man. He is the castle blacksmith in Montrissad.
 |         |          |   11    | Appeared |   21    | Appeared |   31    | Appeared |
 |         |          |   12    | Appeared |   22    | Appeared |   32    | Appeared |
 |         |          |   13    | Appeared |   23    | Appeared |   33    | Appeared |
-|         |          |   14    | Appeared |   24    | Appeared |         |          |
+|         |          |   14    | Appeared |   24    | Appeared |   34    | Appeared |
 |         |          |   15    |  Absent  |   25    | Appeared |         |          |
 |    6    | Appeared |   16    |  Absent  |   26    |  Absent  |         |          |
 |    7    | Appeared |   17    |  Absent  |   27    |  Absent  |         |          |
@@ -63,3 +63,5 @@ Martin, Goro, and Lucretia return to the mercenary guild to meet up with the oth
 The group proceeds to Whitehall, and buy a small house to make into a base.
 ## [[Session 33 - I Want To See a Mushroom]]
 Goro goes to the markets, until they are called back by [[Reptile]] warning of an attack. Later, Goro joins Moiloc in her trip to the Underdark.
+## [[Session 34 - The Party Splits]]
+Moiloc, Holliday, Goro, Nissa, Ishtar, and Mephistopheles are able to take down all of the Inquisitors who attacked after killing Kirk. They start returning to the surface, taking a rest along the way.

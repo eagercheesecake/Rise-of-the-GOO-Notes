@@ -14,7 +14,7 @@ Puck is Brewster's homunculus servant. He takes the form of a smiling, flying ca
 |         |          | Session 11  | Appeared | Session 21 | Appeared  |   31    | Appeared |
 |         |          | Session 12  | Appeared | Session 22 | Mentioned |   32    |  Absent  |
 |         |          | Session 13  | Appeared | Session 23 | Mentioned |   33    | Appeared |
-|         |          | Session 14  | Appeared | Session 24 | Appeared  |         |          |
+|         |          | Session 14  | Appeared | Session 24 | Appeared  |   34    | Appeared |
 |         |          | Session 15  |  Absent  | Session 25 | Appeared  |         |          |
 |         |          | Session 16  |  Absent  | Session 26 | Appeared  |         |          |
 |         |          | Session 17  | Appeared | Session 27 | Appeared  |         |          |
@@ -57,3 +57,5 @@ In [[Sha-Sĭme|Sha-Sĭme's]] Crypt, Puck is put against Martin in a fight. Marti
 Puck is present when the group kills [[The Bagworm]].
 ## [[Session 33 - I Want To See a Mushroom]]
 After Branwyn asks Brewster for more information on his relationship with [[Daphne]], Puck bumps her and shakes his head, telling her not to ask. However, he is far too late.
+## [[Session 34 - The Party Splits]]
+Puck is killed by Gwyneth's Death Knight in the Capella. Brewster, needing to escape, has to leave his gem behind.

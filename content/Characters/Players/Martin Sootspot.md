@@ -10,18 +10,18 @@ Martin is a wizard of the Sootspot family.
 |         [[Balthazar Sootspot\|Balthazar]]         |      Father       |
 | [[Martin the Great\|Martin]] | Great-Grandfather |
 
-|  Session   |  Status  |  Session   |  Status  |
-| :--------: | :------: | :--------: | :------: |
-|            |          | Session 31 | Appeared |
-| Session 22 | Appeared |     32     | Appeared |
-| Session 23 | Appeared |     33     | Appeared |
-| Session 24 | Appeared |            |          |
-| Session 25 | Appeared |            |          |
-| Session 26 | Appeared |            |          |
-| Session 27 | Appeared |            |          |
-| Session 28 | Apperaed |            |          |
-| Session 29 | Appeared |            |          |
-| Session 30 | Appeared |            |          |
+| Session |  Status  | Session |  Status  |
+| :-----: | :------: | :-----: | :------: |
+|         |          |   31    | Appeared |
+|   22    | Appeared |   32    | Appeared |
+|   23    | Appeared |   33    | Appeared |
+|   24    | Appeared |   34    | Appeared |
+|   25    | Appeared |         |          |
+|   26    | Appeared |         |          |
+|   27    | Appeared |         |          |
+|   28    | Apperaed |         |          |
+|   29    | Appeared |         |          |
+|   30    | Appeared |         |          |
 ## [[Session 22 - The B Team]]
 [[Martin Sootspot|Martin]], [[Ouroborus Tikktal|Ororo]], [[Mora|Morrigan]], [[Contigo Muñoz|Contigo]], and [[Arklow Laban|Arklow]] arrive in Col Man'Dar after Martin sees a vision of Kaldrake's death, and find his corpse. The group finds [[Goro Hattori|Goro]] in the lumber mill, and [[Velma|Velma's]] corpse in the forest. Morrigan casts Charm Person on Martin, but fails, with Martin telling her not to do it again. Instead, Morrigan casts Dominate Person on Martin. She tells him via Telepathy to look for [[Branwyn of Coryphea|Branwyn's]] body in the forest. Ororo realizes Martin is under the effect of magic and dispels it, causing Martin to fight with Morrigan about the Dominate Person spell she used. Morrigan explains she is looking for a childhood friend, and Martin agrees to help look, but on the path instead of in the middle of the forest, although Martin realizes Morrigan's explanation is a lie. During the night, Ororo wakes Martin up and says Morrigan and Contigo are gone, and that she thinks Morrigan used Dominate Person on Contigo. They give chase.
 
@@ -54,3 +54,5 @@ Brewster Martin, and Lurcretia enter the tower of Erebus, but Martin is teleport
 Mephistopheles tells Martin and Moiloc that he owes 100g in gambling debts. Together, they enter the gambling den and pay it off. They then Fireball the gambling den, killing everyone inside, and looting the 100g and more. Branwyn has a long, angry talk with Martin and Moiloc about this. The group proceeds to Whitehall, and buy a small house to make into a base.
 ## [[Session 33 - I Want To See a Mushroom]]
 Martin is messaged by Gwyneth, who asks him to meet her at the church, not tell anyone, and to come alone. Martin immediately tells the others, who agree to go with him. They find one of Gwyneth's Scrying Eyes watching this conversation. In the meantime, Martin goes to the markets, until they are called back by [[Reptile]] warning of an attack. Martin leaves to meet his sister in the church.
+## [[Session 34 - The Party Splits]]
+When Martin meets up with Gwyneth, she immediately freezes the rest of the group, and asks Martin to join her in his laboratory. She says Martin can save two of his friends, and Martin picks Lucretia and Brewster.

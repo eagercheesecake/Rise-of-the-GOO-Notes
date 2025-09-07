@@ -22,7 +22,7 @@ Gwyneth is an elven wizard, and Kaldrake's sister.
 |    1    | Appeared  |   11    | Mentioned |   21    |  Absent   |   31    | Mentioned |
 |    2    |  Absent   |   12    | Mentioned |   22    |  Absent   |   32    |  Absent   |
 |    3    |  Absent   |   13    | Mentioned |   23    |  Absent   |   33    | Mentioned |
-|    4    |  Absent   |   14    | Appeared  |   24    | Mentioned |         |           |
+|    4    |  Absent   |   14    | Appeared  |   24    | Mentioned |   34    | Appeared  |
 |    5    | Mentioned |   15    | Appeared  |   25    | Appeared  |         |           |
 |    6    | Mentioned |   16    | Mentioned |   26    |  Absent   |         |           |
 |    7    | Mentioned |   17    | Mentioned |   27    | Mentioned |         |           |
@@ -67,3 +67,5 @@ The Resistance says Gwyneth is the Queen's closest advisor, and the current lead
 Martin finds a letter from [[Gwyneth Sootspot|Gwyneth]], who had told the Bagworm to kill four adventurers, but save Martin's body if he dies.
 ## [[Session 33 - I Want To See a Mushroom]]
 Martin is messaged by Gwyneth, who asks him to meet her at the church, not tell anyone, and to come alone. Martin immediately tells the others, who agree to go with him. They find one of Gwyneth's Scrying Eyes watching this conversation.
+## [[Session 34 - The Party Splits]]
+When Martin meets up with Gwyneth, she immediately freezes the rest of the group, and asks Martin to join her in his laboratory. She says Martin can save two of his friends, and Martin picks Lucretia and Brewster. Gwyneth does not respect this wish. She shows Martin how she is able to create clones of Tobias using Gulvayas's knife. When Martin says Kaldrake has died, Gwyneth crosses his name off of a list.

@@ -1,0 +1,48 @@
+|             Previous Session              | Next Session |
+| :---------------------------------------: | :----------: |
+| [[Session 33 - I Want To See a Mushroom]] |              |
+### Logline
+Everyone is attacked, shattering the group.
+### Synopsis
+
+# Day 63
+### Capella Sinistra
+[[Lothar (Brewster) Nash|Brewster]], [[Branwyn of Coryphea|Branwyn]], [[Martin Sootspot|Martin]], [[Lucretia]], [[Reptile]], [[Ulysses]], [[Helen Berestova|Helen]], and [[Tarren Hammerfist|Tarren]] proceed to the Cappella Sinistra, the cathedral [[Gwyneth Sootspot|Gwyneth]] said to meet at. They pass through the human district and notice nobody is in the streets. There are no Inquisitors on the streets. Branwyn casts Pass Without Trace. They pass over the scar planes, a result of experimentation the Inquisitors did to find other ways to the Underdark. They also see what seems to be a new tunnel in the side of the mountain. They see movement in the tunnel, and see some gnomes carting out ydril gemstones. They take the carts and dump the ydril into the scars in the pit.
+
+The Capella is a vast fortress, and Brewster believes it has grown since the last time he was there. He notices that there are no windows, just one door. To the side of the chapel is a tomb. The door to the castle opens, and inside is just a magical darkness. Ulysses shows them his shrunken head, which is gravitating toward the castle, showing that [[Mora]] is also in there.
+
+Branwyn tries to convince the group that they’re going in with no planning, suggesting that they go back and plan more before this confrontation. Martin and Brewster suggest that they are actively in danger every second. When Martin says that anyone is free to leave, Branwyn and Helen decide they want no part of this, and leave to return to the forge. Martin leads the way into the castle.
+
+As they head inside, they enter a massive prayer room full of pews, two floors, with a giant statue of Eru. In front of the statue is Gwyneth, in new, black robes, with arms outstretched. Everyone except Martin and Tarren freeze in place. Gwyneth comments that she told Martin to come alone. She snaps her fingers, and four copies of [[Tobias Grande|Tobias]] step out of the shadows.
+
+Gwyneth asks what happened to [[Kaldrake Sootspot|Kaldrake]]. Martin mentions that he found him, and Gwyneth takes out a list, and crosses out a name. Gwyneth says she didn’t think she’d have an audience, and asks Martin if he would come with her. He agrees, and they leave the room. She snaps her fingers again, and a [[Death Knight]] appears. Gwyneth asks if Martin minds if he minds if she makes a mess, and Martin says he does. Gwyneth asks which ones, saying to pick two, and he picks Lucretia and Brewster. Martin “apologizes” to the party as he walks off. Gwyneth leads Martin to the tombs, saying there’s something she wants him to see something.
+
+> [!danger] Fight
+> Brewster uses Detect Magic, and finds that all of them are identical - either all original or all copies. Ulysses books it to follow Gwyneth. Tarren uses Fist of Thunder, hitting the third and fourth Tobias. Lucretia, confused, wonders if Gwyneth will keep her word and not have anyone attack her. She senses that’s likely not the case, and backs up, casting Magic Missile on the third Tobias. The Death Knight doesn’t move. The second and third Tobias attacks Brewster, both slashing at him. The first Tobias slashes at Reptile. The fourth Tobias attacks Tarren, but misses. Reptile disengages, and runs to a different door than Ulysses. Brewster Blinks out of the plane. [[Puck Nash|Puck]] casts Shocking Grasp on the Death Knight.
+> 
+> Ulysses runs through the door and escapes. Tarren punches the fourth Tobias. The second and third Tobias, no longer able to attack Brewster, move on to Lucretia. The first and fourth Tobiases attack Tarren. The Tobiases somehow show teeth, and smile. The Death Knight downs Puck. Lucretia disengages and chases after Ulysses. Reptile moves into another room, separating himself from the others. Brewster reappears and dashes toward the door Ulysses went into. The death Knight heads toward the spot where Brewster disappeared, and the Tobiases move to attack Lucretia. Brewster casts Sanctuary on Lucretia before leaving to follow Ulysses. Lucretia also follows, escaping behind Brewster. All of the Tobiases chase after them.
+### The Underdark
+> [!danger] Fight
+> The Inquisitors turn to attack [[Moiloc Kodlaksdottër|Moiloc]] and her group. [[Holliday]] goes for the fourth Inquisitor, slicing him. The monks don’t attack. Moiloc goes to chop the second Inquisitor with her fire longsword. [[Goro Hattori|Goro]] casts an ability that enhances [[Nissa|Nissa’s]] weapons. All the Inquisitors try to attack, but only one hits; the fifth Inquisitor hits [[Mephistopheles the Bard|Mephistopheles]], who then hits back. Nissa and [[Ishtar]] slash at the first Inquisitor from opposite sides.
+> 
+> Holliday attacks the fourth Inquisitor again. The monk who was attacked finally begins attacking, dealing damage back on the third Inquisitor. Moiloc attacks the second Inquisitor again. Ishtar and Nissa tag-team the first Inquisitor again, and Nissa beheads him. Goro is unable to hit his Inquisitor. All Inquisitors miss. Mephistopheles misses his attack.
+> 
+> Holliday misses, but the second monk is able to get a hit off. Moiloc whiffs it with her fire long sword. Ishtar moves to defend Mephistopheles and attack the fifth Inquisitor. Goro attacks the Inquisitor again. The second Inquisitor hits Moiloc twice. The fifth Inquisitor lightly slashes at Mephistopheles. The other two miss. Mephistopheles misses again. Nissa slashes at the second Inquisitor.
+> 
+> Holliday, Moiloc, Mephistopheles, and the monk miss. Ishtar hits the fifth Inquisitor. Goro hits his Inquisitor. The third Inquisitor is finally able to hit the monk. The others miss. Nissa decapitates the second Inquisitor, then moves to heavily attack the fifth.
+> Holliday again hurts the fourth Inquisitor. The monk misses. Moiloc attacks the fifth twice. Ishtar decapitates the fifth Inquisitor. Goro hits the third Inquisitor. Both Inquisitors again miss. Mephistopheles goes to hide in the corner. Nissa and Ishtar go to help Holliday out.
+> Holliday and the monk miss, and Moiloc misses with Eldritch Blast. Goro slams his hammer into the third Inquisitor, who crumbles to the ground. The fourth Inquisitor puts up his hands, surrendering. Nissa decapitates him.
+
+Ishtar declares that he has been leaving literal breadcrumbs which they can follow back to the entrance, and the group proceed making the hours-long trek back to the monastery. They take a long rest, planning to arrive at early afternoon.
+### Capella Sinistra
+Martin and Gwyneth proceed down the hallway. Gwyneth asks Martin how he’s been, playing it very coy. They have a sibling fight for a bit. They get to a fork in the hallway, and Gwyneth claps, revealing a third path. This leads to a secret room, Gwyneth’s laboratory.
+
+She leads Martin to a cell, containing Tobias, and pulls out Gulvayas’s dagger. She stabs Tobias, who falls limp, then removes the dagger and puts it into a mannequin. Skin and clothes form, creating a clone of Tobias, just with no face. She stabs Tobias’s corpse again, and he comes back to life. Gwyneth, with nothing to do with the clone, tells it to kill itself, and it rips his head off. Gwyneth admits that she wanted to bring Martin there to exposit, since she has nobody to talk to except Morrigan.
+
+Brewster is unable to catch up to Ulysses. He lets Lucretia catch up, then casts Flaming Sphere behind her to stop the Tobiases. Brewster then chucks his flask of Schmebulock coffee back at the Tobiases, viscous from age. The brick it lands on stands up, turns into a decomposing boar, which charges towards Tobias. Brewster then uses his knowledge of the cathedral, remembering some people who worked on it. The tomb isn’t for a few hundred more feet. Eventually, there will be a small grate to drop corpses and debris, which leads out into an area of the slave quarters. He eventually sees the grate, and pries it off. He warns Lucretia that it’s going to be a terrible path, and they both slide down. They land in a pile of garbage, human waste, and corpses. Brewster casts Levitate before landing, to Lucretia’s dismay.
+
+Brewster notices one chute that hasn’t had any garbage come out of it after some time. Lucretia tosses him up the chute and climbs through herself. He tries to pull Lucretia up, but drops her. On her second attempt, he’s able to get her up into the main path of the chute.
+### Whitehall Streets
+Helen hypes Branwyn up, trying to get her to fight the Tobias. Branwyn tells her that he took Vulkan out in three hits, which gets Helen to re-evaluate. They decide to return to the forge to investigate. There is still nobody out on the streets. Branwyn returns to the forge to find the door exploded, with the charred corpse of Tobias by the door. She recognizes this as one of Brewster’s traps. She enters, bow drawn. She knocks at the back door, and [[William Archer|William]] asks who it is, loudly. He asks how he knows it’s really her, asking what she thinks of her. Branwyn meets up with [[Vulcan]], and they try to find a place to move to where they can hide. Branwyn says the safest place, safer than the safe houses in the slave quarters, would be the pleasure district.
+### The Watering Shack
+They go to an abandoned brothel, the Watering Shack. Branwyn casts Alarm on the front door and goes to sleep.

@@ -1,10 +1,10 @@
-|                    Previous Session                    | Next Session |
-| :----------------------------------------------------: | :----------: |
-| [[Session 32 - I Didn't Ask How Big the Casino Is...]] |              |
+|                    Previous Session                    |   Next Session   |
+| :----------------------------------------------------: | :--------------: |
+| [[Session 32 - I Didn't Ask How Big the Casino Is...]] | [[Session 34 - The Party Splits]] |
 ### Logline
 Branwyn experiences a home invasion. Moiloc kills the group's first target.
 ### Synopsis
-
+The group splits up to gain information in Whitehall. Clones of Tobias attack Branwyn in the forge, but escapes before she is able to fully kill him. Brewster and Martin go shopping for potion ingredients and weapon materials. Moiloc goes to the Hammerfist monastery. The monks there agree to give her a chance to kill Kirk Castle in the Underdark. Moiloc takes the opportunity and pushes Kirk into a hole in the Underdark.
 # Day 62
 ### Narmak's Forge
 The group arrives at their newly-acquired blacksmith. [[Lothar (Brewster) Nash|Brewster]] recalls Narmak, who used to own this blacksmith. The blacksmith has a front counter, a messy storeroom, and some bedrooms. [[Moiloc Kodlaksdottër|Moiloc]] goes to the master bedroom. [[Martin Sootspot|Martin]] and [[Lucretia]] take a room in the basement, and [[Goro Hattori|Goro]] and [[Ulysses]] take the other one. [[Branwyn of Coryphea|Branwyn]], [[William Archer|William]], and [[Vulcan]] take the room on the main floor. Brewster, [[Tarren Hammerfist|Tarren]], [[Reptile]], [[Mephistopheles the Bard]], [[Nissa]], [[Ishtar]], [[Holliday]], and [[Helen Berestova|Helen]] all go upstairs.

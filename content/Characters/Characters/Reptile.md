@@ -12,7 +12,7 @@ Reptile is a young lizardfolk, and former Whitehall slave. He began following Sh
 |         |          |   31    | Appeared |
 |         |          |   32    | Appeared |
 |         |          |   33    | Appeared |
-|         |          |         |          |
+|         |          |   34    | Appeared |
 |         |          |         |          |
 |         |          |         |          |
 |         |          |         |          |
@@ -29,3 +29,5 @@ Moiloc meets up with Reptile in an attempt to recruit him. She learns that Repti
 The group proceeds to Whitehall, and buy a small house to make into a base.
 ## [[Session 33 - I Want To See a Mushroom]]
 After the others leave for their respective journeys, Branwyn, Reptile, William, Holliday, and Vulcan are attacked by Tobias. Reptile runs off to warn the others of the attack. Reptile and Brewster draw out a map of secrets and hiding spots in the city. Later, Reptile joins Martin as he meets his sister in the church.
+## [[Session 34 - The Party Splits]]
+Reptile joins Martin when going to meet Gwyneth, but is immediately frozen. When Martin leaves with Gwyneth, the Death Knight and clones of Tobias attack. Reptile immediately runs through a door, searching for something in the Capella.

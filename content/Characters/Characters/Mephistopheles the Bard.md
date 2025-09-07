@@ -8,7 +8,7 @@ Mephistopheles is a bard from Velbras who worked for the Bagworm.
 |         |          |   31    | Appeared |
 |         |          |   32    | Appeared |
 |         |          |   33    | Appeared |
-|         |          |         |          |
+|         |          |   34    | Appeared |
 |         |          |         |          |
 |         |          |         |          |
 |         |          |         |          |
@@ -23,3 +23,5 @@ Mephistopheles is seen performing in the Cat's Paw.
 Mephistopheles tells Martin and Moiloc that he owes 100g in gambling debts. Together, they enter the gambling den and pay it off. They then Fireball the gambling den, killing everyone inside, and looting the 100g and more. The group proceeds to Whitehall, and buy a small house to make into a base.
 ## [[Session 33 - I Want To See a Mushroom]]
 Mephistopheles goes to the markets, until they are called back by [[Reptile]] warning of an attack. Mephistopheles joins Moiloc in her trip to the Underdark.
+## [[Session 34 - The Party Splits]]
+Moiloc, Holliday, Goro, Nissa, Ishtar, and Mephistopheles are able to take down all of the Inquisitors who attacked after killing Kirk. They start returning to the surface, taking a rest along the way.

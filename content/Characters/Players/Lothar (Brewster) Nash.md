@@ -20,7 +20,7 @@ Brewster is a rock gnome who joined the Wallachian Resistance after being freed 
 |         |          | Session 11 | Appeared | Session 21 | Appeared |   31    | Appeared |
 |         |          | Session 12 | Appeared | Session 22 | Appeared |   32    | Appeared |
 |         |          | Session 13 | Appeared | Session 23 | Appeared |   33    | Appeared |
-|         |          | Session 14 | Appeared | Session 24 | Appeared |         |          |
+|         |          | Session 14 | Appeared | Session 24 | Appeared |   34    | Appeared |
 |         |          | Session 15 | Appeared | Session 25 | Appeared |         |          |
 |         |          | Session 16 | Appeared | Session 26 | Appeared |         |          |
 |         |          | Session 17 | Appeared | Session 27 | Appeared |         |          |
@@ -117,3 +117,7 @@ Brewster Martin, and Lurcretia enter the tower of Erebus, but Martin is teleport
 Brewster tells Branwyn about the tower, and about burning the book, and they agree to keep it secret from her. The group proceeds to Whitehall, and buy a small house to make into a base.
 ## [[Session 33 - I Want To See a Mushroom]]
 Branwyn questions Brewster a bit about his relationship with [[Daphne]], against Puck's wishes. Brewster tells them about the day he escaped, and how Daphne didn't show up. He says he wishes they could have escaped with each other and become closer than their occasional visits in slavery allowed. Later, Brewster goes to the markets, until they are called back by [[Reptile]] warning of an attack. Brewster fixes a window, and, with Reptile, draws out a map of secrets and hiding spots in the city. Brewster joins Martin as he meets his sister in the church.
+## [[Session 34 - The Party Splits]]
+Brewster joins Martin when going to meet Gwyneth, but is immediately frozen. When Martin leaves with Gwyneth, the Death Knight and clones of Tobias attack. After seeing Ulysses chase after Martin and Gwyneth, Brewster also runs after him, leaving a shattered Puck and unconscious Tarren behind in the battle. He is unable to catch up, but Lucretia manages to follow him into a trash chute and escape Tobias.
+
+At the forge, Brewster's had set a trap for any invaders. It blows Tobias up when he attempts to enter.

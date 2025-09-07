@@ -8,7 +8,7 @@ Lucretia is a childhood friend of Martin's, who has been studying at the Lyceum.
 |                                 |          |            [[Session 31 - Fourteen Rings\|31]]             | Appeared |
 |                                 |          | [[Session 32 - I Didn't Ask How Big the Casino Is...\|32]] | Appeared |
 |                                 |          |                             33                             | Appeared |
-|                                 |          |                                                            |          |
+|                                 |          |                             34                             | Appeared |
 |                                 |          |                                                            |          |
 |                                 |          |                                                            |          |
 |                                 |          |                                                            |          |
@@ -23,3 +23,5 @@ Martin, [[Goro Hattori|Goro]], and Lucretia return to the mercenary guild to mee
 Brewster Martin, and Lurcretia enter the tower of Erebus, but Martin is teleported out of the tower. Lucretia and Brewster find a throne room with two thrones. Brewster sits in one of the thrones, and seems to leave his body for a moment. They return to the inn when he comes to. The group proceeds to Whitehall, and buy a small house to make into a base.
 ## [[Session 33 - I Want To See a Mushroom]]
 Lucretia goes to the markets, until they are called back by [[Reptile]] warning of an attack. Later, Lucretia joins Martin as he meets his sister in the church.
+## [[Session 34 - The Party Splits]]
+Lucretia joins Martin when going to meet Gwyneth, but is immediately frozen. When Martin leaves with Gwyneth, the Death Knight and clones of Tobias attack. After seeing Ulysses chase after Martin and Gwyneth, and Brewster follow, she also leaves the battle to chase after Brewster. Lucretia manages to follow him into a trash chute and escape Tobias.

@@ -19,7 +19,7 @@ Branwyn is an half-elf ranger woman, and child of Mora, originally coming from C
 | Session 1  | Appeared | Session 11 | Appeared | Session 21 | Appeared |   31    | Appeared |
 | Session 2  | Appeared | Session 12 | Appeared | Session 22 | Appeared |   32    | Appeared |
 | Session 3  | Appeared | Session 13 | Appeared | Session 23 | Appeared |   33    | Appeared |
-| Session 4  | Appeared | Session 14 | Appeared | Session 24 | Appeared |         |          |
+| Session 4  | Appeared | Session 14 | Appeared | Session 24 | Appeared |   34    | Appeared |
 | Session 5  | Appeared | Session 15 | Appeared | Session 25 | Appeared |         |          |
 | Session 6  | Appeared | Session 16 | Appeared | Session 26 | Appeared |         |          |
 | Session 7  | Appeared | Session 17 | Appeared | Session 27 | Appeared |         |          |
@@ -166,3 +166,5 @@ Branwyn disguises herself as the Bagworm, and uses his rings to break into his s
 Branwyn gives Hadrian the deed to the Cat's Paw. Hadrian returns the favor by giving her Dario's autobiography. Brewster tells Branwyn about the tower, and about burning the book, and they agree to keep it secret from her. The group proceeds to Whitehall, and buy a small house to make into a base.
 ## [[Session 33 - I Want To See a Mushroom]]
 Branwyn questions Brewster a bit about his relationship with [[Daphne]], against Puck's wishes. After the others leave for their respective journeys, Branwyn, Reptile, William, Holliday, and Vulcan are attacked by Tobias. Tobias breaks into the party's forge in Whitehall in an attempt to kidnap Branwyn, with the help of his Mirror Image. After knocking out Helen and Ulysses, as well as nearly killing William and Vulcan, Branwyn nearly takes him down. He snaps his fingers and disappears. Later, Branwyn joins Martin as he meets his sister in the church.
+## [[Session 34 - The Party Splits]]
+Branwyn decides to turn back when the group reaches the chapel, and returns to the forge with Helen. On the way, she finds Tobias looking for someone. She finds the forge blown up as a result of a trap Brewster left for any invaders. She escapes the forge with Helen, Vulcan, and William, going to the Watering Shack, an abandoned brothel in the entertainment district.

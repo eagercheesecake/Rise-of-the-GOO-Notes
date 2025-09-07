@@ -8,7 +8,7 @@ Ulysses is a human gunslinger looking to kill Mora.
 |         |          |   31    |  Absent  |
 |         |          |   32    | Appeared |
 |         |          |   33    | Appeared |
-|   24    | Appeared |         |          |
+|   24    | Appeared |   34    | Appeared |
 |   25    | Appeared |         |          |
 |   26    | Appeared |         |          |
 |   27    | Appeared |         |          |
@@ -29,3 +29,5 @@ Ulysses agrees to join the party in Whitehall after he completes his ritual, whi
 Ulysses arrives to Velbrass. The group proceeds to Whitehall, and buy a small house to make into a base.
 ## [[Session 33 - I Want To See a Mushroom]]
 Soon after arriving in Whitehall, Ulysses is knocked out by Tobias in his bedroom. He is woken up by Branwyn. Later, Ulysses joins Martin as he meets his sister in the church.
+## [[Session 34 - The Party Splits]]
+Ulysses joins Martin when going to meet Gwyneth, but is immediately frozen. When Martin leaves with Gwyneth, the Death Knight and clones of Tobias attack. Ulysses immediately chases after them.
