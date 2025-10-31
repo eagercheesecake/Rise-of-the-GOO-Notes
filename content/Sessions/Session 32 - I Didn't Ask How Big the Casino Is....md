@@ -2,7 +2,7 @@
 | :-----------------------------: | :---------------------------------------: |
 | [[Session 31 - Fourteen Rings]] | [[Session 33 - I Want To See a Mushroom]] |
 ### Logline
-Brewster sits in a throne. Moiloc and Kaldrake go to a casino. Branwyn is upset.
+*Brewster sits in a throne. Moiloc and Kaldrake go to a casino. Branwyn is upset.*
 ### Synopsis
 Brewster enters the Tower of Erebus and sits on a throne, being taken to the Ringed City, where Shurima has taken over. Martin tries to enter the Tower of Erebus, but is teleported to the moon. He is merged with Kaldrake while there, and finds Gulvayas. Kaldrake's soul is lost when Martin throws a dagger at the dome containing Gulvayas, and goes into Gulvayas's bindings. Brewster destroys the book that opens the Tower of Erebus. Branwyn gives the deed to the Cat's Paw to Hadrian and receives Dario's autobiography. Moiloc kills a street robber and robs the corpse of his target. Moiloc, Martin, and Mephistopheles burn down and rob a gambling den. The party has an intervention. The group arrives in Whitehall, and buy a house.
 # Day 61

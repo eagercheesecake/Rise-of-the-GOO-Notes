@@ -1,10 +1,10 @@
-|             Previous Session              | Next Session |
-| :---------------------------------------: | :----------: |
-| [[Session 33 - I Want To See a Mushroom]] |              |
+|             Previous Session              |  Next Session  |
+| :---------------------------------------: | :------------: |
+| [[Session 33 - I Want To See a Mushroom]] | [[Session 35]] |
 ### Logline
-Everyone is attacked, shattering the group.
+*Everyone is attacked, shattering the group.*
 ### Synopsis
-
+Gwyneth punishes Martin for bringing others to their meeting by taking Martin and attacking the group. Brewster and Lucretia chase after them. Puck and Tarren are left behind. Reptile leaves to explore the castle. Gwyneth tells Martin about her plan, and how she is making clones of Tobias from the original, who is kept prisoner in her lab, using Gulvayas's knife. Branwyn and Helen refuse to enter, and find the forge destroyed by Brewster's trap, and evidence of Tobiases attacking. They retreat to the entertainment district. Brewster and Lucretia escape the castle through the sewers. Moiloc's group defend themselves against Kirk's guards, and leave the Underdark.
 # Day 63
 ### Capella Sinistra
 [[Lothar (Brewster) Nash|Brewster]], [[Branwyn of Coryphea|Branwyn]], [[Martin Sootspot|Martin]], [[Lucretia]], [[Reptile]], [[Ulysses]], [[Helen Berestova|Helen]], and [[Tarren Hammerfist|Tarren]] proceed to the Cappella Sinistra, the cathedral [[Gwyneth Sootspot|Gwyneth]] said to meet at. They pass through the human district and notice nobody is in the streets. There are no Inquisitors on the streets. Branwyn casts Pass Without Trace. They pass over the scar planes, a result of experimentation the Inquisitors did to find other ways to the Underdark. They also see what seems to be a new tunnel in the side of the mountain. They see movement in the tunnel, and see some gnomes carting out ydril gemstones. They take the carts and dump the ydril into the scars in the pit.
@@ -31,9 +31,10 @@ Gwyneth asks what happened to [[Kaldrake Sootspot|Kaldrake]]. Martin mentions th
 > 
 > Holliday, Moiloc, Mephistopheles, and the monk miss. Ishtar hits the fifth Inquisitor. Goro hits his Inquisitor. The third Inquisitor is finally able to hit the monk. The others miss. Nissa decapitates the second Inquisitor, then moves to heavily attack the fifth.
 > Holliday again hurts the fourth Inquisitor. The monk misses. Moiloc attacks the fifth twice. Ishtar decapitates the fifth Inquisitor. Goro hits the third Inquisitor. Both Inquisitors again miss. Mephistopheles goes to hide in the corner. Nissa and Ishtar go to help Holliday out.
+> 
 > Holliday and the monk miss, and Moiloc misses with Eldritch Blast. Goro slams his hammer into the third Inquisitor, who crumbles to the ground. The fourth Inquisitor puts up his hands, surrendering. Nissa decapitates him.
 
-Ishtar declares that he has been leaving literal breadcrumbs which they can follow back to the entrance, and the group proceed making the hours-long trek back to the monastery. They take a long rest, planning to arrive at early afternoon.
+Ishtar declares that she has been leaving literal breadcrumbs which they can follow back to the entrance, and the group proceed making the hours-long trek back to the monastery. They take a long rest, planning to arrive at early afternoon.
 ### Capella Sinistra
 Martin and Gwyneth proceed down the hallway. Gwyneth asks Martin how he’s been, playing it very coy. They have a sibling fight for a bit. They get to a fork in the hallway, and Gwyneth claps, revealing a third path. This leads to a secret room, Gwyneth’s laboratory.
 

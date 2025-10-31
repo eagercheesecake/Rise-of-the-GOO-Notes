@@ -2,7 +2,7 @@
 | :-------------------------: | :--------------: |
 | [[Session 30 - Discretion]] | [[Session 32 - I Didn't Ask How Big the Casino Is...]] |
 ### Logline
-The Bagworm grows interested in the party's actions.
+*The Bagworm grows interested in the party's actions.*
 ### Synopsis
 Hadrian heals Helen's tongue and Brewster's finger. The party hires Holliday and provides her with ingredients for a poison. Reptile gains funds to enroll his siblings in the Lyceum. Branwyn gets a book telling a fable about Disgaia. The party meets Mephistopheles the Bard, who asks them to free him from his contract with the Bagworm. Martin follows one of the Bagworm's lackeys to some barracks, where he finds a note from Gwyneth asking him to kill the party. Moiloc and Brewster meet the sultan, and Nissa joins the party. Brewster gets a ring from the sultan, which combines with two other rings to form Disgaia's wedding ring. The group kills the Bagworm, surviving the powerful death knight gifted to him by Gwyneth. Branwyn gets the deed to the Cat's Paw and other treasures from the Bagworm's office. Mephistopheles questions the Bagworm's corpse on the party's behalf. Martin, Brewster, and Lucretia open the Tower of Erebus.
 # Day 61

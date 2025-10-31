@@ -1,8 +1,8 @@
-|                    Previous Session                    |   Next Session   |
-| :----------------------------------------------------: | :--------------: |
+|                    Previous Session                    |           Next Session            |
+| :----------------------------------------------------: | :-------------------------------: |
 | [[Session 32 - I Didn't Ask How Big the Casino Is...]] | [[Session 34 - The Party Splits]] |
 ### Logline
-Branwyn experiences a home invasion. Moiloc kills the group's first target.
+*Branwyn experiences a home invasion. Moiloc kills the group's first target.*
 ### Synopsis
 The group splits up to gain information in Whitehall. Clones of Tobias attack Branwyn in the forge, but escapes before she is able to fully kill him. Brewster and Martin go shopping for potion ingredients and weapon materials. Moiloc goes to the Hammerfist monastery. The monks there agree to give her a chance to kill Kirk Castle in the Underdark. Moiloc takes the opportunity and pushes Kirk into a hole in the Underdark.
 # Day 62
