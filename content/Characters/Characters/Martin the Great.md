@@ -38,4 +38,4 @@ Kaldrake has another vision of Gulvayas disguising himself as Martin. He meets [
 ## [[Session 18 - What Would Branwyn Do]]
 Kaldrake sees an illusion of Martin in the Lothric castle, who says everything in Kaldrake's fault. Kaldrake wonders if his reality resets resulted in Martin's death.
 ## [[Session 24 - Charlotte's Back!]]
-[[Martin Sootspot|Martin]] (the younger) mentions that Martin the Great was alive at the end of the war against the dragons.
+[[Martin Sootspot|Martin]] mentions that Martin the Great was alive at the end of the war against the dragons.

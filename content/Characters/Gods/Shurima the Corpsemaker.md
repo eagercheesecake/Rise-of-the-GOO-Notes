@@ -13,18 +13,18 @@ Shurima the Corpsemaker is a powerful old man, worshipped by Moiloc. He is the g
 | :------------------------------: | :------: |
 | [[Moiloc Kodlaksdottër\|Moiloc]] |  Avatar  |
 
-|                    Session                    |  Status   |                     Session                     |  Status   |                    Session                    |  Status   |       Session        |  Status  |
-| :-------------------------------------------: | :-------: | :---------------------------------------------: | :-------: | :-------------------------------------------: | :-------: | :------------------: | :------: |
-|       [[#Session 01 - Piss Grandma\|1]]       | Appeared  | [[#Session 11 - The Party Loses a Corpse\|11]]  | Appeared  |     [[#Session 21 - The Party Dies\|21]]      | Mentioned | [[#Session 31\|31]]  | Appeared |
+|                    Session                    |  Status   |                     Session                     |  Status   |                    Session                    |  Status   |                          Session                           |  Status  |
+| :-------------------------------------------: | :-------: | :---------------------------------------------: | :-------: | :-------------------------------------------: | :-------: | :--------------------------------------------------------: | :------: |
+|       [[#Session 01 - Piss Grandma\|1]]       | Appeared  | [[#Session 11 - The Party Loses a Corpse\|11]]  | Appeared  |     [[#Session 21 - The Party Dies\|21]]      | Mentioned |                    [[#Session 31\|31]]                     | Appeared |
 | [[#Session 02 - Teddy and the Roosevelts\|2]] | Mentioned |     [[#Session 12 - Branwyn's Bad Day\|12]]     | Mentioned |       [[#Session 22 - The B Team\|22]]        |  Absent   | [[Session 32 - I Didn't Ask How Big the Casino Is...\|32]] | Appeared |
-|   [[#Session 03 - Sorry For Your Loss\|3]]    | Appeared  | [[#Session 13 - Martha Is My Middle Name\|13]]  |  Absent   |   [[#Session 23 - Sootspot Intuition\|23]]    | Mentioned |                      |          |
-|   [[#Session 04 - Sincerely, Gertrude\|4]]    |  Absent   | [[#Session 14 - Gwyneth's Personal Diary\|14]]  |  Absent   |    [[#Session 24 - Charlotte's Back!\|24]]    | Mentioned |                      |          |
-| [[#Session 05 - Can't Be Worse Than Here\|5]] |  Absent   |         [[#Session 15 - Gray Boys\|15]]         | Mentioned |    [[#Session 25 - I Know an Archer\|25]]     |  Absent   |                      |          |
-|      [[#Session 06 - Cult Pamphlets\|6]]      | Mentioned |     [[#Session 16 - Killing a Mailman\|16]]     |  Absent   |        [[#Session 26 - Rocks Box\|26]]        |  Absent   |                      |          |
-|       [[#Session 07 - Shuffleboard\|7]]       | Mentioned |    [[#Session 17 - Respect These Nuts\|17]]     | Mentioned |      [[#Session 27 - Free Stoners\|27]]       | Appeared  |                      |          |
-|   [[#Session 08 - Religious Conversion\|8]]   | Mentioned |   [[#Session 18 - What Would Branwyn Do\|18]]   | Appeared  | [[#Session 28 - Making a Plan (Finally)\|28]] |  Absent   |                      |          |
-|   [[#Session 09 - The Man or the Bears\|9]]   |  Absent   | [[#Session 19 - Inspiration (Desperation)\|19]] |  Absent   |       [[#Session 29 - Infighting\|29]]        | Mentioned |                      |          |
-|  [[#Session 10 - Strategic Milk Bucket\|10]]  | Mentioned |       [[#Session 20 - Stabbing Her\|20]]        |  Absent   |       [[#Session 30 - Discretion\|30]]        | Mentioned |                      |          |
+|   [[#Session 03 - Sorry For Your Loss\|3]]    | Appeared  | [[#Session 13 - Martha Is My Middle Name\|13]]  |  Absent   |   [[#Session 23 - Sootspot Intuition\|23]]    | Mentioned |                             33                             |  Absent  |
+|   [[#Session 04 - Sincerely, Gertrude\|4]]    |  Absent   | [[#Session 14 - Gwyneth's Personal Diary\|14]]  |  Absent   |    [[#Session 24 - Charlotte's Back!\|24]]    | Mentioned |                             34                             |  Absent  |
+| [[#Session 05 - Can't Be Worse Than Here\|5]] |  Absent   |         [[#Session 15 - Gray Boys\|15]]         | Mentioned |    [[#Session 25 - I Know an Archer\|25]]     |  Absent   |                             35                             | Appeared |
+|      [[#Session 06 - Cult Pamphlets\|6]]      | Mentioned |     [[#Session 16 - Killing a Mailman\|16]]     |  Absent   |        [[#Session 26 - Rocks Box\|26]]        |  Absent   |                                                            |          |
+|       [[#Session 07 - Shuffleboard\|7]]       | Mentioned |    [[#Session 17 - Respect These Nuts\|17]]     | Mentioned |      [[#Session 27 - Free Stoners\|27]]       | Appeared  |                                                            |          |
+|   [[#Session 08 - Religious Conversion\|8]]   | Mentioned |   [[#Session 18 - What Would Branwyn Do\|18]]   | Appeared  | [[#Session 28 - Making a Plan (Finally)\|28]] |  Absent   |                                                            |          |
+|   [[#Session 09 - The Man or the Bears\|9]]   |  Absent   | [[#Session 19 - Inspiration (Desperation)\|19]] |  Absent   |       [[#Session 29 - Infighting\|29]]        | Mentioned |                                                            |          |
+|  [[#Session 10 - Strategic Milk Bucket\|10]]  | Mentioned |       [[#Session 20 - Stabbing Her\|20]]        |  Absent   |       [[#Session 30 - Discretion\|30]]        | Mentioned |                                                            |          |
 
 ## [[Session 01 - Piss Grandma]]
 Moiloc follows Shurima into an alley where she finds a murdered priest. The next day, [[Gertrude Spugel|Gertrude]] questions him about a piece of paper he has, but he refuses to tell her what it is.
@@ -74,3 +74,5 @@ Xerxes is revealed to be the true name of the god of secrets, which opens the do
 Brewster sits in one of the thrones in the Tower of Erebus, and is taken to the Ringed City, which seems to have been overthrown by Shurima. It seems Xerxes, the previous god of secrets, still has a hadozee guarding it. Shurima calls Brewster to enter the Kiln, which has been redesigned to being one tall tower. His muscles have grown, and his blue skin is returning. Shurima says he wasn't hoping to summon him, and sends him off when it becomes clear Brewster won't help him.
 
 Later, Dario's autobiography mentions him allying himself with other gods to fight the empire of Shurima. The group proceeds to Whitehall, and buy a small house to make into a base.
+## [[Session 35]]
+Reptile finds a summoning circle in the cathedral, and calls Moiloc's group to join him. They take down the surrounding cultists, and break the etched circle. The circle explodes, summoning Shurima. Shurima upgrades Moiloc's sword, and sends Moiloc to the catacombs to search for the Clotho Lachesis, so that he can prevent Mora from killing Maokai.

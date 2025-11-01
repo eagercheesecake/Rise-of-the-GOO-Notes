@@ -31,3 +31,5 @@ The group proceeds to Whitehall, and buy a small house to make into a base.
 After the others leave for their respective journeys, Branwyn, Reptile, William, Holliday, and Vulcan are attacked by Tobias. Reptile runs off to warn the others of the attack. Reptile and Brewster draw out a map of secrets and hiding spots in the city. Later, Reptile joins Martin as he meets his sister in the church.
 ## [[Session 34 - The Party Splits]]
 Reptile joins Martin when going to meet Gwyneth, but is immediately frozen. When Martin leaves with Gwyneth, the Death Knight and clones of Tobias attack. Reptile immediately runs through a door, searching for something in the Capella.
+## [[Session 35]]
+Moiloc pages Reptile, who says he believes he found what Moiloc and he had been looking for, in the cathedral. Moiloc convinces the others to join Reptile there. Reptile had found a summoning circle in the cathedral. They take down the surrounding cultists, and break the etched circle. The circle explodes, summoning Shurima, who points them to the catacombs to help him stop Mora's plans.

@@ -17,8 +17,10 @@
 	- Color code appeared/absent/mentioned
 		- Example: Completed for [[Moiloc Kodlaksdottër|Moiloc]], but this may not be a good example of the vision
 - Stats page showing kill counts
+- Some minor things that need to work
 ## Possible Future Plans
-- Map
-- Jasper's secret project
+- Map project
+	- Linkable? Timeline?
 - Better [[Characters]] page
 - Fix [[Martin the Great]] vs [[Gulvayas Hakon]]
+- Fix [[Baedos]] vs [[Abaddon]] (and fix the spelling of Baedos)

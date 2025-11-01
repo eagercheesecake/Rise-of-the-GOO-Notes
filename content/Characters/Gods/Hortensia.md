@@ -10,9 +10,9 @@ Hortensia is the goddess of magic.
 | :-----: | :-------: | :-----: | :-------: |
 |         |           |   31    |  Absent   |
 |         |           |   32    | Mentioned |
-|   23    | Mentioned |         |           |
-|   24    |  Absent   |         |           |
-|   25    |  Absent   |         |           |
+|   23    | Mentioned |   33    |  Absent   |
+|   24    |  Absent   |   34    |  Absent   |
+|   25    |  Absent   |   35    | Hortensia |
 |   26    |  Absent   |         |           |
 |   27    |  Absent   |         |           |
 |   28    |  Absent   |         |           |
@@ -21,4 +21,6 @@ Hortensia is the goddess of magic.
 ## [[Session 23 - Sootspot Intuition]]
 [[Lothar (Brewster) Nash|Brewster]] recalls that Hortensia is the goddess of magic upon finding her hadozee worshippers in the Ringed City.
 ## [[Session 32 - I Didn't Ask How Big the Casino Is...]]
-Dario's autobiography says he allied himself with Hortensia to fight the empire of Shurima.
+[[Dario the Twin|Dario's]] autobiography says he allied himself with Hortensia to fight the empire of Shurima.
+## [[Session 35]]
+[[Gwyneth Sootspot|Gwyneth]] says that [[Gulvayas Hakon|Gulvays's]] knife is a relic of Hortensia.
