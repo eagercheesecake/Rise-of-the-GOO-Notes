@@ -121,7 +121,7 @@ Branwyn questions Brewster a bit about his relationship with [[Daphne]], against
 Brewster joins Martin when going to meet Gwyneth, but is immediately frozen. When Martin leaves with Gwyneth, the Death Knight and clones of Tobias attack. After seeing Ulysses chase after Martin and Gwyneth, Brewster also runs after him, leaving a shattered Puck and unconscious Tarren behind in the battle. He is unable to catch up, but Lucretia manages to follow him into a trash chute and escape Tobias.
 
 At the forge, Brewster had set a trap for any invaders. It blows Tobias up when he attempts to enter.
-## [[Session 35]]
+## [[Session 35 - Personal Tobias]]
 Brewster and Lucretia exit the sewer into [[Vernan Grande|Vernan's]] mansion, entering through a cage of tigers below the kitchen. Brewster finds the chef upstairs cooking his mother's hand, and takes the wedding ring off of it. He tries to throw the hand to the tigers to gain their trust, but accidentally lets the tigers out in the process. Brewster and Lucretia are able to make the tigers attack the manor's guards, and the pair escape.
 
 At the forge, they meet up with Martin and Tarren. Martin returns Puck to Brewster, who grills him over leaving them at the castle. Brewster and Martin fight, with Brewster getting very upset at Martin's joking responses. Exploring the destroyed forge, Brewster finds a note in their meeting room from Branwyn, telling them what happened. It says to meet at the Watering Shack, and make sure there aren't any Tobiases following them. While the four go to the new base, Brewster says he has lost all respect for the Sootspots, throwing Kaldrake's signet ring into an Underdark pit. Martin loses the other three while traveling to the Watering Shack.

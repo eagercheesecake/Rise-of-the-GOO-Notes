@@ -1,6 +1,7 @@
-|         Previous Session          | Next Session |
-| :-------------------------------: | :----------: |
-| [[Session 34 - The Party Splits]] |              |
+
+|         Previous Session          |   Next Session   |
+| :-------------------------------: | :--------------: |
+| [[Session 34 - The Party Splits]] | [[Session 36 - Going Down]] |
 ### Logline
 *The group struggles to reconnect as their different motives clash.*
 ### Synopsis
@@ -44,4 +45,4 @@ They go into the main entryway to find blood everywhere, solidifying Moiloc’s 
 > 
 > Holliday attacks the fifth cultist, and Nissa attacks the third, twice. Moiloc also attacks the third cultist twice. Reptile hides away, and patrols the hall outside the room. Goro starts to work on cracking the sigil. Mephistopheles also attacks the third cultist, who attacks back. Ishtar decapitates both of the other cultists.
 
-At Moiloc’s suggestion, Goro breaks the etching in the ground. The ground explodes in a flash of blue light, knocking everyone down. When the dust settles, Shurima can be seen in the center of the circle. He happily greets Moiloc. Moiloc tells him the others are dead. Shurima asks for Moiloc’s sword, and it catches on fire again, this time with a blue flame. Moiloc asks for help, thinking Mora has taken Branwyn. Shurima says the catacombs contain the key to killing Mora. He says he is here to stop Mora’s plan, and prevent her from killing Maokai. He says she needs to get the Clotho Lachesis. The others question Moiloc about Shurima.
+At Moiloc’s suggestion, Goro breaks the etching in the ground. The ground explodes in a flash of blue light, knocking everyone down. When the dust settles, Shurima can be seen in the center of the circle, and everyone but Moiloc and Reptile are unconscious. He happily greets Moiloc. Moiloc tells him the others are dead. Shurima asks for Moiloc’s sword, and it catches on fire again, this time with a blue flame. Moiloc asks for help, thinking Mora has taken Branwyn. Shurima says the catacombs contain the key to killing Mora. He says he is here to stop Mora’s plan, and prevent her from killing Maokai. He says she needs to get the Clotho Lachesis. He then disappears, and the others wake up.

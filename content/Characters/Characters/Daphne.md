@@ -31,5 +31,5 @@ Brewster sees a pedestal depicting important parts of his life. One of the first
 Moiloc has a vision of Gwyneth, [[Mora]], Daphne, and [[Sister Marie the Confessor]] in Whitehall. They each appear, one after another, then it repeats.
 ## [[Session 33 - I Want To See a Mushroom]]
 Brewster suggests finding Daphne, and tells them that he doesn’t know her exact duties, but she would stop by every once in a while. Eventually, they made a plan to escape, and Daphne didn’t show up on the day. He says he wishes they could have escaped with each other and become closer than their occasional visits in slavery allowed. Branwyn finds all of this suspicious, and asks if Daphne might be a spy, continuing to ask Brewster questions about their relationship despite Puck's objections.
-## [[Session 35]]
+## [[Session 35 - Personal Tobias]]
 Gwyneth offers Martin information on Daphne's location in return for Martin helping Gwyneth, saying she is in one of the mines. Martin tells Brewster this, which upsets him, as it is not specific information, especially in exchange for agreeing to help an enemy.

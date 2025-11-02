@@ -45,5 +45,5 @@ In the Ringed City, Brewster finds an area for Maokai's hadozee devotees. He lea
 Branwyn has a dream that Maokai has died. She sees the top half of a skeleton, with a burnt heart in its chest, lying in the bottom of Maokai's tree prison.
 ## [[Session 32 - I Didn't Ask How Big the Casino Is...]]
 Maokai seems to still have his mausoleum staffed by one hadozee after Shurima's takeover of the Ringed City.
-## [[Session 35]]
+## [[Session 35 - Personal Tobias]]
 Shurima makes it clear that Mora's plan is to kill Maokai.

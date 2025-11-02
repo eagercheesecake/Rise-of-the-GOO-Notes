@@ -59,5 +59,5 @@ Puck is present when the group kills [[The Bagworm]].
 After Branwyn asks Brewster for more information on his relationship with [[Daphne]], Puck bumps her and shakes his head, telling her not to ask. However, he is far too late.
 ## [[Session 34 - The Party Splits]]
 Puck is killed by Gwyneth's Death Knight in the Capella. Brewster, needing to escape, has to leave his gem behind.
-## [[Session 35]]
+## [[Session 35 - Personal Tobias]]
 Martin collects Puck's gem while leaving the castle and returns it to Brewster.

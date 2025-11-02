@@ -22,5 +22,5 @@ Hortensia is the goddess of magic.
 [[Lothar (Brewster) Nash|Brewster]] recalls that Hortensia is the goddess of magic upon finding her hadozee worshippers in the Ringed City.
 ## [[Session 32 - I Didn't Ask How Big the Casino Is...]]
 [[Dario the Twin|Dario's]] autobiography says he allied himself with Hortensia to fight the empire of Shurima.
-## [[Session 35]]
+## [[Session 35 - Personal Tobias]]
 [[Gwyneth Sootspot|Gwyneth]] says that [[Gulvayas Hakon|Gulvays's]] knife is a relic of Hortensia.

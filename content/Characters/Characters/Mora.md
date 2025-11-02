@@ -66,5 +66,5 @@ Moiloc has a vision of Gwyneth, Mora, [[Daphne]], and [[Sister Marie the Confess
 Ulysses makes it clear that his one goal while in Whitehall is to kill Mora.
 ## [[Session 34 - The Party Splits]]
 Ulysses's head which is tracking Mora shows that she is in the Capella. White ravens are seen flying around Whitehall.
-## [[Session 35]]
+## [[Session 35 - Personal Tobias]]
 Gwyneth reveals that Mora had also taken Tobias's daughter. Later, Shurima points Moiloc to the catacombs under the cathedral to find the Clotho Lachesis to prevent her from killing Maokai.

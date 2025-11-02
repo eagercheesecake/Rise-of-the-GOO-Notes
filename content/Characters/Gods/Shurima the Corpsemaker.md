@@ -74,5 +74,5 @@ Xerxes is revealed to be the true name of the god of secrets, which opens the do
 Brewster sits in one of the thrones in the Tower of Erebus, and is taken to the Ringed City, which seems to have been overthrown by Shurima. It seems Xerxes, the previous god of secrets, still has a hadozee guarding it. Shurima calls Brewster to enter the Kiln, which has been redesigned to being one tall tower. His muscles have grown, and his blue skin is returning. Shurima says he wasn't hoping to summon him, and sends him off when it becomes clear Brewster won't help him.
 
 Later, Dario's autobiography mentions him allying himself with other gods to fight the empire of Shurima. The group proceeds to Whitehall, and buy a small house to make into a base.
-## [[Session 35]]
+## [[Session 35 - Personal Tobias]]
 Reptile finds a summoning circle in the cathedral, and calls Moiloc's group to join him. They take down the surrounding cultists, and break the etched circle. The circle explodes, summoning Shurima. Shurima upgrades Moiloc's sword, and sends Moiloc to the catacombs to search for the Clotho Lachesis, so that he can prevent Mora from killing Maokai.

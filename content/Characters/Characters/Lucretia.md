@@ -25,5 +25,5 @@ Brewster Martin, and Lurcretia enter the tower of Erebus, but Martin is teleport
 Lucretia goes to the markets, until they are called back by [[Reptile]] warning of an attack. Later, Lucretia joins Martin as he meets his sister in the church.
 ## [[Session 34 - The Party Splits]]
 Lucretia joins Martin when going to meet Gwyneth, but is immediately frozen. When Martin leaves with Gwyneth, the Death Knight and clones of Tobias attack. After seeing Ulysses chase after Martin and Gwyneth, and Brewster follow, she also leaves the battle to chase after Brewster. Lucretia manages to follow him into a trash chute and escape Tobias.
-## [[Session 35]]
+## [[Session 35 - Personal Tobias]]
 Brewster and Lucretia exit the sewer into [[Vernan Grande|Vernan's]] mansion, entering through a cage of tigers below the kitchen. After accidentally letting the tigers out, they are able to make them attack the manor's guards, and the pair escape. They meet up with Martin and Tarren at the forge, where they learn of its destruction, and proceed to the Watering Shack, learning of it from a note Branwyn left.

@@ -29,7 +29,7 @@ Tobias is seen in his monster form inside Helen's home, but the group sneaks awa
 Tobias breaks into the party's forge in Whitehall in an attempt to kidnap Branwyn, with the help of his Mirror Image. After knocking out Helen and Ulysses, as well as nearly killing William and Vulcan, Branwyn nearly takes him down. He snaps his fingers and disappears.
 ## [[Session 34 - The Party Splits]]
 Tobias attacks the group who go to the chapel. He is also seen looking for someone in Whitehall, and a copy of him is found exploded by Brewster's trap outside of the forge. Gwyneth reveals to Martin that Gulvayas's knife is able to copy Tobias onto a mannequin, creating an obedient, faceless clone.
-## [[Session 35]]
+## [[Session 35 - Personal Tobias]]
 Gwyneth says Tobias's daughter was also taken by [[Mora]], and gives Martin a copy of Tobias. When Martin arrives at the Watering Shack, bringing a Tobias. Branwyn fights with Martin over him directly ignoring her warnings and bringing a Tobias, and Martin agrees to send Tobias to the quicksilver mines to wait for them to find Daphne.
 
 Meanwhile, at the Hammerfist Monastery, Moiloc discovers that Tobiases have attacked and destroyed the monastery.

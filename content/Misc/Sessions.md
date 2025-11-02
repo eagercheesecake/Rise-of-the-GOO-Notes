@@ -69,8 +69,11 @@ Click a location to scroll to that city.
 # Whitehall
 [[#Montrissad]] | [[#Brasov]] | [[#Lothric]] | [[#Col Man'Dar]] | [[#Domnhall Keep]] | [[#Whitehall]]
 
+### Locations: Whitehall
+
 |                  Session                  | Main Character's Actions                                                                                                            |
 | :---------------------------------------: | ----------------------------------------------------------------------------------------------------------------------------------- |
 | [[Session 33 - I Want To See a Mushroom]] | Tobias attacks the party at the forge.                                                                                              |
 |     [[Session 34 - The Party Splits]]     | Brewster and Martin go to meet Gwyneth.<br>Branwyn finds a new safehouse.<br>Moiloc escapes the Underdark.                          |
-|              [[Session 35]]               | Brewster escapes Vernan's manor and find Branwyn.<br>Martin has his meeting with Gwyneth.<br>Reptile calls Moiloc to the cathedral. |
+|              [[Session 35 - Personal Tobias]]               | Brewster escapes Vernan's manor and find Branwyn.<br>Martin has his meeting with Gwyneth.<br>Reptile calls Moiloc to the cathedral. |
+|              [[Session 36 - Going Down]]               | Moiloc fights her way to the catacombs.<br>The others enter the mines.                                                              |

@@ -27,5 +27,5 @@ Kaldrake has another vision of Gulvayas disguising himself as Martin the Great. 
 [[Shurima the Corpsemaker|Shurima]] reveals that he has Gulvayas's blade.
 ## [[Session 32 - I Didn't Ask How Big the Casino Is...]]
 [[Martin Sootspot|Martin]] gets teleported to the moon, where he gains Kaldrake's memories, and sees Gulvayas chained up. Gulvayas's mouth is sewn shut, and he seems to hate Martin/Kaldrake. He is thinking "son" and "brother" as Martin casts Detect Thoughts. Martin throws a dagger at the dome containing Gulvayas, which causes a part of his soul, likely Kaldrake's portion, fly into Gulvayas's shackles and break them. The shackles seem to represent the remaining members of the Sootspot family.
-### [[Session 35]]
+### [[Session 35 - Personal Tobias]]
 Gwyenth says Gulvayas's knife is a relic of Hortensia, and tells Martin that Gulvayas, when disguised as Martin the Great, split his soul into pieces to pursue immortality, creating a series of homunculi, making up the Sootspot family. However, the homunculi are only stable for 100 years, causing the Sootspot curse. Martin the Great, no longer having a soul, was banished to the astral plane, as lacking a soul made him unable to receive and handle divine power. Gwyenth tells Martin that she wants him to help her get to his prison on the moon, by getting a book called the Clotho Lachesis.

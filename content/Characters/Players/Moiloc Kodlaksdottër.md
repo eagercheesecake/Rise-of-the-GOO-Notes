@@ -167,5 +167,5 @@ Moiloc kills a street robber in an alley, taking the gold he was trying to steal
 [[Kirk Castle]] is given a tour of the Underdark from the Hammerfist monks, which Moiloc accompanies him on. After some time in the caves, Moiloc has Kirk lean over a deep pit, chops him in the neck with her axe, and pushes his body into the pit.
 ## [[Session 34 - The Party Splits]]
 Moiloc, Holliday, Goro, Nissa, Ishtar, and Mephistopheles are able to take down all of the Inquisitors who attacked after killing Kirk. They start returning to the surface, taking a rest along the way.
-## [[Session 35]]
+## [[Session 35 - Personal Tobias]]
 Moiloc's team return to the monastery, finding it attacked and destroyed. Moiloc pages Reptile, who says he believes he found what Moiloc and he had been looking for, in the cathedral. Moiloc convinces the others to join Reptile there. In the castle, they find that Reptile had come across a summoning circle. They take down the surrounding cultists, and break the etched circle. The circle explodes, summoning Shurima. Shurima upgrades Moiloc's sword, and sends Moiloc to the catacombs to search for the Clotho Lachesis, so that he can prevent Mora from killing Maokai.

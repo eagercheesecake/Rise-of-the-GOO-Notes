@@ -25,5 +25,5 @@ Mephistopheles tells Martin and Moiloc that he owes 100g in gambling debts. Toge
 Mephistopheles goes to the markets, until they are called back by [[Reptile]] warning of an attack. Mephistopheles joins Moiloc in her trip to the Underdark.
 ## [[Session 34 - The Party Splits]]
 Moiloc, Holliday, Goro, Nissa, Ishtar, and Mephistopheles are able to take down all of the Inquisitors who attacked after killing Kirk. They start returning to the surface, taking a rest along the way.
-## [[Session 35]]
+## [[Session 35 - Personal Tobias]]
 After finding the Hammerfist monastery destroyed, Mephistpheles tries to rally the remaining monks with a funeral song, but fails. Reptile finds a summoning circle in the cathedral, and calls Moiloc's group to join him. They take down the surrounding cultists, and break the etched circle. The circle explodes, summoning Shurima, who points them to the catacombs to help him stop Mora's plans.
