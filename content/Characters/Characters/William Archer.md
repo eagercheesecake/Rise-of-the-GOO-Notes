@@ -1,7 +1,9 @@
 William and Billiam Archer and twin archers who join the party to Whitehall.
 
 - **First Seen:** Session 27
-- **Status:** Alive
+- **Status:** Dead
+- **Cause of Death:** Killed by Inquisitors
+- **Time of Death:** Session 37
 
 |          Character          | Relation |
 | :-------------------------: | :------: |
@@ -12,10 +14,10 @@ William and Billiam Archer and twin archers who join the party to Whitehall.
 |         |          |   31    | Appeared |
 |         |          |   32    | Appeared |
 |         |          |   33    | Appeared |
-|         |          |         |          |
-|         |          |         |          |
-|         |          |         |          |
-|   27    | Appeared |         |          |
+|         |          |   34    | Appeared |
+|         |          |   35    | Appeared |
+|         |          |   36    | Appeared |
+|   27    | Appeared |   37    | Appeared |
 |   28    | Appeared |         |          |
 |   29    | Appeared |         |          |
 |   30    | Appeared |         |          |
@@ -33,3 +35,11 @@ William prays for his brother's safety in the mausoleum pews. They return to the
 The group proceeds to Whitehall, and buy a small house to make into a base.
 ## [[Session 33 - I Want To See a Mushroom]]
 After the others leave for their respective journeys, Branwyn, Reptile, William, Holliday, and Vulcan are attacked by Tobias. William is knocked out, but is soon stabilized by Branwyn.
+## [[Session 34 - The Party Splits]]
+William joins Branwyn at the new hideout.
+## [[Session 35 - Personal Tobias]]
+William is seen when Brewster and Martin arrive at the new hideout.
+## [[Session 36 - Going Down]]
+The group proceed to the mines. They try to enter through a well that Brewster remembers, but Martin falls and alerts a room of Inquisitors. They are able to fight them off, also killing a hook horror in the room. They question the last inquisitor before killing him, learning that Daphne is going by the name of The Cartographer, and is in the lower levels of the mines.
+## [[Session 37 - For the People]]
+The group question a guard to learn of nearby dangers. They lure the guards in the next room into the barracks and defeat them, but William is killed along the way.

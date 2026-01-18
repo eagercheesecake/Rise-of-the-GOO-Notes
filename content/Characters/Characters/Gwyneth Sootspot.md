@@ -24,8 +24,8 @@ Gwyneth is an elven wizard, and Kaldrake's sister.
 |    3    |  Absent   |   13    | Mentioned |   23    |  Absent   |   33    | Mentioned |
 |    4    |  Absent   |   14    | Appeared  |   24    | Mentioned |   34    | Appeared  |
 |    5    | Mentioned |   15    | Appeared  |   25    | Appeared  |   35    | Appeared  |
-|    6    | Mentioned |   16    | Mentioned |   26    |  Absent   |         |           |
-|    7    | Mentioned |   17    | Mentioned |   27    | Mentioned |         |           |
+|    6    | Mentioned |   16    | Mentioned |   26    |  Absent   |   36    |  Absent   |
+|    7    | Mentioned |   17    | Mentioned |   27    | Mentioned |   37    | Mentioned |
 |    8    |  Absent   |   18    | Mentioned |   28    |  Absent   |         |           |
 |    9    |  Absent   |   19    |  Absent   |   29    |  Absent   |         |           |
 |   10    |  Absent   |   20    |  Absent   |   30    |  Absent   |         |           |
@@ -71,3 +71,5 @@ Martin is messaged by Gwyneth, who asks him to meet her at the church, not tell 
 When Martin meets up with Gwyneth, she immediately freezes the rest of the group, and asks Martin to join her in his laboratory. She says Martin can save two of his friends, and Martin picks Lucretia and Brewster. Gwyneth does not respect this wish. She shows Martin how she is able to create clones of Tobias using Gulvayas's knife. When Martin says Kaldrake has died, Gwyneth crosses his name off of a list.
 ## [[Session 35 - Personal Tobias]]
 Gwyneth tells Martin that she needs him to help her get in contact with Shurima, and Martin asks her to help him kill Mora, but both of them refuse the other's request. Gwyneth tells Martin that Martin the Great split his soul into pieces to pursue immortality, creating a series of homunculi, making up the Sootspot family. However, the homunculi are only stable for 100 years, causing the Sootspot curse. Martin the Great, no longer having a soul, was banished to the astral plane, as lacking a soul made him unable to receive and handle divine power. Gwyenth tells Martin that she wants him to help her get to his prison on the moon, by getting a book called the Clotho Lachesis, in return for telling Martin where Daphne is. Martin reluctantly agrees, and Gwyneth gives him a Tobias to help, telling Martin that Daphne is likely in one of the mines. Gwyneth lets Martin leave, saying she has a meeting, and gives him an Inquisitor's medal to keep the Inquisitors off of him.
+## [[Session 37 - For the People]]
+After being defeated, Laogzed admits to killing Maokai in alliance with Mora, saying he had to before Shurima got too strong. He got the power over death, and Mora got the power of the wilds. Gwyneth also got something out of it that he would not admit.

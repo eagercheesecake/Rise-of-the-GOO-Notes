@@ -16,9 +16,9 @@ Mora is Branwyn's mother figure from her childhood, using her as a vessel for he
 |         |           |   12    | Mentioned |   22    | Appeared  |   32    | Mentioned |
 |         |           |   13    | Mentioned |   23    | Mentioned |   33    |  Absent   |
 |         |           |   14    |  Absent   |   24    |  Absent   |   34    | Mentioned |
-|    5    | Mentioned |   15    | Mentioned |   25    | Appeared  |         |           |
-|    6    | Mentioned |   16    | Mentioned |   26    |  Absent   |         |           |
-|    7    | Mentioned |   17    | Appeared  |   27    | Mentioned |         |           |
+|    5    | Mentioned |   15    | Mentioned |   25    | Appeared  |   35    | Mentioned |
+|    6    | Mentioned |   16    | Mentioned |   26    |  Absent   |   36    | Mentioned |
+|    7    | Mentioned |   17    | Appeared  |   27    | Mentioned |   37    | Mentioned |
 |    8    | Mentioned |   18    | Appeared  |   28    | Appeared  |         |           |
 |    9    | Mentioned |   19    | Mentioned |   29    |  Absent   |         |           |
 |   10    |  Absent   |   20    | Appeared  |   30    |  Absent   |         |           |
@@ -68,3 +68,7 @@ Ulysses makes it clear that his one goal while in Whitehall is to kill Mora.
 Ulysses's head which is tracking Mora shows that she is in the Capella. White ravens are seen flying around Whitehall.
 ## [[Session 35 - Personal Tobias]]
 Gwyneth reveals that Mora had also taken Tobias's daughter. Later, Shurima points Moiloc to the catacombs under the cathedral to find the Clotho Lachesis to prevent her from killing Maokai.
+## [[Session 36 - Going Down]]
+Reptile sees Mora has stolen Ulysses's gun.
+## [[Session 37 - For the People]]
+After being defeated, Laogzed admits to killing Maokai in alliance with Mora, saying he had to before Shurima got too strong. He got the power over death, and Mora got the power of the wilds. Gwyneth also got something out of it that he would not admit.

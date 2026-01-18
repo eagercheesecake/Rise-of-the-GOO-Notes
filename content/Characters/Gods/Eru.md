@@ -8,18 +8,18 @@ Eru the Shaper is the main god in Phaeros. She created the Forgotten Ones and th
 - **Cause of Death:** Killed by the pharaoh of Shurima
 - **Time of Death:** Before Session 1
 
-|  Session   |  Status   |  Session   |  Status   |  Session   |  Status   |
-| :--------: | :-------: | :--------: | :-------: | :--------: | :-------: |
-|            |           | Session 11 |  Absent   | Session 21 | Mentioned |
-|            |           | Session 12 |  Absent   | Session 22 |  Absent   |
-|            |           | Session 13 | Mentioned | Session 23 | Appeared  |
-|            |           | Session 14 |  Absent   | Session 24 | Mentioned |
-|            |           | Session 15 |  Absent   |            |           |
-| Session 6  | Mentioned | Session 16 | Mentioned |            |           |
-| Session 7  | Mentioned | Session 17 | Mentioned |            |           |
-| Session 8  | Mentioned | Session 18 | Mentioned |            |           |
-| Session 9  |  Absent   | Session 19 |  Absent   |            |           |
-| Session 10 |  Absent   | Session 20 |  Absent   |            |           |
+|  Session   |  Status   | Session |  Status   | Session |  Status   | Session | Status    |
+| :--------: | :-------: | :-----: | :-------: | :-----: | :-------: | ------- | --------- |
+|            |           |   11    |  Absent   |   21    | Mentioned |         |           |
+|            |           |   12    |  Absent   |   22    |  Absent   |         |           |
+|            |           |   13    | Mentioned |   23    | Appeared  |         |           |
+|            |           |   14    |  Absent   |   24    | Mentioned |         |           |
+|            |           |   15    |  Absent   |         |           |         |           |
+| Session 6  | Mentioned |   16    | Mentioned |         |           |         |           |
+| Session 7  | Mentioned |   17    | Mentioned |         |           | 37      | Mentioned |
+| Session 8  | Mentioned |   18    | Mentioned |         |           |         |           |
+| Session 9  |  Absent   |   19    |  Absent   |         |           |         |           |
+| Session 10 |  Absent   |   20    |  Absent   |         |           |         |           |
 ## [[Session 06 - Cult Pamphlets]]
 Eru has a chapel in the castle in Montrissad. Her statue is seen when [[Kaldrake Sootspot|Kaldrake]], [[Branwyn of Coryphea|Branwyn]], and [[Gertrude Spugel|Gertrude]] visit the chapel.
 ## [[Session 07 - Shuffleboard]]
@@ -40,3 +40,5 @@ Kaldrake prays to Eru and feels at ease.
 While in the ringed city, Brewster learns from the hadozee that Eru created the minor gods and the first life forms at the kiln of life in the Ringed City. Brewster finds Eru's skull in her throne room, leading him to believe she is dead.
 ## [[Session 24 - Charlotte's Back!]]
 [[Goro Hattori|Goro]] tells about Eru's history, as discovered by [[Gwyneth Sootspot|Gwyneth's]] research. She descended from the Ringed City and defeated the dragons in the war, according to stories. The pharaoh from the country of Shurima found Eru and killed her.
+## [[Session 37 - For the People]]
+Shurima reveals that Eru has been dead for many years. He decides that she sucks.

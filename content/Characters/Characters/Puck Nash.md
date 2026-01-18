@@ -16,8 +16,8 @@ Puck is Brewster's homunculus servant. He takes the form of a smiling, flying ca
 |         |          | Session 13  | Appeared | Session 23 | Mentioned |   33    | Appeared |
 |         |          | Session 14  | Appeared | Session 24 | Appeared  |   34    | Appeared |
 |         |          | Session 15  |  Absent  | Session 25 | Appeared  |   35    | Appeared |
-|         |          | Session 16  |  Absent  | Session 26 | Appeared  |         |          |
-|         |          | Session 17  | Appeared | Session 27 | Appeared  |         |          |
+|         |          | Session 16  |  Absent  | Session 26 | Appeared  |   36    | Appeared |
+|         |          | Session 17  | Appeared | Session 27 | Appeared  |   37    | Appeared |
 |         |          | Session 18  | Appeared | Session 28 | Appeared  |         |          |
 |         |          | Session 19  |  Absent  | Session 29 | Appeared  |         |          |
 |   10    | Appeared | Session  20 |  Absent  | Session 30 |  Absent   |         |          |
@@ -61,3 +61,5 @@ After Branwyn asks Brewster for more information on his relationship with [[Daph
 Puck is killed by Gwyneth's Death Knight in the Capella. Brewster, needing to escape, has to leave his gem behind.
 ## [[Session 35 - Personal Tobias]]
 Martin collects Puck's gem while leaving the castle and returns it to Brewster.
+## [[Session 36 - Going Down]]
+Puck helps Brewster investigate the area around their new hideout, and later, the mines.

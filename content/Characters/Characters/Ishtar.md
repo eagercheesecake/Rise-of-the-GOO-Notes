@@ -14,8 +14,8 @@ Ishtar is a cleric working with the Lyceum, who joins the party on their way to 
 |         |          |   33    | Appeared |
 |         |          |   34    | Appeared |
 |         |          |   35    | Appeared |
-|         |          |         |          |
-|         |          |         |          |
+|         |          |   36    | Appeared |
+|         |          |   37    | Appeared |
 |         |          |         |          |
 |         |          |         |          |
 |   30    | Appeared |         |          |
@@ -33,3 +33,7 @@ Ishtar joins Moiloc in her trip to the Underdark.
 Moiloc, Holliday, Goro, Nissa, Ishtar, and Mephistopheles are able to take down all of the Inquisitors who attacked after killing Kirk. They start returning to the surface, taking a rest along the way.
 ## [[Session 35 - Personal Tobias]]
 The group find the monastery destroyed upon returning. Reptile finds a summoning circle in the cathedral, and calls Moiloc's group to join him. They take down the surrounding cultists, and break the etched circle. The circle explodes, summoning Shurima, who points them to the catacombs to help him stop Mora's plans.
+## [[Session 36 - Going Down]]
+Moiloc and her companions wake up from the explosion, explaining that Shurima says they have to get the Clotho Lachesis from the catacombs. On their way, the find the Death Knight guarding the entrance to the catacombs. They are able to temporarily beat him, but he quickly begins to reform. While he is chasing them down the path, they get split up. Only Moiloc and Ishtar make it to the catacombs.
+## [[Session 37 - For the People]]
+Moiloc and Ishtar down the hall and find a sacrificial altar, where Sister Marie is about to kill Ulysses. The pair are able to defeat her, with the help of the real Tobias, who shows up last-minute. Moiloc is able to convince Tobias and Ishtar to leave and go to safety.

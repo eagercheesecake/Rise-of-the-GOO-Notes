@@ -1,5 +1,5 @@
-|             Previous Session              |  Next Session  |
-| :---------------------------------------: | :------------: |
+|             Previous Session              |           Next Session           |
+| :---------------------------------------: | :------------------------------: |
 | [[Session 33 - I Want To See a Mushroom]] | [[Session 35 - Personal Tobias]] |
 ### Logline
 *Everyone is attacked, shattering the group.*

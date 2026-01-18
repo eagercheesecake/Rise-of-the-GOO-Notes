@@ -21,8 +21,8 @@ Branwyn is an half-elf ranger woman, and child of Mora, originally coming from C
 | Session 3  | Appeared | Session 13 | Appeared | Session 23 | Appeared |   33    | Appeared |
 | Session 4  | Appeared | Session 14 | Appeared | Session 24 | Appeared |   34    | Appeared |
 | Session 5  | Appeared | Session 15 | Appeared | Session 25 | Appeared |   35    | Appeared |
-| Session 6  | Appeared | Session 16 | Appeared | Session 26 | Appeared |         |          |
-| Session 7  | Appeared | Session 17 | Appeared | Session 27 | Appeared |         |          |
+| Session 6  | Appeared | Session 16 | Appeared | Session 26 | Appeared |   36    | Appeared |
+| Session 7  | Appeared | Session 17 | Appeared | Session 27 | Appeared |   37    | Appeared |
 | Session 8  | Appeared | Session 18 | Appeared | Session 28 | Appeared |         |          |
 | Session 9  | Appeared | Session 19 | Appeared | Session 29 | Appeared |         |          |
 | Session 10 | Appeared | Session 20 | Appeared | Session 30 | Appeared |         |          |
@@ -170,3 +170,7 @@ Branwyn questions Brewster a bit about his relationship with [[Daphne]], against
 Branwyn decides to turn back when the group reaches the chapel, and returns to the forge with Helen. On the way, she finds Tobias looking for someone. She finds the forge blown up as a result of a trap Brewster left for any invaders. She escapes the forge with Helen, Vulcan, and William, going to the Watering Shack, an abandoned brothel in the entertainment district.
 ## [[Session 35 - Personal Tobias]]
 Brewster, Tarren, and Lucretia show up to the Watering Shack, and Martin follows soon behind, bringing a Tobias. Branwyn fights with Martin over him directly ignoring her warnings and bringing a Tobias, and Martin agrees to send Tobias to the quicksilver mines to wait for them to find Daphne.
+## [[Session 36 - Going Down]]
+The group proceed to the mines. They try to enter through a well that Brewster remembers, but Martin falls and alerts a room of Inquisitors. They are able to fight them off, also killing a hook horror in the room. They question the last inquisitor before killing him, learning that Daphne is going by the name of The Cartographer, and is in the lower levels of the mines.
+## [[Session 37 - For the People]]
+The group question a guard to learn of nearby dangers. They lure the guards in the next room into the barracks and defeat them, but William is killed along the way. They find some ydril and sending stones, and learn the passwords to get to the first and third floors using the elevator. Brewster and Lucretia begin to decode the other passwords. They put an alarm and a Glyph of Warding down so they can sleep.

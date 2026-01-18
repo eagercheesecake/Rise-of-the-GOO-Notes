@@ -1,7 +1,9 @@
 Ulysses is a human gunslinger looking to kill Mora.
 
-- First Seen: Session 24
-- Status: Alive
+- **First Seen:** Session 24
+- **Status:** Dead
+- **Cause of Death:** Sacrificed by Moiloc
+- **Time of Death:** Session 37
 
 | Session |  Status  | Session |  Status  |
 | :-----: | :------: | :-----: | :------: |
@@ -9,9 +11,9 @@ Ulysses is a human gunslinger looking to kill Mora.
 |         |          |   32    | Appeared |
 |         |          |   33    | Appeared |
 |   24    | Appeared |   34    | Appeared |
-|   25    | Appeared |         |          |
-|   26    | Appeared |         |          |
-|   27    | Appeared |         |          |
+|   25    | Appeared |   35    |  Absent  |
+|   26    | Appeared |   36    |  Absent  |
+|   27    | Appeared |   37    | Appeared |
 |   28    | Appeared |         |          |
 |   29    |  Absent  |         |          |
 |   30    |  Absent  |         |          |
@@ -31,3 +33,5 @@ Ulysses arrives to Velbrass. The group proceeds to Whitehall, and buy a small ho
 Soon after arriving in Whitehall, Ulysses is knocked out by Tobias in his bedroom. He is woken up by Branwyn. Later, Ulysses joins Martin as he meets his sister in the church.
 ## [[Session 34 - The Party Splits]]
 Ulysses joins Martin when going to meet Gwyneth, but is immediately frozen. When Martin leaves with Gwyneth, the Death Knight and clones of Tobias attack. Ulysses immediately chases after them.
+## [[Session 37 - For the People]]
+Moiloc and Ishtar down the hall and find a sacrificial altar, where Sister Marie is about to kill Ulysses. The pair are able to defeat her, with the help of the real Tobias, who shows up last-minute. Moiloc is able to convince Tobias and Ishtar to leave and go to safety. Once they are gone, Moiloc sacrifices Ulysses and Marie.

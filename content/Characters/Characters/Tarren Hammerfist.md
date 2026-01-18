@@ -14,8 +14,8 @@ Tarren is a member of the Resistance in Dunn, and a contestant in the Montrissad
 |         |           |   13    |  Absent   |   23    |  Absent   |   33    | Appeared |
 |         |           |   14    |  Absent   |   24    |  Absent   |   34    | Appeared |
 |         |           |   15    | Mentioned |   25    |  Absent   |   35    | Appeared |
-|    6    | Appeared  |   16    |  Absent   |   26    |  Absent   |         |          |
-|    7    | Appeared  |   17    | Appeared  |   27    | Appeared  |         |          |
+|    6    | Appeared  |   16    |  Absent   |   26    |  Absent   |   36    | Appeared |
+|    7    | Appeared  |   17    | Appeared  |   27    | Appeared  |   37    | Appeared |
 |    8    | Appeared  |   18    | Appeared  |   28    | Appeared  |         |          |
 |    9    | Appeared  |   19    |  Absent   |   29    | Appeared  |         |          |
 |   10    | Mentioned |   20    | Mentioned |   30    | Appeared  |         |          |
@@ -59,3 +59,7 @@ Tarren joins Moiloc in her trip to the Underdark. He informs her that he broke h
 Tarren joins Martin when going to meet Gwyneth, but is immediately frozen. When Martin leaves with Gwyneth, the Death Knight and clones of Tobias attack. Tarren is unable to escape, and is knocked unconscious by the clones of Tobias.
 ## [[Session 35 - Personal Tobias]]
 Martin gets Tarren after his meeting with Gwyneth, and they return to the forge, where Brewster heals him. They proceed to the Watering Shack, learning of it from a note Branwyn left.
+## [[Session 36 - Going Down]]
+The group proceed to the mines. They try to enter through a well that Brewster remembers, but Martin falls and alerts a room of Inquisitors. They are able to fight them off, also killing a hook horror in the room. They question the last inquisitor before killing him, learning that Daphne is going by the name of The Cartographer, and is in the lower levels of the mines.
+## [[Session 37 - For the People]]
+The group question a guard to learn of nearby dangers. They lure the guards in the next room into the barracks and defeat them, but William is killed along the way. They find some ydril and sending stones, and learn the passwords to get to the first and third floors using the elevator. Brewster and Lucretia begin to decode the other passwords. They put an alarm and a Glyph of Warding down so they can sleep.

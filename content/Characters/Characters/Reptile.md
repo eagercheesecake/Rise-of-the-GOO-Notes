@@ -33,3 +33,5 @@ After the others leave for their respective journeys, Branwyn, Reptile, William,
 Reptile joins Martin when going to meet Gwyneth, but is immediately frozen. When Martin leaves with Gwyneth, the Death Knight and clones of Tobias attack. Reptile immediately runs through a door, searching for something in the Capella.
 ## [[Session 35 - Personal Tobias]]
 Moiloc pages Reptile, who says he believes he found what Moiloc and he had been looking for, in the cathedral. Moiloc convinces the others to join Reptile there. Reptile had found a summoning circle in the cathedral. They take down the surrounding cultists, and break the etched circle. The circle explodes, summoning Shurima, who points them to the catacombs to help him stop Mora's plans.
+## [[Session 36 - Going Down]]
+Moiloc and her companions wake up from the explosion, explaining that Shurima says they have to get the Clotho Lachesis from the catacombs. On their way, the find the Death Knight guarding the entrance to the catacombs. Reptile escapes before they are able to defeat him, trying to find another entrance to the catacombs. On his way, he sees Mora has stolen Ulysses's gun.

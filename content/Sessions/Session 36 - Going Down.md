@@ -1,7 +1,7 @@
 
-|         Previous Session         | Next Session |
-| :------------------------------: | :----------: |
-| [[Session 35 - Personal Tobias]] |              |
+|         Previous Session         |          Next Session           |
+| :------------------------------: | :-----------------------------: |
+| [[Session 35 - Personal Tobias]] | [[Session 37 - For the People]] |
 ### Logline
 *The groups begin their respective descents.*
 ### Synopsis

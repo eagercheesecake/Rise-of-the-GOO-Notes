@@ -22,8 +22,8 @@ Brewster is a rock gnome who joined the Wallachian Resistance after being freed 
 |         |          | Session 13 | Appeared | Session 23 | Appeared |   33    | Appeared |
 |         |          | Session 14 | Appeared | Session 24 | Appeared |   34    | Appeared |
 |         |          | Session 15 | Appeared | Session 25 | Appeared |   35    | Appeared |
-|         |          | Session 16 | Appeared | Session 26 | Appeared |         |          |
-|         |          | Session 17 | Appeared | Session 27 | Appeared |         |          |
+|         |          | Session 16 | Appeared | Session 26 | Appeared |   36    | Appeared |
+|         |          | Session 17 | Appeared | Session 27 | Appeared |   37    | Appeared |
 |         |          | Session 18 | Appeared | Session 28 | Appeared |         |          |
 |         |          | Session 19 | Appeared | Session 29 | Appeared |         |          |
 |   10    | Appeared | Session 20 | Appeared | Session 30 | Appeared |         |          |
@@ -125,3 +125,7 @@ At the forge, Brewster had set a trap for any invaders. It blows Tobias up when 
 Brewster and Lucretia exit the sewer into [[Vernan Grande|Vernan's]] mansion, entering through a cage of tigers below the kitchen. Brewster finds the chef upstairs cooking his mother's hand, and takes the wedding ring off of it. He tries to throw the hand to the tigers to gain their trust, but accidentally lets the tigers out in the process. Brewster and Lucretia are able to make the tigers attack the manor's guards, and the pair escape.
 
 At the forge, they meet up with Martin and Tarren. Martin returns Puck to Brewster, who grills him over leaving them at the castle. Brewster and Martin fight, with Brewster getting very upset at Martin's joking responses. Exploring the destroyed forge, Brewster finds a note in their meeting room from Branwyn, telling them what happened. It says to meet at the Watering Shack, and make sure there aren't any Tobiases following them. While the four go to the new base, Brewster says he has lost all respect for the Sootspots, throwing Kaldrake's signet ring into an Underdark pit. Martin loses the other three while traveling to the Watering Shack.
+## [[Session 36 - Going Down]]
+The group proceed to the mines. They try to enter through a well that Brewster remembers, but Martin falls and alerts a room of Inquisitors. They are able to fight them off, also killing a hook horror in the room. They question the last inquisitor before killing him, learning that Daphne is going by the name of The Cartographer, and is in the lower levels of the mines.
+## [[Session 37 - For the People]]
+Brewster explains his history with Daphne. They first met around two decades ago, but haven't seen each other in ten years. The group question a guard to learn of nearby dangers. They lure the guards in the next room into the barracks and defeat them, but William is killed along the way. They find some ydril and sending stones, and learn the passwords to get to the first and third floors using the elevator. Brewster and Lucretia begin to decode the other passwords. They put an alarm and a Glyph of Warding down so they can sleep.

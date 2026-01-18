@@ -5,8 +5,8 @@ Maokai, also known as the Forgotten One, is a nature god who was taken prisoner 
 - **First Seen:** Session 9
 - **First Mentioned:** Session 6
 - **Status:** Dead
+- **Cause of Death:** Burnt by Laogzed
 - **Time of Death:** Sometime between Session 24 and Session 30
-- **Cause of Death:** Burnt
 
 | Character |    Relation     |
 | :-------: | :-------------: |
@@ -47,3 +47,5 @@ Branwyn has a dream that Maokai has died. She sees the top half of a skeleton, w
 Maokai seems to still have his mausoleum staffed by one hadozee after Shurima's takeover of the Ringed City.
 ## [[Session 35 - Personal Tobias]]
 Shurima makes it clear that Mora's plan is to kill Maokai.
+## [[Session 37 - For the People]]
+After being defeated, Laogzed admits to killing Maokai in alliance with Mora, saying he had to before Shurima got too strong. He got the power over death, and Mora got the power of the wilds. Gwyneth also got something out of it that he would not admit. Shurima bursts Laogzed's heart in his hand, killing him.

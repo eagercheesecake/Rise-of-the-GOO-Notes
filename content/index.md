@@ -2,10 +2,10 @@
 title: Home
 ---
 
-|     [[Characters]]      |           [[Sessions]]            |   [[Gods]]    |
-| :---------------------: | :-------------------------------: | :-----------: |
-| [[Changelog\|Features]] | [[Session 36 - Going Down\|Latest Session]] | [[Timelines]] |
+|     [[Characters]]      |          [[Sessions]]          |   [[Gods]]    |
+| :---------------------: | :----------------------------: | :-----------: |
+| [[Changelog\|Features]] | [[Session 37 - For the People\|Latest Session]] | [[Timelines]] |
 
 Current status:
-- Session 36 notes are now updated. A hook horror has melted.
+- Session 37 notes are now updated. Moiloc how dare you.
 - Other Features and info being worked on.

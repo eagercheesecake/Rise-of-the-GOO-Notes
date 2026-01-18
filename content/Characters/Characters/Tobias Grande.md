@@ -14,8 +14,8 @@ Tobias Grand is a bounty hunter and serial killer from Lothric. He appears human
 |   13    | Appeared |   23    | Absent |   33    | Appeared |
 |   14    |  Absent  |   24    | Absent |   34    | Appeared |
 |   15    | Appeared |   25    | Absent |   35    | Appeared |
-|   16    |  Absent  |   26    | Absent |         |          |
-|   17    |  Absent  |   27    | Absent |         |          |
+|   16    |  Absent  |   26    | Absent |   36    | Appeared |
+|   17    |  Absent  |   27    | Absent |   37    | Appeared |
 |   18    |  Absent  |   28    | Absent |         |          |
 |   19    | Appeared |   29    | Absent |         |          |
 |   20    |  Absent  |   30    | Absent |         |          |
@@ -33,3 +33,7 @@ Tobias attacks the group who go to the chapel. He is also seen looking for someo
 Gwyneth says Tobias's daughter was also taken by [[Mora]], and gives Martin a copy of Tobias. When Martin arrives at the Watering Shack, bringing a Tobias. Branwyn fights with Martin over him directly ignoring her warnings and bringing a Tobias, and Martin agrees to send Tobias to the quicksilver mines to wait for them to find Daphne.
 
 Meanwhile, at the Hammerfist Monastery, Moiloc discovers that Tobiases have attacked and destroyed the monastery.
+## [[Session 36 - Going Down]]
+The group proceed to the mines. Branwyn makes Martin send Tobias away, so Martin has him leave to try and save the real Tobias.
+## [[Session 37 - For the People]]
+The Tobias clone is successful in freeing Tobias from his cell. After Tobias is freed, he goes to the Capella Sinistra, banishing the Death Knight temporarily while searching for Moiloc. He takes Ishtar to safety, leaving Moiloc behind.

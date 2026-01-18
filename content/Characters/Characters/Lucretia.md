@@ -10,8 +10,8 @@ Lucretia is a childhood friend of Martin's, who has been studying at the Lyceum.
 |                                 |          |                             33                             | Appeared |
 |                                 |          |                             34                             | Appeared |
 |                                 |          |                             35                             | Appeared |
-|                                 |          |                                                            |          |
-|                                 |          |                                                            |          |
+|                                 |          |                             36                             | Appeared |
+|                                 |          |                             37                             | Appeared |
 |                                 |          |                                                            |          |
 |                                 |          |                                                            |          |
 | [[Session 30 - Discretion\|30]] | Appeared |                                                            |          |
@@ -27,3 +27,7 @@ Lucretia goes to the markets, until they are called back by [[Reptile]] warning 
 Lucretia joins Martin when going to meet Gwyneth, but is immediately frozen. When Martin leaves with Gwyneth, the Death Knight and clones of Tobias attack. After seeing Ulysses chase after Martin and Gwyneth, and Brewster follow, she also leaves the battle to chase after Brewster. Lucretia manages to follow him into a trash chute and escape Tobias.
 ## [[Session 35 - Personal Tobias]]
 Brewster and Lucretia exit the sewer into [[Vernan Grande|Vernan's]] mansion, entering through a cage of tigers below the kitchen. After accidentally letting the tigers out, they are able to make them attack the manor's guards, and the pair escape. They meet up with Martin and Tarren at the forge, where they learn of its destruction, and proceed to the Watering Shack, learning of it from a note Branwyn left.
+## [[Session 36 - Going Down]]
+The group proceed to the mines. They try to enter through a well that Brewster remembers, but Martin falls and alerts a room of Inquisitors. They are able to fight them off, also killing a hook horror in the room. They question the last inquisitor before killing him, learning that Daphne is going by the name of The Cartographer, and is in the lower levels of the mines.
+## [[Session 37 - For the People]]
+The group question a guard to learn of nearby dangers. They lure the guards in the next room into the barracks and defeat them, but William is killed along the way. They find some ydril and sending stones, and learn the passwords to get to the first and third floors using the elevator. Brewster and Lucretia begin to decode the other passwords. They put an alarm and a Glyph of Warding down so they can sleep.
