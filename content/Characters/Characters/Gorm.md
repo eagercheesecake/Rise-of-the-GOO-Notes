@@ -2,7 +2,7 @@ Gorm is the head raider for the Resistance in Dunn.
 
 - **First Mentioned:** Session 9
 - **First Seen:** Session 10
-- **Status:** Alive
+- **Status:** Dead
 
 |  Session   |  Status   |  Session   |  Status   |
 | :--------: | :-------: | :--------: | :-------: |

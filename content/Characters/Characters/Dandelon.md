@@ -1,7 +1,7 @@
 Dandelon is an orc from Maedros. He is one of the competitors who made it into the second round of the Games in Montrissad. He is originally from Maedros.
 
 - **First Seen:** Session 6
-- **Status:** Alive
+- **Status:** Dead
 
 |  Character   | Relation |
 | :----------: | :------: |

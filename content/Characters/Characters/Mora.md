@@ -72,3 +72,5 @@ Gwyneth reveals that Mora had also taken Tobias's daughter. Later, Shurima point
 Reptile sees Mora has stolen Ulysses's gun.
 ## [[Session 37 - For the People]]
 After being defeated, Laogzed admits to killing Maokai in alliance with Mora, saying he had to before Shurima got too strong. He got the power over death, and Mora got the power of the wilds. Gwyneth also got something out of it that he would not admit.
+### [[Session 38]]
+Mora is seen in the Whitehall mines descending to the lower levels with [[Azura]], [[Charlotte]], [[a gnome]], and a human child.

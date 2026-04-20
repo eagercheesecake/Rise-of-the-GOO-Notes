@@ -1,7 +1,8 @@
 Corellian is the current the Meister of the Aethereum.
 
 - **First Mentioned:** Session 15
-- **Status:** Alive
+- **Status:** Dead
+- Kills by Marlon Switt
 
 |                     Character                     |  Relation   |
 | :-----------------------------------------------: | :---------: |

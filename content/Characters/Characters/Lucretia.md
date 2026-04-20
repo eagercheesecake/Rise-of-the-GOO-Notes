@@ -12,7 +12,7 @@ Lucretia is a childhood friend of Martin's, who has been studying at the Lyceum.
 |                                 |          |                             35                             | Appeared |
 |                                 |          |                             36                             | Appeared |
 |                                 |          |                             37                             | Appeared |
-|                                 |          |                                                            |          |
+|                                 |          |                             38                             | Appeared |
 |                                 |          |                                                            |          |
 | [[Session 30 - Discretion\|30]] | Appeared |                                                            |          |
 ## [[Session 30 - Discretion]]
@@ -31,3 +31,5 @@ Brewster and Lucretia exit the sewer into [[Vernan Grande|Vernan's]] mansion, en
 The group proceed to the mines. They try to enter through a well that Brewster remembers, but Martin falls and alerts a room of Inquisitors. They are able to fight them off, also killing a hook horror in the room. They question the last inquisitor before killing him, learning that Daphne is going by the name of The Cartographer, and is in the lower levels of the mines.
 ## [[Session 37 - For the People]]
 The group question a guard to learn of nearby dangers. They lure the guards in the next room into the barracks and defeat them, but William is killed along the way. They find some ydril and sending stones, and learn the passwords to get to the first and third floors using the elevator. Brewster and Lucretia begin to decode the other passwords. They put an alarm and a Glyph of Warding down so they can sleep.
+### [[Session 38]]
+Brewster and Lucretia study the elevator to find the other passwords, and are caught by Mora as she descends past them.

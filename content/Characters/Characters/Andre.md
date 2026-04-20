@@ -1,7 +1,7 @@
 Andre is an Inquisitor in Brasov. He seems to be a lower-level inquisitor, living in the barracks at the monastery.
 
 - **First Seen:** Session 8
-- **Status:** Alive
+- **Status:** Dead
 
 |     Character     | Relation |
 | :---------------: | :------: |

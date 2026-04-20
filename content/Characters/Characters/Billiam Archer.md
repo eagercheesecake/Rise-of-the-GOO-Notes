@@ -1,7 +1,7 @@
 William and Billiam Archer and twin archers who join the party to Whitehall.
 
 - **First Seen:** Session 27
-- **Status:** Alive
+- **Status:** Dead
 
 |          Character          | Relation |
 | :-------------------------: | :------: |

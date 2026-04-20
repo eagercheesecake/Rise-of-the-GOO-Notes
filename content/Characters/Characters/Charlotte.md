@@ -7,18 +7,18 @@ Charlotte is a young half-elf girl from Montrissad. She is taken in by Branwyn a
 | :------------------------------: | :------: |
 | [[Branwyn of Coryphea\|Branwyn]] | Guardian |
 
-|  Session   |  Status   |  Session   |  Status   |  Session   |  Status  |
-| :--------: | :-------: | :--------: | :-------: | :--------: | :------: |
-|            |           | Session 11 |  Absent   | Session 21 |  Absent  |
-|            |           | Session 12 |  Absent   | Session 22 |  Absent  |
-|            |           | Session 13 | Mentioned | Session 23 |  Absent  |
-|            |           | Session 14 |  Absent   | Session 24 | Appeared |
-|            |           | Session 15 | Mentioned |            |          |
-|            |           | Session 16 |  Absent   |            |          |
-| Session 7  | Appeared  | Session 17 |  Absent   |            |          |
-| Session 8  | Appeared  | Session 18 |  Absent   |            |          |
-| Session 9  | Mentioned | Session 19 |  Absent   |            |          |
-| Session 10 | Appeared  | Session 20 | Mentioned |            |          |
+| Session |  Status   | Session |  Status   | Session |  Status  | Session |  Status  |
+| :-----: | :-------: | :-----: | :-------: | :-----: | :------: | :-----: | :------: |
+|         |           |   11    |  Absent   |   21    |  Absent  |   31    |  Absent  |
+|         |           |   12    |  Absent   |   22    |  Absent  |   32    |  Absent  |
+|         |           |   13    | Mentioned |   23    |  Absent  |   33    |  Absent  |
+|         |           |   14    |  Absent   |   24    | Appeared |   34    |  Absent  |
+|         |           |   15    | Mentioned |   25    |  Absent  |   35    |  Absent  |
+|         |           |   16    |  Absent   |   26    |  Absent  |   36    |  Absent  |
+|    7    | Appeared  |   17    |  Absent   |   27    |  Absent  |   37    |  Absent  |
+|    8    | Appeared  |   18    |  Absent   |   28    |  Absent  |   38    | Appeared |
+|    9    | Mentioned |   19    |  Absent   |   29    |  Absent  |   39    | Appeared |
+|   10    | Appeared  |   20    | Mentioned |   30    |  Absent  |   40    | Appeared |
 ## [[Session 07 - Shuffleboard]]
 [[Branwyn of Coryphea|Branwyn]] saves Charlotte from corpse eaters on the streets of Montrissad, taking her with them to escape. They head to [[Monty MacMasters|Monty's]], and find it billowing with smoke. Inside is a small fire, which they put out. Branwyn notices that the door to Monty's magical hallway is gone, and finds runes where it once was. They find a letter from Monty saying he'll meet them in Wallachia. Soon after, [[Moiloc Kodlaksdottër|Moiloc]], [[Belnades]], and [[Tarren Hammerfist|Tarren]] enter as well, reuniting the party.
 
@@ -39,3 +39,5 @@ Jessie tells Branwyn that Charlotte was sent to a safer place. Branwyn tells Jes
 Branwyn realizes that the white raven she told Charlotte to look for was, in fact, Mora, and she may have sent Charlotte right into Mora's hands.
 ## [[Session 24 - Charlotte's Back!]]
 Branwyn finds Charlotte in Mora's cabin, partway through a transformation into one of Mora's vessels.
+## [[Session 38]]
+Charlotte is seen

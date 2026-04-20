@@ -1,10 +1,10 @@
-|      Previous Session       | Next Session |
-| :-------------------------: | :----------: |
-| [[Session 36 - Going Down]] |              |
+|      Previous Session       |  Next Session  |
+| :-------------------------: | :------------: |
+| [[Session 36 - Going Down]] | [[Session 38]] |
 ### Logline
 *The groups continue completing their own goals. William fights for the people.*
 ### Synopsis
-Brewster, Martin, and Branwyn clear out the storage room in the mines, but William is killed during the battle. They find guard's sending stones and begin decoding the elevator before resting for the night.
+Brewster, Martin, and Branwyn clear out the storage room in the mines, but William is killed during the battle. They find guard's sending stones and begin decoding the elevator before resting for the night. Tobias is freed by Martin’s Tobias clone. Moiloc and Ishtar defeat Sister Marie before she is able to sacrifice Ulysses to open the door to the Clotho Lachesis. Tobias appears to help them, and leaves with Ishtar. Moiloc sacrifices Sister Marie and Ulysses, and enters the lost city of Shurima. She fights Laogzed, who admits to killing Maokai in an alliance with Mora and Gwyneth. Shurima kills Laogzed.
 # Day 63
 ### Whitehall Mines
 [[Lothar (Brewster) Nash|Brewster]] barricades the door to the mine so Inquisitors can’t follow them. [[Martin Sootspot|Martin]] finds a body with a different-colored outfit, seeming a bit older and higher-ranked. The use [[William Archer|William]], who he didn’t see, to ask questions via [[Lucretia|Lucretia’s]] Speak With Dead. They learn that the elevator only goes down to level 5. They also find that there will likely be guards everywhere, especially at lower levels, where guards, locked doors, traps, and the cartographer are all defenses they need to look out for.

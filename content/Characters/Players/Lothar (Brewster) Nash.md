@@ -24,9 +24,9 @@ Brewster is a rock gnome who joined the Wallachian Resistance after being freed 
 |         |          | Session 15 | Appeared | Session 25 | Appeared |   35    | Appeared |
 |         |          | Session 16 | Appeared | Session 26 | Appeared |   36    | Appeared |
 |         |          | Session 17 | Appeared | Session 27 | Appeared |   37    | Appeared |
-|         |          | Session 18 | Appeared | Session 28 | Appeared |         |          |
-|         |          | Session 19 | Appeared | Session 29 | Appeared |         |          |
-|   10    | Appeared | Session 20 | Appeared | Session 30 | Appeared |         |          |
+|         |          | Session 18 | Appeared | Session 28 | Appeared |   38    | Appeared |
+|         |          | Session 19 | Appeared | Session 29 | Appeared |   39    | Appeared |
+|   10    | Appeared | Session 20 | Appeared | Session 30 | Appeared |   40    | Appeared |
 ## [[Session 10 - Strategic Milk Bucket]]
 Brewster meets [[Branwyn of Coryphea|Branwyn]] and [[Moiloc Kodlaksdottër|Moiloc]] when they come to learn about his study on ydril. He mends Moiloc's tattered armor, and she immediately goes into a long-winded story about how she lost her old armor. Brewster says his entire family was enslaved, so he doesn't have much pity for her. He also identifies Branwyn's ring as having some sort of warding magic on it, and identifies Moiloc's behelit as a key that responds to some phrase. He asks where she got the behelit, and she tells him about [[Shurima the Corpsemaker|Shurima]]. Brewster mentions that Shurima used to be a country until it was destroyed 400-500 years ago. Brewster makes her promise to tell him if anything else happens with Shurima, since this piques his interest.
 
@@ -129,3 +129,5 @@ At the forge, they meet up with Martin and Tarren. Martin returns Puck to Brewst
 The group proceed to the mines. They try to enter through a well that Brewster remembers, but Martin falls and alerts a room of Inquisitors. They are able to fight them off, also killing a hook horror in the room. They question the last inquisitor before killing him, learning that Daphne is going by the name of The Cartographer, and is in the lower levels of the mines.
 ## [[Session 37 - For the People]]
 Brewster explains his history with Daphne. They first met around two decades ago, but haven't seen each other in ten years. The group question a guard to learn of nearby dangers. They lure the guards in the next room into the barracks and defeat them, but William is killed along the way. They find some ydril and sending stones, and learn the passwords to get to the first and third floors using the elevator. Brewster and Lucretia begin to decode the other passwords. They put an alarm and a Glyph of Warding down so they can sleep.
+## [[Session 38]]
+Brewster and Lucretia study the elevator to find the other passwords, and are caught by Mora as she descends past them.
