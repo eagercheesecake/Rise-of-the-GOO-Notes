@@ -17,12 +17,12 @@ Goro is an old dragonborn man. He is the castle blacksmith in Montrissad.
 |         |          |   12    | Appeared |   22    | Appeared |   32    | Appeared |
 |         |          |   13    | Appeared |   23    | Appeared |   33    | Appeared |
 |         |          |   14    | Appeared |   24    | Appeared |   34    | Appeared |
-|         |          |   15    |  Absent  |   25    | Appeared |         |          |
-|    6    | Appeared |   16    |  Absent  |   26    |  Absent  |         |          |
-|    7    | Appeared |   17    |  Absent  |   27    |  Absent  |         |          |
-|    8    | Appeared |   18    |  Absent  |   28    | Appeared |         |          |
-|    9    | Appeared |   19    |  Absent  |   29    | Appeared |         |          |
-|   10    |  Absent  |   20    |  Absent  |   30    | Appeared |         |          |
+|         |          |   15    |  Absent  |   25    | Appeared |   35    | Appeared |
+|    6    | Appeared |   16    |  Absent  |   26    |  Absent  |   36    | Appeared |
+|    7    | Appeared |   17    |  Absent  |   27    |  Absent  |   37    |  Absent  |
+|    8    | Appeared |   18    |  Absent  |   28    | Appeared |   38    | Appeared |
+|    9    | Appeared |   19    |  Absent  |   29    | Appeared |   39    |  Absent  |
+|   10    |  Absent  |   20    |  Absent  |   30    | Appeared |   40    | Appeared |
 ## [[Session 06 - Cult Pamphlets]]
 [[Kaldrake Sootspot|Kaldrake]], [[Branwyn of Coryphea|Branwyn]], and [[Gertrude Spugel|Gertrude]] come to Goro to ask for [[Gwyneth Sootspot|Gwyneth's]] whereabouts after learning they were friends. Goro tells them she left for Martin's Isle, and gives them a key to her office. He also suggests that [[Bartholomew]] might be able to remove Gertrude's curse and restore her memories. He also gives them some weapons.
 ## [[Session 07 - Shuffleboard]]
@@ -69,3 +69,7 @@ Moiloc, Holliday, Goro, Nissa, Ishtar, and Mephistopheles are able to take down 
 The group find the monastery destroyed upon returning. Reptile finds a summoning circle in the cathedral, and calls Moiloc's group to join him. They take down the surrounding cultists, and break the etched circle. The circle explodes, summoning Shurima, who points them to the catacombs to help him stop Mora's plans.
 ## [[Session 36 - Going Down]]
 Moiloc and her companions wake up from the explosion, explaining that Shurima says they have to get the Clotho Lachesis from the catacombs. On their way, the find the Death Knight guarding the entrance to the catacombs. They are able to temporarily beat him, but he quickly begins to reform. While he is chasing them down the path, they get split up. Holliday, Goro, Mephistopheles, and Nissa go down the path that has them exit the catacombs to the front of the cathedral.
+## [[Session 38 - The Barbed Devil]]
+Shurima summons Goro, Nissa, Holliday, and Ishtar to help Moiloc fight Mephistopheles the Bard and some demons, who they are able to defeat.
+## [[Session 40 - Reunited]]
+A knight of Gal Troxic attacks Moiloc to prevent Shurima's reunion with Olidamuru. The group is able to defeat him. Corpse flayers begin to fall from the ceiling as Olidamuru begins to appear and be contained. Once the ritual is complete, Shurima gains Eru's powers. Moiloc says she will join the others if they choose to fight against Shurima, but asks if they are ready to die trying. They decide to run, but Moiloc decides to continue to worship Shurima, and kneels down to pray, but is crushed by a falling chunk of the ceiling.

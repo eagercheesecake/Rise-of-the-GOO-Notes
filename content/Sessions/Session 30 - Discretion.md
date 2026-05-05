@@ -1,3 +1,9 @@
+---
+tags:
+  - session
+date: 2025-05-10
+---
+
 |      Previous Session       |          Next Session           |
 | :-------------------------: | :-----------------------------: |
 | [[Session 29 - Infighting]] | [[Session 31 - Fourteen Rings]] |

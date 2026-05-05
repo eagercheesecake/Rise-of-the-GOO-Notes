@@ -3,25 +3,27 @@ Olidamuru is a god worshipped by the Cult of Miasma. He is the god of revelry an
 
 - **First Seen:** Session 17
 - **First Mentioned:** Session 6
-- **Status:** Alive
+- **Status:** Dead
+- **Cause of Death:** Merged with Shurima
+- **Time of Death:** Session 40
 
 |        Character        |  Relation  |
 | :---------------------: | :--------: |
 | [[Lexar Bellos\|Lexar]] | Chosen One |
 |        [[Jiren]]        |  Servant   |
 
-|  Session   |  Status   |  Session   |  Status   |  Session   |  Status   |
-| :--------: | :-------: | :--------: | :-------: | :--------: | :-------: |
-|            |           | Session 11 |  Absent   | Session 21 |  Absent   |
-|            |           | Session 12 |  Absent   | Session 22 |  Absent   |
-|            |           | Session 13 |  Absent   | Session 23 | Mentioned |
-|            |           | Session 14 |  Absent   |            |           |
-|            |           | Session 15 |  Absent   |            |           |
-| Session 6  | Mentioned | Session 16 |  Absent   |            |           |
-| Session 7  | Mentioned | Session 17 | Appeared  |            |           |
-| Session 8  | Mentioned | Session 18 | Appeared  |            |           |
-| Session 9  |  Absent   | Session 19 |  Absent   |            |           |
-| Session 10 |  Absent   | Session 20 | Mentioned |            |           |
+| Session |  Status   | Session |  Status   | Session |  Status   | Session |  Status   |
+| :-----: | :-------: | :-----: | :-------: | :-----: | :-------: | :-----: | :-------: |
+|         |           |   11    |  Absent   |   21    |  Absent   |   31    |  Absent   |
+|         |           |   12    |  Absent   |   22    |  Absent   |   32    | Mentioned |
+|         |           |   13    |  Absent   |   23    | Mentioned |   33    |  Absent   |
+|         |           |   14    |  Absent   |   24    |  Absent   |   34    |  Absent   |
+|         |           |   15    |  Absent   |   25    |  Absent   |   35    |  Absent   |
+|    6    | Mentioned |   16    |  Absent   |   26    |  Absent   |   36    |  Absent   |
+|    7    | Mentioned |   17    | Appeared  |   27    |  Absent   |   37    |  Absent   |
+|    8    | Mentioned |   18    | Appeared  |   28    |  Absent   |   38    | Mentioned |
+|    9    |  Absent   |   19    |  Absent   |   29    |  Absent   |   39    |  Absent   |
+|   10    |  Absent   |   20    | Mentioned |   30    |  Absent   |   40    | Appeared  |
 ## [[Session 06 - Cult Pamphlets]]
 [[Lexar Bellos|Lexar]] prays to Olidamuru, who shows him a glowing orb which leads him to the nearby chapel.
 ## [[Session 07 - Shuffleboard]]
@@ -38,3 +40,7 @@ The group discover that Olidamuru has been tracking [[Helen Berestova|Helen]] vi
 Brewster finds Olidamuru's hadozee devotees partying in the Ringed City. He also finds an [[Unknown God of Chaos]] who Olidamuru may have taken over for.
 ## [[Session 32 - I Didn't Ask How Big the Casino Is...]]
 Olidamuru seems to still have his mausoleum staffed by one hadozee after Shurima's takeover of the Ringed City.
+## [[Session 38 - The Barbed Devil]]
+Shurima confesses to Moiloc that he was once a slave to the country of Shurima, until he killed Eru and tried to take her powers. However, his body couldn't contain these powers, and his evil impulses split from him to form Olidamuru. He hopes to unite these halves, control Eru's powers, and take over, merging the planes. Moiloc takes on the next trial while Shurima begins preparations.
+## [[Session 40 - Reunited]]
+A knight of Gal Troxic attacks Moiloc to prevent Shurima's reunion with Olidamuru. The group is able to defeat him. Corpse flayers begin to fall from the ceiling as Olidamuru begins to appear and be contained. Once the ritual is complete, Shurima gains Eru's powers. Moiloc says she will join the others if they choose to fight against Shurima, but asks if they are ready to die trying. They decide to run, but Moiloc decides to continue to worship Shurima, and kneels down to pray, but is crushed by a falling chunk of the ceiling.

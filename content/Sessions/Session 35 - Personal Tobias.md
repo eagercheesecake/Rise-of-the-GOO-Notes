@@ -1,3 +1,8 @@
+---
+tags:
+  - session
+date: 2025-10-04
+---
 
 |         Previous Session          |   Next Session   |
 | :-------------------------------: | :--------------: |

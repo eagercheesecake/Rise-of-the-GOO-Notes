@@ -1,3 +1,9 @@
+---
+tags:
+  - session
+date: 2025-08-30
+---
+
 |                    Previous Session                    |           Next Session            |
 | :----------------------------------------------------: | :-------------------------------: |
 | [[Session 32 - I Didn't Ask How Big the Casino Is...]] | [[Session 34 - The Party Splits]] |

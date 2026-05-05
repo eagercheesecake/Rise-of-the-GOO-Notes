@@ -1,9 +1,10 @@
 Mora is Branwyn's mother figure from her childhood, using her as a vessel for her rebirth. She has also gone by Morrigan.
 
-- **First Seen:** N/A
 - **First Mentioned:** Session 5
 - **First Seen:** Session 17
-- **Status:** Alive
+- **Status:** Dead
+- **Cause of Death:** Shot by Branwyn
+- **Time of Death:** Session 39
 
 |            Character             | Relation |
 | :------------------------------: | :------: |
@@ -19,9 +20,9 @@ Mora is Branwyn's mother figure from her childhood, using her as a vessel for he
 |    5    | Mentioned |   15    | Mentioned |   25    | Appeared  |   35    | Mentioned |
 |    6    | Mentioned |   16    | Mentioned |   26    |  Absent   |   36    | Mentioned |
 |    7    | Mentioned |   17    | Appeared  |   27    | Mentioned |   37    | Mentioned |
-|    8    | Mentioned |   18    | Appeared  |   28    | Appeared  |         |           |
-|    9    | Mentioned |   19    | Mentioned |   29    |  Absent   |         |           |
-|   10    |  Absent   |   20    | Appeared  |   30    |  Absent   |         |           |
+|    8    | Mentioned |   18    | Appeared  |   28    | Appeared  |   38    | Appeared  |
+|    9    | Mentioned |   19    | Mentioned |   29    |  Absent   |   39    | Appeared  |
+|   10    |  Absent   |   20    | Appeared  |   30    |  Absent   |   40    | Mentioned |
 ## [[Session 05 - Can't Be Worse Than Here]]
 In [[Monty MacMasters|Monty's]] office, Branwyn finds notes on Mora beginning her move across Phaeros.
 ## [[Session 06 - Cult Pamphlets]]
@@ -43,7 +44,7 @@ Mora's cloak is seen inside a mysterious shop which sells magical trinkets. The 
 ## [[Session 15 - Gray Boys]]
 Brewster expresses concern to the Resistance over Branwyn's affiliation with Mora. Gwyneth mentions that Mora was at one point an avatar of Maokai, and that she has the ability to transpose souls.
 ## [[Session 16 - Killing a Mailman]]
-Kaldrake has a vision of [[Gulvayas Hakon|Gulvayas]] disguising himself as [[Martin the Great|Martin the Great]]. He meets with Mora, going by Morrigan, who is wearing a pendant in the shape of a tree, a religious symbol of Maokai. Gulvayas gives her a vial of blue liquid, telling her to drink it when the time comes to prevent [[Bados|Bados's]] control. Gulvayas meets with the High Mages and announces his plan to become Archwizard and the Maester of the Aetherium. The High Mages protest, and Morrigan traps them in black vines, and drinks the vial. The Mages coalesce into Gulvayas, and Morrigan falls onto the ground weakly, saying she loved Gulvayas. Gulvayas removes the mask and reveals his true identity.
+Kaldrake has a vision of [[Gulvayas Hakon|Gulvayas]] disguising himself as [[Martin the Great|Martin the Great]]. He meets with Mora, going by Morrigan, who is wearing a pendant in the shape of a tree, a religious symbol of Maokai. Gulvayas gives her a vial of blue liquid, telling her to drink it when the time comes to prevent [[Baedos|Baedos's]] control. Gulvayas meets with the High Mages and announces his plan to become Archwizard and the Maester of the Aetherium. The High Mages protest, and Morrigan traps them in black vines, and drinks the vial. The Mages coalesce into Gulvayas, and Morrigan falls onto the ground weakly, saying she loved Gulvayas. Gulvayas removes the mask and reveals his true identity.
 ## [[Session 17 - Respect These Nuts]]
 Kaldrake sees Mora burning down Grima's Grove and killing Grima in a vision from the reflection room. Later, [[Olidamuru]] convinces Branwyn to take off the ring protecting her from being tracked by Mora. Mora's voice fills the cave, saying she has found Branwyn.
 ## [[Session 18 - What Would Branwyn Do]]
@@ -72,5 +73,9 @@ Gwyneth reveals that Mora had also taken Tobias's daughter. Later, Shurima point
 Reptile sees Mora has stolen Ulysses's gun.
 ## [[Session 37 - For the People]]
 After being defeated, Laogzed admits to killing Maokai in alliance with Mora, saying he had to before Shurima got too strong. He got the power over death, and Mora got the power of the wilds. Gwyneth also got something out of it that he would not admit.
-### [[Session 38]]
-Mora is seen in the Whitehall mines descending to the lower levels with [[Azura]], [[Charlotte]], [[a gnome]], and a human child.
+## [[Session 38 - The Barbed Devil]]
+Mora is seen in the Whitehall mines descending to the lower levels with [[Azura]], [[Charlotte]], [[Callia]], and a human child. The group sees evidence of Mora's presence while descending the mines, with many dead or dominated slaves and Inquisitors.
+## [[Session 39 - Mora]]
+The group proceeds to an arena in the city to find Daphne and the Clotho Lachesis, which Gwyneth warns Martin not to mess with. They find an angel of Gal Troxic hanging Daphne over a pit, but Brewster saves her, and the group are able to fend off the angel. After this, Daphne looks through the Clotho Lachesis, identifying various artifacts, and causing the group to realize that Moiloc is nearby, as well as Ulysses's gun. Brewster and Daphne have a fight, and she mentions that Brewster has a daughter. Mora arrives, with Charlotte, and Brewster and Tobias's daughters, transforming them into her avatars and having them attack. Mora brings Ulysses's gun to taunt the party, but they are able to retrieve it and kill her.
+## [[Session 40 - Reunited]]
+When Galen finds Gwyneth's body, it becomes clear that Mora killed her, as her body is impaled by thorns. Galen continues to track down Mora, passing a sacrificial pedestal that confirms that Mora drained the blood of a child to enter the Lost City of Shurima.

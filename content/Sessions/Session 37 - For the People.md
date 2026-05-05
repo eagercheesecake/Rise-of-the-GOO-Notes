@@ -1,6 +1,12 @@
-|      Previous Session       |  Next Session  |
-| :-------------------------: | :------------: |
-| [[Session 36 - Going Down]] | [[Session 38]] |
+---
+date: 2026-12-06
+tags:
+  - session
+---
+
+|      Previous Session       |           Next Session            |
+| :-------------------------: | :-------------------------------: |
+| [[Session 36 - Going Down]] | [[Session 38 - The Barbed Devil]] |
 ### Logline
 *The groups continue completing their own goals. William fights for the people.*
 ### Synopsis
@@ -43,7 +49,7 @@ Brewster and Martin take some ydril. Branwyn finds round, bronze discs on each g
 [[Shurima the Corpsemaker|Shurima]] appears behind Moiloc, saying they need to sacrifice two people to open the door and reach the Underdark, recommending they sacrifice Tobias and Marie. Moiloc suggests they look for the rest of their party. Tobias stops her, saying she needs to act quick, as he can’t keep the [[Death Knight]] banished forever. Moiloc tells Tobias to take Ishtar and leave, meeting up with the others.
 
 Moiloc has less ease convincing Ishtar. Ishtar heals Tobias, Moiloc, Ulysses, and herself. Moiloc eventually convinces her to leave, saying the door is calling her. Moiloc takes the sacrificial dagger and drives it into Tobias and Marie. The braziers glow hot, and the door fades away, revealing a hallway. She enters the hallway, and exits onto a balcony overlooking a city half-submerged in quicksilver. Floating above it is a large, purple crystal.
-### The Lost City of Shurima
+### The Cathedral of the Gods
 Shurima materializes next to her, saying it’s good to be home. He says this is the city of Shurima, and that they must brave the Cathedral of the Gods, quickly, before they have competition. They proceed into the city hand in hand, as Shurima lifts her into the sky, floating above the quicksilver ocean. The buildings flit in and out of existence, and Moiloc notices that the large crystal is heavily cracked, and there’s a draconian skeleton in the quicksilver. There are petrified, stone people in the buildings and streets of the town. They land at the entrance to the cathedral, seeing corpses. Moiloc notices some petrified elves, commenting that she’s never seen them before. A vast cloud of green smoke enters the cathedral, and Shurima comments that their first competitor has arrived. The smoke solidifies into a monster, looking like a frog, but growing tusks, pustules, and other extremities, so thin that they can see his ribs. Shurima says this is [[Laogzed]].
 
 Laogzed and Shurima have a spat, both coming for the Clotho Lochesis. Laogzed comments that he had already made an agreement today, which had made him more powerful, and he creates a cloud of viscous green smoke, which is easily waved off. Shurima comments that the god of death cannot help him, and Laogzed admits that he, Gwyneth, and Mora had made an alliance against Shurima and killed Maokai. Shurima says he will help Moiloc, and puts a hand on her, blessing her with Haste.

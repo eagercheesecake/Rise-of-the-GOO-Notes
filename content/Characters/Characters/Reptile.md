@@ -13,12 +13,12 @@ Reptile is a young lizardfolk, and former Whitehall slave. He began following Sh
 |         |          |   32    | Appeared |
 |         |          |   33    | Appeared |
 |         |          |   34    | Appeared |
-|         |          |         |          |
-|         |          |         |          |
-|         |          |         |          |
-|         |          |         |          |
-|   29    | Appeared |         |          |
-|   30    | Appeared |         |          |
+|         |          |   35    | Appeared |
+|         |          |   36    | Appeared |
+|         |          |   37    |  Absent  |
+|         |          |   38    | Appeared |
+|   29    | Appeared |   39    |  Absent  |
+|   30    | Appeared |   40    | Appeared |
 ## [[Session 29 - Infighting]]
 [[Moiloc Kodlaksdottër|Moiloc]], [[Martin Sootspot|Martin]], [[Helen Berestova|Helen]], and [[Tarren Hammerfist|Tarren]] see Reptile stealing a gem from a jewel salesman.
 ## [[Session 30 - Discretion]]
@@ -35,3 +35,7 @@ Reptile joins Martin when going to meet Gwyneth, but is immediately frozen. When
 Moiloc pages Reptile, who says he believes he found what Moiloc and he had been looking for, in the cathedral. Moiloc convinces the others to join Reptile there. Reptile had found a summoning circle in the cathedral. They take down the surrounding cultists, and break the etched circle. The circle explodes, summoning Shurima, who points them to the catacombs to help him stop Mora's plans.
 ## [[Session 36 - Going Down]]
 Moiloc and her companions wake up from the explosion, explaining that Shurima says they have to get the Clotho Lachesis from the catacombs. On their way, the find the Death Knight guarding the entrance to the catacombs. Reptile escapes before they are able to defeat him, trying to find another entrance to the catacombs. On his way, he sees Mora has stolen Ulysses's gun.
+## [[Session 38 - The Barbed Devil]]
+Shurima summons Reptile to assist Moiloc in her final trial at the Cathedral of the Gods.
+## [[Session 40 - Reunited]]
+A knight of Gal Troxic attacks Moiloc to prevent Shurima's reunion with Olidamuru. The group is able to defeat him. Corpse flayers begin to fall from the ceiling as Olidamuru begins to appear and be contained. Once the ritual is complete, Shurima gains Eru's powers. Moiloc says she will join the others if they choose to fight against Shurima, but asks if they are ready to die trying. They decide to run, but Moiloc decides to continue to worship Shurima, and kneels down to pray, but is crushed by a falling chunk of the ceiling.

@@ -7,7 +7,9 @@ tags:
 Gwyneth is an elven wizard, and Kaldrake's sister. 
 
 - **First Seen:** Session 1
-- **Status:** Alive
+- **Status:** Dead
+- **Cause of Death:** Killed by Martin
+- **Time of Death:** Session 39
 
 |                     Character                     |     Relation      |
 | :-----------------------------------------------: | :---------------: |
@@ -26,9 +28,9 @@ Gwyneth is an elven wizard, and Kaldrake's sister.
 |    5    | Mentioned |   15    | Appeared  |   25    | Appeared  |   35    | Appeared  |
 |    6    | Mentioned |   16    | Mentioned |   26    |  Absent   |   36    |  Absent   |
 |    7    | Mentioned |   17    | Mentioned |   27    | Mentioned |   37    | Mentioned |
-|    8    |  Absent   |   18    | Mentioned |   28    |  Absent   |         |           |
-|    9    |  Absent   |   19    |  Absent   |   29    |  Absent   |         |           |
-|   10    |  Absent   |   20    |  Absent   |   30    |  Absent   |         |           |
+|    8    |  Absent   |   18    | Mentioned |   28    |  Absent   |   38    |  Absent   |
+|    9    |  Absent   |   19    |  Absent   |   29    |  Absent   |   39    | Appeared  |
+|   10    |  Absent   |   20    |  Absent   |   30    |  Absent   |   40    | Appeared  |
 ## [[Session 01 - Piss Grandma]]
 Kaldrake mentions that her sister is the person who commissioned [[Lexar Bellos|Lexar]] to protect her during the Games. Before the first melee, [[Gertrude Spugel|Gertrude]] sees Gwyneth performing fire magic in front of the arena.
 ## [[Session 05 - Can't Be Worse Than Here]]
@@ -73,3 +75,7 @@ When Martin meets up with Gwyneth, she immediately freezes the rest of the group
 Gwyneth tells Martin that she needs him to help her get in contact with Shurima, and Martin asks her to help him kill Mora, but both of them refuse the other's request. Gwyneth tells Martin that Martin the Great split his soul into pieces to pursue immortality, creating a series of homunculi, making up the Sootspot family. However, the homunculi are only stable for 100 years, causing the Sootspot curse. Martin the Great, no longer having a soul, was banished to the astral plane, as lacking a soul made him unable to receive and handle divine power. Gwyenth tells Martin that she wants him to help her get to his prison on the moon, by getting a book called the Clotho Lachesis, in return for telling Martin where Daphne is. Martin reluctantly agrees, and Gwyneth gives him a Tobias to help, telling Martin that Daphne is likely in one of the mines. Gwyneth lets Martin leave, saying she has a meeting, and gives him an Inquisitor's medal to keep the Inquisitors off of him.
 ## [[Session 37 - For the People]]
 After being defeated, Laogzed admits to killing Maokai in alliance with Mora, saying he had to before Shurima got too strong. He got the power over death, and Mora got the power of the wilds. Gwyneth also got something out of it that he would not admit.
+## [[Session 39 - Mora]]
+The group proceeds to an arena in the city to find Daphne and the Clotho Lachesis, which Gwyneth warns Martin not to mess with. Martin eventually takes the Clotho Lachesis and destroys it, appearing on the moon with Gwyneth. She tells him off for destroying the book, but he jumps over Gulvayas's prison, and kills her. At this moment, they both die, being reborn as Abbadon.
+## [[Session 40 - Reunited]]
+The city of Maedros has made the connection that corpse eaters show up wherever Gwyneth goes. They send Galen and Helen after Gwyneth. They track her down, following a trail of blood into Gwyneth's secret office. Galen finds an entrance to the Underdark, where she finds Gwyneth near-dead, impaled by Mora's thorns. Galen interrogates Gwyneth, getting her journal. Unable to decode it, and afraid of magic traps in the bindings, she rips the pages out and takes them. Galen stabs Gwyneth during this interrogation, leaving her to die.

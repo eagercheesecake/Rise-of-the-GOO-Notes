@@ -18,8 +18,8 @@ Puck is Brewster's homunculus servant. He takes the form of a smiling, flying ca
 |         |          | Session 15  |  Absent  | Session 25 | Appeared  |   35    | Appeared |
 |         |          | Session 16  |  Absent  | Session 26 | Appeared  |   36    | Appeared |
 |         |          | Session 17  | Appeared | Session 27 | Appeared  |   37    | Appeared |
-|         |          | Session 18  | Appeared | Session 28 | Appeared  |         |          |
-|         |          | Session 19  |  Absent  | Session 29 | Appeared  |         |          |
+|         |          | Session 18  | Appeared | Session 28 | Appeared  |   38    | Appeared |
+|         |          | Session 19  |  Absent  | Session 29 | Appeared  |   39    | Appeared |
 |   10    | Appeared | Session  20 |  Absent  | Session 30 |  Absent   |         |          |
 ## [[Session 10 - Strategic Milk Bucket]]
 [[Lothar (Brewster) Nash|Brewster]] brings Puck to the Chateau. Puck is able to help fight some bats and vampires in the Chateau, and is occasionally sent in to scout possibly dangerous rooms before the group enters.
@@ -63,3 +63,7 @@ Puck is killed by Gwyneth's Death Knight in the Capella. Brewster, needing to es
 Martin collects Puck's gem while leaving the castle and returns it to Brewster.
 ## [[Session 36 - Going Down]]
 Puck helps Brewster investigate the area around their new hideout, and later, the mines.
+## [[Session 38 - The Barbed Devil]]
+As the group descends the mine, they often use Puck to scout ahead.
+## [[Session 39 - Mora]]
+Puck is present at the fight with Mora.

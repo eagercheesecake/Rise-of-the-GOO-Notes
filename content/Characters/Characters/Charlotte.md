@@ -39,5 +39,9 @@ Jessie tells Branwyn that Charlotte was sent to a safer place. Branwyn tells Jes
 Branwyn realizes that the white raven she told Charlotte to look for was, in fact, Mora, and she may have sent Charlotte right into Mora's hands.
 ## [[Session 24 - Charlotte's Back!]]
 Branwyn finds Charlotte in Mora's cabin, partway through a transformation into one of Mora's vessels.
-## [[Session 38]]
-Charlotte is seen
+## [[Session 38 - The Barbed Devil]]
+Charlotte is seen with Mora, descending into the Underdark. Charlotte seems to be the only child not enthralled by Mora.
+## [[Session 39 - Mora]]
+Charlotte is present at the battle with Mora, but is not transformed. Vulcan takes her to safety.
+## [[Session 40 - Reunited]]
+Charlotte escapes the mines with Brewster.

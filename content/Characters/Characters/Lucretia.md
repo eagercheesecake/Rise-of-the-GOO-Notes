@@ -1,7 +1,9 @@
 Lucretia is a childhood friend of Martin's, who has been studying at the Lyceum. She joins Martin and the group on their way to Whitehall.
 
 - **First Seen:** Session 30
-- **Status:** Alive
+- **Status:** Dead
+- **Cause of Death:** Killed by Mora
+- **Time of Death:** Session 39
 
 |             Session             |  Status  |                          Session                           |  Status  |
 | :-----------------------------: | :------: | :--------------------------------------------------------: | :------: |
@@ -13,7 +15,7 @@ Lucretia is a childhood friend of Martin's, who has been studying at the Lyceum.
 |                                 |          |                             36                             | Appeared |
 |                                 |          |                             37                             | Appeared |
 |                                 |          |                             38                             | Appeared |
-|                                 |          |                                                            |          |
+|                                 |          |                             39                             | Appeared |
 | [[Session 30 - Discretion\|30]] | Appeared |                                                            |          |
 ## [[Session 30 - Discretion]]
 [[Martin Sootspot|Martin]] finds Lucretia at an archaeological dig outside of the Lyceum. They return to the Lyceum to catch up. When Martin mentions he is going to Whitehall, Lucrecia asks to join them, hoping to talk to [[Daphne]]. They proceed to the headmaster, and get his permission to let Lucretia leave the school for a time to join them.
@@ -31,5 +33,7 @@ Brewster and Lucretia exit the sewer into [[Vernan Grande|Vernan's]] mansion, en
 The group proceed to the mines. They try to enter through a well that Brewster remembers, but Martin falls and alerts a room of Inquisitors. They are able to fight them off, also killing a hook horror in the room. They question the last inquisitor before killing him, learning that Daphne is going by the name of The Cartographer, and is in the lower levels of the mines.
 ## [[Session 37 - For the People]]
 The group question a guard to learn of nearby dangers. They lure the guards in the next room into the barracks and defeat them, but William is killed along the way. They find some ydril and sending stones, and learn the passwords to get to the first and third floors using the elevator. Brewster and Lucretia begin to decode the other passwords. They put an alarm and a Glyph of Warding down so they can sleep.
-### [[Session 38]]
-Brewster and Lucretia study the elevator to find the other passwords, and are caught by Mora as she descends past them.
+## [[Session 38 - The Barbed Devil]]
+Brewster and Lucretia study the elevator to find the other passwords, and are caught by Mora as she descends past them. The group proceeds to the lower levels of the mines. On the way, they learn the city has been taken over by corpse eaters, who are present in the mines, along with guards and slaves under Mora's control. Martin sends an Unseen Eye to follow Mora once they decide to deviate from following her, although it disappears soon after, causing the group to realize they entered the Underdark. The group quickly defeats a Barbed Devil, and proceed to an arena in the Lost City of Shurima.
+## [[Session 39 - Mora]]
+The group proceeds to an arena in the city to find Daphne and the Clotho Lachesis, which Gwyneth warns Martin not to mess with. They find an angel of Gal Troxic hanging Daphne over a pit, but Brewster saves her, and the group are able to fend off the angel. After this, Daphne looks through the Clotho Lachesis, identifying various artifacts, and causing the group to realize that Moiloc is nearby, as well as Ulysses's gun. Brewster and Daphne have a fight, and she mentions that Brewster has a daughter. Mora arrives, with Charlotte, and Brewster and Tobias's daughters, transforming them into her avatars and having them attack. Mora brings Ulysses's gun to taunt the party, but they are able to retrieve it and kill her, although Lucretia dies in the process.

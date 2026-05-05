@@ -1,3 +1,9 @@
+---
+tags:
+  - session
+date: 2025-09-06
+---
+
 |             Previous Session              |           Next Session           |
 | :---------------------------------------: | :------------------------------: |
 | [[Session 33 - I Want To See a Mushroom]] | [[Session 35 - Personal Tobias]] |

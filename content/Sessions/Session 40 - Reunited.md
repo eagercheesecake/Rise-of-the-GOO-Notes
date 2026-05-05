@@ -1,13 +1,26 @@
-A bright light descends from the heavens, landing by Moiloc’s group in the cathedral, to reveal a man in bright, white plate armor, with pushed-back blonde hair, and eyes glowing yellow. He is riding a unicorn. On the chest plate of his armor is the symbol of Gal Troxic. Moiloc asks him who he is. He materializes a spear, declaring he is Cato. Moiloc turns to Shurima, who is creating a swirling purple energy in the air above him. He seems healthier, younger, and more full of energy. He’s gaining strength, but it’s clearly exerting his energy. Moiloc turns back to Cato, who demands her attention. Moiloc says she isn’t here for him. Cato says a man of great power is behind her, and Moiloc inquisitively points to Shurima. Cato, already exhausted by this conversation, confirms, saying he has to stop Shurima’s cataclysm from destroying the world.
+---
+tags:
+  - session
+date: 2026-04-04
+---
+|   Previous Session    | Next Session |
+| :-------------------: | :----------: |
+| [[Session 39 - Mora]] |              |
+### Logline
+*Moiloc completes the last of Shurima's trials.*
+### Synopsis
+# Day 63
+### The Cathedral of the Gods
+A bright light descends from the heavens, landing by [[Moiloc Kodlaksdottër|Moiloc's]] group in the cathedral, to reveal a man in bright, white plate armor, with pushed-back blonde hair, and eyes glowing yellow. He is riding a unicorn. On the chest plate of his armor is the symbol of [[Gal Troxic]]. Moiloc asks him who he is. He materializes a spear, declaring he is Cato. Moiloc turns to [[Shurima the Corpsemaker|Shurima]], who is creating a swirling purple energy in the air above him. He seems healthier, younger, and more full of energy. He’s gaining strength, but it’s clearly exerting his energy. Moiloc turns back to Cato, who demands her attention. Moiloc says she isn’t here for him. Cato says a man of great power is behind her, and Moiloc inquisitively points to Shurima. Cato, already exhausted by this conversation, confirms, saying he has to stop Shurima’s cataclysm from destroying the world.
 
 > [!danger] Fight
-> Cato launches three spears of light at Tobias, pinning him to the ground and rendering him unconscious. He then rides up to Moiloc. Goro hits him with a war hammer. Cato reacts, piercing Goro. Holliday runs for cover, beginning to approach Cato. Reptile does the same. Moiloc slashes at Cato, but can only hit once. She finds that the flames of her fire longsword don’t burn him, and extinguishes her sword. Holy fire burns across the field, burning everyone. Nissa slashes at Cato. Ishtar heals everyone.
+> Cato launches three spears of light at [[Tobias Grande|Tobias]], pinning him to the ground and rendering him unconscious. He then rides up to Moiloc. [[Goro Hattori|Goro]] hits him with a war hammer. Cato reacts, piercing Goro. [[Holliday]] runs for cover, beginning to approach Cato. [[Reptile]] does the same. Moiloc slashes at Cato, but can only hit once. She finds that the flames of her fire longsword don’t burn him, and extinguishes her sword. Holy fire burns across the field, burning everyone. [[Nissa]] slashes at Cato. [[Ishtar]] heals everyone.
 > 
 >  Cato tries to hit Moiloc with spears of light, but they all miss. Goro misses. Holliday hides. Reptile misses. Cato again creates a burst of burning light, but some hide away. Moiloc slashes at Cato. Ishtar tries to hide.
 >  
 >  Cato is able to hit Reptile with all three bolts of light, downing him. Goro misses, and Cato reacts by stabbing him.
 
-Cato demands they surrender, and Moiloc turns to ask Shurima for help. Moiloc sees Shurima physically summoning a being who seems to be Olidamuru. Holliday runs to the boats. Moiloc asks Cato for a moment to consider his offer for surrender, upset that Olidamuru, who once tried to kill her, is appearing. Moiloc demands an explanation from Shurima, who explains he is going to kill Olidamuru. This quells Moiloc’s worries.
+Cato demands they surrender, and Moiloc turns to ask Shurima for help. Moiloc sees Shurima physically summoning a being who seems to be [[Olidamuru]]. Holliday runs to the boats. Moiloc asks Cato for a moment to consider his offer for surrender, upset that Olidamuru, who once tried to kill her, is appearing. Moiloc demands an explanation from Shurima, who explains he is going to kill Olidamuru. This quells Moiloc’s worries.
 
 > [!danger] Fight
 > Moiloc slashes at Cato but misses twice. Nissa finally reaches Cato, slashing him twice. Ishtar hides.
@@ -17,29 +30,29 @@ Cato demands they surrender, and Moiloc turns to ask Shurima for help. Moiloc se
 > Cato hits Nissa, Reptile, and Ishtar, downing the first two, but his ranged spear misses Ishtar. Goro misses. Tobias fires two bolts of Eldritch Blast, missing both. Moiloc impales Cato, and pulls him off the unicorn, which disappears. The light from Cato’s eyes fades, and the symbol on his chest disappears.
 
 Ishtar heals everyone twice, and reports that Holliday left them. Moiloc sees that Olidamuru has been summoned, and he is kneeling in front of Shurima, bound. Shurima says he needs another thirty minutes to consume Olidamuru’s power. He gives them some lizard on a stick to help them. The group hears a distant, shrill howl, and the boom of thunder.
+### Whitehall
+Earlier that morning, [[Galen Laborde]] wakes up to knocking on the window to her room in Whitehall. She had been awaiting [[Helen Berestova|Helen]], who claims to have information from corpse eaters. Helen hadn’t bathed in a while, and she looks awful. Helen hands Galen a letter, written from the Maedros ruler, [[The High Architect]]. 
 
-Earlier that morning, Galen Laborde wakes up to knocking on the window to her room in Whitehall. She had been awaiting Helen, who claims to have information from Death Eaters. Helen hadn’t bathed in a while, and she looks awful. Helen hands Galen a letter, written from the Maedros ruler, the High Architect. 
-
-The letter tells of the party and their antics. Maedros has been looking into the death eaters, and realizes that they seem to appear wherever Gwyneth appears. Helen mentions that she knows Gwyneth is going to the Cathedral.
-
+The letter tells of the party and their antics. Maedros has been looking into the death eaters, and realizes that they seem to appear wherever [[Gwyneth Sootspot|Gwyneth]] appears. Helen mentions that she knows Gwyneth is going to the Capella Sinistra.
+### Capella Sinistra
 The pair proceeds to the cathedral, and hear alert horns, seeing Inquisitors running to the slave district. As they enter through the doors to the cathedral, they hear three booms of thunder and a scream from a nearby room. They proceed, passing by some missing bricks, and an askew grate. Galen notices a trail of blood coming from a wall between a split hallway, and feels an energy from the path to the right. Galen tries to investigate the wall, but phases through it, falling flat on her face. Inside the room, the floor is covered in blood. She finds a mangled, fleshy mannequin by a cell. She rifles through the office, and eventually pulls a specific book. The desk shifts, blocking the doorway, and revealing a ladder descending into darkness. Helen opts to stay behind, and tell their forces what she found.
 
 While descending, she realizes that she has entered the Underdark. She enters a room, and finds an elf, unconscious, stuck to the wall with thorns. Looking though the body, she finds a signet sign, and realizes this is the body of Gwyneth. Galen casts Zone of Truth, and ties up the unconscious Gwyneth before waking her up. Galen asks about the corpse eaters, and Gwyenth feigns ignorance, but Galen sees right through her. Galen says there’s no need to play dumb, since she’ll be dead after this conversation, anyway. Gwyneth casts Power Word: Pain. Galen reacts by stabbing her in the gut, politely asking her to turn it off. She obliges.
 
 Finally, Galen is in a position to get information. Gwyneth says it’s too much to tell, asking Galen to reach into her pocket for a journal. Galen realizes there’s something she’s not saying. Galen tries to ask again, getting no new information, so she cuts open the pocket. She gets the journal, asking if something is going to happen when she opens it, to no response. Galen puts the book in Gwyneth’s hands, forcing her to open it. Galen doesn’t notice anything of interest in the book. However, there are likely encoded elements to it, although it would take her some time to decipher. Galen rips the pages out of the book, and gives the book back to Gwyneth.
 
-Galen asks about Mora, and Gwyneth says she went further down. Gwyneth begs to be freed, but Galen says her questions have already been answered, and pulls the dagger out. Galen then proceeds to follow vines and other foliage to track Mora. She sees Inquisitors, who are charmed and unmoving. She tries to be stealthy, but the guards notice her, and begin to approach. She casts Thaumotergy, creating another sound, and distracting them. Galen continues through the caverns, finding some corpse flayers. Assuming she can’t beat them, she sneaks past unnoticed.
+Galen asks about [[Mora]], and Gwyneth says she went further down. Gwyneth begs to be freed, but Galen says her questions have already been answered, and pulls the dagger out. Galen then proceeds to follow vines and other foliage to track Mora. She sees Inquisitors, who are charmed and unmoving. She tries to be stealthy, but the guards notice her, and begin to approach. She casts Thaumaturgy, creating another sound, and distracting them. Galen continues through the caverns, finding some corpse flayers. Assuming she can’t beat them, she sneaks past unnoticed.
 
-She continues to a pedestal, atop of which is a child, who has been drained of blood. She understands the mechanic of the blood-sealed door. She makes a prayer to help Styx find this child, and feels Styx’s warmth, feeling closer to him than she ever has.
-
+She continues to a pedestal, atop of which is a child, who has been drained of blood. She understands the mechanic of the blood-sealed door. She makes a prayer to help [[Styx the Pathfinder|Styx]] find this child, and feels Styx’s warmth, feeling closer to him than she ever has.
+### The Lost City of Shurima
 Inside the Underdark, Galen sees three boats, and takes one. Looking across the lake, she sees two figures enter the cathedral, but can’t tell who it is. In the meantime, she sees a large spire in the distance, and decides to investigate. She rows to the spire and enters through an open window. The room looks like a royal bedroom. She finds a corpse wearing a royal crown. Instead of a crown jewel is a carving of a lantern. She finds this odd, never having heard of a country worshiping Styx. She notices the lantern seems to be depicted a bit differently: lit with a flame. She busts open a nearby rotting chest, finding it full of rotted clothes, which she can’t quite date. Deep in the chest is a scroll of revivify. She decides to leave, and rows to the cathedral.
-
+### The Cathedral of the Gods
 When arriving at the cathedral, she sees Holliday untying a boat. She asks for a way out, and Galen points to the balcony she came from. Holliday tosses her a gold piece. When entering the cathedral proper, she begins to hear buzzing. She looks up, and sees the roof of the cave was in fact a layer of corpse tenders, who are beginning to awaken and swarm the cathedral.
-
-Branwyn decides she can’t leave Moiloc behind and unattended, and leaves the others at the exit to the Underdark. They decide to meet in the mountain pass, and stay in touch via the sending stones. Branwyn, Daphne, Tarren, Vulkan, and the children begin to travel through the caverns. Daphne is leading them through the caverns. After about ten minutes, they begin to hear loud buzzing, that seems to be approaching. Brewster begins unloading his items into Daphne. She notices King Endrio’s cloak, and questions Brewster on that. He promises to tell Tarren about it later.
+### The Lost City of Shurima
+[[Branwyn of Coryphea|Branwyn]] decides she can’t leave Moiloc behind and unattended, and leaves the others at the exit to the Underdark. They decide to meet in the mountain pass, and stay in touch via the sending stones. Branwyn, [[Daphne]], [[Tarren Hammerfist|Tarren]], [[Vulcan]], [[Charlotte]], [[Azura]], and [[Callia]], and the other child travel through the caverns. Daphne is leading them through the caverns. After about ten minutes, they begin to hear loud buzzing, that seems to be approaching. Brewster begins unloading his items into Daphne. She notices King Endrio’s cloak, and questions Brewster on that. He promises to tell Tarren about it later.
 
 Daphne takes them to the sulfur mines. Once they pass a part of the cave that seems especially weak, Brewster throws his bag behind him, triggering a cave in caused by his Glyph of Warding. The cave-in lands on Brewster, hurting him greatly, but they make it out okay.
-
+### The Cathedral of the Gods
 Branwyn approaches more buzzing as she nears the cathedral. Multiple corpse golems and corpse insects are falling. She sees Holliday approaching her on her own boat. They great each other, each in shock that the other is alive. She says they could use some help, if Branwyn is free. Branwyn continues booking it to the cathedral, tying the boat up and booking it inside.
 
 > [!danger] Fight
@@ -59,7 +72,7 @@ The buzzing suddenly stops, as the remaining corpse flayers fall from the sky, d
 
 Shurima becomes transparent, and Branwyn asks what is happening. Moiloc tells all. Shurima begins to absorb Olidamuru. They catch up, as Moiloc fumbles to defend their choices. Moiloc says she will join them if they choose to attack Shurima, but doesn’t think they can beat him, asking if they are ready to die here. Goro is visibly afraid at the sight of Shurima.
 
-Galen takes out the crown. She feels it pull her toward the center of the room, and feels she should kneel, and offer the crown to the air. Although worried it may be Shurima’s energy pulling her to act, she trusts in Styx, and offers it up. The world stops. Out of nowhere, Styx appears. He smiles, and grasps the crown. With the world frozen, Styx puts the crown on his head. Galen hears a woman’s voice in her head, saying it is too late to stop Shurima, but with Styx reunited with her powers, they may be able to stop him. A door appears, and Styx opens it. She bows, going through it.
+Galen takes out the crown. She feels it pull her toward the center of the room, and feels she should kneel, and offer the crown to the air. Although worried it may be Shurima’s energy pulling her to act, she trusts in Styx, and offers it up. The world stops. Out of nowhere, Styx appears. He smiles, and grasps the crown. With the world frozen, Styx puts the crown on his head. Galen hears a woman’s voice in her head, saying it is too late to stop Shurima, but with Styx reunited with her powers, they may be able to stop him. A door appears, and Styx opens it. Styx bows, going through it.
 
 To everyone else, Galen appears to have stood up, with the crown gone. Olidamuru disappears as the cavern begins shaking, and Shurima begins to grow. He lets out howls of pain. Everyone goes to escape, but Moiloc kneels down, beginning to pray. Branwyn goes to run toward her, but Galen pulls her back. A giant ball of rock, stone, and corpse tenders falls onto Moiloc, killing her.
 

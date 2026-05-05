@@ -1,8 +1,8 @@
 |         Category          |                   Progress                    |
 | :-----------------------: | :-------------------------------------------: |
-|      Notes Available      | <progress max=28 value=28> </progress>  36/36 |
-|      Notes Formatted      | <progress max=36 value=35> </progress>  36/36 |
-| Character Notes Available | <progress max=36 value=35> </progress>  35/36 |
+|      Notes Available      | <progress max=28 value=28> </progress>  40/40 |
+|      Notes Formatted      | <progress max=40 value=40> </progress>  40/40 |
+| Character Notes Available | <progress max=40 value=40> </progress>  40/40 |
 ## Completed Features
 - Linkable images in the [[Gods]] image
 - Searchable & linkable notes
@@ -23,6 +23,4 @@
 	- Linkable? Timeline?
 - Better [[Characters]] page
 - Fix [[Martin the Great]] vs [[Gulvayas Hakon]]
-- Fix [[Baedos]] vs [[Abaddon]] (and fix the spelling of Baedos)
-- Bados is the correct spelling
-- Klotholichesis is the correct spelling
+- Fix [[Baedos]] vs [[Abaddon]] (and fix the spelling of Baedos - It should be "Bados")

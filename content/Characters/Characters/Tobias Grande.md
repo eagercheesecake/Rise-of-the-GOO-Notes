@@ -16,9 +16,9 @@ Tobias Grand is a bounty hunter and serial killer from Lothric. He appears human
 |   15    | Appeared |   25    | Absent |   35    | Appeared |
 |   16    |  Absent  |   26    | Absent |   36    | Appeared |
 |   17    |  Absent  |   27    | Absent |   37    | Appeared |
-|   18    |  Absent  |   28    | Absent |         |          |
-|   19    | Appeared |   29    | Absent |         |          |
-|   20    |  Absent  |   30    | Absent |         |          |
+|   18    |  Absent  |   28    | Absent |   38    | Appeared |
+|   19    | Appeared |   29    | Absent |   39    |  Absent  |
+|   20    |  Absent  |   30    | Absent |   40    | Appeared |
 ## [[Session 13 - Martha Is My Middle Name]]
 Tobias stops [[Moiloc Kodlaksdottër|Moiloc]] while she is looking at the bounty board, and gives her a card for the Bounty Guild, inviting her to join.
 ## [[Session 15 - Gray Boys]]
@@ -37,3 +37,11 @@ Meanwhile, at the Hammerfist Monastery, Moiloc discovers that Tobiases have atta
 The group proceed to the mines. Branwyn makes Martin send Tobias away, so Martin has him leave to try and save the real Tobias.
 ## [[Session 37 - For the People]]
 The Tobias clone is successful in freeing Tobias from his cell. After Tobias is freed, he goes to the Capella Sinistra, banishing the Death Knight temporarily while searching for Moiloc. He takes Ishtar to safety, leaving Moiloc behind.
+## [[Session 38 - The Barbed Devil]]
+After Tobias left with Ishtar, it seems he beelined for his father. Shurima summons him and Vernan to assist Moiloc in fighting her third trial at the Cathedral of the Gods. When they appear, Tobias already had Vernan by the neck, and swiftly killed him.
+### [[Session 39 - Mora]]
+Tobias's daughter is transformed into a daughter of Mora during the fight with Mora. She is pushed into quicksilver, and dies.
+## [[Session 40 - Reunited]]
+A knight of Gal Troxic attacks Moiloc to prevent Shurima's reunion with Olidamuru. The group is able to defeat him. Corpse flayers begin to fall from the ceiling as Olidamuru begins to appear and be contained. Once the ritual is complete, Shurima gains Eru's powers. Moiloc says she will join the others if they choose to fight against Shurima, but asks if they are ready to die trying. They decide to run, but Moiloc decides to continue to worship Shurima, and kneels down to pray, but is crushed by a falling chunk of the ceiling.
+
+Meanwhile, Galen finds the aftermath of Tobias killing his clone after he freed him from Gwyneth's prison.

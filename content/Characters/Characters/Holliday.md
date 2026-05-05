@@ -10,11 +10,11 @@ Holliday is a mercenary from
 |         |          |   33    | Appeared |
 |         |          |   34    | Appeared |
 |         |          |   35    | Appeared |
-|         |          |         |          |
-|         |          |         |          |
-|         |          |         |          |
-|         |          |         |          |
-|   30    | Appeared |         |          |
+|         |          |   36    | Appeared |
+|         |          |   37    |  Absent  |
+|         |          |   38    | Appeared |
+|         |          |   39    |  Absent  |
+|   30    | Appeared |   40    | Appeared |
 ## [[Session 30 - Discretion]]
 [[Moiloc Kodlaksdottër|Moiloc]] tries to recruit Holliday, but doesn't have the money or the information for her to agree.
 ## [[Session 31 - Fourteen Rings]]
@@ -29,3 +29,7 @@ Moiloc, Holliday, Goro, Nissa, Ishtar, and Mephistopheles are able to take down 
 The group find the monastery destroyed upon returning. Reptile finds a summoning circle in the cathedral, and calls Moiloc's group to join him. They take down the surrounding cultists, and break the etched circle. The circle explodes, summoning Shurima, who points them to the catacombs to help him stop Mora's plans.
 ## [[Session 36 - Going Down]]
 Moiloc and her companions wake up from the explosion, explaining that Shurima says they have to get the Clotho Lachesis from the catacombs. On their way, the find the Death Knight guarding the entrance to the catacombs. They are able to temporarily beat him, but he quickly begins to reform. While he is chasing them down the path, they get split up. Holliday, Goro, Mephistopheles, and Nissa go down the path that has them exit the catacombs to the front of the cathedral.
+## [[Session 38 - The Barbed Devil]]
+Shurima summons Goro, Nissa, Holliday, and Ishtar to help Moiloc fight Mephistopheles the Bard and some demons, who they are able to defeat.
+## [[Session 40 - Reunited]]
+Holliday is present for Moiloc's final trial, a battle with a knight of Gal Troxic. However, she soon decides to simply run away, and takes one of the boats to leave across the quicksilver lake.

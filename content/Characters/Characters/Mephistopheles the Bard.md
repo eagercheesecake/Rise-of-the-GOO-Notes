@@ -1,7 +1,9 @@
 Mephistopheles is a bard from Velbras who worked for the Bagworm.
 
 - **First Seen:** Session 29
-- **Status:** Alive
+- **Status:** Dead
+- **Cause of Death:** Killed by Holliday
+- **Time of Death:** Session 38
 
 | Session |  Status  | Session |  Status  |
 | :-----: | :------: | :-----: | :------: |
@@ -9,10 +11,10 @@ Mephistopheles is a bard from Velbras who worked for the Bagworm.
 |         |          |   32    | Appeared |
 |         |          |   33    | Appeared |
 |         |          |   34    | Appeared |
-|         |          |         |          |
-|         |          |         |          |
-|         |          |         |          |
-|         |          |         |          |
+|         |          |   35    |  Absent  |
+|         |          |   36    |  Absent  |
+|         |          |   37    |  Absent  |
+|         |          |   38    | Appeared |
 |   29    | Appeared |         |          |
 |   30    |  Absent  |         |          |
 ## [[Session 29 - Infighting]]
@@ -29,3 +31,5 @@ Moiloc, Holliday, Goro, Nissa, Ishtar, and Mephistopheles are able to take down 
 After finding the Hammerfist monastery destroyed, Mephistpheles tries to rally the remaining monks with a funeral song, but fails. Reptile finds a summoning circle in the cathedral, and calls Moiloc's group to join him. They take down the surrounding cultists, and break the etched circle. The circle explodes, summoning Shurima, who points them to the catacombs to help him stop Mora's plans.
 ## [[Session 36 - Going Down]]
 Moiloc and her companions wake up from the explosion, explaining that Shurima says they have to get the Clotho Lachesis from the catacombs. On their way, the find the Death Knight guarding the entrance to the catacombs. They are able to temporarily beat him, but he quickly begins to reform. While he is chasing them down the path, they get split up. Holliday, Goro, Mephistopheles, and Nissa go down the path that has them exit the catacombs to the front of the cathedral.
+## [[Session 38 - The Barbed Devil]]
+Mephistopheles joins the devils in trying to stop Shurima from merging with Olidamuru, but has to fight Moiloc and her group, eventually being killed by Holliday.

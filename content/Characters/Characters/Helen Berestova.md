@@ -3,18 +3,18 @@ Helen is a human woman who was abducted by Olidamuru, and put in Lothric castle 
 - **First Seen:** Session 18
 - **Status:** Alive
 
-|  Session   |  Status  |  Session   |  Status  | Session |  Status  |
-| :--------: | :------: | :--------: | :------: | :-----: | :------: |
-|            |          | Session 21 | Appeared |   31    | Appeared |
-|            |          | Session 22 | Appeared |   32    | Appeared |
-|            |          | Session 23 | Appeared |   33    | Appeared |
-|            |          | Session 24 | Appeared |   34    | Appeared |
-|            |          | Session 25 | Appeared |         |          |
-|            |          | Session 26 |  Absent  |         |          |
-|            |          | Session 27 |  Absent  |         |          |
-| Session 18 | Appeared | Session 28 | Appeared |         |          |
-| Session 19 | Appeared | Session 29 | Appeared |         |          |
-| Session 20 | Appeared | Session 30 | Appeared |         |          |
+| Session |  Status  | Session |  Status  | Session |  Status  |
+| :-----: | :------: | :-----: | :------: | :-----: | :------: |
+|         |          |   21    | Appeared |   31    | Appeared |
+|         |          |   22    | Appeared |   32    | Appeared |
+|         |          |   23    | Appeared |   33    | Appeared |
+|         |          |   24    | Appeared |   34    | Appeared |
+|         |          |   25    | Appeared |   35    |  Absent  |
+|         |          |   26    |  Absent  |   36    |  Absent  |
+|         |          |   27    |  Absent  |   37    |  Absent  |
+|   18    | Appeared |   28    | Appeared |   38    |  Absent  |
+|   19    | Appeared |   29    | Appeared |   39    |  Absent  |
+|   20    | Appeared |   30    | Appeared |   40    | Appeared |
 ## [[Session 18 - What Would Branwyn Do]]
 Helen is found bound and kneeling, with a knife laid in front of her, and a note saying to stab her. [[Lothar (Brewster) Nash|Brewster]] confirms that she is alive despite being unresponsive. They free her, and take her with them.
 ## [[Session 19 - Inspiration (Desperation)]]
@@ -45,3 +45,5 @@ Helen, now able to talk, tells the group about her life. Her family is from Maed
 Soon after arriving in Whitehall, Helen is knocked out by Tobias in his bedroom. She is woken up by Branwyn.
 ## [[Session 34 - The Party Splits]]
 Branwyn decides to turn back when the group reaches the chapel, and returns to the forge with Helen. On the way, she finds Tobias looking for someone. She finds the forge blown up as a result of a trap Brewster left for any invaders. She escapes the forge with Helen, Vulcan, and William, going to the Watering Shack, an abandoned brothel in the entertainment district.
+## [[Session 40 - Reunited]]
+A disheveled Helen finds Galen Laborde at her home in Whitehall. She reports her findings on corpse eaters, and gives an order from the High Architect to track down Gwyneth in the Capella Sinistra. Helen follows her to Gwyneth's secret office, but turns around before the enter the Underdark to report their findings to their forces.

@@ -1,3 +1,9 @@
+---
+tags:
+  - session
+date: 2026-04-05
+---
+
 |             Previous Session             |        Next Session         |
 | :--------------------------------------: | :-------------------------: |
 | [[Session 28 - Making a Plan (Finally)]] | [[Session 30 - Discretion]] |

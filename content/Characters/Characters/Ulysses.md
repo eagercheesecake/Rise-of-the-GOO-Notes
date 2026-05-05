@@ -5,18 +5,18 @@ Ulysses is a human gunslinger looking to kill Mora.
 - **Cause of Death:** Sacrificed by Moiloc
 - **Time of Death:** Session 37
 
-| Session |  Status  | Session |  Status  |
-| :-----: | :------: | :-----: | :------: |
-|         |          |   31    |  Absent  |
-|         |          |   32    | Appeared |
-|         |          |   33    | Appeared |
-|   24    | Appeared |   34    | Appeared |
-|   25    | Appeared |   35    |  Absent  |
-|   26    | Appeared |   36    |  Absent  |
-|   27    | Appeared |   37    | Appeared |
-|   28    | Appeared |         |          |
-|   29    |  Absent  |         |          |
-|   30    |  Absent  |         |          |
+| Session |  Status  | Session |  Status   |
+| :-----: | :------: | :-----: | :-------: |
+|         |          |   31    |  Absent   |
+|         |          |   32    | Appeared  |
+|         |          |   33    | Appeared  |
+|   24    | Appeared |   34    | Appeared  |
+|   25    | Appeared |   35    |  Absent   |
+|   26    | Appeared |   36    |  Absent   |
+|   27    | Appeared |   37    | Appeared  |
+|   28    | Appeared |   38    |  Absent   |
+|   29    |  Absent  |   39    | Mentioned |
+|   30    |  Absent  |         |           |
 ## [[Session 24 - Charlotte's Back!]]
 [[Branwyn of Coryphea|Branwyn]] sees Ulysses in a bar fight in the inn in Domnhall Keep.
 ## [[Session 25 - I Know an Archer]]
@@ -35,3 +35,5 @@ Soon after arriving in Whitehall, Ulysses is knocked out by Tobias in his bedroo
 Ulysses joins Martin when going to meet Gwyneth, but is immediately frozen. When Martin leaves with Gwyneth, the Death Knight and clones of Tobias attack. Ulysses immediately chases after them.
 ## [[Session 37 - For the People]]
 Moiloc and Ishtar down the hall and find a sacrificial altar, where Sister Marie is about to kill Ulysses. The pair are able to defeat her, with the help of the real Tobias, who shows up last-minute. Moiloc is able to convince Tobias and Ishtar to leave and go to safety. Once they are gone, Moiloc sacrifices Ulysses and Marie.
+## [[Session 39 - Mora]]
+The party is able to use Ulysses's gun to kill Mora.

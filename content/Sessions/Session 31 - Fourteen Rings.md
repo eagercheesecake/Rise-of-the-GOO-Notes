@@ -1,5 +1,11 @@
-|      Previous Session       |   Next Session   |
-| :-------------------------: | :--------------: |
+---
+tags:
+  - session
+date: 2025-06-21
+---
+
+|      Previous Session       |                      Next Session                      |
+| :-------------------------: | :----------------------------------------------------: |
 | [[Session 30 - Discretion]] | [[Session 32 - I Didn't Ask How Big the Casino Is...]] |
 ### Logline
 *The Bagworm grows interested in the party's actions.*

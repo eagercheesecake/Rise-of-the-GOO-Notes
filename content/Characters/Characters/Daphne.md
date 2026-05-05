@@ -16,9 +16,9 @@ Daphne is a dwarf who worked with Brewster in the slave labor camps in the mines
 |   15    | Mentioned |   25    | Appeared  |   35    | Mentioned |
 |   16    |  Absent   |   26    |  Absent   |   36    | Mentioned |
 |   17    |  Absent   |   27    |  Absent   |   37    | Mentioned |
-|   18    |  Absent   |   28    |  Absent   |         |           |
-|   19    |  Absent   |   29    |  Absent   |         |           |
-|   20    |  Absent   |   30    |  Absent   |         |           |
+|   18    |  Absent   |   28    |  Absent   |   38    | Mentioned |
+|   19    |  Absent   |   29    |  Absent   |   39    | Appeared  |
+|   20    |  Absent   |   30    |  Absent   |   40    | Appeared  |
 ## [[Session 12 - Branwyn's Bad Day]]
 After finding a body that looks exactly like [[Branwyn of Coryphea|Branwyn]] as a child, [[Lothar (Brewster) Nash|Brewster]] mentions that Daphne might be able to identify how that is possible. She should be able to confirm if the body really is the same as Branwyn if they take something to identify the body by.
 ## [[Session 13 - Martha Is My Middle Name]]
@@ -39,3 +39,9 @@ Brewster, Branwyn, Martin, and their companions begin looking for Daphne. While 
 The group proceed to the mines. They try to enter through a well that Brewster remembers, but Martin falls and alerts a room of Inquisitors. They are able to fight them off, also killing a hook horror in the room. They question the last inquisitor before killing him, learning that Daphne is going by the name of The Cartographer, and is in the lower levels of the mines.
 ## [[Session 37 - For the People]]
 Brewster explains his history with Daphne. They first met around two decades ago, but haven't seen each other in ten years.
+## [[Session 38 - The Barbed Devil]]
+The group searches the body of a dead Inquisitor guard, and finds that they had received orders to go after Daphne. It seems that Daphne had recently freed some slaves from the guard, and caused an explosion to block the path behind them, killing the guard in the process.
+## [[Session 39 - Mora]]
+The group proceeds to an arena in the city to find Daphne and the Clotho Lachesis, which Gwyneth warns Martin not to mess with. They find an angel of Gal Troxic hanging Daphne over a pit, but Brewster saves her, and the group are able to fend off the angel. After this, Daphne looks through the Clotho Lachesis, identifying various artifacts, and causing the group to realize that Moiloc is nearby, as well as Ulysses's gun. Brewster and Daphne have a fight, and she mentions that Brewster has a daughter. Mora arrives, with Charlotte, and Brewster and Tobias's daughters, transforming them into her avatars and having them attack. Mora brings Ulysses's gun to taunt the party, but they are able to retrieve it and kill her.
+## [[Session 40 - Reunited]]
+Daphne escapes the mines with Brewster.

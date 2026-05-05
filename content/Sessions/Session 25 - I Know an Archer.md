@@ -1,3 +1,8 @@
+---
+tags:
+  - session
+date: 2024-11-23
+---
 
 |         Previous Session          |  Next Session  |
 | :-------------------------------: | :------------: |

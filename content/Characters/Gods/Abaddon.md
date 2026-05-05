@@ -10,3 +10,5 @@ Abaddon is the god of Fate.
 | Session 15 | Mentioned |
 ## [[Session 15 - Gray Boys]]
 [[Gwyneth Sootspot|Gwyneth]] mentions that [[Martin the Great||Martin the Great]] sold his soul to Abaddon.
+## [[Session 39 - Mora]]
+Martin takes the Clotho Lachesis and destroys it, appearing on the moon with Gwyneth, who he kills. At this moment, they both die, being reborn as Abbadon.

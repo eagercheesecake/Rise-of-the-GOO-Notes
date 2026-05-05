@@ -16,9 +16,9 @@ Tarren is a member of the Resistance in Dunn, and a contestant in the Montrissad
 |         |           |   15    | Mentioned |   25    |  Absent   |   35    | Appeared |
 |    6    | Appeared  |   16    |  Absent   |   26    |  Absent   |   36    | Appeared |
 |    7    | Appeared  |   17    | Appeared  |   27    | Appeared  |   37    | Appeared |
-|    8    | Appeared  |   18    | Appeared  |   28    | Appeared  |         |          |
-|    9    | Appeared  |   19    |  Absent   |   29    | Appeared  |         |          |
-|   10    | Mentioned |   20    | Mentioned |   30    | Appeared  |         |          |
+|    8    | Appeared  |   18    | Appeared  |   28    | Appeared  |   38    | Appeared |
+|    9    | Appeared  |   19    |  Absent   |   29    | Appeared  |   39    | Appeared |
+|   10    | Mentioned |   20    | Mentioned |   30    | Appeared  |   40    | Appeared |
 ## [[Session 06 - Cult Pamphlets]]
 [[Moiloc Kodlaksdottër|Moiloc]] finds Tarren and [[Belnades]] as they escape the attack at the pre-game feast. They escape through a hole in the wall of a hallway, and jump into the moat, escaping back to the streets of Montrissad.
 ## [[Session 07 - Shuffleboard]]
@@ -63,3 +63,9 @@ Martin gets Tarren after his meeting with Gwyneth, and they return to the forge,
 The group proceed to the mines. They try to enter through a well that Brewster remembers, but Martin falls and alerts a room of Inquisitors. They are able to fight them off, also killing a hook horror in the room. They question the last inquisitor before killing him, learning that Daphne is going by the name of The Cartographer, and is in the lower levels of the mines.
 ## [[Session 37 - For the People]]
 The group question a guard to learn of nearby dangers. They lure the guards in the next room into the barracks and defeat them, but William is killed along the way. They find some ydril and sending stones, and learn the passwords to get to the first and third floors using the elevator. Brewster and Lucretia begin to decode the other passwords. They put an alarm and a Glyph of Warding down so they can sleep.
+## [[Session 38 - The Barbed Devil]]
+The group proceeds to the lower levels of the mines. On the way, they learn the city has been taken over by corpse eaters, who are present in the mines, along with guards and slaves under Mora's control. Martin sends an Unseen Eye to follow Mora once they decide to deviate from following her, although it disappears soon after, causing the group to realize they entered the Underdark. They must sacrifice some of Tarren's blood to enter, rendering him unconscious. The group quickly defeats a Barbed Devil, and proceed to an arena in the Lost City of Shurima.
+## [[Session 39 - Mora]]
+Tarren is present, but unconscious, for the fight with Mora.
+## [[Session 40 - Reunited]]
+Tarren escapes the mines with Brewster.

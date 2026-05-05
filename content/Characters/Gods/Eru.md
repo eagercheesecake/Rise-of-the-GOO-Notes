@@ -9,17 +9,17 @@ Eru the Shaper is the main god in Phaeros. She created the Forgotten Ones and th
 - **Time of Death:** Before Session 1
 
 |  Session   |  Status   | Session |  Status   | Session |  Status   | Session | Status    |
-| :--------: | :-------: | :-----: | :-------: | :-----: | :-------: | ------- | --------- |
-|            |           |   11    |  Absent   |   21    | Mentioned |         |           |
-|            |           |   12    |  Absent   |   22    |  Absent   |         |           |
-|            |           |   13    | Mentioned |   23    | Appeared  |         |           |
-|            |           |   14    |  Absent   |   24    | Mentioned |         |           |
-|            |           |   15    |  Absent   |         |           |         |           |
-| Session 6  | Mentioned |   16    | Mentioned |         |           |         |           |
-| Session 7  | Mentioned |   17    | Mentioned |         |           | 37      | Mentioned |
-| Session 8  | Mentioned |   18    | Mentioned |         |           |         |           |
-| Session 9  |  Absent   |   19    |  Absent   |         |           |         |           |
-| Session 10 |  Absent   |   20    |  Absent   |         |           |         |           |
+| :--------: | :-------: | :-----: | :-------: | :-----: | :-------: | :-------: | :---------: |
+|            |           |   11    |  Absent   |   21    | Mentioned | 31      | Absent    |
+|            |           |   12    |  Absent   |   22    |  Absent   | 32      | Absent    |
+|            |           |   13    | Mentioned |   23    | Appeared  | 33      | Absent    |
+|            |           |   14    |  Absent   |   24    | Mentioned | 34      | Absent    |
+|            |           |   15    |  Absent   |   25    |  Absent   | 35      | Absent    |
+| Session 6  | Mentioned |   16    | Mentioned |   26    |  Absent   | 36      | Absent    |
+| Session 7  | Mentioned |   17    | Mentioned |   27    |  Absent   | 37      | Mentioned |
+| Session 8  | Mentioned |   18    | Mentioned |   28    |  Absent   | 38      | Mentioned |
+| Session 9  |  Absent   |   19    |  Absent   |   29    |  Absent   |         |           |
+| Session 10 |  Absent   |   20    |  Absent   |   30    |  Absent   |         |           |
 ## [[Session 06 - Cult Pamphlets]]
 Eru has a chapel in the castle in Montrissad. Her statue is seen when [[Kaldrake Sootspot|Kaldrake]], [[Branwyn of Coryphea|Branwyn]], and [[Gertrude Spugel|Gertrude]] visit the chapel.
 ## [[Session 07 - Shuffleboard]]
@@ -41,4 +41,8 @@ While in the ringed city, Brewster learns from the hadozee that Eru created the 
 ## [[Session 24 - Charlotte's Back!]]
 [[Goro Hattori|Goro]] tells about Eru's history, as discovered by [[Gwyneth Sootspot|Gwyneth's]] research. She descended from the Ringed City and defeated the dragons in the war, according to stories. The pharaoh from the country of Shurima found Eru and killed her.
 ## [[Session 37 - For the People]]
-Shurima reveals that Eru has been dead for many years. He decides that she sucks.
+Shurima reveals that Eru has been dead for many years.
+## [[Session 38 - The Barbed Devil]]
+Shurima confesses to Moiloc that he was once a slave to the country of Shurima, until he killed Eru and tried to take her powers. However, his body couldn't contain these powers, and his evil impulses split from him to form Olidamuru. He hopes to unite these halves, control Eru's powers, and take over, merging the planes. Moiloc takes on the next trial while Shurima begins preparations.
+## [[Session 39 - Mora]]
+A statue of Eru, with a face, is near the Clotho Lachesis's hiding place.

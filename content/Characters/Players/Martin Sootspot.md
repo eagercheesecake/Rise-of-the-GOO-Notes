@@ -1,7 +1,9 @@
 Martin is a wizard of the Sootspot family.
 
 - **First Seen:** Session 22
-- **Status:** Alive
+- **Status:** Dead
+- **Cause of Death:** Reborn as Abaddon
+- **Time of Death:** Session 39
 
 |                     Character                     |     Relation      |
 | :-----------------------------------------------: | :---------------: |
@@ -19,8 +21,8 @@ Martin is a wizard of the Sootspot family.
 |   25    | Appeared |   35    | Appeared |
 |   26    | Appeared |   36    | Appeared |
 |   27    | Appeared |   37    | Appeared |
-|   28    | Apperaed |         |          |
-|   29    | Appeared |         |          |
+|   28    | Apperaed |   38    | Appeared |
+|   29    | Appeared |   39    | Appeared |
 |   30    | Appeared |         |          |
 ## [[Session 22 - The B Team]]
 [[Martin Sootspot|Martin]], [[Ouroborus Tikktal|Ororo]], [[Mora|Morrigan]], [[Contigo Muñoz|Contigo]], and [[Arklow Laban|Arklow]] arrive in Col Man'Dar after Martin sees a vision of Kaldrake's death, and find his corpse. The group finds [[Goro Hattori|Goro]] in the lumber mill, and [[Velma|Velma's]] corpse in the forest. Morrigan casts Charm Person on Martin, but fails, with Martin telling her not to do it again. Instead, Morrigan casts Dominate Person on Martin. She tells him via Telepathy to look for [[Branwyn of Coryphea|Branwyn's]] body in the forest. Ororo realizes Martin is under the effect of magic and dispels it, causing Martin to fight with Morrigan about the Dominate Person spell she used. Morrigan explains she is looking for a childhood friend, and Martin agrees to help look, but on the path instead of in the middle of the forest, although Martin realizes Morrigan's explanation is a lie. During the night, Ororo wakes Martin up and says Morrigan and Contigo are gone, and that she thinks Morrigan used Dominate Person on Contigo. They give chase.
@@ -66,3 +68,9 @@ Brewster, Tarren, and Lucretia show up to the Watering Shack, and Martin follows
 The group proceed to the mines. Branwyn makes Martin send Tobias away, so Martin has him leave to try and save the real Tobias. They try to enter through a well that Brewster remembers, but Martin falls and alerts a room of Inquisitors. They are able to fight them off, also killing a hook horror in the room. They question the last inquisitor before killing him, learning that Daphne is going by the name of The Cartographer, and is in the lower levels of the mines.
 ## [[Session 37 - For the People]]
 The group question a guard to learn of nearby dangers. They lure the guards in the next room into the barracks and defeat them, but William is killed along the way. They find some ydril and sending stones, and learn the passwords to get to the first and third floors using the elevator. Brewster and Lucretia begin to decode the other passwords. They put an alarm and a Glyph of Warding down so they can sleep.
+## [[Session 38 - The Barbed Devil]]
+The group proceeds to the lower levels of the mines. On the way, they learn the city has been taken over by corpse eaters, who are present in the mines, along with guards and slaves under Mora's control. Martin sends an Unseen Eye to follow Mora once they decide to deviate from following her, although it disappears soon after, causing the group to realize they entered the Underdark. The group quickly defeats a Barbed Devil, and proceed to an arena in the Lost City of Shurima.
+## [[Session 39 - Mora]]
+The group proceeds to an arena in the city to find Daphne and the Clotho Lachesis, which Gwyneth warns Martin not to mess with. They find an angel of Gal Troxic hanging Daphne over a pit, but Brewster saves her, and the group are able to fend off the angel. After this, Daphne looks through the Clotho Lachesis, identifying various artifacts, and causing the group to realize that Moiloc is nearby, as well as Ulysses's gun. Brewster and Daphne have a fight, and she mentions that Brewster has a daughter. Mora arrives, with Charlotte, and Brewster and Tobias's daughters, transforming them into her avatars and having them attack. Mora brings Ulysses's gun to taunt the party, but they are able to retrieve it and kill her.
+
+Martin takes the Clotho Lachesis and destroys it, appearing on the moon with Gwyneth. She tells him off for destroying the book, but he jumps over Gulvayas's prison, and kills her. At this moment, they both die, being reborn as Abbadon.

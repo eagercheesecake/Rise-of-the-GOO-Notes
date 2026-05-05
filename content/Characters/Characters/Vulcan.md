@@ -12,8 +12,8 @@ Vulcan is a khalkha man who joined the party after being rescued from imprisonme
 |         |          |   35    | Appeared |
 |         |          |   36    | Appeared |
 |         |          |   37    | Appeared |
-|   28    | Appeared |         |          |
-|   29    | Appeared |         |          |
+|   28    | Appeared |   38    | Appeared |
+|   29    | Appeared |   39    | Appeared |
 |   30    | Appeared |         |          |
 ## [[Session 28 - Making a Plan (Finally)]]
 Vulcan is rescued from the bandit camp in Dunn after [[Goro Hattori|Goro]], [[William Archer|William]], [[Branwyn of Coryphea|Branwyn]], and [[Tarren Hammerfist|Tarren]] kill the bandit boss. He takes the boss's axe, and declares his devotion to the group.
@@ -35,3 +35,9 @@ William is seen when Brewster and Martin arrive at the new hideout.
 The group proceed to the mines. They try to enter through a well that Brewster remembers, but Martin falls and alerts a room of Inquisitors. They are able to fight them off, also killing a hook horror in the room. They question the last inquisitor before killing him, learning that Daphne is going by the name of The Cartographer, and is in the lower levels of the mines.
 ## [[Session 37 - For the People]]
 The group question a guard to learn of nearby dangers. They lure the guards in the next room into the barracks and defeat them, but William is killed along the way. They find some ydril and sending stones, and learn the passwords to get to the first and third floors using the elevator. Brewster and Lucretia begin to decode the other passwords. They put an alarm and a Glyph of Warding down so they can sleep.
+## [[Session 38 - The Barbed Devil]]
+The group proceeds to the lower levels of the mines. On the way, they learn the city has been taken over by corpse eaters, who are present in the mines, along with guards and slaves under Mora's control. Martin sends an Unseen Eye to follow Mora once they decide to deviate from following her, although it disappears soon after, causing the group to realize they entered the Underdark. The group quickly defeats a Barbed Devil, and proceed to an arena in the Lost City of Shurima.
+## [[Session 39 - Mora]]
+The group proceeds to an arena in the city to find Daphne and the Clotho Lachesis, which Gwyneth warns Martin not to mess with. They find an angel of Gal Troxic hanging Daphne over a pit, but Brewster saves her, and the group are able to fend off the angel. After this, Daphne looks through the Clotho Lachesis, identifying various artifacts, and causing the group to realize that Moiloc is nearby, as well as Ulysses's gun. Brewster and Daphne have a fight, and she mentions that Brewster has a daughter. Mora arrives, with Charlotte, and Brewster and Tobias's daughters, transforming them into her avatars and having them attack. Mora brings Ulysses's gun to taunt the party, but they are able to retrieve it and kill her. Vulcan takes Charlotte to safety, and collects Bushido after Martin disappears.
+## [[Session 40 - Reunited]]
+Vulcan escapes the mines with Brewster.

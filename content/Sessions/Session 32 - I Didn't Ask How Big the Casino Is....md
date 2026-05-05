@@ -1,3 +1,9 @@
+---
+tags:
+  - session
+date: 2026-08-02
+---
+
 |        Previous Session         |               Next Session                |
 | :-----------------------------: | :---------------------------------------: |
 | [[Session 31 - Fourteen Rings]] | [[Session 33 - I Want To See a Mushroom]] |
