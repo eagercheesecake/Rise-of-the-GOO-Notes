@@ -11,10 +11,11 @@ How long each city takes to be destroyed after being first visited by the party:
 |   Whitehall   |       1.5 days       |
 
 And here's a timeline of the story so far... visualized by how often the party is split.
-<a href="timeline.png" target="_blank" rel="noopener noreferrer">  
+<a href="/static/images/timeline.png" target="_blank" rel="noopener noreferrer">  
 Open full image  
 </a>
 <div style="overflow-x: auto; overflow-y: hidden; -webkit-overflow-scrolling: touch; white-space: nowrap; border: 1px solid #444; padding: 1rem;">  
-<img src="timeline.png" style="max-width: none; height: 600;">  
+<img src="/static/images/timeline.png" style="max-width: none; height: 600;">  
 </div>
 
+Note: the image above only works on the web, it doesn't work in my editing software. If it is ever broken, please let me know so I can look into it.
