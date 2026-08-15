@@ -11,18 +11,18 @@ Mora is Branwyn's mother figure from her childhood, using her as a vessel for he
 | [[Branwyn of Coryphea\|Branwyn]] |  Vessel  |
 |            [[Maokai]]            |  Patron  |
 
-| Session |  Status   | Session |  Status   | Session |  Status   | Session |  Status   |
-| :-----: | :-------: | :-----: | :-------: | :-----: | :-------: | :-----: | :-------: |
-|         |           |   11    | Mentioned |   21    |  Absent   |   31    |  Absent   |
-|         |           |   12    | Mentioned |   22    | Appeared  |   32    | Mentioned |
-|         |           |   13    | Mentioned |   23    | Mentioned |   33    |  Absent   |
-|         |           |   14    |  Absent   |   24    |  Absent   |   34    | Mentioned |
-|    5    | Mentioned |   15    | Mentioned |   25    | Appeared  |   35    | Mentioned |
-|    6    | Mentioned |   16    | Mentioned |   26    |  Absent   |   36    | Mentioned |
-|    7    | Mentioned |   17    | Appeared  |   27    | Mentioned |   37    | Mentioned |
-|    8    | Mentioned |   18    | Appeared  |   28    | Appeared  |   38    | Appeared  |
-|    9    | Mentioned |   19    | Mentioned |   29    |  Absent   |   39    | Appeared  |
-|   10    |  Absent   |   20    | Appeared  |   30    |  Absent   |   40    | Mentioned |
+| Session | Status | Session | Status | Session | Status | Session | Status | Session | Status |
+| :-----: | :----: | :-----: | :----: | :-----: | :----: | :-----: | :----: | :-----: | :----: |
+|         |        |   11    |   ❕    |   21    |   ✖️   |   31    |   ✖️   |   41    |   ❕    |
+|         |        |   12    |   ❕    |   22    |   ⭕    |   32    |   ❕    |         |        |
+|         |        |   13    |   ❕    |   23    |   ❕    |   33    |   ✖️   |         |        |
+|         |        |   14    |   ✖️   |   24    |   ✖️   |   34    |   ❕    |         |        |
+|    5    |   ❕    |   15    |   ❕    |   25    |   ⭕    |   35    |   ❕    |         |        |
+|    6    |   ❕    |   16    |   ❕    |   26    |   ✖️   |   36    |   ❕    |         |        |
+|    7    |   ❕    |   17    |   ⭕    |   27    |   ❕    |   37    |   ❕    |         |        |
+|    8    |   ❕    |   18    |   ⭕    |   28    |   ⭕    |   38    |   ⭕    |         |        |
+|    9    |   ❕    |   19    |   ❕    |   29    |   ✖️   |   39    |   ⭕    |         |        |
+|   10    |   ✖️   |   20    |   ⭕    |   30    |   ✖️   |   40    |   ❕    |         |        |
 ## [[Session 05 - Can't Be Worse Than Here]]
 In [[Monty MacMasters|Monty's]] office, Branwyn finds notes on Mora beginning her move across Phaeros.
 ## [[Session 06 - Cult Pamphlets]]
@@ -79,3 +79,5 @@ Mora is seen in the Whitehall mines descending to the lower levels with [[Azura]
 The group proceeds to an arena in the city to find Daphne and the Clotho Lachesis, which Gwyneth warns Martin not to mess with. They find an angel of Gal Troxic hanging Daphne over a pit, but Brewster saves her, and the group are able to fend off the angel. After this, Daphne looks through the Clotho Lachesis, identifying various artifacts, and causing the group to realize that Moiloc is nearby, as well as Ulysses's gun. Brewster and Daphne have a fight, and she mentions that Brewster has a daughter. Mora arrives, with Charlotte, and Brewster and Tobias's daughters, transforming them into her avatars and having them attack. Mora brings Ulysses's gun to taunt the party, but they are able to retrieve it and kill her.
 ## [[Session 40 - Reunited]]
 When Galen finds Gwyneth's body, it becomes clear that Mora killed her, as her body is impaled by thorns. Galen continues to track down Mora, passing a sacrificial pedestal that confirms that Mora drained the blood of a child to enter the Lost City of Shurima.
+## [[Session 41 - Underage Drinking]]
+Vulcan says his people may be able to help Branwyn find the other children of Mora. Branwyn promises Goro and Daphne that she will search for a way to dispel Mora's curse on the children. Branwyn talks to Tobias, trying to learn what happened to his daughter, hoping it could lead to more information on her own upbringing. He says he believes Mora could only claim children if they are given to her as a gift from a guardian, and thinks his father gave his daughter to Mora to gain power in Whitehall.

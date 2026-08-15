@@ -7,18 +7,18 @@ Daphne is a dwarf who worked with Brewster in the slave labor camps in the mines
 | :----------------------------------: | :------: |
 | [[Lothar (Brewster) Nash\|Brewster]] |  Friend  |
 
-| Session |  Status   | Session |  Status   | Session |  Status   |
-| :-----: | :-------: | :-----: | :-------: | :-----: | :-------: |
-|         |           |   21    |  Absent   |   31    |  Absent   |
-|   12    | Mentioned |   22    | Mentioned |   32    |  Absent   |
-|   13    | Mentioned |   23    |  Absent   |   33    | Mentioned |
-|   14    |  Absent   |   24    |  Absent   |   34    |  Absent   |
-|   15    | Mentioned |   25    | Appeared  |   35    | Mentioned |
-|   16    |  Absent   |   26    |  Absent   |   36    | Mentioned |
-|   17    |  Absent   |   27    |  Absent   |   37    | Mentioned |
-|   18    |  Absent   |   28    |  Absent   |   38    | Mentioned |
-|   19    |  Absent   |   29    |  Absent   |   39    | Appeared  |
-|   20    |  Absent   |   30    |  Absent   |   40    | Appeared  |
+| Session | Status | Session | Status | Session | Status | Session | Status |
+| :-----: | :----: | :-----: | :----: | :-----: | :----: | :-----: | :----: |
+|         |        |   21    |   ✖️   |   31    |   ✖️   |   41    |   ⭕    |
+|   12    |   ❕    |   22    |   ❕    |   32    |   ✖️   |         |        |
+|   13    |   ❕    |   23    |   ✖️   |   33    |   ❕    |         |        |
+|   14    |   ✖️   |   24    |   ✖️   |   34    |   ✖️   |         |        |
+|   15    |   ❕    |   25    |   ⭕    |   35    |   ❕    |         |        |
+|   16    |   ✖️   |   26    |   ✖️   |   36    |   ❕    |         |        |
+|   17    |   ✖️   |   27    |   ✖️   |   37    |   ❕    |         |        |
+|   18    |   ✖️   |   28    |   ✖️   |   38    |   ❕    |         |        |
+|   19    |   ✖️   |   29    |   ✖️   |   39    |   ⭕    |         |        |
+|   20    |   ✖️   |   30    |   ✖️   |   40    |   ⭕    |         |        |
 ## [[Session 12 - Branwyn's Bad Day]]
 After finding a body that looks exactly like [[Branwyn of Coryphea|Branwyn]] as a child, [[Lothar (Brewster) Nash|Brewster]] mentions that Daphne might be able to identify how that is possible. She should be able to confirm if the body really is the same as Branwyn if they take something to identify the body by.
 ## [[Session 13 - Martha Is My Middle Name]]
@@ -45,3 +45,5 @@ The group searches the body of a dead Inquisitor guard, and finds that they had 
 The group proceeds to an arena in the city to find Daphne and the Clotho Lachesis, which Gwyneth warns Martin not to mess with. They find an angel of Gal Troxic hanging Daphne over a pit, but Brewster saves her, and the group are able to fend off the angel. After this, Daphne looks through the Clotho Lachesis, identifying various artifacts, and causing the group to realize that Moiloc is nearby, as well as Ulysses's gun. Brewster and Daphne have a fight, and she mentions that Brewster has a daughter. Mora arrives, with Charlotte, and Brewster and Tobias's daughters, transforming them into her avatars and having them attack. Mora brings Ulysses's gun to taunt the party, but they are able to retrieve it and kill her.
 ## [[Session 40 - Reunited]]
 Daphne escapes the mines with Brewster.
+## [[Session 41 - Underage Drinking]]
+Branwyn convinces Brewster to talk with Daphne before leaving the party to tell her of Callia's predicament with the remaining curse from Mora.

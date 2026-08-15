@@ -14,18 +14,18 @@ Branwyn is an half-elf ranger woman, and child of Mora, originally coming from C
 |       [[Mora\|Mora]]        |  Mother  |
 |        [[Charlotte]]        |   Ward   |
 
-|  Session   |  Status  |  Session   |  Status  |  Session   |  Status  | Session |  Status  |
-| :--------: | :------: | :--------: | :------: | :--------: | :------: | :-----: | :------: |
-| Session 1  | Appeared | Session 11 | Appeared | Session 21 | Appeared |   31    | Appeared |
-| Session 2  | Appeared | Session 12 | Appeared | Session 22 | Appeared |   32    | Appeared |
-| Session 3  | Appeared | Session 13 | Appeared | Session 23 | Appeared |   33    | Appeared |
-| Session 4  | Appeared | Session 14 | Appeared | Session 24 | Appeared |   34    | Appeared |
-| Session 5  | Appeared | Session 15 | Appeared | Session 25 | Appeared |   35    | Appeared |
-| Session 6  | Appeared | Session 16 | Appeared | Session 26 | Appeared |   36    | Appeared |
-| Session 7  | Appeared | Session 17 | Appeared | Session 27 | Appeared |   37    | Appeared |
-| Session 8  | Appeared | Session 18 | Appeared | Session 28 | Appeared |         |          |
-| Session 9  | Appeared | Session 19 | Appeared | Session 29 | Appeared |         |          |
-| Session 10 | Appeared | Session 20 | Appeared | Session 30 | Appeared |         |          |
+| Session | Status | Session | Status | Session | Status | Session | Status | Session | Status |
+| :-----: | :----: | :-----: | :----: | :-----: | :----: | :-----: | :----: | :-------: | :----: |
+|    1    |   ⭕    |   11    |   ⭕    |   21    |   ⭕    |   31    |   ⭕    | 41      |   ⭕    |
+|    2    |   ⭕    |   12    |   ⭕    |   22    |   ⭕    |   32    |   ⭕    | 42      |   ⭕    |
+|    3    |   ⭕    |   13    |   ⭕    |   23    |   ⭕    |   33    |   ⭕    |         |        |
+|    4    |   ⭕    |   14    |   ⭕    |   24    |   ⭕    |   34    |   ⭕    |         |        |
+|    5    |   ⭕    |   15    |   ⭕    |   25    |   ⭕    |   35    |   ⭕    |         |        |
+|    6    |   ⭕    |   16    |   ⭕    |   26    |   ⭕    |   36    |   ⭕    |         |        |
+|    7    |   ⭕    |   17    |   ⭕    |   27    |   ⭕    |   37    |   ⭕    |         |        |
+|    8    |   ⭕    |   18    |   ⭕    |   28    |   ⭕    |   38    |   ⭕    |         |        |
+|    9    |   ⭕    |   19    |   ⭕    |   29    |   ⭕    |   39    |   ⭕    |         |        |
+|   10    |   ⭕    |   20    |   ⭕    |   30    |   ⭕    |   40    |   ⭕    |         |        |
 ## [[Session 01 - Piss Grandma]]
 Branwyn finds [[Monty's Son]] on the streets of Montrissad, who points her to Monty to sell her cloak. On her way to Monty's, she is attacked by a teenage thief, and knocks him out, leaving him some gold as an apology. Monty tries to rip her off in the sale, but fails, and instead offers to sponsor her in the Games. Branwyn shows the letter to [[Jim MacMasters|Jim]] at the inn and gets a room.
 
@@ -180,3 +180,7 @@ The group proceeds to the lower levels of the mines. On the way, they learn the 
 The group proceeds to an arena in the city to find Daphne and the Clotho Lachesis, which Gwyneth warns Martin not to mess with. They find an angel of Gal Troxic hanging Daphne over a pit, but Brewster saves her, and the group are able to fend off the angel. After this, Daphne looks through the Clotho Lachesis, identifying various artifacts, and causing the group to realize that Moiloc is nearby, as well as Ulysses's gun. Brewster and Daphne have a fight, and she mentions that Brewster has a daughter. Mora arrives, with Charlotte, and Brewster and Tobias's daughters, transforming them into her avatars and having them attack. Mora brings Ulysses's gun to taunt the party, but they are able to retrieve it and kill her, Branwyn getting to pull the trigger. Brewster attempts to reunite with Daphne at Brewster's suggestion, but it doesn't go well.
 ## [[Session 40 - Reunited]]
 Branwyn refuses to leave Moiloc behind, and leaves the others to row back to the cathedral and help her. As she arrives, corpse flayers begin to fall from the ceiling as Olidamuru begins to appear and be contained. Once the ritual is complete, Shurima gains Eru's powers. Moiloc says she will join the others if they choose to fight against Shurima, but asks if they are ready to die trying. They decide to run, but Moiloc decides to continue to worship Shurima, and kneels down to pray, but is crushed by a falling chunk of the ceiling.
+## [[Session 41 - Underage Drinking]]
+Branwyn fills Goro and Daphne in on the lasting effects of Mora's magic. The pair offer to watch over the children while the Branwyn and the others look for a way to track down the other children of Mora and dispel the magic. Branwyn talks to Tobias, trying to learn what happened to his daughter, hoping it could lead to more information on her own upbringing. When Branwyn is talking about her mother, Tobias recognizes a turn of phrase her father used to use, and says it refers to a wood elf, but finds it odd, since the Sootspots are the only elves left. He implies she could have been a nymph or dryad. The smaller group leave to return to Velbrass.
+## [[Session 42 - Allegiances]]
+The group arrive at the Cat's Paw and enter their old room. Branwyn casts Alarm on the door. Soon after, this alarm is tripped by Janos and Moiloc. Branwyn and Moiloc have a confrontation, with Branwyn no longer trusting that Moiloc's allegiance with Shurima is over.

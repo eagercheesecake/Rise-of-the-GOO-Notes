@@ -7,23 +7,24 @@ Olidamuru is a god worshipped by the Cult of Miasma. He is the god of revelry an
 - **Cause of Death:** Merged with Shurima
 - **Time of Death:** Session 40
 
-|        Character        |  Relation  |
-| :---------------------: | :--------: |
-| [[Lexar Bellos\|Lexar]] | Chosen One |
-|        [[Jiren]]        |  Servant   |
+|              Character               |  Relation  |
+| :----------------------------------: | :--------: |
+|       [[Lexar Bellos\|Lexar]]        | Chosen One |
+|              [[Jiren]]               |  Servant   |
+| [[Shurima the Corpsemaker\|Shurima]] | Split Half |
 
-| Session |  Status   | Session |  Status   | Session |  Status   | Session |  Status   |
-| :-----: | :-------: | :-----: | :-------: | :-----: | :-------: | :-----: | :-------: |
-|         |           |   11    |  Absent   |   21    |  Absent   |   31    |  Absent   |
-|         |           |   12    |  Absent   |   22    |  Absent   |   32    | Mentioned |
-|         |           |   13    |  Absent   |   23    | Mentioned |   33    |  Absent   |
-|         |           |   14    |  Absent   |   24    |  Absent   |   34    |  Absent   |
-|         |           |   15    |  Absent   |   25    |  Absent   |   35    |  Absent   |
-|    6    | Mentioned |   16    |  Absent   |   26    |  Absent   |   36    |  Absent   |
-|    7    | Mentioned |   17    | Appeared  |   27    |  Absent   |   37    |  Absent   |
-|    8    | Mentioned |   18    | Appeared  |   28    |  Absent   |   38    | Mentioned |
-|    9    |  Absent   |   19    |  Absent   |   29    |  Absent   |   39    |  Absent   |
-|   10    |  Absent   |   20    | Mentioned |   30    |  Absent   |   40    | Appeared  |
+| Session | Status | Session | Status | Session | Status | Session | Status | Session | Status |
+| :-----: | :----: | :-----: | :----: | :-----: | :----: | :-----: | :----: | :-----: | :----: |
+|         |        |   11    |   ✖️   |   21    |   ✖️   |   31    |   ✖️   |   41    |   ❕    |
+|         |        |   12    |   ✖️   |   22    |   ✖️   |   32    |   ❕    |   42    |   ❕    |
+|         |        |   13    |   ✖️   |   23    |   ❕    |   33    |   ✖️   |         |        |
+|         |        |   14    |   ✖️   |   24    |   ✖️   |   34    |   ✖️   |         |        |
+|         |        |   15    |   ✖️   |   25    |   ✖️   |   35    |   ✖️   |         |        |
+|    6    |   ❕    |   16    |   ✖️   |   26    |   ✖️   |   36    |   ✖️   |         |        |
+|    7    |   ❕    |   17    |   ⭕    |   27    |   ✖️   |   37    |   ✖️   |         |        |
+|    8    |   ❕    |   18    |   ⭕    |   28    |   ✖️   |   38    |   ❕    |         |        |
+|    9    |   ✖️   |   19    |   ✖️   |   29    |   ✖️   |   39    |   ✖️   |         |        |
+|   10    |   ✖️   |   20    |   ❕    |   30    |   ✖️   |   40    |   ⭕    |         |        |
 ## [[Session 06 - Cult Pamphlets]]
 [[Lexar Bellos|Lexar]] prays to Olidamuru, who shows him a glowing orb which leads him to the nearby chapel.
 ## [[Session 07 - Shuffleboard]]
@@ -44,3 +45,7 @@ Olidamuru seems to still have his mausoleum staffed by one hadozee after Shurima
 Shurima confesses to Moiloc that he was once a slave to the country of Shurima, until he killed Eru and tried to take her powers. However, his body couldn't contain these powers, and his evil impulses split from him to form Olidamuru. He hopes to unite these halves, control Eru's powers, and take over, merging the planes. Moiloc takes on the next trial while Shurima begins preparations.
 ## [[Session 40 - Reunited]]
 A knight of Gal Troxic attacks Moiloc to prevent Shurima's reunion with Olidamuru. The group is able to defeat him. Corpse flayers begin to fall from the ceiling as Olidamuru begins to appear and be contained. Once the ritual is complete, Shurima gains Eru's powers. Moiloc says she will join the others if they choose to fight against Shurima, but asks if they are ready to die trying. They decide to run, but Moiloc decides to continue to worship Shurima, and kneels down to pray, but is crushed by a falling chunk of the ceiling.
+## [[Session 41 - Underage Drinking]]
+Shurima is unstable after absorbing Olidamuru, and tells Moiloc that Olidamuru created an artifact, the Chaos Emerald, and Shurima cannot control him fully while it exists. He tasks Moiloc with finding the artifact.
+## [[Session 42 - Allegiances]]
+Janos confesses while introducing himself that he was the prior owner of the Chaos Emerald, but has lost track of it since Olidamuru's revival. The artifact was taken by Olidamuru while Janos was playing a game with him. Janos won the game, and Olidamuru granted him with a boon that protects him from the effects of chaos.

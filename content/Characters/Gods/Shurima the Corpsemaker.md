@@ -9,22 +9,24 @@ Shurima the Corpsemaker is a powerful old man, worshipped by Moiloc. He is the g
 - **First Seen:** Session 1
 - **Status:** Alive
 
-|            Character             | Relation |
-| :------------------------------: | :------: |
-| [[Moiloc Kodlaksdottër\|Moiloc]] |  Avatar  |
+|            Character             |  Relation  |
+| :------------------------------: | :--------: |
+| [[Moiloc Kodlaksdottër\|Moiloc]] |   Avatar   |
+|           [[Reptile]]            |  Servant   |
+|          [[Olidamuru]]           | Split Half |
 
-|                    Session                    |  Status   |                     Session                     |  Status   |                    Session                    |  Status   |                          Session                           |  Status   |
-| :-------------------------------------------: | :-------: | :---------------------------------------------: | :-------: | :-------------------------------------------: | :-------: | :--------------------------------------------------------: | :-------: |
-|       [[#Session 01 - Piss Grandma\|1]]       | Appeared  | [[#Session 11 - The Party Loses a Corpse\|11]]  | Appeared  |     [[#Session 21 - The Party Dies\|21]]      | Mentioned |                    [[#Session 31\|31]]                     | Appeared  |
-| [[#Session 02 - Teddy and the Roosevelts\|2]] | Mentioned |     [[#Session 12 - Branwyn's Bad Day\|12]]     | Mentioned |       [[#Session 22 - The B Team\|22]]        |  Absent   | [[Session 32 - I Didn't Ask How Big the Casino Is...\|32]] | Appeared  |
-|   [[#Session 03 - Sorry For Your Loss\|3]]    | Appeared  | [[#Session 13 - Martha Is My Middle Name\|13]]  |  Absent   |   [[#Session 23 - Sootspot Intuition\|23]]    | Mentioned |                             33                             |  Absent   |
-|   [[#Session 04 - Sincerely, Gertrude\|4]]    |  Absent   | [[#Session 14 - Gwyneth's Personal Diary\|14]]  |  Absent   |    [[#Session 24 - Charlotte's Back!\|24]]    | Mentioned |                             34                             |  Absent   |
-| [[#Session 05 - Can't Be Worse Than Here\|5]] |  Absent   |         [[#Session 15 - Gray Boys\|15]]         | Mentioned |    [[#Session 25 - I Know an Archer\|25]]     |  Absent   |                             35                             | Appeared  |
-|      [[#Session 06 - Cult Pamphlets\|6]]      | Mentioned |     [[#Session 16 - Killing a Mailman\|16]]     |  Absent   |        [[#Session 26 - Rocks Box\|26]]        |  Absent   |                             36                             | Mentioned |
-|       [[#Session 07 - Shuffleboard\|7]]       | Mentioned |    [[#Session 17 - Respect These Nuts\|17]]     | Mentioned |      [[#Session 27 - Free Stoners\|27]]       | Appeared  |                             37                             | Appeared  |
-|   [[#Session 08 - Religious Conversion\|8]]   | Mentioned |   [[#Session 18 - What Would Branwyn Do\|18]]   | Appeared  | [[#Session 28 - Making a Plan (Finally)\|28]] |  Absent   |                             38                             | Appeared  |
-|   [[#Session 09 - The Man or the Bears\|9]]   |  Absent   | [[#Session 19 - Inspiration (Desperation)\|19]] |  Absent   |       [[#Session 29 - Infighting\|29]]        | Mentioned |                             39                             |  Absent   |
-|  [[#Session 10 - Strategic Milk Bucket\|10]]  | Mentioned |       [[#Session 20 - Stabbing Her\|20]]        |  Absent   |       [[#Session 30 - Discretion\|30]]        | Mentioned |                             40                             | Appeared  |
+|                    Session                    | Status |                     Session                     | Status |                    Session                    | Status |                          Session                           | Status | Session | Status |
+| :-------------------------------------------: | :----: | :---------------------------------------------: | :----: | :-------------------------------------------: | :----: | :--------------------------------------------------------: | :----: | :-----: | :----: |
+|       [[#Session 01 - Piss Grandma\|1]]       |   ⭕    | [[#Session 11 - The Party Loses a Corpse\|11]]  |   ⭕    |     [[#Session 21 - The Party Dies\|21]]      |   ❕    |                    [[#Session 31\|31]]                     |   ⭕    |   41    |   ⭕    |
+| [[#Session 02 - Teddy and the Roosevelts\|2]] |   ❕    |     [[#Session 12 - Branwyn's Bad Day\|12]]     |   ❕    |       [[#Session 22 - The B Team\|22]]        |   ✖️   | [[Session 32 - I Didn't Ask How Big the Casino Is...\|32]] |   ⭕    |         |        |
+|   [[#Session 03 - Sorry For Your Loss\|3]]    |   ⭕    | [[#Session 13 - Martha Is My Middle Name\|13]]  |   ✖️   |   [[#Session 23 - Sootspot Intuition\|23]]    |   ❕    |                             33                             |   ✖️   |         |        |
+|   [[#Session 04 - Sincerely, Gertrude\|4]]    |   ✖️   | [[#Session 14 - Gwyneth's Personal Diary\|14]]  |   ✖️   |    [[#Session 24 - Charlotte's Back!\|24]]    |   ❕    |                             34                             |   ✖️   |         |        |
+| [[#Session 05 - Can't Be Worse Than Here\|5]] |   ✖️   |         [[#Session 15 - Gray Boys\|15]]         |   ❕    |    [[#Session 25 - I Know an Archer\|25]]     |   ✖️   |                             35                             |   ⭕    |         |        |
+|      [[#Session 06 - Cult Pamphlets\|6]]      |   ❕    |     [[#Session 16 - Killing a Mailman\|16]]     |   ✖️   |        [[#Session 26 - Rocks Box\|26]]        |   ✖️   |                             36                             |   ❕    |         |        |
+|       [[#Session 07 - Shuffleboard\|7]]       |   ❕    |    [[#Session 17 - Respect These Nuts\|17]]     |   ❕    |      [[#Session 27 - Free Stoners\|27]]       |   ⭕    |                             37                             |   ⭕    |         |        |
+|   [[#Session 08 - Religious Conversion\|8]]   |   ❕    |   [[#Session 18 - What Would Branwyn Do\|18]]   |   ⭕    | [[#Session 28 - Making a Plan (Finally)\|28]] |   ✖️   |                             38                             |   ⭕    |         |        |
+|   [[#Session 09 - The Man or the Bears\|9]]   |   ✖️   | [[#Session 19 - Inspiration (Desperation)\|19]] |   ✖️   |       [[#Session 29 - Infighting\|29]]        |   ❕    |                             39                             |   ✖️   |         |        |
+|  [[#Session 10 - Strategic Milk Bucket\|10]]  |   ❕    |       [[#Session 20 - Stabbing Her\|20]]        |   ✖️   |       [[#Session 30 - Discretion\|30]]        |   ❕    |                             40                             |   ⭕    |         |        |
 
 ## [[Session 01 - Piss Grandma]]
 Moiloc follows Shurima into an alley where she finds a murdered priest. The next day, [[Gertrude Spugel|Gertrude]] questions him about a piece of paper he has, but he refuses to tell her what it is.
@@ -86,3 +88,5 @@ Shurima confesses to Moiloc that he was once a slave to the country of Shurima, 
 Shurima summons Goro, Nissa, Holliday, and Ishtar to help Moiloc fight Mephistopheles the Bard and some demons. They are able to defeat the demons, but Shurima warns that more opponents are coming, summoning Reptile and Tobias to assist Moiloc. Moiloc also asks him to summon Vernan Grande so they can separate him from his guards and kill him, but when he is summoned, Tobias had already tracked him down and had him in hand, killing Vernan on the spot.
 ## [[Session 40 - Reunited]]
 Moiloc guards Shurima while he finishes the ritual to merge with Olidamuru. A knight of Gal Troxic attacks Moiloc to prevent Shurima's reunion with Olidamuru. The group is able to defeat him. Corpse flayers begin to fall from the ceiling as Olidamuru begins to appear and be contained. Once the ritual is complete, Shurima gains Eru's powers. Moiloc says she will join the others if they choose to fight against Shurima, but asks if they are ready to die trying. They decide to run, but Moiloc decides to continue to worship Shurima, and kneels down to pray, but is crushed by a falling chunk of the ceiling.
+## [[Session 41 - Underage Drinking]]
+Moiloc and Reptile wake up in Shurima's throne room, where Shurima is barely stable. He says he is unable to fully control Olidamuru, as Olidamuru had created an artifact, the Chaos Emerald which would need to be absorbed as well. Shurima tasks Moiloc with finding this artifact, and says he has another task for Reptile. He promises to award Moiloc with the ability to save her home from Sekollah if she complies.

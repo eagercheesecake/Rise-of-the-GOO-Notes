@@ -10,23 +10,23 @@ Brewster is a rock gnome who joined the Wallachian Resistance after being freed 
 - **First Seen:** Session 10
 - **Status:** Alive
 
-|      Character      | Relation |
-| :-----------------: | :------: |
-|     [[Daphne]]      |  Friend  |
-| [[Puck Nash\|Puck]] | Servant  |
+|      Character      |  Relation  |
+| :-----------------: | :--------: |
+|     [[Daphne]]      |   Friend   |
+| [[Puck Nash\|Puck]] | Homunculus |
 
-| Session |  Status  |  Session   |  Status  |  Session   |  Status  | Session |  Status  |
-| :-----: | :------: | :--------: | :------: | :--------: | :------: | :-----: | :------: |
-|         |          | Session 11 | Appeared | Session 21 | Appeared |   31    | Appeared |
-|         |          | Session 12 | Appeared | Session 22 | Appeared |   32    | Appeared |
-|         |          | Session 13 | Appeared | Session 23 | Appeared |   33    | Appeared |
-|         |          | Session 14 | Appeared | Session 24 | Appeared |   34    | Appeared |
-|         |          | Session 15 | Appeared | Session 25 | Appeared |   35    | Appeared |
-|         |          | Session 16 | Appeared | Session 26 | Appeared |   36    | Appeared |
-|         |          | Session 17 | Appeared | Session 27 | Appeared |   37    | Appeared |
-|         |          | Session 18 | Appeared | Session 28 | Appeared |   38    | Appeared |
-|         |          | Session 19 | Appeared | Session 29 | Appeared |   39    | Appeared |
-|   10    | Appeared | Session 20 | Appeared | Session 30 | Appeared |   40    | Appeared |
+| Session | Status | Session | Status | Session | Status | Session | Status | Session | Status |
+| :-----: | :----: | :-----: | :----: | :-----: | :----: | :-----: | :----: | :-----: | :----: |
+|         |        |   11    |   ⭕    |   21    |   ⭕    |   31    |   ⭕    |   41    |   ⭕    |
+|         |        |   12    |   ⭕    |   22    |   ⭕    |   32    |   ⭕    |         |        |
+|         |        |   13    |   ⭕    |   23    |   ⭕    |   33    |   ⭕    |         |        |
+|         |        |   14    |   ⭕    |   24    |   ⭕    |   34    |   ⭕    |         |        |
+|         |        |   15    |   ⭕    |   25    |   ⭕    |   35    |   ⭕    |         |        |
+|         |        |   16    |   ⭕    |   26    |   ⭕    |   36    |   ⭕    |         |        |
+|         |        |   17    |   ⭕    |   27    |   ⭕    |   37    |   ⭕    |         |        |
+|         |        |   18    |   ⭕    |   28    |   ⭕    |   38    |   ⭕    |         |        |
+|         |        |   19    |   ⭕    |   29    |   ⭕    |   39    |   ⭕    |         |        |
+|   10    |   ⭕    |   20    |   ⭕    |   30    |   ⭕    |   40    |   ⭕    |         |        |
 ## [[Session 10 - Strategic Milk Bucket]]
 Brewster meets [[Branwyn of Coryphea|Branwyn]] and [[Moiloc Kodlaksdottër|Moiloc]] when they come to learn about his study on ydril. He mends Moiloc's tattered armor, and she immediately goes into a long-winded story about how she lost her old armor. Brewster says his entire family was enslaved, so he doesn't have much pity for her. He also identifies Branwyn's ring as having some sort of warding magic on it, and identifies Moiloc's behelit as a key that responds to some phrase. He asks where she got the behelit, and she tells him about [[Shurima the Corpsemaker|Shurima]]. Brewster mentions that Shurima used to be a country until it was destroyed 400-500 years ago. Brewster makes her promise to tell him if anything else happens with Shurima, since this piques his interest.
 
@@ -134,4 +134,6 @@ Brewster and Lucretia study the elevator to find the other passwords, and are ca
 ## [[Session 39 - Mora]]
 The group proceeds to an arena in the city to find Daphne and the Clotho Lachesis, which Gwyneth warns Martin not to mess with. They find an angel of Gal Troxic hanging Daphne over a pit, but Brewster saves her, and the group are able to fend off the angel. After this, Daphne looks through the Clotho Lachesis, identifying various artifacts, and causing the group to realize that Moiloc is nearby, as well as Ulysses's gun. Brewster and Daphne have a fight, and she mentions that Brewster has a daughter. Mora arrives, with Charlotte, and Brewster and Tobias's daughters, transforming them into her avatars and having them attack. Mora brings Ulysses's gun to taunt the party, but they are able to retrieve it and kill her. Brewster attempts to reunite with Daphne at Brewster's suggestion, but it doesn't go well.
 ## [[Session 40 - Reunited]]
-Brewster refuses to return to save Moiloc with Branwyn.
+Brewster refuses to return to save Moiloc with Branwyn. He helps the others escape the cave.
+## [[Session 41 - Underage Drinking]]
+When Branwyn talks to him about following Vulkan to help the children of Mora, Brewster finally decides to leave the party, claiming his goal was always to save his other slaves, which is clearly incompatible with the party's future goals, and still an incomplete task. Branwyn convinces him to talk to Daphne. She doesn't want to talk, so Branwyn explains the situation to her instead. Brewster gives Tarren King Endrio's cloak and asks if he will join him in helping the slaves. Tarren agrees, and Nissa offers to join as well.

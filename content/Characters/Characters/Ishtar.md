@@ -7,18 +7,18 @@ Ishtar is a cleric working with the Lyceum, who joins the party on their way to 
 |   [[Nissa]]    |  Sister  |
 | [[Sultan Anu]] |  Father  |
 
-| Session |  Status  | Session |  Status   |
-| :-----: | :------: | :-----: | :-------: |
-|         |          |   31    | Appeared  |
-|         |          |   32    | Appeared  |
-|         |          |   33    | Appeared  |
-|         |          |   34    | Appeared  |
-|         |          |   35    | Appeared  |
-|         |          |   36    | Appeared  |
-|         |          |   37    | Appeared  |
-|         |          |   38    | Appeared  |
-|         |          |   39    | Mentioned |
-|   30    | Appeared |   40    | Appeared  |
+| Session | Status | Session | Status | Session | Status |
+| :-----: | :----: | :-----: | :----: | :-----: | :----: |
+|         |        |   31    |   ⭕    |   41    |   ⭕    |
+|         |        |   32    |   ⭕    |   42    |   ⭕    |
+|         |        |   33    |   ⭕    |         |        |
+|         |        |   34    |   ⭕    |         |        |
+|         |        |   35    |   ⭕    |         |        |
+|         |        |   36    |   ⭕    |         |        |
+|         |        |   37    |   ⭕    |         |        |
+|         |        |   38    |   ⭕    |         |        |
+|         |        |   39    |   ❕    |         |        |
+|   30    |   ⭕    |   40    |   ⭕    |         |        |
 ## [[Session 30 - Discretion]]
 [[Martin Sootspot|Martin]], [[Lothar (Brewster) Nash|Brewster]], [[Goro Hattori|Goro]], and [[Helen Berestova|Helen]] meet Ishtar while they are exploring the archaeological sites nearby the Lyceum. Ishtar is healing other wizards who were blown back after trying to break into the Tower of Erebus. Brewster asks her if she can heal Helen's tongue. Ishtar says she is unable to do so, but may know a cleric who can. Ishtar is able to realize that Brewster's story about being a merchant is a lie when he kills an orc who attacks them in the streets. Brewster explains their mission, and Ishtar requests to join them on their journey to Whitehall. Ishtar gets [[Hadrian|Hadrian's]] permission to leave town for the mission. He gives her a pendant, anointing her as a full cleric.
 ## [[Session 31 - Fourteen Rings]]
@@ -43,3 +43,7 @@ Shurima summons Goro, Nissa, Holliday, and Ishtar to help Moiloc fight Mephistop
 When reading the Clotho Lachesis, Daphne reveals that Ishtar is nearby.
 ## [[Session 40 - Reunited]]
 A knight of Gal Troxic attacks Moiloc to prevent Shurima's reunion with Olidamuru. The group is able to defeat him. Corpse flayers begin to fall from the ceiling as Olidamuru begins to appear and be contained. Once the ritual is complete, Shurima gains Eru's powers. Moiloc says she will join the others if they choose to fight against Shurima, but asks if they are ready to die trying. They decide to run, but Moiloc decides to continue to worship Shurima, and kneels down to pray, but is crushed by a falling chunk of the ceiling.
+## [[Session 41 - Underage Drinking]]
+Ishtar cooks giant eagle eggs for the party. The smaller group leave to return to Velbrass.
+## [[Session 42 - Allegiances]]
+The group arrive at the Cat's Paw and enter their old room. Branwyn casts Alarm on the door.

@@ -7,18 +7,18 @@ Reptile is a young lizardfolk, and former Whitehall slave. He began following Sh
 | :----------------------------------: | :------: |
 | [[Shurima the Corpsemaker\|Shurima]] |  Patron  |
 
-| Session |  Status  | Session |  Status  |
-| :-----: | :------: | :-----: | :------: |
-|         |          |   31    | Appeared |
-|         |          |   32    | Appeared |
-|         |          |   33    | Appeared |
-|         |          |   34    | Appeared |
-|         |          |   35    | Appeared |
-|         |          |   36    | Appeared |
-|         |          |   37    |  Absent  |
-|         |          |   38    | Appeared |
-|   29    | Appeared |   39    |  Absent  |
-|   30    | Appeared |   40    | Appeared |
+| Session | Status | Session | Status | Session | Status |
+| :-----: | :----: | :-----: | :----: | :-----: | :----: |
+|         |        |   31    |   ⭕    |   41    |   ⭕    |
+|         |        |   32    |   ⭕    |         |        |
+|         |        |   33    |   ⭕    |         |        |
+|         |        |   34    |   ⭕    |         |        |
+|         |        |   35    |   ⭕    |         |        |
+|         |        |   36    |   ⭕    |         |        |
+|         |        |   37    |   ✖️   |         |        |
+|         |        |   38    |   ⭕    |         |        |
+|   29    |   ⭕    |   39    |   ✖️   |         |        |
+|   30    |   ⭕    |   40    |   ⭕    |         |        |
 ## [[Session 29 - Infighting]]
 [[Moiloc Kodlaksdottër|Moiloc]], [[Martin Sootspot|Martin]], [[Helen Berestova|Helen]], and [[Tarren Hammerfist|Tarren]] see Reptile stealing a gem from a jewel salesman.
 ## [[Session 30 - Discretion]]
@@ -39,3 +39,5 @@ Moiloc and her companions wake up from the explosion, explaining that Shurima sa
 Shurima summons Reptile to assist Moiloc in her final trial at the Cathedral of the Gods.
 ## [[Session 40 - Reunited]]
 A knight of Gal Troxic attacks Moiloc to prevent Shurima's reunion with Olidamuru. The group is able to defeat him. Corpse flayers begin to fall from the ceiling as Olidamuru begins to appear and be contained. Once the ritual is complete, Shurima gains Eru's powers. Moiloc says she will join the others if they choose to fight against Shurima, but asks if they are ready to die trying. They decide to run, but Moiloc decides to continue to worship Shurima, and kneels down to pray, but is crushed by a falling chunk of the ceiling.
+## [[Session 41 - Underage Drinking]]
+Reptile has been taken to Shurima's throne room. Moiloc asks if he can join her on her task to find the Chaos Emerald, but Shurima says Reptile has another task.

@@ -7,18 +7,18 @@ Tarren is a member of the Resistance in Dunn, and a contestant in the Montrissad
 | :----------------------------------: | :------: |
 | [[Lothar (Brewster) Nash\|Brewster]] |  Friend  |
 
-| Session |  Status   | Session |  Status   | Session |  Status   | Session |  Status  |
-| :-----: | :-------: | :-----: | :-------: | :-----: | :-------: | :-----: | :------: |
-|         |           |   11    |  Absent   |   21    |  Absent   |   31    | Appeared |
-|         |           |   12    |  Absent   |   22    | Mentioned |   32    | Appeared |
-|         |           |   13    |  Absent   |   23    |  Absent   |   33    | Appeared |
-|         |           |   14    |  Absent   |   24    |  Absent   |   34    | Appeared |
-|         |           |   15    | Mentioned |   25    |  Absent   |   35    | Appeared |
-|    6    | Appeared  |   16    |  Absent   |   26    |  Absent   |   36    | Appeared |
-|    7    | Appeared  |   17    | Appeared  |   27    | Appeared  |   37    | Appeared |
-|    8    | Appeared  |   18    | Appeared  |   28    | Appeared  |   38    | Appeared |
-|    9    | Appeared  |   19    |  Absent   |   29    | Appeared  |   39    | Appeared |
-|   10    | Mentioned |   20    | Mentioned |   30    | Appeared  |   40    | Appeared |
+| Session | Status | Session | Status | Session | Status | Session | Status | Session | Status |
+| :-----: | :----: | :-----: | :----: | :-----: | :----: | :-----: | :----: | :-----: | :----: |
+|         |        |   11    |   ✖️   |   21    |   ✖️   |   31    |   ⭕    |   41    |   ⭕    |
+|         |        |   12    |   ✖️   |   22    |   ❕    |   32    |   ⭕    |         |        |
+|         |        |   13    |   ✖️   |   23    |   ✖️   |   33    |   ⭕    |         |        |
+|         |        |   14    |   ✖️   |   24    |   ✖️   |   34    |   ⭕    |         |        |
+|         |        |   15    |   ❕    |   25    |   ✖️   |   35    |   ⭕    |         |        |
+|    6    |   ⭕    |   16    |   ✖️   |   26    |   ✖️   |   36    |   ⭕    |         |        |
+|    7    |   ⭕    |   17    |   ⭕    |   27    |   ⭕    |   37    |   ⭕    |         |        |
+|    8    |   ⭕    |   18    |   ⭕    |   28    |   ⭕    |   38    |   ⭕    |         |        |
+|    9    |   ⭕    |   19    |   ✖️   |   29    |   ⭕    |   39    |   ⭕    |         |        |
+|   10    |   ❕    |   20    |   ❕    |   30    |   ⭕    |   40    |   ⭕    |         |        |
 ## [[Session 06 - Cult Pamphlets]]
 [[Moiloc Kodlaksdottër|Moiloc]] finds Tarren and [[Belnades]] as they escape the attack at the pre-game feast. They escape through a hole in the wall of a hallway, and jump into the moat, escaping back to the streets of Montrissad.
 ## [[Session 07 - Shuffleboard]]
@@ -69,3 +69,5 @@ The group proceeds to the lower levels of the mines. On the way, they learn the 
 Tarren is present, but unconscious, for the fight with Mora.
 ## [[Session 40 - Reunited]]
 Tarren escapes the mines with Brewster.
+## [[Session 41 - Underage Drinking]]
+Brewster gives Tarren King Endrio's cloak and asks if he will join him in helping the slaves. Tarren agrees, and Nissa offers to join as well.

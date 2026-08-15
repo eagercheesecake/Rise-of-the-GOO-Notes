@@ -3,12 +3,14 @@ tags:
   - session
 date: 2026-04-04
 ---
-|   Previous Session    | Next Session |
-| :-------------------: | :----------: |
-| [[Session 39 - Mora]] |              |
+|   Previous Session    |            Next Session            |
+| :-------------------: | :--------------------------------: |
+| [[Session 39 - Mora]] | [[Session 41 - Underage Drinking]] |
 ### Logline
 *Moiloc completes the last of Shurima's trials.*
 ### Synopsis
+Moiloc and her crew defeat Cato, a knight of Gal Troxic, who claims that Shurima is going to destroy the world. Helen delivers a message to Galen telling of Gwyneth's location. They find her dying to Mora's vines in the Underdark, and take her journal. Galen joins Moiloc for her fight with corpse eaters, replacing Holliday, who is fleeing. Branwyn leaves to join Moiloc as well, leaving Brewster to lead the others out of the cave and to safety. Shurima finishes merging with Olidamuru, and the cave begins to crumble, crushing Moiloc and Reptile. Galen gives Styx a crown.
+
 # Day 63
 ### The Cathedral of the Gods
 A bright light descends from the heavens, landing by [[Moiloc Kodlaksdottër|Moiloc's]] group in the cathedral, to reveal a man in bright, white plate armor, with pushed-back blonde hair, and eyes glowing yellow. He is riding a unicorn. On the chest plate of his armor is the symbol of [[Gal Troxic]]. Moiloc asks him who he is. He materializes a spear, declaring he is Cato. Moiloc turns to [[Shurima the Corpsemaker|Shurima]], who is creating a swirling purple energy in the air above him. He seems healthier, younger, and more full of energy. He’s gaining strength, but it’s clearly exerting his energy. Moiloc turns back to Cato, who demands her attention. Moiloc says she isn’t here for him. Cato says a man of great power is behind her, and Moiloc inquisitively points to Shurima. Cato, already exhausted by this conversation, confirms, saying he has to stop Shurima’s cataclysm from destroying the world.

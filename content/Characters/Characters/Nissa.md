@@ -8,18 +8,18 @@ Nissa is a tabaxi monk. She is the adopted daughter of the sultan of Velbras, an
 |   [[Ishtar]]   |  Sister  |
 | [[Sultan Anu]] |  Father  |
 
-| Session |  Status  |
-| :-----: | :------: |
-|   31    | Appeared |
-|   32    | Appeared |
-|   33    | Appeared |
-|   34    | Appeared |
-|   35    | Appeared |
-|   36    | Appeared |
-|   37    |  Absent  |
-|   38    | Appeared |
-|   39    |  Absent  |
-|   40    | Appeared |
+| Session | Status | Session | Status |
+| :-----: | :----: | :-----: | :----: |
+|   31    |   ⭕    |   41    |   ⭕    |
+|   32    |   ⭕    |         |        |
+|   33    |   ⭕    |         |        |
+|   34    |   ⭕    |         |        |
+|   35    |   ⭕    |         |        |
+|   36    |   ⭕    |         |        |
+|   37    |   ✖️   |         |        |
+|   38    |   ⭕    |         |        |
+|   39    |   ✖️   |         |        |
+|   40    |   ⭕    |         |        |
 ## [[Session 31 - Fourteen Rings]]
 [[Ishtar]] reveals that Nissa is her sister, and they are both adopted daughters of [[Sultan Anu]]. Nissa serves as his bodyguard. Anu says Nissa is in need of fighting experience, and pawns her off on the group for their adventure. This upsets Nissa. The sultan tells Brewster to leave Nissa in Whitehall when they are done, as he plans to take it over and give his rule in Velbras to Nissa, if she can prove herself on this journey. [[Lothar (Brewster) Nash|Brewster]] agrees, but chooses not to tell Nissa about this, appreciating the test.
 
@@ -38,3 +38,5 @@ Moiloc and her companions wake up from the explosion, explaining that Shurima sa
 Shurima summons Goro, Nissa, Holliday, and Ishtar to help Moiloc fight Mephistopheles the Bard and some demons, who they are able to defeat.
 ## [[Session 40 - Reunited]]
 A knight of Gal Troxic attacks Moiloc to prevent Shurima's reunion with Olidamuru. The group is able to defeat him. Corpse flayers begin to fall from the ceiling as Olidamuru begins to appear and be contained. Once the ritual is complete, Shurima gains Eru's powers. Moiloc says she will join the others if they choose to fight against Shurima, but asks if they are ready to die trying. They decide to run, but Moiloc decides to continue to worship Shurima, and kneels down to pray, but is crushed by a falling chunk of the ceiling.
+## [[Session 41 - Underage Drinking]]
+Nissa overhears Tarren and Brewster discussing leaving the party to help free the remaining slaves, and offers to join them.

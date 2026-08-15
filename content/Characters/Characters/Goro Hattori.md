@@ -11,18 +11,18 @@ Goro is an old dragonborn man. He is the castle blacksmith in Montrissad.
 | :--------------------: | :------: |
 | [[Haru Hattori\|Haru]] |  Sister  |
 
-| Session |  Status  | Session |  Status  | Session |  Status  | Session |  Status  |
-| :-----: | :------: | :-----: | :------: | :-----: | :------: | :-----: | :------: |
-|         |          |   11    | Appeared |   21    | Appeared |   31    | Appeared |
-|         |          |   12    | Appeared |   22    | Appeared |   32    | Appeared |
-|         |          |   13    | Appeared |   23    | Appeared |   33    | Appeared |
-|         |          |   14    | Appeared |   24    | Appeared |   34    | Appeared |
-|         |          |   15    |  Absent  |   25    | Appeared |   35    | Appeared |
-|    6    | Appeared |   16    |  Absent  |   26    |  Absent  |   36    | Appeared |
-|    7    | Appeared |   17    |  Absent  |   27    |  Absent  |   37    |  Absent  |
-|    8    | Appeared |   18    |  Absent  |   28    | Appeared |   38    | Appeared |
-|    9    | Appeared |   19    |  Absent  |   29    | Appeared |   39    |  Absent  |
-|   10    |  Absent  |   20    |  Absent  |   30    | Appeared |   40    | Appeared |
+| Session | Status | Session | Status | Session | Status | Session | Status | Session | Status |
+| :-----: | :----: | :-----: | :----: | :-----: | :----: | :-----: | :----: | :-----: | :----: |
+|         |        |   11    |   ⭕    |   21    |   ⭕    |   31    |   ⭕    |   41    |   ⭕    |
+|         |        |   12    |   ⭕    |   22    |   ⭕    |   32    |   ⭕    |         |        |
+|         |        |   13    |   ⭕    |   23    |   ⭕    |   33    |   ⭕    |         |        |
+|         |        |   14    |   ⭕    |   24    |   ⭕    |   34    |   ⭕    |         |        |
+|         |        |   15    |   ✖️   |   25    |   ⭕    |   35    |   ⭕    |         |        |
+|    6    |   ⭕    |   16    |   ✖️   |   26    |   ✖️   |   36    |   ⭕    |         |        |
+|    7    |   ⭕    |   17    |   ✖️   |   27    |   ✖️   |   37    |   ✖️   |         |        |
+|    8    |   ⭕    |   18    |   ✖️   |   28    |   ⭕    |   38    |   ⭕    |         |        |
+|    9    |   ⭕    |   19    |   ✖️   |   29    |   ⭕    |   39    |   ✖️   |         |        |
+|   10    |   ✖️   |   20    |   ✖️   |   30    |   ⭕    |   40    |   ⭕    |         |        |
 ## [[Session 06 - Cult Pamphlets]]
 [[Kaldrake Sootspot|Kaldrake]], [[Branwyn of Coryphea|Branwyn]], and [[Gertrude Spugel|Gertrude]] come to Goro to ask for [[Gwyneth Sootspot|Gwyneth's]] whereabouts after learning they were friends. Goro tells them she left for Martin's Isle, and gives them a key to her office. He also suggests that [[Bartholomew]] might be able to remove Gertrude's curse and restore her memories. He also gives them some weapons.
 ## [[Session 07 - Shuffleboard]]
@@ -73,3 +73,5 @@ Moiloc and her companions wake up from the explosion, explaining that Shurima sa
 Shurima summons Goro, Nissa, Holliday, and Ishtar to help Moiloc fight Mephistopheles the Bard and some demons, who they are able to defeat.
 ## [[Session 40 - Reunited]]
 A knight of Gal Troxic attacks Moiloc to prevent Shurima's reunion with Olidamuru. The group is able to defeat him. Corpse flayers begin to fall from the ceiling as Olidamuru begins to appear and be contained. Once the ritual is complete, Shurima gains Eru's powers. Moiloc says she will join the others if they choose to fight against Shurima, but asks if they are ready to die trying. They decide to run, but Moiloc decides to continue to worship Shurima, and kneels down to pray, but is crushed by a falling chunk of the ceiling.
+## [[Session 41 - Underage Drinking]]
+Branwyn fills Goro and Daphne in on the lasting effects of Mora's magic. The pair offer to watch over the children while the Branwyn and the others look for a way to track down the other children of Mora and dispel the magic.

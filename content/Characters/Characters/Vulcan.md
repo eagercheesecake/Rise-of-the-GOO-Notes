@@ -3,18 +3,18 @@ Vulcan is a khalkha man who joined the party after being rescued from imprisonme
 - **First Seen:** Session 28
 - **Status:** Alive
 
-| Session |  Status  | Session |  Status  |
-| :-----: | :------: | :-----: | :------: |
-|         |          |   31    | Appeared |
-|         |          |   32    | Appeared |
-|         |          |   33    | Appeared |
-|         |          |   34    | Appeared |
-|         |          |   35    | Appeared |
-|         |          |   36    | Appeared |
-|         |          |   37    | Appeared |
-|   28    | Appeared |   38    | Appeared |
-|   29    | Appeared |   39    | Appeared |
-|   30    | Appeared |         |          |
+| Session | Status | Session | Status | Session | Status |
+| :-----: | :----: | :-----: | :----: | :-----: | :----: |
+|         |        |   31    |   ⭕    |   41    |   ⭕    |
+|         |        |   32    |   ⭕    |   42    |   ⭕    |
+|         |        |   33    |   ⭕    |         |        |
+|         |        |   34    |   ⭕    |         |        |
+|         |        |   35    |   ⭕    |         |        |
+|         |        |   36    |   ⭕    |         |        |
+|         |        |   37    |   ⭕    |         |        |
+|   28    |   ⭕    |   38    |   ⭕    |         |        |
+|   29    |   ⭕    |   39    |   ⭕    |         |        |
+|   30    |   ⭕    |   40    |   ⭕    |         |        |
 ## [[Session 28 - Making a Plan (Finally)]]
 Vulcan is rescued from the bandit camp in Dunn after [[Goro Hattori|Goro]], [[William Archer|William]], [[Branwyn of Coryphea|Branwyn]], and [[Tarren Hammerfist|Tarren]] kill the bandit boss. He takes the boss's axe, and declares his devotion to the group.
 ## [[Session 29 - Infighting]]
@@ -41,3 +41,7 @@ The group proceeds to the lower levels of the mines. On the way, they learn the 
 The group proceeds to an arena in the city to find Daphne and the Clotho Lachesis, which Gwyneth warns Martin not to mess with. They find an angel of Gal Troxic hanging Daphne over a pit, but Brewster saves her, and the group are able to fend off the angel. After this, Daphne looks through the Clotho Lachesis, identifying various artifacts, and causing the group to realize that Moiloc is nearby, as well as Ulysses's gun. Brewster and Daphne have a fight, and she mentions that Brewster has a daughter. Mora arrives, with Charlotte, and Brewster and Tobias's daughters, transforming them into her avatars and having them attack. Mora brings Ulysses's gun to taunt the party, but they are able to retrieve it and kill her. Vulcan takes Charlotte to safety, and collects Bushido after Martin disappears.
 ## [[Session 40 - Reunited]]
 Vulcan escapes the mines with Brewster.
+## [[Session 41 - Underage Drinking]]
+Vulcan says his people may be able to help Branwyn find the other children of Mora. The smaller group leave to return to Velbrass.
+## [[Session 42 - Allegiances]]
+The group arrive at the Cat's Paw and enter their old room. Branwyn casts Alarm on the door.
