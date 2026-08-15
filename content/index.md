@@ -2,10 +2,10 @@
 title: Home
 ---
 
-|     [[Characters]]      |               [[Sessions]]                |   [[Gods]]    |
-| :---------------------: | :---------------------------------------: | :-----------: |
-| [[Changelog\|Features]] | [[Session 40 - Reunited\|Latest Session]] | [[Timelines]] |
-|                         |           [[Fun Facts (NEW!!)]]           |               |
+|     [[Characters]]      |                 [[Sessions]]                 |   [[Gods]]    |
+| :---------------------: | :------------------------------------------: | :-----------: |
+| [[Changelog\|Features]] | [[Session 42 - Allegiances\|Latest Session]] | [[Timelines]] |
+|                         |            [[Fun Facts (NEW!!)]]             |               |
 
 Current status:
 - Session 42 notes are up. Janos is here, and Moiloc is hopefully sobering up.
